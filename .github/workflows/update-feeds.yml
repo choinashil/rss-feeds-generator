@@ -5,12 +5,6 @@ on:
     # 매일 새벽 2시 (KST 기준 17시 UTC) 실행
     - cron: '0 17 * * *'
   workflow_dispatch:  # 수동 실행 가능
-  push:
-    branches:
-      - main
-    paths:
-      - 'crawlers/**'
-      - 'config.json'
 
 jobs:
   update-feeds:
