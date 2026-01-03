@@ -1,0 +1,31 @@
+{
+  "feeds": {
+    "velog_trending": {
+      "enabled": true,
+      "name": "Velog 트렌딩",
+      "description": "Velog 인기 게시글",
+      "crawler": "velog_trending",
+      "output": "velog-trending.xml"
+    },
+    "naver_conference": {
+      "enabled": true,
+      "name": "네이버 컨퍼런스 영상",
+      "description": "팀네이버 컨퍼런스 관련 유튜브 영상",
+      "crawler": "youtube_naver",
+      "channel_id": "UCjyYouHWnID_L4QaQ6U4voQ",
+      "filter_keywords": ["팀네이버 컨퍼런스"],
+      "exclude_shorts": true,
+      "output": "naver-conference.xml"
+    },
+    "inflearn_conference": {
+      "enabled": true,
+      "name": "인프런 컨퍼런스 영상",
+      "description": "인프콘 관련 유튜브 영상",
+      "crawler": "youtube_inflearn",
+      "channel_id": "UC0Y0T9JpgIBbyGDjvy9PbOg",
+      "filter_keywords": ["│인프콘"],
+      "exclude_shorts": true,
+      "output": "inflearn-conference.xml"
+    }
+  }
+}
