@@ -67,11 +67,9 @@ def crawl_velog_trending(max_items=20):
         page = browser.new_page()
 
         # Velog 트렌딩 페이지 접속 (week 단위)
-        print("📍 페이지 접속: https://velog.io/trending/week")
         page.goto('https://velog.io/trending/week', wait_until='networkidle', timeout=30000)
 
         # JavaScript 렌더링 대기
-        print("⏳ 렌더링 대기 중...")
         page.wait_for_selector('h4[class*="PostCard"]', timeout=30000)
 
         posts = []
@@ -79,7 +77,7 @@ def crawl_velog_trending(max_items=20):
 
         # 포스트 카드(li 태그) 기준으로 수집
         cards = page.query_selector_all('li[class*="PostCard"]')
-        print(f"✅ {len(cards)}개 포스트 카드 발견")
+        print(f"✅ 총 {len(cards)}개 게시글 발견")
 
         for card in cards[:max_items]:
             try:
@@ -131,15 +129,13 @@ def crawl_velog_trending(max_items=20):
                     'date': date
                 })
 
-                print(f"  ✅ {len(posts)}. {title[:40]}... by {author}")
-
             except Exception as e:
                 print(f"  ⚠️  게시글 파싱 오류: {e}")
                 continue
 
         browser.close()
 
-    print(f"\n📊 {len(posts)}개 게시글 수집 완료")
+    print(f"\n📊 수집 결과: {len(posts)}개 게시글")
     return posts
 
 
