@@ -41,9 +41,12 @@ def update_readme_feed_status():
     table_lines = [
         "## 피드 상태",
         "",
-        "| 피드 | 상태 | 마지막 성공 |",
-        "|------|------|------------|"
+        "| 피드 | RSS | 상태 | 마지막 성공 |",
+        "|------|-----|------|-------------|"
     ]
+
+    # GitHub Pages base URL
+    base_url = "https://choinashil.github.io/rss-feeds-generator"
 
     for feed_id, feed_config in config['feeds'].items():
         if not feed_config.get('enabled', True):
@@ -51,6 +54,7 @@ def update_readme_feed_status():
 
         feed_name = feed_config['name']
         output_file = feed_config['output']
+        rss_url = f"{base_url}/{output_file}"
 
         if feed_id in latest_logs:
             log = latest_logs[feed_id]
@@ -85,7 +89,7 @@ def update_readme_feed_status():
             time_str = "-"
 
         table_lines.append(
-            f"| {feed_name} | {status} | {time_str} |"
+            f"| {feed_name} | [URL]({rss_url}) | {status} | {time_str} |"
         )
 
     table_lines.append("")
@@ -94,7 +98,7 @@ def update_readme_feed_status():
     now_utc = datetime.now(timezone.utc)
     kst = timezone(timedelta(hours=9))
     now_kst = now_utc.astimezone(kst)
-    table_lines.append(f"*마지막 확인: {now_kst.strftime('%Y-%m-%d %H:%M:%S')} (KST)*")
+    table_lines.append(f"_마지막 확인: {now_kst.strftime('%Y-%m-%d %H:%M:%S')} (KST)_")
     table_lines.append("")
 
     # README 읽기
