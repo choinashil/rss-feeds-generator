@@ -2,6 +2,7 @@
 import os
 import sys
 import re
+import json
 from datetime import datetime, timezone, timedelta
 from playwright.sync_api import sync_playwright
 
@@ -10,6 +11,16 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from utils.rss_generator import create_rss_feed
 from utils.logger import CrawlLogger
+
+
+def load_config():
+    """설정 파일 로드"""
+    config_path = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        'config.json'
+    )
+    with open(config_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
 
 def parse_velog_date(date_text):
@@ -142,34 +153,38 @@ def crawl_velog_trending(max_items=20):
 def main():
     """메인 실행 함수"""
     logger = CrawlLogger()
-    
+
     try:
+        # 설정 로드
+        config = load_config()
+        feed_config = config['feeds']['velog_trending']
+
         # 크롤링 실행
         posts = crawl_velog_trending(max_items=20)
-        
+
         if not posts:
             raise Exception("수집된 게시글이 없습니다")
-        
+
         # RSS 생성
         feed_info = {
-            'title': 'Velog 트렌딩',
+            'title': feed_config['name'],
             'link': 'https://velog.io/trending',
-            'description': 'Velog 트렌딩 페이지 인기 게시글'
+            'description': feed_config['description']
         }
-        
-        output_path = 'docs/velog-trending.xml'
+
+        output_path = f"docs/{feed_config['output']}"
         os.makedirs('docs', exist_ok=True)
-        
+
         create_rss_feed(feed_info, posts, output_path)
-        
+
         # 성공 로그
         logger.log_success('velog_trending', len(posts), f'{output_path} 생성 완료')
-        
+
     except Exception as e:
         # 실패 로그
         logger.log_failure('velog_trending', str(e))
         raise
-    
+
     finally:
         logger.save()
 
