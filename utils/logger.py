@@ -1,7 +1,7 @@
 """로깅 유틸리티"""
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 
 class CrawlLogger:
@@ -24,7 +24,7 @@ class CrawlLogger:
     def log_success(self, feed_name, count, message=''):
         """성공 로그 기록"""
         entry = {
-            'timestamp': datetime.now().isoformat(),
+            'timestamp': datetime.now(timezone.utc).isoformat(),
             'feed': feed_name,
             'status': 'success',
             'count': count,
@@ -36,7 +36,7 @@ class CrawlLogger:
     def log_failure(self, feed_name, error):
         """실패 로그 기록"""
         entry = {
-            'timestamp': datetime.now().isoformat(),
+            'timestamp': datetime.now(timezone.utc).isoformat(),
             'feed': feed_name,
             'status': 'failure',
             'error': str(error)

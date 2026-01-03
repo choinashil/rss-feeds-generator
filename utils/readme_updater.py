@@ -1,7 +1,7 @@
 """README.md 피드 상태 테이블 업데이트 유틸리티"""
 import os
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 
 def update_readme_feed_status():
@@ -60,6 +60,10 @@ def update_readme_feed_status():
             if log['status'] == 'success':
                 # 성공 상태면 그 시간 표시
                 timestamp = datetime.fromisoformat(log['timestamp'])
+                # UTC -> KST 변환 (timezone aware한 경우만)
+                if timestamp.tzinfo is not None:
+                    kst = timezone(timedelta(hours=9))
+                    timestamp = timestamp.astimezone(kst)
                 time_str = timestamp.strftime('%Y-%m-%d %H:%M')
             else:
                 # 실패 상태면 마지막 성공한 로그 찾기
@@ -69,6 +73,10 @@ def update_readme_feed_status():
                 )
                 if last_success:
                     timestamp = datetime.fromisoformat(last_success['timestamp'])
+                    # UTC -> KST 변환 (timezone aware한 경우만)
+                    if timestamp.tzinfo is not None:
+                        kst = timezone(timedelta(hours=9))
+                        timestamp = timestamp.astimezone(kst)
                     time_str = timestamp.strftime('%Y-%m-%d %H:%M')
                 else:
                     time_str = "-"  # 한 번도 성공한 적 없음
@@ -81,7 +89,12 @@ def update_readme_feed_status():
         )
 
     table_lines.append("")
-    table_lines.append(f"*마지막 확인: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} (UTC)*")
+
+    # 현재 시간을 KST로 표시
+    now_utc = datetime.now(timezone.utc)
+    kst = timezone(timedelta(hours=9))
+    now_kst = now_utc.astimezone(kst)
+    table_lines.append(f"*마지막 확인: {now_kst.strftime('%Y-%m-%d %H:%M:%S')} (KST)*")
     table_lines.append("")
 
     # README 읽기
