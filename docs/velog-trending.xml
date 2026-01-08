@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 07 Jan 2026 17:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 17:09:18 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
       <description>"잉 나는 깃허브 매일 쓰는데?" 라고 생각하셨나요? 아뇨 당신은 깃허브를 안 쓰고 있습니다.</description>
       <guid isPermaLink="false">https://velog.io/@hansanghun/please-use-github</guid>
-      <pubDate>Mon, 05 Jan 2026 17:08:31 +0000</pubDate>
+      <pubDate>Mon, 05 Jan 2026 17:09:17 +0000</pubDate>
     </item>
     <item>
       <title>[2025 회고] 권고사직, 그리고 11개월의 기록</title>
@@ -30,13 +30,6 @@
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>왜 취업이 힘들까</title>
-      <link>https://velog.io/@dkdldhels10/왜-취업이-힘들까</link>
-      <description>솔직히 말해서 진짜 개빡세잖아</description>
-      <guid isPermaLink="false">https://velog.io/@dkdldhels10/왜-취업이-힘들까</guid>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[취준] 100곳을 지원했던 2025 하반기 회고</title>
       <link>https://velog.io/@yereumi/100곳을-지원했던-2025-하반기-회고</link>
       <description>2026년에는 더 단단하게 준비하자 아자스!</description>
@@ -44,17 +37,17 @@
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>우울과 성취 사이, 학생과 사회인의 경계에서, 2025년 회고</title>
-      <link>https://velog.io/@kimtaekjun/우울과-성취-사이-학생과-사회인의-경계에서-2025년-회고</link>
-      <description>우울과 성취 사이, 학생과 사회인의 경계에서, 2025년 회고</description>
-      <guid isPermaLink="false">https://velog.io/@kimtaekjun/우울과-성취-사이-학생과-사회인의-경계에서-2025년-회고</guid>
-      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고] 2025년 회고 - 취준생에서 카카오 개발자 까지</title>
       <link>https://velog.io/@dh1010a/회고-스마일게이트와-함께한-2025년-카카오와-함께할-2026년</link>
       <description>2025년 부트캠프에서 인턴, 계약직, 카카오 취업까지의 일대기</description>
       <guid isPermaLink="false">https://velog.io/@dh1010a/회고-스마일게이트와-함께한-2025년-카카오와-함께할-2026년</guid>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>우울과 성취 사이, 학생과 사회인의 경계에서, 2025년 회고</title>
+      <link>https://velog.io/@kimtaekjun/우울과-성취-사이-학생과-사회인의-경계에서-2025년-회고</link>
+      <description>우울과 성취 사이, 학생과 사회인의 경계에서, 2025년 회고</description>
+      <guid isPermaLink="false">https://velog.io/@kimtaekjun/우울과-성취-사이-학생과-사회인의-경계에서-2025년-회고</guid>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -76,7 +69,14 @@
       <link>https://velog.io/@kpeel5839/개발자-인생을-돌아보며</link>
       <description>카카오 뱅크 두과자!</description>
       <guid isPermaLink="false">https://velog.io/@kpeel5839/개발자-인생을-돌아보며</guid>
-      <pubDate>Sun, 04 Jan 2026 17:08:32 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 17:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>명함 생성기를 만들어봤습니다</title>
+      <link>https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</link>
+      <description>디자인은 너무 어려워요</description>
+      <guid isPermaLink="false">https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</guid>
+      <pubDate>Thu, 08 Jan 2026 07:09:17 +0000</pubDate>
     </item>
     <item>
       <title>앱 출시 한달만에 다운로드 수 3000명, 실시간 사용자 100명 유입된 썰 푼다</title>
@@ -90,7 +90,7 @@
       <link>https://velog.io/@wisepine/25년-회고-저전력-모드</link>
       <description>카카오 이직, 그리고 빠른 AI 세상에서 헤엄치는 방법</description>
       <guid isPermaLink="false">https://velog.io/@wisepine/25년-회고-저전력-모드</guid>
-      <pubDate>Thu, 01 Jan 2026 17:08:32 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>2025년 회고 : 개발보다 중요한 것</title>
@@ -107,11 +107,11 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
-      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
-      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
-      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
-      <pubDate>Wed, 07 Jan 2026 09:08:32 +0000</pubDate>
+      <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
+      <link>https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</link>
+      <description>연말을 기념하여 책 추천 서비스를 만들면서 발생한 이슈를 정리하면서 회고하며 돌아보는..</description>
+      <guid isPermaLink="false">https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</guid>
+      <pubDate>Fri, 02 Jan 2026 17:09:17 +0000</pubDate>
     </item>
     <item>
       <title>확신은 없었고, 선택은 있었다</title>
@@ -121,32 +121,32 @@
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
-      <link>https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</link>
-      <description>연말을 기념하여 책 추천 서비스를 만들면서 발생한 이슈를 정리하면서 회고하며 돌아보는..</description>
-      <guid isPermaLink="false">https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</guid>
-      <pubDate>Fri, 02 Jan 2026 17:08:32 +0000</pubDate>
+      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
+      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
+      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
+      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
+      <pubDate>Thu, 08 Jan 2026 17:09:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
+      <link>https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</link>
+      <description>프론트엔드 개발자를 꿈꾸던 제가, React Native를 넘어 iOS, Android 네이티브 영역까지 뛰어들게 된, 짧지만 강렬했던 3주간의 여정을 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</guid>
+      <pubDate>Wed, 07 Jan 2026 17:09:18 +0000</pubDate>
     </item>
     <item>
       <title>Next.js SSR은 반드시 필요할까? SSR, ISR 부하 테스트 후기</title>
       <link>https://velog.io/@njt6419/Next.js-SSR은-반드시-필요할까-SSR-ISR-부하-테스트-후기</link>
       <description>Next.js를 처음 배울 때 SSR(Server Side Rendering)은 항상 “좋은 것”으로 소개된다.SEO에 유리하고, 초기 로딩이 빠르며, 서버에서 HTML을 만들어 내려준다는 점에서 매력적인 기술처럼 보인다.나 역시 처음에는 “중요한 페이지는 SSR로 처...</description>
       <guid isPermaLink="false">https://velog.io/@njt6419/Next.js-SSR은-반드시-필요할까-SSR-ISR-부하-테스트-후기</guid>
-      <pubDate>Fri, 02 Jan 2026 17:08:32 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 17:09:18 +0000</pubDate>
     </item>
     <item>
       <title>엘릭서, 피닉스로 실시간 멀티플레이 실험 - Cursor Party (1)</title>
       <link>https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</link>
       <description>디스코드의 Elixir 아키텍처 글에서 영감을 받아, Phoenix LiveView로 실시간 커서 공유와 보스 레이드를 구현한 ‘Cursor Party’ 토이 프로젝트를 1시간 만에 만든 경험공유하는 포스트</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</guid>
-      <pubDate>Fri, 02 Jan 2026 17:08:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
-      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
-      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
-      <pubDate>Sat, 03 Jan 2026 17:08:32 +0000</pubDate>
+      <pubDate>Fri, 02 Jan 2026 17:09:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
