@@ -5,6 +5,8 @@ import re
 import json
 from datetime import datetime, timezone, timedelta
 from playwright.sync_api import sync_playwright
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 
 # 상위 디렉토리 모듈 import를 위한 경로 추가
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -21,6 +23,48 @@ def load_config():
     )
     with open(config_path, 'r', encoding='utf-8') as f:
         return json.load(f)
+
+
+def load_existing_pubdates(xml_path):
+    """
+    기존 XML 파일에서 각 아이템의 pubDate를 추출
+
+    Args:
+        xml_path: XML 파일 경로
+
+    Returns:
+        dict: {link: pubDate(datetime)} 형식의 딕셔너리
+    """
+    existing_dates = {}
+
+    if not os.path.exists(xml_path):
+        return existing_dates
+
+    try:
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+
+        # RSS 2.0 형식: channel > item
+        for item in root.findall('.//item'):
+            link_elem = item.find('link')
+            pubdate_elem = item.find('pubDate')
+
+            if link_elem is not None and pubdate_elem is not None:
+                link = link_elem.text
+                pubdate_str = pubdate_elem.text
+
+                # RFC 2822 형식의 날짜를 datetime으로 변환
+                try:
+                    pubdate = parsedate_to_datetime(pubdate_str)
+                    existing_dates[link] = pubdate
+                except Exception:
+                    # 파싱 실패 시 건너뛰기
+                    continue
+
+    except Exception as e:
+        print(f"⚠️  기존 XML 파싱 오류: {e}")
+
+    return existing_dates
 
 
 def parse_velog_date(date_text):
@@ -159,11 +203,32 @@ def main():
         config = load_config()
         feed_config = config['feeds']['velog_trending']
 
+        output_path = f"docs/{feed_config['output']}"
+
+        # 기존 XML에서 pubDate 정보 로드
+        existing_pubdates = load_existing_pubdates(output_path)
+
         # 크롤링 실행
-        posts = crawl_velog_trending(max_items=20)
+        posts = crawl_velog_trending(max_items=30)
 
         if not posts:
             raise Exception("수집된 게시글이 없습니다")
+
+        # pubDate 설정: 기존 글은 기존 날짜 유지, 새 글은 현재 시간
+        current_time = datetime.now(timezone.utc)
+        new_count = 0
+
+        for post in posts:
+            link = post['link']
+            if link in existing_pubdates:
+                # 기존 글: 기존 pubDate 유지
+                post['date'] = existing_pubdates[link]
+            else:
+                # 새 글: 현재 시간으로 설정
+                post['date'] = current_time
+                new_count += 1
+
+        print(f"✨ 새로 추가된 글: {new_count}개 / 기존 글: {len(posts) - new_count}개")
 
         # RSS 생성
         feed_info = {
@@ -172,9 +237,7 @@ def main():
             'description': feed_config['description']
         }
 
-        output_path = f"docs/{feed_config['output']}"
         os.makedirs('docs', exist_ok=True)
-
         create_rss_feed(feed_info, posts, output_path)
 
         # 성공 로그
