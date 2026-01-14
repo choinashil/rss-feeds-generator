@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 13 Jan 2026 17:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:09:36 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
@@ -23,18 +23,18 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>2025 젊음을 브랜딩하다 : 바다로 나간 금붕어들의 삶에 대한 이야기</title>
-      <link>https://velog.io/@ubin_ing/2025youngfreshmanneverdie</link>
-      <description>이십대 초반에 사회 생활을 시작한 사회초년생들이 바라보는 인생</description>
-      <guid isPermaLink="false">https://velog.io/@ubin_ing/2025youngfreshmanneverdie</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>TypeScript 정리</title>
       <link>https://velog.io/@chlruddlf73/TypeScript-정리</link>
       <description>한 번 훑어보고 가세요 :)</description>
       <guid isPermaLink="false">https://velog.io/@chlruddlf73/TypeScript-정리</guid>
       <pubDate>Fri, 09 Jan 2026 04:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 젊음을 브랜딩하다 : 바다로 나간 금붕어들의 삶에 대한 이야기</title>
+      <link>https://velog.io/@ubin_ing/2025youngfreshmanneverdie</link>
+      <description>이십대 초반에 사회 생활을 시작한 사회초년생들이 바라보는 인생</description>
+      <guid isPermaLink="false">https://velog.io/@ubin_ing/2025youngfreshmanneverdie</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
       <title>스톡옵션, 잘 이해하고 계산해서 받기</title>
@@ -79,6 +79,13 @@
       <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
+      <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
+      <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
+      <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
+      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Next.js SSR은 반드시 필요할까? SSR, ISR 부하 테스트 후기</title>
       <link>https://velog.io/@njt6419/Next.js-SSR은-반드시-필요할까-SSR-ISR-부하-테스트-후기</link>
       <description>Next.js를 처음 배울 때 SSR(Server Side Rendering)은 항상 “좋은 것”으로 소개된다.SEO에 유리하고, 초기 로딩이 빠르며, 서버에서 HTML을 만들어 내려준다는 점에서 매력적인 기술처럼 보인다.나 역시 처음에는 “중요한 페이지는 SSR로 처...</description>
@@ -86,11 +93,11 @@
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
-      <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
-      <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
+      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
+      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
       <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
@@ -100,11 +107,11 @@
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
-      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
-      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+      <title>눈떠보니 4년차의 회고글</title>
+      <link>https://velog.io/@leehyunho2001/four-year-reflection</link>
+      <description>진짜 개발자가 되어가는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@leehyunho2001/four-year-reflection</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
       <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
@@ -121,13 +128,6 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>눈떠보니 4년차의 회고글</title>
-      <link>https://velog.io/@leehyunho2001/four-year-reflection</link>
-      <description>진짜 개발자가 되어가는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@leehyunho2001/four-year-reflection</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>우당탕탕 6개월 간의 사이드 프로젝트 여정을 돌아보며</title>
       <link>https://velog.io/@hun01/우당탕탕-6개월-간의-사이드-프로젝트-여정-회고</link>
       <description>첫 사이드 프로젝트를 마치며</description>
@@ -142,17 +142,11 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
-      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
-      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025년 주니어 개발자의 일기 같은 회고</title>
-      <link>https://velog.io/@jy5849/2025년-주니어-개발자의-일기-같은-회고</link>
-      <description>2025년을 회고하며..</description>
-      <guid isPermaLink="false">https://velog.io/@jy5849/2025년-주니어-개발자의-일기-같은-회고</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+      <title>✍🏻 Open Code와 Oh-my-opencode</title>
+      <link>https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</link>
+      <description>사내에서 opencode와 oh-my-opencode에 대해 알게 되어, 간단하게 실사용을 해보고 소개를 해드리고자 작성한 글입니다.이 문서는 opencode와 oh-my-oepncode에 대한 간단한 소개와 활용 예시를 담고 있습니다.OepnCode는 터미널 인터페이...</description>
+      <guid isPermaLink="false">https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</guid>
+      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
       <title>새로워진 NewCodes를 소개합니다!</title>
@@ -160,6 +154,26 @@
       <description>군생활이 살살 녹아요!</description>
       <guid isPermaLink="false">https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</guid>
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>게임 밸런스 기획을 위해 직접 만든 오픈소스 툴 Kalivra 소개</title>
+      <link>https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</link>
+      <description>직접 개발한 게임 밸런스 기획에 도움을 주는 프로그램 소개입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
+      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
+      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이브 코딩의 50가지 그림자</title>
+      <link>https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</link>
+      <description>그러니까 이건 지난 1년 동안 50개의 서비스를 만들면서, 바이브 코딩에 대해 배운 것에 대한 이야기다.</description>
+      <guid isPermaLink="false">https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
       <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
@@ -176,18 +190,11 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>게임 밸런스 기획을 위해 직접 만든 오픈소스 툴 Kalivra 소개</title>
-      <link>https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</link>
-      <description>직접 개발한 게임 밸런스 기획에 도움을 주는 프로그램 소개입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>[2025년 회고] 이별, 취업, 마무리</title>
-      <link>https://velog.io/@pigpgw/2025년-회고-이별부터-입사-그리고-마무리까지</link>
-      <description>2025년도를 돌아보며</description>
-      <guid isPermaLink="false">https://velog.io/@pigpgw/2025년-회고-이별부터-입사-그리고-마무리까지</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+      <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
+      <link>https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</link>
+      <description>어떻게 하면 업무시간이 좀 더 납득이 될까요? 결국에는 '내가 얼마나 주도적으로 내 리소스(시간/에너지/감정)을 사용하느냐의 문제'더라구요. 가슴뛰기 위해 가치, 성장, 만족을 추구해봅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
       <title>알고리즘 풀고 자동으로 코드 리뷰 받아보기</title>
@@ -197,11 +204,11 @@
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>바이브 코딩의 50가지 그림자</title>
-      <link>https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</link>
-      <description>그러니까 이건 지난 1년 동안 50개의 서비스를 만들면서, 바이브 코딩에 대해 배운 것에 대한 이야기다.</description>
-      <guid isPermaLink="false">https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+      <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
+      <link>https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</link>
+      <description>우테코 7기 광탈하고 8기 재도전, 그리고 최종 코테까지 간 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</guid>
+      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
       <title>네부콘 후기</title>
@@ -209,13 +216,6 @@
       <description>2025년 최고의 컨퍼런스에 다녀온 썰 푼다...</description>
       <guid isPermaLink="false">https://velog.io/@muho/네부콘-후기</guid>
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
-      <link>https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</link>
-      <description>어떻게 하면 업무시간이 좀 더 납득이 될까요? 결국에는 '내가 얼마나 주도적으로 내 리소스(시간/에너지/감정)을 사용하느냐의 문제'더라구요. 가슴뛰기 위해 가치, 성장, 만족을 추구해봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
