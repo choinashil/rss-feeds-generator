@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 14 Jan 2026 17:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 17:12:35 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
@@ -30,6 +30,13 @@
       <pubDate>Fri, 09 Jan 2026 04:07:54 +0000</pubDate>
     </item>
     <item>
+      <title>개발자 인생을 돌아보며</title>
+      <link>https://velog.io/@kpeel5839/개발자-인생을-돌아보며</link>
+      <description>카카오 뱅크 두과자!</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/개발자-인생을-돌아보며</guid>
+      <pubDate>Sun, 04 Jan 2026 17:07:54 +0000</pubDate>
+    </item>
+    <item>
       <title>2025 젊음을 브랜딩하다 : 바다로 나간 금붕어들의 삶에 대한 이야기</title>
       <link>https://velog.io/@ubin_ing/2025youngfreshmanneverdie</link>
       <description>이십대 초반에 사회 생활을 시작한 사회초년생들이 바라보는 인생</description>
@@ -44,13 +51,6 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>개발자 인생을 돌아보며</title>
-      <link>https://velog.io/@kpeel5839/개발자-인생을-돌아보며</link>
-      <description>카카오 뱅크 두과자!</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/개발자-인생을-돌아보며</guid>
-      <pubDate>Sun, 04 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
       <title>디지털 명함 생성기</title>
       <link>https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</link>
       <description>Lucidus 개발 회고 (FastAPI + SVG) 디자인은 너무 어려워요</description>
@@ -63,13 +63,6 @@
       <description>총 184개의 서류를 지원하였으며 그 중 146번의 서류, 15번의 필기, 13번의 코테, 2번의 1차 면접, 최종 탈락 등 무수한 탈락을 거쳐 현재에 오기까지</description>
       <guid isPermaLink="false">https://velog.io/@yoondaeng23/2025년-취준-결산</guid>
       <pubDate>Mon, 05 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>25년 회고 :: 가속하는 세상 속, 저전력 모드</title>
-      <link>https://velog.io/@wisepine/25년-회고-저전력-모드</link>
-      <description>카카오 이직, 그리고 빠른 AI 세상에서 헤엄치는 방법</description>
-      <guid isPermaLink="false">https://velog.io/@wisepine/25년-회고-저전력-모드</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
@@ -100,11 +93,11 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
-      <link>https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</link>
-      <description>연말을 기념하여 책 추천 서비스를 만들면서 발생한 이슈를 정리하면서 회고하며 돌아보는..</description>
-      <guid isPermaLink="false">https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <title>✍🏻 Open Code와 Oh-my-opencode</title>
+      <link>https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</link>
+      <description>사내에서 opencode와 oh-my-opencode에 대해 알게 되어, 간단하게 실사용을 해보고 소개를 해드리고자 작성한 글입니다.이 문서는 opencode와 oh-my-oepncode에 대한 간단한 소개와 활용 예시를 담고 있습니다.OepnCode는 터미널 인터페이...</description>
+      <guid isPermaLink="false">https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</guid>
+      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
       <title>눈떠보니 4년차의 회고글</title>
@@ -114,11 +107,11 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
-      <link>https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</link>
-      <description>프론트엔드 개발자를 꿈꾸던 제가, React Native를 넘어 iOS, Android 네이티브 영역까지 뛰어들게 된, 짧지만 강렬했던 3주간의 여정을 공유합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</guid>
-      <pubDate>Tue, 06 Jan 2026 17:07:54 +0000</pubDate>
+      <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
+      <link>https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</link>
+      <description>연말을 기념하여 책 추천 서비스를 만들면서 발생한 이슈를 정리하면서 회고하며 돌아보는..</description>
+      <guid isPermaLink="false">https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1. 일정 맞추는게 ‘생각보다’ 어렵다면?</title>
@@ -128,25 +121,18 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
+      <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
+      <link>https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</link>
+      <description>프론트엔드 개발자를 꿈꾸던 제가, React Native를 넘어 iOS, Android 네이티브 영역까지 뛰어들게 된, 짧지만 강렬했던 3주간의 여정을 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</guid>
+      <pubDate>Tue, 06 Jan 2026 17:07:54 +0000</pubDate>
+    </item>
+    <item>
       <title>우당탕탕 6개월 간의 사이드 프로젝트 여정을 돌아보며</title>
       <link>https://velog.io/@hun01/우당탕탕-6개월-간의-사이드-프로젝트-여정-회고</link>
       <description>첫 사이드 프로젝트를 마치며</description>
       <guid isPermaLink="false">https://velog.io/@hun01/우당탕탕-6개월-간의-사이드-프로젝트-여정-회고</guid>
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>엘릭서, 피닉스로 실시간 멀티플레이 실험 - Cursor Party (1)</title>
-      <link>https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</link>
-      <description>디스코드의 Elixir 아키텍처 글에서 영감을 받아, Phoenix LiveView로 실시간 커서 공유와 보스 레이드를 구현한 ‘Cursor Party’ 토이 프로젝트를 1시간 만에 만든 경험공유하는 포스트</description>
-      <guid isPermaLink="false">https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>✍🏻 Open Code와 Oh-my-opencode</title>
-      <link>https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</link>
-      <description>사내에서 opencode와 oh-my-opencode에 대해 알게 되어, 간단하게 실사용을 해보고 소개를 해드리고자 작성한 글입니다.이 문서는 opencode와 oh-my-oepncode에 대한 간단한 소개와 활용 예시를 담고 있습니다.OepnCode는 터미널 인터페이...</description>
-      <guid isPermaLink="false">https://velog.io/@takealittletime/Open-Code와-Oh-my-opencode</guid>
-      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
       <title>새로워진 NewCodes를 소개합니다!</title>
@@ -156,17 +142,11 @@
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>게임 밸런스 기획을 위해 직접 만든 오픈소스 툴 Kalivra 소개</title>
-      <link>https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</link>
-      <description>직접 개발한 게임 밸런스 기획에 도움을 주는 프로그램 소개입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
-      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
-      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+      <title>엘릭서, 피닉스로 실시간 멀티플레이 실험 - Cursor Party (1)</title>
+      <link>https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</link>
+      <description>디스코드의 Elixir 아키텍처 글에서 영감을 받아, Phoenix LiveView로 실시간 커서 공유와 보스 레이드를 구현한 ‘Cursor Party’ 토이 프로젝트를 1시간 만에 만든 경험공유하는 포스트</description>
+      <guid isPermaLink="false">https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
       <title>바이브 코딩의 50가지 그림자</title>
@@ -176,11 +156,10 @@
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
-      <link>https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</link>
-      <description>기획, 프로토타입, mvp 설계 및 구현</description>
-      <guid isPermaLink="false">https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
+      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
+      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
+      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
       <title>선착순 쿠폰 아키텍쳐 만들어보기 - 1</title>
@@ -190,18 +169,11 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
-      <link>https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</link>
-      <description>어떻게 하면 업무시간이 좀 더 납득이 될까요? 결국에는 '내가 얼마나 주도적으로 내 리소스(시간/에너지/감정)을 사용하느냐의 문제'더라구요. 가슴뛰기 위해 가치, 성장, 만족을 추구해봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>알고리즘 풀고 자동으로 코드 리뷰 받아보기</title>
-      <link>https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</link>
-      <description>다들 백준, 프로그래머스 많이들 방문하시나요? 만약 코딩테스트에 관심이 있다면 이 글은 읽어보시는 것을 추천합니다.Show GN: AI Algorithm Mentor - 알고리즘 풀이를 자동으로 리뷰해주는 GitHub Action -&gt; GeekNews평소에도 코딩테스트...</description>
-      <guid isPermaLink="false">https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+      <title>게임 밸런스 기획을 위해 직접 만든 오픈소스 툴 Kalivra 소개</title>
+      <link>https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</link>
+      <description>직접 개발한 게임 밸런스 기획에 도움을 주는 프로그램 소개입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
       <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
@@ -211,11 +183,39 @@
       <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
+      <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
+      <link>https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</link>
+      <description>기획, 프로토타입, mvp 설계 및 구현</description>
+      <guid isPermaLink="false">https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>알고리즘 풀고 자동으로 코드 리뷰 받아보기</title>
+      <link>https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</link>
+      <description>다들 백준, 프로그래머스 많이들 방문하시나요? 만약 코딩테스트에 관심이 있다면 이 글은 읽어보시는 것을 추천합니다.Show GN: AI Algorithm Mentor - 알고리즘 풀이를 자동으로 리뷰해주는 GitHub Action -&gt; GeekNews평소에도 코딩테스트...</description>
+      <guid isPermaLink="false">https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</guid>
+      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
+      <link>https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</link>
+      <description>어떻게 하면 업무시간이 좀 더 납득이 될까요? 결국에는 '내가 얼마나 주도적으로 내 리소스(시간/에너지/감정)을 사용하느냐의 문제'더라구요. 가슴뛰기 위해 가치, 성장, 만족을 추구해봅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
       <title>네부콘 후기</title>
       <link>https://velog.io/@muho/네부콘-후기</link>
       <description>2025년 최고의 컨퍼런스에 다녀온 썰 푼다...</description>
       <guid isPermaLink="false">https://velog.io/@muho/네부콘-후기</guid>
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025 회고</title>
+      <link>https://velog.io/@zo2kim/2025-회고</link>
+      <description>개발을 하기 시작한지 어느덧 4년차. 그리고 처음 기록해보는 2025년 회고.</description>
+      <guid isPermaLink="false">https://velog.io/@zo2kim/2025-회고</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
