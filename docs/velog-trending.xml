@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 15 Jan 2026 17:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 17:07:37 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
@@ -51,13 +51,6 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>디지털 명함 생성기</title>
-      <link>https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</link>
-      <description>Lucidus 개발 회고 (FastAPI + SVG) 디자인은 너무 어려워요</description>
-      <guid isPermaLink="false">https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</guid>
-      <pubDate>Fri, 09 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
       <title>2025년 취준 결산</title>
       <link>https://velog.io/@yoondaeng23/2025년-취준-결산</link>
       <description>총 184개의 서류를 지원하였으며 그 중 146번의 서류, 15번의 필기, 13번의 코테, 2번의 1차 면접, 최종 탈락 등 무수한 탈락을 거쳐 현재에 오기까지</description>
@@ -65,32 +58,11 @@
       <pubDate>Mon, 05 Jan 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
-      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
-      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
-      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
-      <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
-      <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
-      <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js SSR은 반드시 필요할까? SSR, ISR 부하 테스트 후기</title>
-      <link>https://velog.io/@njt6419/Next.js-SSR은-반드시-필요할까-SSR-ISR-부하-테스트-후기</link>
-      <description>Next.js를 처음 배울 때 SSR(Server Side Rendering)은 항상 “좋은 것”으로 소개된다.SEO에 유리하고, 초기 로딩이 빠르며, 서버에서 HTML을 만들어 내려준다는 점에서 매력적인 기술처럼 보인다.나 역시 처음에는 “중요한 페이지는 SSR로 처...</description>
-      <guid isPermaLink="false">https://velog.io/@njt6419/Next.js-SSR은-반드시-필요할까-SSR-ISR-부하-테스트-후기</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
-      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
-      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+      <title>디지털 명함 생성기</title>
+      <link>https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</link>
+      <description>Lucidus 개발 회고 (FastAPI + SVG) 디자인은 너무 어려워요</description>
+      <guid isPermaLink="false">https://velog.io/@byunjin11/명함-생성기를-만들어봤습니다</guid>
+      <pubDate>Fri, 09 Jan 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
       <title>✍🏻 Open Code와 Oh-my-opencode</title>
@@ -100,18 +72,32 @@
       <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
+      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
+      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
+      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
+      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
+      <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
+      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
+      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
+      <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
+      <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
+      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
       <title>눈떠보니 4년차의 회고글</title>
       <link>https://velog.io/@leehyunho2001/four-year-reflection</link>
       <description>진짜 개발자가 되어가는 과정</description>
       <guid isPermaLink="false">https://velog.io/@leehyunho2001/four-year-reflection</guid>
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>연말 맞이 책 추천 AI 서비스 회고 (with. Gemini API를 곁들인)</title>
-      <link>https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</link>
-      <description>연말을 기념하여 책 추천 서비스를 만들면서 발생한 이슈를 정리하면서 회고하며 돌아보는..</description>
-      <guid isPermaLink="false">https://velog.io/@pdg2491/연말-맞이-책-추천-AI-서비스-개발기-with.-Gemini-API를-곁들인-1</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>1. 일정 맞추는게 ‘생각보다’ 어렵다면?</title>
@@ -142,23 +128,10 @@
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>엘릭서, 피닉스로 실시간 멀티플레이 실험 - Cursor Party (1)</title>
-      <link>https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</link>
-      <description>디스코드의 Elixir 아키텍처 글에서 영감을 받아, Phoenix LiveView로 실시간 커서 공유와 보스 레이드를 구현한 ‘Cursor Party’ 토이 프로젝트를 1시간 만에 만든 경험공유하는 포스트</description>
-      <guid isPermaLink="false">https://velog.io/@do-hyun123/elixir-phoenix-cursor-party</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
       <title>바이브 코딩의 50가지 그림자</title>
       <link>https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</link>
       <description>그러니까 이건 지난 1년 동안 50개의 서비스를 만들면서, 바이브 코딩에 대해 배운 것에 대한 이야기다.</description>
       <guid isPermaLink="false">https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
-      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
-      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
@@ -176,11 +149,11 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
-      <link>https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</link>
-      <description>우테코 7기 광탈하고 8기 재도전, 그리고 최종 코테까지 간 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</guid>
-      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
+      <title>알고리즘 풀고 자동으로 코드 리뷰 받아보기</title>
+      <link>https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</link>
+      <description>다들 백준, 프로그래머스 많이들 방문하시나요? 만약 코딩테스트에 관심이 있다면 이 글은 읽어보시는 것을 추천합니다.Show GN: AI Algorithm Mentor - 알고리즘 풀이를 자동으로 리뷰해주는 GitHub Action -&gt; GeekNews평소에도 코딩테스트...</description>
+      <guid isPermaLink="false">https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</guid>
+      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
       <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
@@ -190,11 +163,17 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>알고리즘 풀고 자동으로 코드 리뷰 받아보기</title>
-      <link>https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</link>
-      <description>다들 백준, 프로그래머스 많이들 방문하시나요? 만약 코딩테스트에 관심이 있다면 이 글은 읽어보시는 것을 추천합니다.Show GN: AI Algorithm Mentor - 알고리즘 풀이를 자동으로 리뷰해주는 GitHub Action -&gt; GeekNews평소에도 코딩테스트...</description>
-      <guid isPermaLink="false">https://velog.io/@minsu0707/알고리즘-풀고-자동으로-코드-리뷰-받아보기</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
+      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
+      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
+      <link>https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</link>
+      <description>우테코 7기 광탈하고 8기 재도전, 그리고 최종 코테까지 간 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</guid>
+      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
       <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
@@ -204,11 +183,18 @@
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>네부콘 후기</title>
-      <link>https://velog.io/@muho/네부콘-후기</link>
-      <description>2025년 최고의 컨퍼런스에 다녀온 썰 푼다...</description>
-      <guid isPermaLink="false">https://velog.io/@muho/네부콘-후기</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+      <title>[JAVA] Scanner hasNextBoolean()은 언제 입력을 받는가 — 블로킹 I/O 관점에서 이해하기</title>
+      <link>https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</link>
+      <description>hasNextBoolean()이 입력을 소비하지 않는다는 설명을 듣고 입력이 아직 없을 때는 어떻게 동작하는지가 궁금해졌습니다. 이 글은 그 의문을 계기로 Scanner의 입력 대기와 블로킹 동작을 간단히 정리한 기록입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>스타트업 채용박람회 간 썰</title>
+      <link>https://velog.io/@minlab/story-01</link>
+      <description>그래서 네가 뭘 할 수 있는데</description>
+      <guid isPermaLink="false">https://velog.io/@minlab/story-01</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
       <title>2025 회고</title>
@@ -216,6 +202,20 @@
       <description>개발을 하기 시작한지 어느덧 4년차. 그리고 처음 기록해보는 2025년 회고.</description>
       <guid isPermaLink="false">https://velog.io/@zo2kim/2025-회고</guid>
       <pubDate>Thu, 15 Jan 2026 17:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>JS 기초 정리</title>
+      <link>https://velog.io/@gydnjs1020/JS-기초-정리</link>
+      <description>오늘은 주절주절 없이 정리만 해봤(힘들어서)웁니다..</description>
+      <guid isPermaLink="false">https://velog.io/@gydnjs1020/JS-기초-정리</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>나는 진짜 프론트엔드 개발자 일까? 단순한 도구 사용자일까?</title>
+      <link>https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</link>
+      <description>지금까지 프론트엔드 개발을 하면서 React, Next.js 같은 라이브러리/프레임워크에 기대어 개발해왔다. 아마 대부분의 프론트엔드 개발자도 비슷할 것이다. 그런데 문득 이런 질문이 들었다.“나는 그냥 라이브러리나 프레임워크를 사용하는 사용자가 아닐까?”React가 ...</description>
+      <guid isPermaLink="false">https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
