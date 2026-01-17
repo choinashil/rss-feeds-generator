@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 16 Jan 2026 17:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 17:04:26 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
@@ -79,18 +79,18 @@
       <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
-      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
-      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
       <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
       <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
       <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
       <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
+      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
+      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
       <title>눈떠보니 4년차의 회고글</title>
@@ -107,6 +107,13 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
+      <title>새로워진 NewCodes를 소개합니다!</title>
+      <link>https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</link>
+      <description>군생활이 살살 녹아요!</description>
+      <guid isPermaLink="false">https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</guid>
+      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
       <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
       <link>https://velog.io/@gracekim527/프론트엔드라는-울타리를-넘어-기획부터-배포까지-치열했던-3주의-기록</link>
       <description>프론트엔드 개발자를 꿈꾸던 제가, React Native를 넘어 iOS, Android 네이티브 영역까지 뛰어들게 된, 짧지만 강렬했던 3주간의 여정을 공유합니다.</description>
@@ -121,13 +128,6 @@
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
-      <title>새로워진 NewCodes를 소개합니다!</title>
-      <link>https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</link>
-      <description>군생활이 살살 녹아요!</description>
-      <guid isPermaLink="false">https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
       <title>바이브 코딩의 50가지 그림자</title>
       <link>https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</link>
       <description>그러니까 이건 지난 1년 동안 50개의 서비스를 만들면서, 바이브 코딩에 대해 배운 것에 대한 이야기다.</description>
@@ -135,17 +135,24 @@
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>선착순 쿠폰 아키텍쳐 만들어보기 - 1</title>
-      <link>https://velog.io/@praisebak/쿠폰-아키텍쳐-개선해보기-시작</link>
-      <description>우테코 수료를 한 시점에서 선택 강의였던 네오의 아키텍쳐가 생각났다. 직접 구현해보자!</description>
-      <guid isPermaLink="false">https://velog.io/@praisebak/쿠폰-아키텍쳐-개선해보기-시작</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
       <title>게임 밸런스 기획을 위해 직접 만든 오픈소스 툴 Kalivra 소개</title>
       <link>https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</link>
       <description>직접 개발한 게임 밸런스 기획에 도움을 주는 프로그램 소개입니다.</description>
       <guid isPermaLink="false">https://velog.io/@tzamgo/게임-밸런스-기획을-위해-직접-만든-오픈소스-툴-Kalivra-소개</guid>
+      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
+      <link>https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</link>
+      <description>우테코 7기 광탈하고 8기 재도전, 그리고 최종 코테까지 간 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</guid>
+      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
+      <link>https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</link>
+      <description>기획, 프로토타입, mvp 설계 및 구현</description>
+      <guid isPermaLink="false">https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</guid>
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
@@ -156,24 +163,45 @@
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
-      <link>https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</link>
-      <description>기획, 프로토타입, mvp 설계 및 구현</description>
-      <guid isPermaLink="false">https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
       <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
       <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
-      <link>https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</link>
-      <description>우테코 7기 광탈하고 8기 재도전, 그리고 최종 코테까지 간 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/남들은-취준-2트-할-때-우테코-2트한-후기</guid>
-      <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
+      <title>2025 회고</title>
+      <link>https://velog.io/@zo2kim/2025-회고</link>
+      <description>개발을 하기 시작한지 어느덧 4년차. 그리고 처음 기록해보는 2025년 회고.</description>
+      <guid isPermaLink="false">https://velog.io/@zo2kim/2025-회고</guid>
+      <pubDate>Thu, 15 Jan 2026 17:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>나는 진짜 프론트엔드 개발자 일까? 단순한 도구 사용자일까?</title>
+      <link>https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</link>
+      <description>지금까지 프론트엔드 개발을 하면서 React, Next.js 같은 라이브러리/프레임워크에 기대어 개발해왔다. 아마 대부분의 프론트엔드 개발자도 비슷할 것이다. 그런데 문득 이런 질문이 들었다.“나는 그냥 라이브러리나 프레임워크를 사용하는 사용자가 아닐까?”React가 ...</description>
+      <guid isPermaLink="false">https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Node.js CJS/ESM 호환성 삽질</title>
+      <link>https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</link>
+      <description>내 컴에서만 안돼요</description>
+      <guid isPermaLink="false">https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</guid>
+      <pubDate>Sat, 17 Jan 2026 17:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>스타트업 채용박람회 간 썰</title>
+      <link>https://velog.io/@minlab/story-01</link>
+      <description>그래서 네가 뭘 할 수 있는데</description>
+      <guid isPermaLink="false">https://velog.io/@minlab/story-01</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>JS 기초 정리</title>
+      <link>https://velog.io/@gydnjs1020/JS-기초-정리</link>
+      <description>오늘은 주절주절 없이 정리만 해봤(힘들어서)웁니다..</description>
+      <guid isPermaLink="false">https://velog.io/@gydnjs1020/JS-기초-정리</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
       <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
@@ -187,34 +215,6 @@
       <link>https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</link>
       <description>hasNextBoolean()이 입력을 소비하지 않는다는 설명을 듣고 입력이 아직 없을 때는 어떻게 동작하는지가 궁금해졌습니다. 이 글은 그 의문을 계기로 Scanner의 입력 대기와 블로킹 동작을 간단히 정리한 기록입니다.</description>
       <guid isPermaLink="false">https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</guid>
-      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>스타트업 채용박람회 간 썰</title>
-      <link>https://velog.io/@minlab/story-01</link>
-      <description>그래서 네가 뭘 할 수 있는데</description>
-      <guid isPermaLink="false">https://velog.io/@minlab/story-01</guid>
-      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 회고</title>
-      <link>https://velog.io/@zo2kim/2025-회고</link>
-      <description>개발을 하기 시작한지 어느덧 4년차. 그리고 처음 기록해보는 2025년 회고.</description>
-      <guid isPermaLink="false">https://velog.io/@zo2kim/2025-회고</guid>
-      <pubDate>Thu, 15 Jan 2026 17:12:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>JS 기초 정리</title>
-      <link>https://velog.io/@gydnjs1020/JS-기초-정리</link>
-      <description>오늘은 주절주절 없이 정리만 해봤(힘들어서)웁니다..</description>
-      <guid isPermaLink="false">https://velog.io/@gydnjs1020/JS-기초-정리</guid>
-      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>나는 진짜 프론트엔드 개발자 일까? 단순한 도구 사용자일까?</title>
-      <link>https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</link>
-      <description>지금까지 프론트엔드 개발을 하면서 React, Next.js 같은 라이브러리/프레임워크에 기대어 개발해왔다. 아마 대부분의 프론트엔드 개발자도 비슷할 것이다. 그런데 문득 이런 질문이 들었다.“나는 그냥 라이브러리나 프레임워크를 사용하는 사용자가 아닐까?”React가 ...</description>
-      <guid isPermaLink="false">https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</guid>
       <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
   </channel>
