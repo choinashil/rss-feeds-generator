@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 17 Jan 2026 17:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 17:04:32 +0000</lastBuildDate>
     <item>
       <title>개발자분들은 제발 깃허브를 쓰세요(a.k.a 당신은 사실 깃허브를 안하고 있습니다)</title>
       <link>https://velog.io/@hansanghun/please-use-github</link>
@@ -30,13 +30,6 @@
       <pubDate>Fri, 09 Jan 2026 04:07:54 +0000</pubDate>
     </item>
     <item>
-      <title>개발자 인생을 돌아보며</title>
-      <link>https://velog.io/@kpeel5839/개발자-인생을-돌아보며</link>
-      <description>카카오 뱅크 두과자!</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/개발자-인생을-돌아보며</guid>
-      <pubDate>Sun, 04 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
       <title>2025 젊음을 브랜딩하다 : 바다로 나간 금붕어들의 삶에 대한 이야기</title>
       <link>https://velog.io/@ubin_ing/2025youngfreshmanneverdie</link>
       <description>이십대 초반에 사회 생활을 시작한 사회초년생들이 바라보는 인생</description>
@@ -44,18 +37,18 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>스톡옵션, 잘 이해하고 계산해서 받기</title>
-      <link>https://velog.io/@woogur29/스톡옵션-잘-이해하고-계산해서-받기</link>
-      <description>스톡옵션의 기본 개념부터 부여, 행사, 세금, 매도, 베스팅·클리프·행사가 등 핵심 용어와 세법(근로소득, 벤처특례, 양도세) 그리고 연봉 대신 선택 시 회사 성장성, 현금흐름, 계약서 확인 등 의사결정 기준을 포함한 글이다.</description>
-      <guid isPermaLink="false">https://velog.io/@woogur29/스톡옵션-잘-이해하고-계산해서-받기</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
       <title>2025년 취준 결산</title>
       <link>https://velog.io/@yoondaeng23/2025년-취준-결산</link>
       <description>총 184개의 서류를 지원하였으며 그 중 146번의 서류, 15번의 필기, 13번의 코테, 2번의 1차 면접, 최종 탈락 등 무수한 탈락을 거쳐 현재에 오기까지</description>
       <guid isPermaLink="false">https://velog.io/@yoondaeng23/2025년-취준-결산</guid>
       <pubDate>Mon, 05 Jan 2026 17:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>스톡옵션, 잘 이해하고 계산해서 받기</title>
+      <link>https://velog.io/@woogur29/스톡옵션-잘-이해하고-계산해서-받기</link>
+      <description>스톡옵션의 기본 개념부터 부여, 행사, 세금, 매도, 베스팅·클리프·행사가 등 핵심 용어와 세법(근로소득, 벤처특례, 양도세) 그리고 연봉 대신 선택 시 회사 성장성, 현금흐름, 계약서 확인 등 의사결정 기준을 포함한 글이다.</description>
+      <guid isPermaLink="false">https://velog.io/@woogur29/스톡옵션-잘-이해하고-계산해서-받기</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
       <title>디지털 명함 생성기</title>
@@ -72,13 +65,6 @@
       <pubDate>Wed, 14 Jan 2026 17:09:36 +0000</pubDate>
     </item>
     <item>
-      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
-      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
-      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
-      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
-      <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
-    </item>
-    <item>
       <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
       <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
       <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
@@ -86,11 +72,11 @@
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
     </item>
     <item>
-      <title>'생각보다' 어려웠던 서버개발 - 3년만에 휴직한 이야기</title>
-      <link>https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</link>
-      <description>백엔드 개발하면서 막막할 때가 지속되진 않으셨나요? 다른 사람은 어떤 고민이 있었는지, 무엇을 발견했는지 궁금하진 않으신가요? 5년 실무로 일해보고 글로 한번 정리해보게 되었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/생각보다-어려웠던-서버개발</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+      <title>토스 송금, 단축어로 1초 만에 끝내기 (feat. URL Scheme &amp; 정규식)</title>
+      <link>https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</link>
+      <description>친구들과 밥을 먹거나 정산할 때 매번 겪는 귀찮은 과정이 있다.송금 과정.카톡에서 계좌번호와 은행명을 꾹 눌러 복사하고홈 화면으로 나가서 토스 앱을 찾고앱이 켜질 때까지 기다렸다가 송금 탭으로 들어가고...</description>
+      <guid isPermaLink="false">https://velog.io/@jisung719/토스-송금-단축어로-1초-만에-끝내기-feat.-URL-Scheme-정규식</guid>
+      <pubDate>Wed, 07 Jan 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
       <title>눈떠보니 4년차의 회고글</title>
@@ -100,18 +86,18 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>1. 일정 맞추는게 ‘생각보다’ 어렵다면?</title>
-      <link>https://velog.io/@rhdmstjr/1.-일정-맞추는게-생각보다-어렵다면</link>
-      <description>일정 맞추는게 왜 '생각보다' 어려울까요? 왜 일정이 중요한지를 회사/동료입장에서 생각해보고, 어떻게 일정을 산정할 수 있을지 실마리를 엿보아요</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/1.-일정-맞추는게-생각보다-어렵다면</guid>
-      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
-    </item>
-    <item>
       <title>새로워진 NewCodes를 소개합니다!</title>
       <link>https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</link>
       <description>군생활이 살살 녹아요!</description>
       <guid isPermaLink="false">https://velog.io/@newcodes7/새로워진-NewCodes를-소개합니다</guid>
       <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>1. 일정 맞추는게 ‘생각보다’ 어렵다면?</title>
+      <link>https://velog.io/@rhdmstjr/1.-일정-맞추는게-생각보다-어렵다면</link>
+      <description>일정 맞추는게 왜 '생각보다' 어려울까요? 왜 일정이 중요한지를 회사/동료입장에서 생각해보고, 어떻게 일정을 산정할 수 있을지 실마리를 엿보아요</description>
+      <guid isPermaLink="false">https://velog.io/@rhdmstjr/1.-일정-맞추는게-생각보다-어렵다면</guid>
+      <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
     </item>
     <item>
       <title>프론트엔드라는 울타리를 넘어: 기획부터 배포까지, 치열했던 3주의 기록</title>
@@ -126,6 +112,13 @@
       <description>첫 사이드 프로젝트를 마치며</description>
       <guid isPermaLink="false">https://velog.io/@hun01/우당탕탕-6개월-간의-사이드-프로젝트-여정-회고</guid>
       <pubDate>Sat, 10 Jan 2026 17:05:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>11만 개 데이터에서 100ms 내에 응답</title>
+      <link>https://velog.io/@newcodes7/11만개-데이터에서-100ms-내에-응답하기</link>
+      <description>여러 시행착오 끝에 성공!!</description>
+      <guid isPermaLink="false">https://velog.io/@newcodes7/11만개-데이터에서-100ms-내에-응답하기</guid>
+      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
       <title>바이브 코딩의 50가지 그림자</title>
@@ -169,31 +162,17 @@
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>2025 회고</title>
-      <link>https://velog.io/@zo2kim/2025-회고</link>
-      <description>개발을 하기 시작한지 어느덧 4년차. 그리고 처음 기록해보는 2025년 회고.</description>
-      <guid isPermaLink="false">https://velog.io/@zo2kim/2025-회고</guid>
-      <pubDate>Thu, 15 Jan 2026 17:12:35 +0000</pubDate>
+      <title>스타트업 채용박람회 간 썰</title>
+      <link>https://velog.io/@minlab/story-01</link>
+      <description>그래서 네가 뭘 할 수 있는데</description>
+      <guid isPermaLink="false">https://velog.io/@minlab/story-01</guid>
+      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
       <title>나는 진짜 프론트엔드 개발자 일까? 단순한 도구 사용자일까?</title>
       <link>https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</link>
       <description>지금까지 프론트엔드 개발을 하면서 React, Next.js 같은 라이브러리/프레임워크에 기대어 개발해왔다. 아마 대부분의 프론트엔드 개발자도 비슷할 것이다. 그런데 문득 이런 질문이 들었다.“나는 그냥 라이브러리나 프레임워크를 사용하는 사용자가 아닐까?”React가 ...</description>
       <guid isPermaLink="false">https://velog.io/@njt6419/나는-진짜-프론트엔드-개발자-일까-단순한-도구-사용자일까</guid>
-      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Node.js CJS/ESM 호환성 삽질</title>
-      <link>https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</link>
-      <description>내 컴에서만 안돼요</description>
-      <guid isPermaLink="false">https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</guid>
-      <pubDate>Sat, 17 Jan 2026 17:04:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>스타트업 채용박람회 간 썰</title>
-      <link>https://velog.io/@minlab/story-01</link>
-      <description>그래서 네가 뭘 할 수 있는데</description>
-      <guid isPermaLink="false">https://velog.io/@minlab/story-01</guid>
       <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
@@ -216,6 +195,27 @@
       <description>hasNextBoolean()이 입력을 소비하지 않는다는 설명을 듣고 입력이 아직 없을 때는 어떻게 동작하는지가 궁금해졌습니다. 이 글은 그 의문을 계기로 Scanner의 입력 대기와 블로킹 동작을 간단히 정리한 기록입니다.</description>
       <guid isPermaLink="false">https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</guid>
       <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025년 회고</title>
+      <link>https://velog.io/@j15u_k7/2025년-회고</link>
+      <description>1년을 돌아보며...</description>
+      <guid isPermaLink="false">https://velog.io/@j15u_k7/2025년-회고</guid>
+      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>"왜 굳이 메시지 큐를 쓰나요?" 면접관을 사로잡는 비동기 처리 완벽 정복</title>
+      <link>https://velog.io/@querydaily/message-queue-async</link>
+      <description>"메시지 큐 써보셨어요?"라는 질문 뒤에는 어김없이 꼬리 질문이 따라옵니다. 메시지 큐가 왜 필요한지, 어떻게 동작하는지 잘 설명할 수 있나요?</description>
+      <guid isPermaLink="false">https://velog.io/@querydaily/message-queue-async</guid>
+      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Node.js CJS/ESM 호환성 삽질</title>
+      <link>https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</link>
+      <description>내 컴에서만 안돼요</description>
+      <guid isPermaLink="false">https://velog.io/@seorim6417/Node.js-CJSESM-호환성-삽질</guid>
+      <pubDate>Sat, 17 Jan 2026 17:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
