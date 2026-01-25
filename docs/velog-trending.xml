@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 24 Jan 2026 17:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:04:32 +0000</lastBuildDate>
     <item>
       <title>11만 개 데이터에서 100ms 내에 응답</title>
       <link>https://velog.io/@newcodes7/11만개-데이터에서-100ms-내에-응답하기</link>
@@ -44,18 +44,18 @@
       <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
-      <title>리액트로 바라보는 정책과 메커니즘의 분리</title>
-      <link>https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</link>
-      <description>'정책가 메커니즘'의 관점에서 "리액트에서 언제, 어떤 추상화를 적용해야 할까"를 고민한 글입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@koreanthuglife/리액트에서-언제-어떤-추상화-전략을-사용해야-할까</guid>
-      <pubDate>Sun, 11 Jan 2026 17:04:40 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고] 실리콘밸리 AI 유니콘 'Cohere' 과제 합격 회고 (비록 채용은 취소됐지만)</title>
       <link>https://velog.io/@chung/회고-실리콘밸리-AI-유니콘-Cohere-과제-합격-및-그-후-비록-채용은-취소됐지만</link>
       <description>실리콘밸리 AI 유니콘 Cohere 과제 합격 후, 그 고민의 흔적을 정리를 해 보았습니다. 사실 반전도 좀 있어요.</description>
       <guid isPermaLink="false">https://velog.io/@chung/회고-실리콘밸리-AI-유니콘-Cohere-과제-합격-및-그-후-비록-채용은-취소됐지만</guid>
       <pubDate>Wed, 21 Jan 2026 17:25:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>부동산 시스템 개발 후기 - AI 100배 활용하는 법</title>
+      <link>https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</link>
+      <description>매일 파도를 타라는 것입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
       <title>vercel의 agent-skills인 react-best-practices을 소개합니다</title>
@@ -65,18 +65,18 @@
       <pubDate>Tue, 20 Jan 2026 17:10:07 +0000</pubDate>
     </item>
     <item>
-      <title>velog dashboard v2 - MAU 1k+, 아직도 통계를 안보셨나요?!</title>
-      <link>https://velog.io/@qlgks1/velog-dashboard-v2-MAU-1k</link>
-      <description>이 서비스가 velog에 귀속된(?) 구조다 보니 알릴 수 있는 채널이 사실상 velog 밖에 없습니다. 하지만! 뉴스레터 이후로 유입도 계속 올라가고 어느 순간부터 MAU 1K+ 를 찍고 있더라구요...!</description>
-      <guid isPermaLink="false">https://velog.io/@qlgks1/velog-dashboard-v2-MAU-1k</guid>
-      <pubDate>Tue, 20 Jan 2026 17:10:07 +0000</pubDate>
-    </item>
-    <item>
       <title>바이브 코딩의 50가지 그림자</title>
       <link>https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</link>
       <description>그러니까 이건 지난 1년 동안 50개의 서비스를 만들면서, 바이브 코딩에 대해 배운 것에 대한 이야기다.</description>
       <guid isPermaLink="false">https://velog.io/@laeyoung/바이브-코딩의-50가지-그림자</guid>
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>velog dashboard v2 - MAU 1k+, 아직도 통계를 안보셨나요?!</title>
+      <link>https://velog.io/@qlgks1/velog-dashboard-v2-MAU-1k</link>
+      <description>이 서비스가 velog에 귀속된(?) 구조다 보니 알릴 수 있는 채널이 사실상 velog 밖에 없습니다. 하지만! 뉴스레터 이후로 유입도 계속 올라가고 어느 순간부터 MAU 1K+ 를 찍고 있더라구요...!</description>
+      <guid isPermaLink="false">https://velog.io/@qlgks1/velog-dashboard-v2-MAU-1k</guid>
+      <pubDate>Tue, 20 Jan 2026 17:10:07 +0000</pubDate>
     </item>
     <item>
       <title>남들은 취준 2트 할 때 우테코 2트한 후기</title>
@@ -100,23 +100,10 @@
       <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버 부스트캠프 웹・모바일 10기 멤버십] 그룹 프로젝트 1~3주차 회고</title>
-      <link>https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</link>
-      <description>기획, 프로토타입, mvp 설계 및 구현</description>
-      <guid isPermaLink="false">https://velog.io/@pcwadarong/네이버-부스트캠프-웹・모바일-10기-멤버십-그룹-프로젝트-13주차-회고</guid>
-      <pubDate>Mon, 12 Jan 2026 17:08:23 +0000</pubDate>
-    </item>
-    <item>
       <title>2번째 회사 회고하기</title>
       <link>https://velog.io/@tmdgus8911/2번째-회사-회고하기</link>
       <guid isPermaLink="false">https://velog.io/@tmdgus8911/2번째-회사-회고하기</guid>
       <pubDate>Tue, 20 Jan 2026 17:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
-      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
-      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
-      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
       <title>160명 멘토링 후 깨달은, '이력서에 쓸 경험이 없는' 분들을 위한 현실적인 해결책</title>
@@ -126,6 +113,19 @@
       <pubDate>Wed, 21 Jan 2026 17:25:44 +0000</pubDate>
     </item>
     <item>
+      <title>Rust로 검증한 거래소 엔진을 JVM 튜닝으로 다시 이해하기</title>
+      <link>https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</link>
+      <guid isPermaLink="false">https://velog.io/@rlaejrqo465/Rust로-검증한-거래소-엔진을-JVM-튜닝으로-다시-이해하기</guid>
+      <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>무한 스크롤 성능 최적화: DevTools로 확인하고 TanStack Virtual(@tanstack/react-virtual)로 해결하기</title>
+      <link>https://velog.io/@njt6419/무한-스크롤-성능-최적화-DevTools로-확인하고-TanStack-Virtualtanstackreact-virtual로-해결하기</link>
+      <description>무한 스크롤은 사용자가 페이지를 이동하지 않고도 콘텐츠를 자연스럽게 탐색할 수 있어 UX가 좋다. 또한 보통 cursor 기반 페이지네이션으로 구현하기 때문에, 데이터가 중간에 추가·삭제되더라도 중복 로딩이나 순서 밀림 같은 문제를 비교적 안정적으로 처리할 수 있다.하...</description>
+      <guid isPermaLink="false">https://velog.io/@njt6419/무한-스크롤-성능-최적화-DevTools로-확인하고-TanStack-Virtualtanstackreact-virtual로-해결하기</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
       <title>우테코 8기 최종 코딩테스트 후기</title>
       <link>https://velog.io/@jyt6640/우테코-8기-최종-코딩테스트-후기</link>
       <description>안녕하세요! 개발자 자바입니다. 오늘은 우테코 8기 최종 코딩테스트 후기에 대해서 작성했습니다.</description>
@@ -133,11 +133,18 @@
       <pubDate>Mon, 19 Jan 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>2025년 회고</title>
-      <link>https://velog.io/@j15u_k7/2025년-회고</link>
-      <description>1년을 돌아보며...</description>
-      <guid isPermaLink="false">https://velog.io/@j15u_k7/2025년-회고</guid>
-      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
+      <title>Anirole으로 0.1초 만에 그림이 완성된다고?</title>
+      <link>https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</link>
+      <description>Anirole 실시간 AI 애니메이션 드로잉 써보고 정리해봄요즘 SNS에서 자주 보이는 영상이 하나 있습니다.왼쪽에 대충 낙서하듯 그림을 그리면,👉 오른쪽에서 거의 동시에 애니메이션 캐릭터가 완성되는 영상.처음엔 “편집 아니야?” 싶었는데,알고 보니 Anirole의 ...</description>
+      <guid isPermaLink="false">https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</guid>
+      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
+      <link>https://velog.io/@minjaekimm/innerWidth-대신-useMediaQuery를-사용해야-하는-이유</link>
+      <description>innerWidth vs mathMatches를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/innerWidth-대신-useMediaQuery를-사용해야-하는-이유</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
       <title>기억에 남는 발견 - 납득하면 일할 맛 난다 (부제: 가슴뛰는 업무시간?!)</title>
@@ -145,6 +152,13 @@
       <description>어떻게 하면 업무시간이 좀 더 납득이 될까요? 결국에는 '내가 얼마나 주도적으로 내 리소스(시간/에너지/감정)을 사용하느냐의 문제'더라구요. 가슴뛰기 위해 가치, 성장, 만족을 추구해봅니다.</description>
       <guid isPermaLink="false">https://velog.io/@rhdmstjr/기억에-남는-발견-납득하면-일할-맛-난다-부제-가슴뛰는-업무시간</guid>
       <pubDate>Tue, 13 Jan 2026 17:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025년 회고</title>
+      <link>https://velog.io/@j15u_k7/2025년-회고</link>
+      <description>1년을 돌아보며...</description>
+      <guid isPermaLink="false">https://velog.io/@j15u_k7/2025년-회고</guid>
+      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
       <title>SSE 연결 유실 문제 해결</title>
@@ -160,45 +174,23 @@
       <pubDate>Mon, 19 Jan 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
-      <title>Anirole으로 0.1초 만에 그림이 완성된다고?</title>
-      <link>https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</link>
-      <description>Anirole 실시간 AI 애니메이션 드로잉 써보고 정리해봄요즘 SNS에서 자주 보이는 영상이 하나 있습니다.왼쪽에 대충 낙서하듯 그림을 그리면,👉 오른쪽에서 거의 동시에 애니메이션 캐릭터가 완성되는 영상.처음엔 “편집 아니야?” 싶었는데,알고 보니 Anirole의 ...</description>
-      <guid isPermaLink="false">https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</guid>
-      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
+      <title>SDD란 무엇일까?</title>
+      <link>https://velog.io/@kpeel5839/SDD란-무엇일까</link>
+      <description>SDD를 활용해서 개발해보자!</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/SDD란-무엇일까</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telegram이 새 로그인에 프리미엄 결제를 요구하는 경우 우회하기</title>
+      <link>https://velog.io/@mingi-s/Telegram이-새-로그인에-프리미엄-결제를-요구하는-경우-우회하기</link>
+      <guid isPermaLink="false">https://velog.io/@mingi-s/Telegram이-새-로그인에-프리미엄-결제를-요구하는-경우-우회하기</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
       <title>[우아한테크코스] 우테코 8기 1차 합격 및 최종 코딩 테스트</title>
       <link>https://velog.io/@jacob96/우아한테크코스-1차-합격-및-최종-코딩-테스트</link>
       <guid isPermaLink="false">https://velog.io/@jacob96/우아한테크코스-1차-합격-및-최종-코딩-테스트</guid>
       <pubDate>Fri, 23 Jan 2026 17:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>물 경력 AI 엔지니어 첫 블로그 글</title>
-      <link>https://velog.io/@qlszkd/물-경력-AI-엔지니어-첫-블로그-글</link>
-      <description>블로그 첫 글이라 그런지,어디서부터 써야 할지 좀 막막하다 😅그래서 그냥지금의 나까지 오게 된 이야기부터차근차근 적어보려고 한다.영문과를 주전공으로 선택한 건사실 멋있는 이유는 아니다.교육대학교를 가려고 했다가 실패했고,그 다음 선택지 중에서그나마 이것저것 건드려 볼...</description>
-      <guid isPermaLink="false">https://velog.io/@qlszkd/물-경력-AI-엔지니어-첫-블로그-글</guid>
-      <pubDate>Fri, 23 Jan 2026 17:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>console.log("Hello, 2026!");</title>
-      <link>https://velog.io/@junjuny0227/42</link>
-      <description>모두 화이팅 합시다!</description>
-      <guid isPermaLink="false">https://velog.io/@junjuny0227/42</guid>
-      <pubDate>Mon, 19 Jan 2026 17:07:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[JAVA] Scanner hasNextBoolean()은 언제 입력을 받는가 — 블로킹 I/O 관점에서 이해하기</title>
-      <link>https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</link>
-      <description>hasNextBoolean()이 입력을 소비하지 않는다는 설명을 듣고 입력이 아직 없을 때는 어떻게 동작하는지가 궁금해졌습니다. 이 글은 그 의문을 계기로 Scanner의 입력 대기와 블로킹 동작을 간단히 정리한 기록입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/Scanner-hasNextBoolean은-언제-입력을-받는가-블로킹-IO-관점에서-이해하기</guid>
-      <pubDate>Fri, 16 Jan 2026 17:07:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>우아한 테크코스 8기 최종 코딩테스트 후기</title>
-      <link>https://velog.io/@lhs5427ll/우아한-테크코스-8기-최종-코딩테스트-후기</link>
-      <description>한 번만 욕심을 부려봐도 괜찮을까요?</description>
-      <guid isPermaLink="false">https://velog.io/@lhs5427ll/우아한-테크코스-8기-최종-코딩테스트-후기</guid>
-      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
     </item>
     <item>
       <title>“PR 올리기”가 개발의 절반을 잡아먹는다면: /pr + /apply-review로 커밋→PR→리뷰 반영 자동화하기</title>
@@ -208,10 +200,17 @@
       <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
     </item>
     <item>
-      <title>AI랑 뱀서류 게임 개발 - 3D 모델링편</title>
-      <link>https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</link>
-      <description>요즘 AI를 최대한 활용해서 1인으로 게임을 개발하고 있다. 옛날부터 내 게임을 만들어서 출시 하고 싶다는 생각은 많이 했는데, 나약한 의지력과 함께 아트 리소스의 벽에 가로 막혀서 매번 제대로 시도도 하지 않고 포기하기 일쑤 였다.</description>
-      <guid isPermaLink="false">https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</guid>
+      <title>통계에서 Redis 활용하기</title>
+      <link>https://velog.io/@chae0738/통계에서-Redis-활용하기</link>
+      <description>실시간 집계를 위한 통계 아키텍처 설계 2편</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/통계에서-Redis-활용하기</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한 테크코스 8기 최종 코딩테스트 후기</title>
+      <link>https://velog.io/@lhs5427ll/우아한-테크코스-8기-최종-코딩테스트-후기</link>
+      <description>한 번만 욕심을 부려봐도 괜찮을까요?</description>
+      <guid isPermaLink="false">https://velog.io/@lhs5427ll/우아한-테크코스-8기-최종-코딩테스트-후기</guid>
       <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
     </item>
   </channel>
