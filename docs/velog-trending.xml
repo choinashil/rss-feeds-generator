@@ -7,26 +7,26 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 31 Jan 2026 17:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 17:07:33 +0000</lastBuildDate>
     <item>
-      <title>11만 개 데이터에서 100ms 내에 응답</title>
-      <link>https://velog.io/@newcodes7/11만개-데이터에서-100ms-내에-응답하기</link>
-      <description>여러 시행착오 끝에 성공!!</description>
-      <guid isPermaLink="false">https://velog.io/@newcodes7/11만개-데이터에서-100ms-내에-응답하기</guid>
-      <pubDate>Sun, 18 Jan 2026 17:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>뒤늦은 2025년 하반기 회고록,,,</title>
-      <link>https://velog.io/@songyeonji_/뒤늦은-2025년-하반기-회고록</link>
-      <description>안녕하세요, 프론트엔드 개발자 송연지입니다.…네, 하반기 회고도 또 늦었습니다. 하하 😇상반기 쓸 때만 해도 “이번엔 제때 써야지!” 했는데역시나 현실은 늘 예상보다 빠르고, 저는 늘 예상보다 바빴습니다.2025년 하반기도 마찬가지로,,,솔직히 말하면 너무 정신없어서...</description>
-      <guid isPermaLink="false">https://velog.io/@songyeonji_/뒤늦은-2025년-하반기-회고록</guid>
-      <pubDate>Mon, 19 Jan 2026 17:07:41 +0000</pubDate>
+      <title>개발자는 정말 사라질까?</title>
+      <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
+      <description>요즘 개발자들 혹은 개발자를 지망하는 분들과 얘기를 나눠보면 빠지지 않는 주제가 있다.“AI로 인해 개발자는 사라지나요?”라는 질문이다.나 역시 이 질문을 계속 곱씹게 된다. 결론부터 말하자면, 개발자는 AI의 영향을 가장 먼저, 가장 직접적으로 받는 직종이라고 생각한...</description>
+      <guid isPermaLink="false">https://velog.io/@eunseo9808/개발자는-정말-사라질까</guid>
+      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
       <title>Moltbot 사용법과 리스크: AI에게 PC 실행 권한을 주면 어떻게 될까?</title>
       <link>https://velog.io/@takuya/moltbot-local-ai-agent-guide</link>
       <description>GitHub에서 화제인 Moltbot을 해설합니다. Claude API와 로컬 Shell을 연동시켜 DevOps 자동화 등을 실현하는 '실행형' AI 에이전트의 구조, 매력, 그리고 무시할 수 없는 비용과 리스크에 대해 현직 엔지니어 관점에서 심층 분석합니다.</description>
       <guid isPermaLink="false">https://velog.io/@takuya/moltbot-local-ai-agent-guide</guid>
+      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>당근 비즈프로필 프론트엔드 면접 후기</title>
+      <link>https://velog.io/@qqbck123/당근-비즈프로필-면접-후기</link>
+      <description>안녕하세요 서운입니다! 이번 블로그 포스팅 내용은 당근 비즈프로필 면접 후기입니다!</description>
+      <guid isPermaLink="false">https://velog.io/@qqbck123/당근-비즈프로필-면접-후기</guid>
       <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
@@ -37,25 +37,11 @@
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>당근 비즈프로필 프론트엔드 면접 후기</title>
-      <link>https://velog.io/@qqbck123/당근-비즈프로필-면접-후기</link>
-      <description>안녕하세요 서운입니다! 이번 블로그 포스팅 내용은 당근 비즈프로필 면접 후기입니다!</description>
-      <guid isPermaLink="false">https://velog.io/@qqbck123/당근-비즈프로필-면접-후기</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
-    </item>
-    <item>
       <title>CLAUDE.md 완벽 가이드</title>
       <link>https://velog.io/@surim014/claude-md-guide</link>
       <description>원문: https://www.builder.io/blog/claude-md-guide</description>
       <guid isPermaLink="false">https://velog.io/@surim014/claude-md-guide</guid>
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자는 정말 사라질까?</title>
-      <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
-      <description>요즘 개발자들 혹은 개발자를 지망하는 분들과 얘기를 나눠보면 빠지지 않는 주제가 있다.“AI로 인해 개발자는 사라지나요?”라는 질문이다.나 역시 이 질문을 계속 곱씹게 된다. 결론부터 말하자면, 개발자는 AI의 영향을 가장 먼저, 가장 직접적으로 받는 직종이라고 생각한...</description>
-      <guid isPermaLink="false">https://velog.io/@eunseo9808/개발자는-정말-사라질까</guid>
-      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
       <title>부동산 시스템 개발 후기 - AI 100배 활용하는 법</title>
@@ -72,18 +58,18 @@
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
-      <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
-      <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</guid>
-      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[취준일기①] 주니어😵‍💫의 이력서 다듬기</title>
       <link>https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</link>
       <description>6장의 기록을 2장의 경험으로 압축하며 깨달은 '태도'로서의 이력서</description>
       <guid isPermaLink="false">https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</guid>
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
+      <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
+      <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</guid>
+      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
       <title>velog dashboard v2 - MAU 1k+, 아직도 통계를 안보셨나요?!</title>
@@ -114,25 +100,11 @@
       <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
-      <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
-      <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
       <title>MSW 수작업, 아직 하고 계신가요? Codex로 Postman 자동화해봤습니다</title>
       <link>https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</link>
       <description>백엔드 API가 아직 구현되지 않았어도,프론트엔드 개발은 이미 끝까지 진행할 수 있다.필요한 조건은 단 하나다.Postman에 API 스펙(컬렉션)만 정의되어 있을 것이 글에서 소개하는 흐름을 적용하면프론트엔드 개발자는 더 이상 아래 같은 대화를 반복하지 않아도 된다....</description>
       <guid isPermaLink="false">https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</guid>
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
-      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
-      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
-      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
       <title>fetch()에서 await은 왜 두 번 사용할까?</title>
@@ -142,17 +114,31 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
+      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
+      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
+      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
+      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
+      <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
+      <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>내 Github 프로필에 Contribution Card 만들기</title>
+      <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
+      <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
+      <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
       <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
       <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
       <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
       <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Suspense 썼는데 HTML에 콘텐츠가 없다? Next.js SEO의 진실</title>
-      <link>https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</link>
-      <description>Next.js 13(App Router) 이후 Streaming SSR과 Suspense는 선택이 아닌 기본 전략이 되어가고 있습니다.사용자 경험(UX) 측면에서 페이지 전체가 로드될 때까지 기다리지 않고, 준비된 부분부터 보여주는 방식은 분명히 합리적인 접근이기 때문...</description>
-      <guid isPermaLink="false">https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
@@ -177,6 +163,13 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
+      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
+      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
+      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
+      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
       <title>드디어 낋여왔다. 내 맘대로 통계 페이지 제작 후기</title>
       <link>https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</link>
       <description>드디어 연말에 만든 서비스의 통계를 가져왔습니다. 이런 저런 후기와 통계를 확인해보세요.</description>
@@ -189,13 +182,6 @@
       <description>요즘 AI를 최대한 활용해서 1인으로 게임을 개발하고 있다. 옛날부터 내 게임을 만들어서 출시 하고 싶다는 생각은 많이 했는데, 나약한 의지력과 함께 아트 리소스의 벽에 가로 막혀서 매번 제대로 시도도 하지 않고 포기하기 일쑤 였다.</description>
       <guid isPermaLink="false">https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</guid>
       <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
-      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
-      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
-      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 프론트엔드 최종합격 후기</title>
@@ -212,11 +198,25 @@
       <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
+      <title>Zustand + Persist?? 운동 많이 된다</title>
+      <link>https://velog.io/@kangmin01/Zustand-Persist-운동-많이-된다</link>
+      <description>운동 많이 된다.</description>
+      <guid isPermaLink="false">https://velog.io/@kangmin01/Zustand-Persist-운동-많이-된다</guid>
+      <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
       <title>[사프일기] 🔥 치이이즈 로그 ...🔥를 드디어 마주하다 (1)</title>
       <link>https://velog.io/@yous_rchive/로그-...를-드디어-마주하다</link>
       <description>안녕안녕 치이이즈 PM 유정입니다 🧀 오늘은 치이이즈를 사이드프로젝트로 돌린지 벌써 어느덧 한 달이 되는 날입니당 아직 치이이즈..를 모른다구요? 그렇다면 치이이즈 구경하러 가기 ✌🏻 고새 큐시즘 인스타에도 올라왔죠 ㅎㅎ 🧀 근황토크 큐시즘 32기를 마무리하고 ! 마지막 학기도 마무리하고 (유예지만) ! 상황이 너무 많이 바뀌면서 개인적으로 ...</description>
       <guid isPermaLink="false">https://velog.io/@yous_rchive/로그-...를-드디어-마주하다</guid>
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Suspense 썼는데 HTML에 콘텐츠가 없다? Next.js SEO의 진실</title>
+      <link>https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</link>
+      <description>Next.js 13(App Router) 이후 Streaming SSR과 Suspense는 선택이 아닌 기본 전략이 되어가고 있습니다.사용자 경험(UX) 측면에서 페이지 전체가 로드될 때까지 기다리지 않고, 준비된 부분부터 보여주는 방식은 분명히 합리적인 접근이기 때문...</description>
+      <guid isPermaLink="false">https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
