@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 01 Feb 2026 17:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 17:16:31 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
       <description>요즘 개발자들 혹은 개발자를 지망하는 분들과 얘기를 나눠보면 빠지지 않는 주제가 있다.“AI로 인해 개발자는 사라지나요?”라는 질문이다.나 역시 이 질문을 계속 곱씹게 된다. 결론부터 말하자면, 개발자는 AI의 영향을 가장 먼저, 가장 직접적으로 받는 직종이라고 생각한...</description>
       <guid isPermaLink="false">https://velog.io/@eunseo9808/개발자는-정말-사라질까</guid>
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Moltbot 사용법과 리스크: AI에게 PC 실행 권한을 주면 어떻게 될까?</title>
-      <link>https://velog.io/@takuya/moltbot-local-ai-agent-guide</link>
-      <description>GitHub에서 화제인 Moltbot을 해설합니다. Claude API와 로컬 Shell을 연동시켜 DevOps 자동화 등을 실현하는 '실행형' AI 에이전트의 구조, 매력, 그리고 무시할 수 없는 비용과 리스크에 대해 현직 엔지니어 관점에서 심층 분석합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@takuya/moltbot-local-ai-agent-guide</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
       <title>당근 비즈프로필 프론트엔드 면접 후기</title>
@@ -30,6 +23,13 @@
       <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
+      <title>CLAUDE.md 완벽 가이드</title>
+      <link>https://velog.io/@surim014/claude-md-guide</link>
+      <description>원문: https://www.builder.io/blog/claude-md-guide</description>
+      <guid isPermaLink="false">https://velog.io/@surim014/claude-md-guide</guid>
+      <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
+    </item>
+    <item>
       <title>&lt;우리, 프로그래머들&gt; 도서 증정 이벤트</title>
       <link>https://velog.io/@velog/we-programmers</link>
       <description>빠르게 변하는 기술 속에서 우리는 무엇을 책임져야 할까요? 디테일과 본질을 고민하는 당신의 생각을 벨로그에 남겨주세요. 추첨을 통해 화제의 도서 &lt;우리, 프로그래머들&gt;을 선물로 드립니다.</description>
@@ -37,10 +37,17 @@
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>CLAUDE.md 완벽 가이드</title>
-      <link>https://velog.io/@surim014/claude-md-guide</link>
-      <description>원문: https://www.builder.io/blog/claude-md-guide</description>
-      <guid isPermaLink="false">https://velog.io/@surim014/claude-md-guide</guid>
+      <title>Moltbot 사용법과 리스크: AI에게 PC 실행 권한을 주면 어떻게 될까?</title>
+      <link>https://velog.io/@takuya/moltbot-local-ai-agent-guide</link>
+      <description>GitHub에서 화제인 Moltbot을 해설합니다. Claude API와 로컬 Shell을 연동시켜 DevOps 자동화 등을 실현하는 '실행형' AI 에이전트의 구조, 매력, 그리고 무시할 수 없는 비용과 리스크에 대해 현직 엔지니어 관점에서 심층 분석합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@takuya/moltbot-local-ai-agent-guide</guid>
+      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[취준일기①] 주니어😵‍💫의 이력서 다듬기</title>
+      <link>https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</link>
+      <description>6장의 기록을 2장의 경험으로 압축하며 깨달은 '태도'로서의 이력서</description>
+      <guid isPermaLink="false">https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</guid>
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
@@ -49,20 +56,6 @@
       <description>매일 파도를 타라는 것입니다.</description>
       <guid isPermaLink="false">https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</guid>
       <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>31살 비전공자의 토스뱅크 서버 개발자 신입 합격 후기(feat. YIL 2025)</title>
-      <link>https://velog.io/@kim00ngjun_0112/31살-비전공자의-토스뱅크-서버-개발자-신입-합격기feat.-YIL-2025</link>
-      <description>조금 늦은 2025년 회고, 그리고 마지막 벨로그 글</description>
-      <guid isPermaLink="false">https://velog.io/@kim00ngjun_0112/31살-비전공자의-토스뱅크-서버-개발자-신입-합격기feat.-YIL-2025</guid>
-      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[취준일기①] 주니어😵‍💫의 이력서 다듬기</title>
-      <link>https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</link>
-      <description>6장의 기록을 2장의 경험으로 압축하며 깨달은 '태도'로서의 이력서</description>
-      <guid isPermaLink="false">https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</guid>
-      <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
       <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
@@ -79,34 +72,6 @@
       <pubDate>Tue, 20 Jan 2026 17:10:07 +0000</pubDate>
     </item>
     <item>
-      <title>Anirole으로 0.1초 만에 그림이 완성된다고?</title>
-      <link>https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</link>
-      <description>Anirole 실시간 AI 애니메이션 드로잉 써보고 정리해봄요즘 SNS에서 자주 보이는 영상이 하나 있습니다.왼쪽에 대충 낙서하듯 그림을 그리면,👉 오른쪽에서 거의 동시에 애니메이션 캐릭터가 완성되는 영상.처음엔 “편집 아니야?” 싶었는데,알고 보니 Anirole의 ...</description>
-      <guid isPermaLink="false">https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</guid>
-      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>백엔드 개발자가 알아야 할 프록시</title>
-      <link>https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</link>
-      <description>면접 때 이걸 알았더라면 답변할 수 있었을텐데...</description>
-      <guid isPermaLink="false">https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</guid>
-      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>통계에서 Redis 활용하기</title>
-      <link>https://velog.io/@chae0738/통계에서-Redis-활용하기</link>
-      <description>실시간 집계를 위한 통계 아키텍처 설계 2편</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/통계에서-Redis-활용하기</guid>
-      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>MSW 수작업, 아직 하고 계신가요? Codex로 Postman 자동화해봤습니다</title>
-      <link>https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</link>
-      <description>백엔드 API가 아직 구현되지 않았어도,프론트엔드 개발은 이미 끝까지 진행할 수 있다.필요한 조건은 단 하나다.Postman에 API 스펙(컬렉션)만 정의되어 있을 것이 글에서 소개하는 흐름을 적용하면프론트엔드 개발자는 더 이상 아래 같은 대화를 반복하지 않아도 된다....</description>
-      <guid isPermaLink="false">https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</guid>
-      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
       <title>fetch()에서 await은 왜 두 번 사용할까?</title>
       <link>https://velog.io/@minjaekimm/fetch를-통해-데이터를-받아오는-과정-파헤치기</link>
       <description>JavaScript fetch()의 동작원리에 대해 알아보기</description>
@@ -114,10 +79,10 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
-      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
-      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
+      <title>백엔드 개발자가 알아야 할 프록시</title>
+      <link>https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</link>
+      <description>면접 때 이걸 알았더라면 답변할 수 있었을텐데...</description>
+      <guid isPermaLink="false">https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</guid>
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
@@ -128,17 +93,52 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>내 Github 프로필에 Contribution Card 만들기</title>
+      <title>Anirole으로 0.1초 만에 그림이 완성된다고?</title>
+      <link>https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</link>
+      <description>Anirole 실시간 AI 애니메이션 드로잉 써보고 정리해봄요즘 SNS에서 자주 보이는 영상이 하나 있습니다.왼쪽에 대충 낙서하듯 그림을 그리면,👉 오른쪽에서 거의 동시에 애니메이션 캐릭터가 완성되는 영상.처음엔 “편집 아니야?” 싶었는데,알고 보니 Anirole의 ...</description>
+      <guid isPermaLink="false">https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</guid>
+      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>MSW 수작업, 아직 하고 계신가요? Codex로 Postman 자동화해봤습니다</title>
+      <link>https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</link>
+      <description>백엔드 API가 아직 구현되지 않았어도,프론트엔드 개발은 이미 끝까지 진행할 수 있다.필요한 조건은 단 하나다.Postman에 API 스펙(컬렉션)만 정의되어 있을 것이 글에서 소개하는 흐름을 적용하면프론트엔드 개발자는 더 이상 아래 같은 대화를 반복하지 않아도 된다....</description>
+      <guid isPermaLink="false">https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</guid>
+      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
       <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
       <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
       <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
     </item>
     <item>
-      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
-      <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
-      <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
+      <title>통계에서 Redis 활용하기</title>
+      <link>https://velog.io/@chae0738/통계에서-Redis-활용하기</link>
+      <description>실시간 집계를 위한 통계 아키텍처 설계 2편</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/통계에서-Redis-활용하기</guid>
+      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
+      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
+      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
+      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
+      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
+      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
+      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Next.js + Supabase로 '운명 분석 엔진' 만들고 990원에 푼 썰</title>
+      <link>https://velog.io/@link_dropper/life-spoiler-launch</link>
+      <description>개발자가 점집을 차리면 망할까? : 990원짜리 BM 실험기</description>
+      <guid isPermaLink="false">https://velog.io/@link_dropper/life-spoiler-launch</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
@@ -149,32 +149,18 @@
       <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
     </item>
     <item>
+      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
+      <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
+      <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
       <title>SSE 연결 유실 문제 해결</title>
       <link>https://velog.io/@lgwk0642/SSE-Emitter-연결-유실-문제-해결</link>
       <description>아..안돼..!</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/SSE-Emitter-연결-유실-문제-해결</guid>
       <pubDate>Wed, 21 Jan 2026 17:25:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js + Supabase로 '운명 분석 엔진' 만들고 990원에 푼 썰</title>
-      <link>https://velog.io/@link_dropper/life-spoiler-launch</link>
-      <description>개발자가 점집을 차리면 망할까? : 990원짜리 BM 실험기</description>
-      <guid isPermaLink="false">https://velog.io/@link_dropper/life-spoiler-launch</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
-      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
-      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
-      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>드디어 낋여왔다. 내 맘대로 통계 페이지 제작 후기</title>
-      <link>https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</link>
-      <description>드디어 연말에 만든 서비스의 통계를 가져왔습니다. 이런 저런 후기와 통계를 확인해보세요.</description>
-      <guid isPermaLink="false">https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
       <title>AI랑 뱀서류 게임 개발 - 3D 모델링편</title>
@@ -184,18 +170,18 @@
       <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
     </item>
     <item>
+      <title>드디어 낋여왔다. 내 맘대로 통계 페이지 제작 후기</title>
+      <link>https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</link>
+      <description>드디어 연말에 만든 서비스의 통계를 가져왔습니다. 이런 저런 후기와 통계를 확인해보세요.</description>
+      <guid isPermaLink="false">https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</guid>
+      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
+    </item>
+    <item>
       <title>우아한테크코스 8기 프론트엔드 최종합격 후기</title>
       <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</link>
       <description>우아한테크코스 8기 프론트엔드 과정에 지원하고 합격하기 까지의 과정에 대한 회고.</description>
       <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>보이면 풀려요 #1 - 이해하기 어려운 코드, 대체 뭐가 문제일까?</title>
-      <link>https://velog.io/@rhdmstjr/보이면-풀려요-1-이해하기-어려운-코드-대체-뭐가-문제일까</link>
-      <description>한 기능 파악하려고 파일을 5개 이상 열어야 할 때 - 코드 읽는데 머릿속에 문맥을 계속 들고 있어야 할 때 - 동일한 코드에서 반복적으로 버그가 터질 때 - 리팩토링하고 싶은데 어디서부터 손대야 할지 모를 때</description>
-      <guid isPermaLink="false">https://velog.io/@rhdmstjr/보이면-풀려요-1-이해하기-어려운-코드-대체-뭐가-문제일까</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
       <title>Zustand + Persist?? 운동 많이 된다</title>
@@ -205,6 +191,20 @@
       <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
+      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
+      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
+      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
+      <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>소액결제 정책결제 차단 원인과 이용 제한</title>
+      <link>https://velog.io/@yangiadore/소액결제-앵두티켓</link>
+      <description>/소액결제정책결제-리스크-payment-safety-guide소액결제 정책결제 차단이 왜 발생하는지, 어떤 법적·금융 리스크가 있는지 2026년 기준으로 정리한 소비자 보호 가이드입니다.소액결제 정책결제 차단 원인과 이용 제한최근 소액결제 정책결제 차단이나이용 제한을 ...</description>
+      <guid isPermaLink="false">https://velog.io/@yangiadore/소액결제-앵두티켓</guid>
+      <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[사프일기] 🔥 치이이즈 로그 ...🔥를 드디어 마주하다 (1)</title>
       <link>https://velog.io/@yous_rchive/로그-...를-드디어-마주하다</link>
       <description>안녕안녕 치이이즈 PM 유정입니다 🧀 오늘은 치이이즈를 사이드프로젝트로 돌린지 벌써 어느덧 한 달이 되는 날입니당 아직 치이이즈..를 모른다구요? 그렇다면 치이이즈 구경하러 가기 ✌🏻 고새 큐시즘 인스타에도 올라왔죠 ㅎㅎ 🧀 근황토크 큐시즘 32기를 마무리하고 ! 마지막 학기도 마무리하고 (유예지만) ! 상황이 너무 많이 바뀌면서 개인적으로 ...</description>
@@ -212,11 +212,11 @@
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
-      <title>Suspense 썼는데 HTML에 콘텐츠가 없다? Next.js SEO의 진실</title>
-      <link>https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</link>
-      <description>Next.js 13(App Router) 이후 Streaming SSR과 Suspense는 선택이 아닌 기본 전략이 되어가고 있습니다.사용자 경험(UX) 측면에서 페이지 전체가 로드될 때까지 기다리지 않고, 준비된 부분부터 보여주는 방식은 분명히 합리적인 접근이기 때문...</description>
-      <guid isPermaLink="false">https://velog.io/@njt6419/Suspense-썼는데-HTML에-콘텐츠가-없다-Next.js-SEO의-진실-1xc0nxxe</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+      <title>입사까지의 여정, 그리고 입사 1개월 후 느낀 점</title>
+      <link>https://velog.io/@rlajm1203/join-company</link>
+      <description>첫 회사생활</description>
+      <guid isPermaLink="false">https://velog.io/@rlajm1203/join-company</guid>
+      <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
