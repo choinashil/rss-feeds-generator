@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 04 Feb 2026 17:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 17:19:15 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
@@ -51,6 +51,13 @@
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
+      <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
+      <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
+      <description>OpenClaw를 처음 설치하고 설정하는 전체 과정을 단계별로 안내합니다.Node.js 22 이상 (필수)운영체제: macOS: 그대로 사용 가능Linux: 그대로 사용 가능Windows: WSL2 사용 강력 권장 (네이티브 Windows는 미지원)pnpm (소스에서 ...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</guid>
+      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
+    </item>
+    <item>
       <title>부동산 시스템 개발 후기 - AI 100배 활용하는 법</title>
       <link>https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</link>
       <description>매일 파도를 타라는 것입니다.</description>
@@ -65,13 +72,6 @@
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
-      <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
-      <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
-      <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
-    </item>
-    <item>
       <title>백엔드 개발자가 알아야 할 프록시</title>
       <link>https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</link>
       <description>면접 때 이걸 알았더라면 답변할 수 있었을텐데...</description>
@@ -79,10 +79,31 @@
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
+      <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
+      <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
+      <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
+      <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
       <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
       <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
       <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
+      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
+      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
+      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
+      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
+      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
+      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
@@ -93,39 +114,11 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
-      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
-      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
-      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anirole으로 0.1초 만에 그림이 완성된다고?</title>
-      <link>https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</link>
-      <description>Anirole 실시간 AI 애니메이션 드로잉 써보고 정리해봄요즘 SNS에서 자주 보이는 영상이 하나 있습니다.왼쪽에 대충 낙서하듯 그림을 그리면,👉 오른쪽에서 거의 동시에 애니메이션 캐릭터가 완성되는 영상.처음엔 “편집 아니야?” 싶었는데,알고 보니 Anirole의 ...</description>
-      <guid isPermaLink="false">https://velog.io/@hitpawkr/Anirole으로-0.1초-만에-그림이-완성된다고</guid>
-      <pubDate>Sat, 24 Jan 2026 17:04:34 +0000</pubDate>
-    </item>
-    <item>
       <title>MSW 수작업, 아직 하고 계신가요? Codex로 Postman 자동화해봤습니다</title>
       <link>https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</link>
       <description>백엔드 API가 아직 구현되지 않았어도,프론트엔드 개발은 이미 끝까지 진행할 수 있다.필요한 조건은 단 하나다.Postman에 API 스펙(컬렉션)만 정의되어 있을 것이 글에서 소개하는 흐름을 적용하면프론트엔드 개발자는 더 이상 아래 같은 대화를 반복하지 않아도 된다....</description>
       <guid isPermaLink="false">https://velog.io/@bwj0509/MSW-수작업-아직-하고-계신가요-Codex로-Postman-자동화해봤습니다</guid>
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
-      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
-      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
-      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
-      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
-      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
-      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
       <title>조선개발실록 - [프롤로그] 과거시험을 어찌할꼬</title>
@@ -142,18 +135,18 @@
       <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
+      <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
+      <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
+      <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</guid>
+      <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
+    </item>
+    <item>
       <title>입사까지의 여정, 그리고 입사 1개월 후 느낀 점</title>
       <link>https://velog.io/@rlajm1203/join-company</link>
       <description>첫 회사생활</description>
       <guid isPermaLink="false">https://velog.io/@rlajm1203/join-company</guid>
       <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
-      <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
-      <description>OpenClaw를 처음 설치하고 설정하는 전체 과정을 단계별로 안내합니다.Node.js 22 이상 (필수)운영체제: macOS: 그대로 사용 가능Linux: 그대로 사용 가능Windows: WSL2 사용 강력 권장 (네이티브 Windows는 미지원)pnpm (소스에서 ...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
       <title>🎒 SSAFY 스타트캠프 &amp; 입학식 후기</title>
@@ -170,11 +163,11 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
-      <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
-      <description>재도전해서 좋았다</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
+      <title>AI랑 뱀서류 게임 개발 - 3D 모델링편</title>
+      <link>https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</link>
+      <description>요즘 AI를 최대한 활용해서 1인으로 게임을 개발하고 있다. 옛날부터 내 게임을 만들어서 출시 하고 싶다는 생각은 많이 했는데, 나약한 의지력과 함께 아트 리소스의 벽에 가로 막혀서 매번 제대로 시도도 하지 않고 포기하기 일쑤 였다.</description>
+      <guid isPermaLink="false">https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</guid>
+      <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
     </item>
     <item>
       <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
@@ -184,18 +177,18 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>AI랑 뱀서류 게임 개발 - 3D 모델링편</title>
-      <link>https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</link>
-      <description>요즘 AI를 최대한 활용해서 1인으로 게임을 개발하고 있다. 옛날부터 내 게임을 만들어서 출시 하고 싶다는 생각은 많이 했는데, 나약한 의지력과 함께 아트 리소스의 벽에 가로 막혀서 매번 제대로 시도도 하지 않고 포기하기 일쑤 였다.</description>
-      <guid isPermaLink="false">https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</guid>
-      <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI Prism 사용 후기</title>
       <link>https://velog.io/@zvezda/OpenAI-Prism-사용-후기</link>
       <description>TL;DR &gt; 아직까지 페이퍼 서치가 가장 문제다. Consensus + Tlooto + 여러가지 api를 조합해야..? &gt; Prism은 연구 전체의 워크플로우를 대체하는 것이 아니라, 연구적 글쓰기를 보조하는 툴이다. &gt; 그럼에도, LLM과 overleaf를 왔다갔...</description>
       <guid isPermaLink="false">https://velog.io/@zvezda/OpenAI-Prism-사용-후기</guid>
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
+      <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
+      <description>재도전해서 좋았다</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
+      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
       <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
@@ -205,18 +198,25 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 프론트엔드 최종합격 후기</title>
-      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</link>
-      <description>우아한테크코스 8기 프론트엔드 과정에 지원하고 합격하기 까지의 과정에 대한 회고.</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
+      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
+      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
+      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>드디어 낋여왔다. 내 맘대로 통계 페이지 제작 후기</title>
-      <link>https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</link>
-      <description>드디어 연말에 만든 서비스의 통계를 가져왔습니다. 이런 저런 후기와 통계를 확인해보세요.</description>
-      <guid isPermaLink="false">https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
+      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
+      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
+      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
+      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>젊은 모바일 개발자의 슬픔 (부제: 회사 미워!!)</title>
+      <link>https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</link>
+      <description>모바일 개발자는 왜 고사양의 노트북이 필요한걸까? 회사에 어떻게 말해야할지 모르겠다면 참고해보자!</description>
+      <guid isPermaLink="false">https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
