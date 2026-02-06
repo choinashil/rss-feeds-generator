@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 05 Feb 2026 17:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 17:17:44 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
@@ -65,18 +65,32 @@
       <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
-      <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
-      <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</guid>
-      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
       <title>백엔드 개발자가 알아야 할 프록시</title>
       <link>https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</link>
       <description>면접 때 이걸 알았더라면 답변할 수 있었을텐데...</description>
       <guid isPermaLink="false">https://velog.io/@yereumi/백엔드-개발자가-알아야-할-프록시의-모든것</guid>
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
+      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
+      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
+      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
+      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
+      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
+      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
+      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
+      <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
+      <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</guid>
+      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
       <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
@@ -91,13 +105,6 @@
       <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
-      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
-      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
-      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
@@ -163,18 +170,11 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>AI랑 뱀서류 게임 개발 - 3D 모델링편</title>
-      <link>https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</link>
-      <description>요즘 AI를 최대한 활용해서 1인으로 게임을 개발하고 있다. 옛날부터 내 게임을 만들어서 출시 하고 싶다는 생각은 많이 했는데, 나약한 의지력과 함께 아트 리소스의 벽에 가로 막혀서 매번 제대로 시도도 하지 않고 포기하기 일쑤 였다.</description>
-      <guid isPermaLink="false">https://velog.io/@eugene-doobu/AI로-뱀서류-게임-개발-모델링편</guid>
-      <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
-      <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
-      <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
+      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
+      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
+      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI Prism 사용 후기</title>
@@ -184,18 +184,18 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
+      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
+      <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
+      <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
+      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
       <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
       <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
       <description>재도전해서 좋았다</description>
       <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
-      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
-      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
-      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
@@ -205,17 +205,17 @@
       <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
-      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
-      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
-      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
-    </item>
-    <item>
       <title>젊은 모바일 개발자의 슬픔 (부제: 회사 미워!!)</title>
       <link>https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</link>
       <description>모바일 개발자는 왜 고사양의 노트북이 필요한걸까? 회사에 어떻게 말해야할지 모르겠다면 참고해보자!</description>
       <guid isPermaLink="false">https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
+      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
+      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
+      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
       <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
     </item>
   </channel>
