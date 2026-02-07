@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 06 Feb 2026 17:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 17:08:17 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
@@ -37,11 +37,11 @@
       <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
-      <title>Moltbot 사용법과 리스크: AI에게 PC 실행 권한을 주면 어떻게 될까?</title>
-      <link>https://velog.io/@takuya/moltbot-local-ai-agent-guide</link>
-      <description>GitHub에서 화제인 Moltbot을 해설합니다. Claude API와 로컬 Shell을 연동시켜 DevOps 자동화 등을 실현하는 '실행형' AI 에이전트의 구조, 매력, 그리고 무시할 수 없는 비용과 리스크에 대해 현직 엔지니어 관점에서 심층 분석합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@takuya/moltbot-local-ai-agent-guide</guid>
-      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
+      <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
+      <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
+      <description>OpenClaw를 처음 설치하고 설정하는 전체 과정을 단계별로 안내합니다.Node.js 22 이상 (필수)운영체제: macOS: 그대로 사용 가능Linux: 그대로 사용 가능Windows: WSL2 사용 강력 권장 (네이티브 Windows는 미지원)pnpm (소스에서 ...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</guid>
+      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
       <title>[취준일기①] 주니어😵‍💫의 이력서 다듬기</title>
@@ -51,11 +51,11 @@
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
-      <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
-      <description>OpenClaw를 처음 설치하고 설정하는 전체 과정을 단계별로 안내합니다.Node.js 22 이상 (필수)운영체제: macOS: 그대로 사용 가능Linux: 그대로 사용 가능Windows: WSL2 사용 강력 권장 (네이티브 Windows는 미지원)pnpm (소스에서 ...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
+      <title>Moltbot 사용법과 리스크: AI에게 PC 실행 권한을 주면 어떻게 될까?</title>
+      <link>https://velog.io/@takuya/moltbot-local-ai-agent-guide</link>
+      <description>GitHub에서 화제인 Moltbot을 해설합니다. Claude API와 로컬 Shell을 연동시켜 DevOps 자동화 등을 실현하는 '실행형' AI 에이전트의 구조, 매력, 그리고 무시할 수 없는 비용과 리스크에 대해 현직 엔지니어 관점에서 심층 분석합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@takuya/moltbot-local-ai-agent-guide</guid>
+      <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
       <title>부동산 시스템 개발 후기 - AI 100배 활용하는 법</title>
@@ -79,13 +79,6 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
-      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
-      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
-      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
-      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
-    </item>
-    <item>
       <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
       <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
       <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
@@ -98,6 +91,13 @@
       <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
       <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
+      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
+      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
+      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
+      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
     </item>
     <item>
       <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
@@ -170,13 +170,6 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
-      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
-      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
-      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI Prism 사용 후기</title>
       <link>https://velog.io/@zvezda/OpenAI-Prism-사용-후기</link>
       <description>TL;DR &gt; 아직까지 페이퍼 서치가 가장 문제다. Consensus + Tlooto + 여러가지 api를 조합해야..? &gt; Prism은 연구 전체의 워크플로우를 대체하는 것이 아니라, 연구적 글쓰기를 보조하는 툴이다. &gt; 그럼에도, LLM과 overleaf를 왔다갔...</description>
@@ -184,11 +177,11 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>브레이크포인트 체크 시 innerWidth 대신 matchMedia를 사용해야 하는 이유</title>
-      <link>https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</link>
-      <description>innerWidth vs matchMedia를 비교하며 이벤트 전달 과정에 대해 이해하기</description>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/브레이크포인트-체크-시-innerWidth-대신-matchMedia를-사용해야-하는-이유</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
+      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
+      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
+      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
@@ -198,13 +191,6 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
-      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
-      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
-      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
-    </item>
-    <item>
       <title>젊은 모바일 개발자의 슬픔 (부제: 회사 미워!!)</title>
       <link>https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</link>
       <description>모바일 개발자는 왜 고사양의 노트북이 필요한걸까? 회사에 어떻게 말해야할지 모르겠다면 참고해보자!</description>
@@ -212,11 +198,25 @@
       <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
     </item>
     <item>
-      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
-      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
-      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
-      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
+      <title>n8n을 이용한 GeekNews 요약으로 아침 시작하기</title>
+      <link>https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</link>
+      <description>1. 벨로그 글로 접하게 된 n8n 자동화 벨로그를 읽던 중 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인 라는 흥미로운 글을 발견하게 되었습니다. 블로그 글을 공유 한번으로 요약해서 옵시디언에 정리해주는 자동화 파이프라인은 저에게 흥미롭게 다가왔습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</guid>
+      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
+      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
+      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
+      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
       <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
+      <link>https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</link>
+      <description>OpenClaw 최근 OpenClaw라는 이름이 개발자·AI 커뮤니티에서 뜨겁게 회자되고 있어요. 단순히 인기 있는 오픈소스 프로젝트를 넘어 "AI 비서/자동화 도구의 패러다임"을 바꿔 놓을지도 모른다는 기대를 받고 있죠. 아래에서 그 이유를 정리해 봅니다. Op...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</guid>
+      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
