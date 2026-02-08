@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 07 Feb 2026 17:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 17:08:30 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
@@ -58,11 +58,11 @@
       <pubDate>Wed, 28 Jan 2026 17:13:23 +0000</pubDate>
     </item>
     <item>
-      <title>부동산 시스템 개발 후기 - AI 100배 활용하는 법</title>
-      <link>https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</link>
-      <description>매일 파도를 타라는 것입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@petit-prince/부동산-매물-관리-시스템-개발-실패기록-AI-100배-활용하는-법</guid>
-      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
+      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
+      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
+      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
+      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>백엔드 개발자가 알아야 할 프록시</title>
@@ -72,20 +72,6 @@
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
-      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
-      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
-      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>(번역) 추가 비용 없이 작동하는 아키텍처: 브라우저에서 전부 돌아가는 자산 관리 플랫폼을 만든 이유</title>
-      <link>https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</link>
-      <description>원문: https://medium.com/@mmostagirbhuiyan/the-zero-marginal-cost-architecture-why-i-built-a-wealth-planner-to-run-entirely-on-the-edge-e632ba72749...</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/the-zero-marginal-cost-architecture</guid>
-      <pubDate>Tue, 27 Jan 2026 17:09:42 +0000</pubDate>
-    </item>
-    <item>
       <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
       <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
       <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
@@ -93,18 +79,18 @@
       <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
-      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
-      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
-      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
-      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
-    </item>
-    <item>
       <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
       <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
       <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
+      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
+      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
+      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
+      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
     </item>
     <item>
       <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
@@ -135,13 +121,6 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>통계에서 Redis 활용하기</title>
-      <link>https://velog.io/@chae0738/통계에서-Redis-활용하기</link>
-      <description>실시간 집계를 위한 통계 아키텍처 설계 2편</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/통계에서-Redis-활용하기</guid>
-      <pubDate>Sun, 25 Jan 2026 17:04:32 +0000</pubDate>
-    </item>
-    <item>
       <title>2025년 회고 - 로봇회사 신입으로서의 7개월</title>
       <link>https://velog.io/@dbwls/2025년-회고-신입으로서의-7개월</link>
       <description>좀 많이 늦기도 했고 2025 회고록을 작성할까말까 고민을 많이 했는데, 진짜 힘들었던 올해 나머지 절반에 대한 예의가 아닌 것 같아서 일단 작성하기로 했다.</description>
@@ -154,13 +133,6 @@
       <description>첫 회사생활</description>
       <guid isPermaLink="false">https://velog.io/@rlajm1203/join-company</guid>
       <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🎒 SSAFY 스타트캠프 &amp; 입학식 후기</title>
-      <link>https://velog.io/@tnwlo_0tnwl/SSAFY-스타트캠프입학식-후기</link>
-      <description>스타트캠프부터 입학식까지, SSAFY 15기 초반 기록 + 소소한(?) 에피소드까지</description>
-      <guid isPermaLink="false">https://velog.io/@tnwlo_0tnwl/SSAFY-스타트캠프입학식-후기</guid>
-      <pubDate>Mon, 26 Jan 2026 17:10:56 +0000</pubDate>
     </item>
     <item>
       <title>Next.js + Supabase로 '운명 분석 엔진' 만들고 990원에 푼 썰</title>
@@ -177,6 +149,20 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
+      <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
+      <link>https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</link>
+      <description>OpenClaw 최근 OpenClaw라는 이름이 개발자·AI 커뮤니티에서 뜨겁게 회자되고 있어요. 단순히 인기 있는 오픈소스 프로젝트를 넘어 "AI 비서/자동화 도구의 패러다임"을 바꿔 놓을지도 모른다는 기대를 받고 있죠. 아래에서 그 이유를 정리해 봅니다. Op...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</guid>
+      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
+      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
+      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
+      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+    </item>
+    <item>
       <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
       <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
       <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
@@ -191,11 +177,32 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>젊은 모바일 개발자의 슬픔 (부제: 회사 미워!!)</title>
-      <link>https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</link>
-      <description>모바일 개발자는 왜 고사양의 노트북이 필요한걸까? 회사에 어떻게 말해야할지 모르겠다면 참고해보자!</description>
-      <guid isPermaLink="false">https://velog.io/@hogu59/The-Sorrows-of-Mobile-Developer</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+      <title>면접탈락은 네 탓이라고? '예외 처리' 안 된 커리어코칭에 속지 맙시다. (feat. LinkedIn ‘자칭‘ 커리어코치들)</title>
+      <link>https://velog.io/@chung/면접탈락은-네-탓이라고-예외-처리-안-된-커리어코칭에-속지-맙시다.-feat.-LinkedIn-자칭-커리어코치들</link>
+      <description>사건의 발단 오늘도 평화로운 링크드인. 늘 그렇듯이 쩌는 인사이트 리더들의 영양가 높은 회고와 분석글, 연구자들의 논문 review 글 사이로 이런저런 LinkedIn Lunatics의 똥글들과 자기 PR에 모든 것을 바친 사람들의 기가 막힌 낙관론이 범람한다.</description>
+      <guid isPermaLink="false">https://velog.io/@chung/면접탈락은-네-탓이라고-예외-처리-안-된-커리어코칭에-속지-맙시다.-feat.-LinkedIn-자칭-커리어코치들</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한테크코스 8기 프론트엔드 최종합격 후기</title>
+      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</link>
+      <description>우아한테크코스 8기 프론트엔드 과정에 지원하고 합격하기 까지의 과정에 대한 회고.</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-최종합격-후기</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>윈도우에서 Clawdbot 설정이 안 될 때? 명령어 변경 부터 초기화까지</title>
+      <link>https://velog.io/@sleekydevzero86/fix-moltbot-command-not-found</link>
+      <description>윈도우에서 'moltbot' 명령어가 인식되지 않거나 'gateway token missing' 오류로 막히셨나요? 윈도우용 올바른 명령어(clawdbot) 사용법부터 대시보드 토큰 인증, 그리고 설정이 꼬였을 때 초기화(reset all)하는 방법까지 핵심 해결책을 ...</description>
+      <guid isPermaLink="false">https://velog.io/@sleekydevzero86/fix-moltbot-command-not-found</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>드디어 낋여왔다. 내 맘대로 통계 페이지 제작 후기</title>
+      <link>https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</link>
+      <description>드디어 연말에 만든 서비스의 통계를 가져왔습니다. 이런 저런 후기와 통계를 확인해보세요.</description>
+      <guid isPermaLink="false">https://velog.io/@pdg2491/드디어-낋여왔다.-내-맘대로-통계-페이지-제작-후기</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
     </item>
     <item>
       <title>n8n을 이용한 GeekNews 요약으로 아침 시작하기</title>
@@ -205,18 +212,11 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
-      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
-      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
-      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
-      <link>https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</link>
-      <description>OpenClaw 최근 OpenClaw라는 이름이 개발자·AI 커뮤니티에서 뜨겁게 회자되고 있어요. 단순히 인기 있는 오픈소스 프로젝트를 넘어 "AI 비서/자동화 도구의 패러다임"을 바꿔 놓을지도 모른다는 기대를 받고 있죠. 아래에서 그 이유를 정리해 봅니다. Op...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</guid>
-      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
+      <title>우아한 테크코스 8기 백엔드 최종 합격 후기</title>
+      <link>https://velog.io/@lhs5427ll/우아한-테크코스-8기-백엔드-최종-합격-후기</link>
+      <description>불태워주마</description>
+      <guid isPermaLink="false">https://velog.io/@lhs5427ll/우아한-테크코스-8기-백엔드-최종-합격-후기</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
