@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Feb 2026 17:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 17:24:08 +0000</lastBuildDate>
     <item>
       <title>개발자는 정말 사라질까?</title>
       <link>https://velog.io/@eunseo9808/개발자는-정말-사라질까</link>
       <description>요즘 개발자들 혹은 개발자를 지망하는 분들과 얘기를 나눠보면 빠지지 않는 주제가 있다.“AI로 인해 개발자는 사라지나요?”라는 질문이다.나 역시 이 질문을 계속 곱씹게 된다. 결론부터 말하자면, 개발자는 AI의 영향을 가장 먼저, 가장 직접적으로 받는 직종이라고 생각한...</description>
       <guid isPermaLink="false">https://velog.io/@eunseo9808/개발자는-정말-사라질까</guid>
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>CLAUDE.md 완벽 가이드</title>
-      <link>https://velog.io/@surim014/claude-md-guide</link>
-      <description>원문: https://www.builder.io/blog/claude-md-guide</description>
-      <guid isPermaLink="false">https://velog.io/@surim014/claude-md-guide</guid>
-      <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
     <item>
       <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
@@ -30,9 +23,9 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>[취준일기①] 주니어😵‍💫의 이력서 다듬기</title>
+      <title>취준일기: 주니어😵‍💫의 이력서 다듬기</title>
       <link>https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</link>
-      <description>6장의 기록을 2장의 경험으로 압축하며 깨달은 '태도'로서의 이력서</description>
+      <description>6장의 기록을 2장의 경험으로 압축하며 깨달은, 태도로서의 PM/데이터 분석가 이력서</description>
       <guid isPermaLink="false">https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</guid>
       <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
     </item>
@@ -65,18 +58,18 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
+      <title>[번역] 2026년 프런트엔드 개발자라면 알아야 할 4가지 CSS 기능</title>
+      <link>https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</link>
+      <description>FE 개발자가 알아야 할 CSS 기능은 무엇일까요?</description>
+      <guid isPermaLink="false">https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</guid>
+      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+    </item>
+    <item>
       <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
       <link>https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</link>
       <description>내가 오픈소스 레포지토리에 기여한 걸 어필하는 프로필 카드 만들기</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Github에-내-Contribution-Card-만들기</guid>
       <pubDate>Sun, 01 Feb 2026 17:07:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
-      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
-      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
-      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
-      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
     </item>
     <item>
       <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
@@ -86,11 +79,11 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 2026년 프런트엔드 개발자라면 알아야 할 4가지 CSS 기능</title>
-      <link>https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</link>
-      <description>FE 개발자가 알아야 할 CSS 기능은 무엇일까요?</description>
-      <guid isPermaLink="false">https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</guid>
-      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+      <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
+      <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
+      <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
+      <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
+      <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
     </item>
     <item>
       <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
@@ -114,6 +107,13 @@
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
+      <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
+      <link>https://velog.io/@jujini31/codex-앱-사용-후기</link>
+      <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
+      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+    </item>
+    <item>
       <title>조선개발실록 - [프롤로그] 과거시험을 어찌할꼬</title>
       <link>https://velog.io/@teo/조선개발실록-프롤로그-과거시험을-어찌할꼬</link>
       <description>왕: (답안지를 넘기며) 이상하도다...내관: 전하, 무엇이 불편하시옵니까?왕: 이 답안들을 보거라. 갑의 답, 을의 답, 병의 답...내관: (살펴보며) ...똑같사옵니다.왕: 그렇지 않느냐? 글씨체만 다르고 내용이 판박이다.왕: 과인이 백 장을 보았는데, 아흔 장이...</description>
@@ -135,25 +135,11 @@
       <pubDate>Thu, 29 Jan 2026 17:14:37 +0000</pubDate>
     </item>
     <item>
-      <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
-      <link>https://velog.io/@jujini31/codex-앱-사용-후기</link>
-      <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
-      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenAI Prism 사용 후기</title>
       <link>https://velog.io/@zvezda/OpenAI-Prism-사용-후기</link>
       <description>TL;DR &gt; 아직까지 페이퍼 서치가 가장 문제다. Consensus + Tlooto + 여러가지 api를 조합해야..? &gt; Prism은 연구 전체의 워크플로우를 대체하는 것이 아니라, 연구적 글쓰기를 보조하는 툴이다. &gt; 그럼에도, LLM과 overleaf를 왔다갔...</description>
       <guid isPermaLink="false">https://velog.io/@zvezda/OpenAI-Prism-사용-후기</guid>
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js + Supabase로 '운명 분석 엔진' 만들고 990원에 푼 썰</title>
-      <link>https://velog.io/@link_dropper/life-spoiler-launch</link>
-      <description>개발자가 점집을 차리면 망할까? : 990원짜리 BM 실험기</description>
-      <guid isPermaLink="false">https://velog.io/@link_dropper/life-spoiler-launch</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
       <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
@@ -170,13 +156,6 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
-      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
-      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
-      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
       <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
       <description>재도전해서 좋았다</description>
@@ -184,18 +163,18 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
+      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
+      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
+      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
+      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+    </item>
+    <item>
       <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
       <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
       <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
       <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
-      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
-      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
@@ -217,6 +196,27 @@
       <description>불태워주마</description>
       <guid isPermaLink="false">https://velog.io/@lhs5427ll/우아한-테크코스-8기-백엔드-최종-합격-후기</guid>
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
+      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
+      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code × Superpowers: 39k 스타 최강 플러그인 체험기</title>
+      <link>https://velog.io/@takuya/claude-code-superpowers-guide</link>
+      <description>GitHub에서 화제인 Superpowers를 사용해 Claude Code를 단순 코더에서 숙련된 아키텍트로 진화시키는 방법을 해설합니다. 서브 에이전트 기능과 TDD 강제를 통해 AI 개발 품질을 비약적으로 향상시키는 실천적 플로우를 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@takuya/claude-code-superpowers-guide</guid>
+      <pubDate>Wed, 11 Feb 2026 17:24:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>카드결제현금화 전문가들이 강력히 말리는 이유와 리스크 분석</title>
+      <link>https://velog.io/@iwatosamilsha686/카드결제현금화-앵두티켓</link>
+      <description>좋습니다. 요청하신 SEO 딥-리라이터 기준에 맞춰 공익적 정보 구조로 재구성했습니다.(스팸 필터 리스크 0% 방향, 소비자 보호 중심 서술)/카드결제현금화-위험성-financial-risk-guide카드결제현금화의 위험성과 법적 리스크를 2026년 기준으로 정리했습니...</description>
+      <guid isPermaLink="false">https://velog.io/@iwatosamilsha686/카드결제현금화-앵두티켓</guid>
+      <pubDate>Wed, 11 Feb 2026 17:24:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
