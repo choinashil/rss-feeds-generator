@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 12 Feb 2026 17:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 17:18:41 +0000</lastBuildDate>
     <item>
       <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
       <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
@@ -16,11 +16,11 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>취준일기: 주니어😵‍💫의 이력서 다듬기</title>
-      <link>https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</link>
-      <description>6장의 기록을 2장의 경험으로 압축하며 깨달은, 태도로서의 PM/데이터 분석가 이력서</description>
-      <guid isPermaLink="false">https://velog.io/@yous_rchive/취준일기-주니어의-이력서-다듬기</guid>
-      <pubDate>Fri, 30 Jan 2026 17:14:31 +0000</pubDate>
+      <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
+      <link>https://velog.io/@teo/ai-agent-prolog</link>
+      <description>'진짜 한번 해볼까? 한번 코드를 내가 직접 작성하지 않고 어디까지 가능할지를 확인해봐야겠다! 한계를 정확히 알아줘야지'두달전 재미로 시작하게 된 사이드 프로젝트에서 시작한 에이전트 기반 코딩은 단순하게 "채팅만으로 어디까지 코딩할 수 있을까?"로 시작해서 지금은 에이...</description>
+      <guid isPermaLink="false">https://velog.io/@teo/ai-agent-prolog</guid>
+      <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
     </item>
     <item>
       <title>[번역] 리액트가 마침내 가장 큰 문제를 해결했습니다 - `useEffectEvent`의 묘미</title>
@@ -35,6 +35,13 @@
       <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
       <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
+      <link>https://velog.io/@jujini31/codex-앱-사용-후기</link>
+      <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
+      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
     </item>
     <item>
       <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
@@ -58,10 +65,10 @@
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>입사 3개월 차 신입이 잡코리아 메인페이지를 만들기까지</title>
-      <link>https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</link>
-      <description>안녕하세요 프론트엔드 개발자 김재균입니다.해당 글은 기술적인 구현보다는,입사 3개월 차 신입으로서주어진 역할을 어떤 태도로 받아들였는지를 돌아보는 회고입니다 😊글의 맥락을 위해 제 배경을 간단히 설명하자면,저는 광주소프트웨어마이스터고등학교를 재학하며 작년 10월 말부...</description>
-      <guid isPermaLink="false">https://velog.io/@jaegyun/입사-3개월-차-신입이-잡코리아-메인페이지를-만들기까지</guid>
+      <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
+      <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
+      <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
       <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
@@ -77,20 +84,6 @@
       <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
       <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
       <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>회사합격 그러나 부트캠프 선택, 2025년 하반기 회고</title>
-      <link>https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</link>
-      <description>열심히 달려온 4년간의 대학생활을 마치고 취업 준비생이 되었다. 막학기까지 동아리, 인턴, 축제 부스 개발 등으로 너무 바쁘게 지내다 보니 이제서야 본격적으로 공채를 찾아보며 지원을 시작하게 되었다. 그 과정에서 몰랐던 회사들도 많이 알게 되었고..</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사합격-그러나-부트캠프-선택-2025년-하반기-회고</guid>
-      <pubDate>Sat, 31 Jan 2026 17:07:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
-      <link>https://velog.io/@jujini31/codex-앱-사용-후기</link>
-      <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
-      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
     </item>
     <item>
       <title>사회초년생 개발자의 2025년 회고록</title>
@@ -121,11 +114,11 @@
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
-      <title>OpenAI Prism 사용 후기</title>
-      <link>https://velog.io/@zvezda/OpenAI-Prism-사용-후기</link>
-      <description>TL;DR &gt; 아직까지 페이퍼 서치가 가장 문제다. Consensus + Tlooto + 여러가지 api를 조합해야..? &gt; Prism은 연구 전체의 워크플로우를 대체하는 것이 아니라, 연구적 글쓰기를 보조하는 툴이다. &gt; 그럼에도, LLM과 overleaf를 왔다갔...</description>
-      <guid isPermaLink="false">https://velog.io/@zvezda/OpenAI-Prism-사용-후기</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+      <title>n8n을 이용한 GeekNews 요약으로 아침 시작하기</title>
+      <link>https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</link>
+      <description>1. 벨로그 글로 접하게 된 n8n 자동화 벨로그를 읽던 중 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인 라는 흥미로운 글을 발견하게 되었습니다. 블로그 글을 공유 한번으로 요약해서 옵시디언에 정리해주는 자동화 파이프라인은 저에게 흥미롭게 다가왔습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</guid>
+      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
       <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
@@ -140,13 +133,6 @@
       <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
       <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
       <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>n8n을 이용한 GeekNews 요약으로 아침 시작하기</title>
-      <link>https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</link>
-      <description>1. 벨로그 글로 접하게 된 n8n 자동화 벨로그를 읽던 중 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인 라는 흥미로운 글을 발견하게 되었습니다. 블로그 글을 공유 한번으로 요약해서 옵시디언에 정리해주는 자동화 파이프라인은 저에게 흥미롭게 다가왔습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</guid>
-      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
@@ -170,13 +156,6 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>Swift 멘토를 Skill로 만들어버리기 (with Claude Code)</title>
-      <link>https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</link>
-      <description>나만의 Swift 멘토 만들어버리기</description>
-      <guid isPermaLink="false">https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한 테크코스 8기 백엔드 최종 합격 후기</title>
       <link>https://velog.io/@lhs5427ll/우아한-테크코스-8기-백엔드-최종-합격-후기</link>
       <description>불태워주마</description>
@@ -184,10 +163,38 @@
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
     </item>
     <item>
+      <title>Swift 멘토를 Skill로 만들어버리기 (with Claude Code)</title>
+      <link>https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</link>
+      <description>나만의 Swift 멘토 만들어버리기</description>
+      <guid isPermaLink="false">https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI시대.. 개발자의 길은 옳은가?</title>
+      <link>https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</link>
+      <description>무턱대고 개발자 취준하고 서울로 상경한지 벌써 1년... 몸과 마음이 썩어 문드러지며 맘 고생하는 도중에 주변 개발자들의 곡소리가 들린다.. 아직 취업도 못한 내가 이 개발자 시장을 버텨낼 수 있을까??AI가 발전하면서 개인 개발자의 지식보다 많은 데이터를 맛있게 먹은...</description>
+      <guid isPermaLink="false">https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</guid>
+      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
+    </item>
+    <item>
       <title>'Opus 4.6' 확장됨 이게 뭐지</title>
       <link>https://velog.io/@dbwls/Opus-4.6-확장됨-이게-뭔데</link>
       <description>오늘 익숙하게 claude에 들어가 코드를 뽑아내고자 했다.그런데Opus 4.6 확장됨이라고 떠있는데 난 Opus 4.5 애용자였으나 출장 중이라 예고도 못 들었어서 잠깐 당황했지만,일단 업그레이드됐으니까 기분이 좋은 김에 정리해보고자 했다.바로 어제 2026년 2월 ...</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Opus-4.6-확장됨-이게-뭔데</guid>
+      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[면접] "당연히 11인 줄 알았는데 2라고?"</title>
+      <link>https://velog.io/@hkh1213/면접-당연히-11인-줄-알았는데-2라고</link>
+      <description>오늘 면접장에서 코드 한 장을 받았습니다. 4년 동안 자바로 밥 벌어 먹고살았기에, 생성자 정도는 눈 감고도 짠다는 자신감이 있었죠. 하지만 결과는 처참했습니다. 여러분도 아래 코드를 보고 10초 안에 결과를 맞춰보세요.당연히 10과 12라고 생각하셨나요?축하합니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@hkh1213/면접-당연히-11인-줄-알았는데-2라고</guid>
+      <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[치이이즈 사프일기 ➋] 돈 쓸 가치가 있는 프로젝트를 매니징하기</title>
+      <link>https://velog.io/@yous_rchive/치이이즈-사프일기-돈-쓰는-프로젝트라-미안해</link>
+      <description>이번 포스트에서는 치이이즈가 시도한 4가지 대표 프로모션 전략과, 각 방식에 대한 KPT, 마지막으로 프로모션의 효과를 정량적으로 판단하며 매몰 비용을 수렴시켜 나가는 유의성 검증 과정을 다루어볼까 합니다. 🪧</description>
+      <guid isPermaLink="false">https://velog.io/@yous_rchive/치이이즈-사프일기-돈-쓰는-프로젝트라-미안해</guid>
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
@@ -198,13 +205,6 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>[치이이즈 사프일기 ➋] 돈 쓸 가치가 있는 프로젝트를 매니징하기</title>
-      <link>https://velog.io/@yous_rchive/치이이즈-사프일기-돈-쓰는-프로젝트라-미안해</link>
-      <description>이번 포스트에서는 치이이즈가 시도한 4가지 대표 프로모션 전략과, 각 방식에 대한 KPT, 마지막으로 프로모션의 효과를 정량적으로 판단하며 매몰 비용을 수렴시켜 나가는 유의성 검증 과정을 다루어볼까 합니다. 🪧</description>
-      <guid isPermaLink="false">https://velog.io/@yous_rchive/치이이즈-사프일기-돈-쓰는-프로젝트라-미안해</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>쿠키야 왜 거기 있니</title>
       <link>https://velog.io/@d0kyoung/delicious-cookies</link>
       <description>인증 장애는 JWT 문제가 아니라 HTTP, 브라우저, 프레임워크 경계에서 터진다.</description>
@@ -212,11 +212,11 @@
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>AI시대.. 개발자의 길은 옳은가?</title>
-      <link>https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</link>
-      <description>무턱대고 개발자 취준하고 서울로 상경한지 벌써 1년... 몸과 마음이 썩어 문드러지며 맘 고생하는 도중에 주변 개발자들의 곡소리가 들린다.. 아직 취업도 못한 내가 이 개발자 시장을 버텨낼 수 있을까??AI가 발전하면서 개인 개발자의 지식보다 많은 데이터를 맛있게 먹은...</description>
-      <guid isPermaLink="false">https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
+      <title>법인카드현금화 경고 리스크와 안전 정보 가이드</title>
+      <link>https://velog.io/@tasukushim/법인카드현금화-경고-리스크와-안전-정보-가이드</link>
+      <description>법인카드현금화란 무엇인지, 왜 주의가 필요한지실제로 겪을 수 있는 리스크 경험 정리정보통신망법·여신전문금융업법 관점에서 본 위험 요소요즘 검색창에 법인카드현금화라는 단어를 치는 분들,솔직히 조금은 급하고… 조금은 막막한 상황이 아닐까 싶어요.저 역시 회사 운영비가 꼬였...</description>
+      <guid isPermaLink="false">https://velog.io/@tasukushim/법인카드현금화-경고-리스크와-안전-정보-가이드</guid>
+      <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
