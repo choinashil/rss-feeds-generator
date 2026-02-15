@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 14 Feb 2026 17:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 17:08:10 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
@@ -30,18 +30,18 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
-      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
-      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
-      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
       <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
       <link>https://velog.io/@jujini31/codex-앱-사용-후기</link>
       <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
+      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
+      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
+      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
@@ -58,25 +58,11 @@
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub 프로필에 '오픈소스 기여 내역' 자동으로 추가하기</title>
-      <link>https://velog.io/@dbwls/GitHub-프로필에-오픈소스-기여-내역-자동으로-추가하기</link>
-      <description>이전에 오픈소스에 기여하면서 관련하여 작은 관심이 생겼다. 그러나 이 관심에 대한 이유를 생각해보니 차곡차곡 쌓여가는 내 기여 목록 때문인 것 같다. (물론 지금까지 두 번밖에 안 했지만) 여튼, 결국 스스로의 스펙이 되려면 이를 누군가가 알아줘야 할 텐데 나처럼 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/GitHub-프로필에-오픈소스-기여-내역-자동으로-추가하기</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[번역] 성능과 하이라이팅을 모두 잡는 CSS Highlights API</title>
       <link>https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</link>
       <description>CSS만으로 하이라이팅을 구현하기! 🖍️</description>
       <guid isPermaLink="false">https://velog.io/@typo/high-performance-syntax-highlighting-with-css-highlights-api</guid>
       <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>사회초년생 개발자의 2025년 회고록</title>
-      <link>https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</link>
-      <description>드디어 졸업이다...!</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>MacOS 스크린샷 앱을 만들었습니다.</title>
@@ -86,11 +72,11 @@
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>입사까지의 여정, 그리고 입사 1개월 후 느낀 점</title>
-      <link>https://velog.io/@rlajm1203/join-company</link>
-      <description>첫 회사생활</description>
-      <guid isPermaLink="false">https://velog.io/@rlajm1203/join-company</guid>
-      <pubDate>Mon, 02 Feb 2026 17:16:31 +0000</pubDate>
+      <title>사회초년생 개발자의 2025년 회고록</title>
+      <link>https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</link>
+      <description>드디어 졸업이다...!</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>조선개발실록 - [프롤로그] 과거시험을 어찌할꼬</title>
@@ -107,11 +93,11 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 생산성 향상 10가지 팁 (Anthropic 팀과 Claude Code 개발자가 직접 밝힌)</title>
-      <link>https://velog.io/@skydoves/anthropic-10-tips</link>
-      <description>동시에 3~5개의 git worktree를 띄우고, 각각에서 별도의 Claude 세션을 병렬로 실행해라. 팀에서 생산성을 가장 크게 끌어올린 팁 중 하나라고 한다. 많은 팀원들이 worktree를 선호하며, 쉘 alias(za, zb, zc 등)로 즉시 전환하거나, 로...</description>
-      <guid isPermaLink="false">https://velog.io/@skydoves/anthropic-10-tips</guid>
-      <pubDate>Thu, 05 Feb 2026 17:19:15 +0000</pubDate>
+      <title>[아티짹] 기술 블로그 구독 서비스 개발기</title>
+      <link>https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</link>
+      <description>여러분도 사용해 보세요! 무료에요!!</description>
+      <guid isPermaLink="false">https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
@@ -121,18 +107,18 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
-      <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
-      <description>재도전해서 좋았다</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
-    </item>
-    <item>
       <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
       <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
       <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
       <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
       <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
+      <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
+      <description>재도전해서 좋았다</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
+      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
       <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
@@ -156,11 +142,11 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>AI시대.. 개발자의 길은 옳은가?</title>
-      <link>https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</link>
-      <description>무턱대고 개발자 취준하고 서울로 상경한지 벌써 1년... 몸과 마음이 썩어 문드러지며 맘 고생하는 도중에 주변 개발자들의 곡소리가 들린다.. 아직 취업도 못한 내가 이 개발자 시장을 버텨낼 수 있을까??AI가 발전하면서 개인 개발자의 지식보다 많은 데이터를 맛있게 먹은...</description>
-      <guid isPermaLink="false">https://velog.io/@ljh098/AI시대..-개발자의-길은-옳은가</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
+      <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
+      <link>https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</link>
+      <description>이전 글에서 WebFlux 환경에서 분산 락을 Reactive 체인의 라이프사이클에 맞춰 안전하게 관리하는 방법을 다뤘습니다.락 획득과 해제 시점이 트랜잭션 커밋과 정확히 맞물리게 만들었고, 기능적으로는 문제가 없었습니다.하지만 부하 테스트를 통해 성능 측면에서 3가지...</description>
+      <guid isPermaLink="false">https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</guid>
+      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
       <title>'Opus 4.6' 확장됨 이게 뭐지</title>
@@ -177,17 +163,10 @@
       <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
-      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
-      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
-      <link>https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</link>
-      <description>이전 글에서 WebFlux 환경에서 분산 락을 Reactive 체인의 라이프사이클에 맞춰 안전하게 관리하는 방법을 다뤘습니다.락 획득과 해제 시점이 트랜잭션 커밋과 정확히 맞물리게 만들었고, 기능적으로는 문제가 없었습니다.하지만 부하 테스트를 통해 성능 측면에서 3가지...</description>
-      <guid isPermaLink="false">https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</guid>
+      <title>AI 에이전트들끼리 소통하는 SNS를 만들면 어떻게 될까? 🦞</title>
+      <link>https://velog.io/@inourbubble2/openclaw-moltbook</link>
+      <description>특히 AI Agent 시대에 어떤 일이 일어나고 있고, 왜 새로운 측면의 보안이 필요해졌는지를 중점으로 말해보고자 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@inourbubble2/openclaw-moltbook</guid>
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
@@ -198,11 +177,32 @@
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>AI 에이전트들끼리 소통하는 SNS를 만들면 어떻게 될까? 🦞</title>
-      <link>https://velog.io/@inourbubble2/openclaw-moltbook</link>
-      <description>특히 AI Agent 시대에 어떤 일이 일어나고 있고, 왜 새로운 측면의 보안이 필요해졌는지를 중점으로 말해보고자 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@inourbubble2/openclaw-moltbook</guid>
+      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
+      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
+      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code를 200% 활용하는 방법: spec-kit, Everything Claude Code, Oh My ClaudeCode 완벽 가이드</title>
+      <link>https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</link>
+      <description>"AI를 팀으로 받아들이려면, 도구보다 프로세스를 먼저 설계해야 한다." - Anthropic x Forum Ventures 해커톤 우승자 Affaan Mustafa지난 포스팅에서 AI Agent의 개념과 코딩 도구들의 비교, 그리고 환각 현상을 줄이는 방법에 대해 다...</description>
+      <guid isPermaLink="false">https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</guid>
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>갤럭시북6 프로 14</title>
+      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
+      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
+      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이트댄스 시댄스 2.0 튜토리얼: 시댄스 2.0 사용 방법은?</title>
+      <link>https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</link>
+      <description>AI 비디오 생성 분야의 판도가 바뀌었습니다. 틱톡(TikTok)을 만든 바이트댄스(ByteDance)에서 시댄스 2.0을 출시하면서 상상과 영화 같은 현실 사이의 장벽이 사라졌습니다. 초현실적인 단편 영화를 만들고 싶든, 바이럴 소셜 미디어 클립을 만들고 싶든, 시댄...</description>
+      <guid isPermaLink="false">https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>Terminal Multiplexer TMUX로 깔끔하게 병렬처리하기</title>
@@ -212,11 +212,11 @@
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code를 200% 활용하는 방법: spec-kit, Everything Claude Code, Oh My ClaudeCode 완벽 가이드</title>
-      <link>https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</link>
-      <description>"AI를 팀으로 받아들이려면, 도구보다 프로세스를 먼저 설계해야 한다." - Anthropic x Forum Ventures 해커톤 우승자 Affaan Mustafa지난 포스팅에서 AI Agent의 개념과 코딩 도구들의 비교, 그리고 환각 현상을 줄이는 방법에 대해 다...</description>
-      <guid isPermaLink="false">https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
+      <title>처음 참여해본 오픈소스 기여모임 10기 참여 후기</title>
+      <link>https://velog.io/@qqbck123/오픈소스-기여모임-10기-참여-후기</link>
+      <description>안녕하세요!서운입니다 오늘은 오픈소스 기여모임에 참여하게된 내용을 여러분들께 알려드리고자 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@qqbck123/오픈소스-기여모임-10기-참여-후기</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
