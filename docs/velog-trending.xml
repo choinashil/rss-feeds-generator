@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 15 Feb 2026 17:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 17:16:22 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
@@ -37,13 +37,6 @@
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
     </item>
     <item>
-      <title>OpenClaw 도전기: 실패에서 배운 로컬 LLM 환경 구축</title>
-      <link>https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</link>
-      <description>최근 개발자 커뮤니티, 특히 유튜브에서 OpenClaw에 대한 칭찬이 도배되고 있다. OpenCode, Oh My OpenCode, OpenManus와 함께 시도해보고 싶었지만, 가장 핫한 OpenClaw를 먼저 선택했다. 결론부터 말하자면 실패했다. 하지만 그 과정에...</description>
-      <guid isPermaLink="false">https://velog.io/@kki5629/OpenClaw-도전기-실패에서-배운-로컬-LLM-환경-구축</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
       <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
       <link>https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</link>
       <description>OpenClaw 최근 OpenClaw라는 이름이 개발자·AI 커뮤니티에서 뜨겁게 회자되고 있어요. 단순히 인기 있는 오픈소스 프로젝트를 넘어 "AI 비서/자동화 도구의 패러다임"을 바꿔 놓을지도 모른다는 기대를 받고 있죠. 아래에서 그 이유를 정리해 봅니다. Op...</description>
@@ -65,18 +58,18 @@
       <pubDate>Fri, 06 Feb 2026 17:17:44 +0000</pubDate>
     </item>
     <item>
-      <title>MacOS 스크린샷 앱을 만들었습니다.</title>
-      <link>https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</link>
-      <description>깃허브 스타 200개가 넘을줄 몰랐습니다...</description>
-      <guid isPermaLink="false">https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>사회초년생 개발자의 2025년 회고록</title>
       <link>https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</link>
       <description>드디어 졸업이다...!</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/사회초년생-개발자의-2025년-회고록</guid>
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>MacOS 스크린샷 앱을 만들었습니다.</title>
+      <link>https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</link>
+      <description>깃허브 스타 200개가 넘을줄 몰랐습니다...</description>
+      <guid isPermaLink="false">https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</guid>
+      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>조선개발실록 - [프롤로그] 과거시험을 어찌할꼬</title>
@@ -93,11 +86,11 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>[아티짹] 기술 블로그 구독 서비스 개발기</title>
-      <link>https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</link>
-      <description>여러분도 사용해 보세요! 무료에요!!</description>
-      <guid isPermaLink="false">https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</guid>
-      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
+      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
+      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
+      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
+      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
     </item>
     <item>
       <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
@@ -107,13 +100,6 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>AI는 왜 Storybook을 모를까? — MCP 서버를 만든 이유</title>
-      <link>https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</link>
-      <description>AI 도구가 빠르게 발전하면서 개발 자체는 점점 쉬워지고 있다. 하지만 막상 팀 단위 개발을 하다 보면, 여전히 가장 많이 드는 고민은 이거다. &gt; *“AI로 개발하면 편해지긴 했는데, 매번 결과물을 다시 고치고 있는 건 왜일까?”* 이 글은 **사내 서비스 개발...</description>
-      <guid isPermaLink="false">https://velog.io/@bwj0509/AI는-왜-Storybook을-모를까-MCP-서버를-만든-이유</guid>
-      <pubDate>Tue, 03 Feb 2026 17:21:28 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
       <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
       <description>재도전해서 좋았다</description>
@@ -121,11 +107,11 @@
       <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
-      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
-      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
-      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
-      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+      <title>[아티짹] 기술 블로그 구독 서비스 개발기</title>
+      <link>https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</link>
+      <description>여러분도 사용해 보세요! 무료에요!!</description>
+      <guid isPermaLink="false">https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>우아한 테크코스 8기 백엔드 최종 합격 후기</title>
@@ -133,6 +119,13 @@
       <description>불태워주마</description>
       <guid isPermaLink="false">https://velog.io/@lhs5427ll/우아한-테크코스-8기-백엔드-최종-합격-후기</guid>
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)</title>
+      <link>https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</link>
+      <description>왕: 칠일이 지났다. 영의정, 좌의정. 무엇을 찾아왔느냐?영의정: 전하, 신이 조사한 바로는 인공지에게 명을 내릴 때 자세하게 써야 한다 하옵니다.왕: 자세하게?영의정: 그러하옵니다. 프람특(頗喇暮特)이라 하여, 명령문을 상세히 적을수록 좋은 결과가 나온다 하옵니다.좌...</description>
+      <guid isPermaLink="false">https://velog.io/@teo/조선개발실록-제1화-이름을-알아야-부른다-知名乃呼</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>Swift 멘토를 Skill로 만들어버리기 (with Claude Code)</title>
@@ -156,41 +149,6 @@
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>[면접] "당연히 11인 줄 알았는데 2라고?"</title>
-      <link>https://velog.io/@hkh1213/면접-당연히-11인-줄-알았는데-2라고</link>
-      <description>오늘 면접장에서 코드 한 장을 받았습니다. 4년 동안 자바로 밥 벌어 먹고살았기에, 생성자 정도는 눈 감고도 짠다는 자신감이 있었죠. 하지만 결과는 처참했습니다. 여러분도 아래 코드를 보고 10초 안에 결과를 맞춰보세요.당연히 10과 12라고 생각하셨나요?축하합니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@hkh1213/면접-당연히-11인-줄-알았는데-2라고</guid>
-      <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 에이전트들끼리 소통하는 SNS를 만들면 어떻게 될까? 🦞</title>
-      <link>https://velog.io/@inourbubble2/openclaw-moltbook</link>
-      <description>특히 AI Agent 시대에 어떤 일이 일어나고 있고, 왜 새로운 측면의 보안이 필요해졌는지를 중점으로 말해보고자 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@inourbubble2/openclaw-moltbook</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KB 국민은행] IT’s Your Life 7기(전공자) 최종 합격 후기</title>
-      <link>https://velog.io/@rocker_nun/KB-국민은행-ITs-Your-Life-7기전공자-최종-합격-후기</link>
-      <description>우테코 불합격 이후, 내가 원하는 기업의 직무에 맞는 프로젝트를 개인적으로 진행하면서 코딩 테스트 대비도 열심히 하던 중, KB 국민은행과 멀티캠퍼스에서 주관하는 IT’s Your Life 7기 모집 공고를 보게 되었다. 원래는 우테코나 소프트웨어 마에스트로, 싸피 이...</description>
-      <guid isPermaLink="false">https://velog.io/@rocker_nun/KB-국민은행-ITs-Your-Life-7기전공자-최종-합격-후기</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
-      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
-      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code를 200% 활용하는 방법: spec-kit, Everything Claude Code, Oh My ClaudeCode 완벽 가이드</title>
-      <link>https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</link>
-      <description>"AI를 팀으로 받아들이려면, 도구보다 프로세스를 먼저 설계해야 한다." - Anthropic x Forum Ventures 해커톤 우승자 Affaan Mustafa지난 포스팅에서 AI Agent의 개념과 코딩 도구들의 비교, 그리고 환각 현상을 줄이는 방법에 대해 다...</description>
-      <guid isPermaLink="false">https://velog.io/@sammy0329/Claude-Code를-200-활용하는-방법-spec-kit-Everything-Claude-Code-Oh-My-ClaudeCode-완벽-가이드</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
-    </item>
-    <item>
       <title>갤럭시북6 프로 14</title>
       <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
       <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
@@ -205,6 +163,13 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
+      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
+      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
+      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Terminal Multiplexer TMUX로 깔끔하게 병렬처리하기</title>
       <link>https://velog.io/@rookedsysc/Terminal-Multiplexer-TMUX로-깔끔하게-병렬처리하기</link>
       <description>이번에 zellij에서 tmux 환경으로 전환을 하게 되었습니다. workmux라는 도구를 사용해보고 싶어서 였습니다. 사용경험이 너무 좋아 공유 드리고자 글을 작성하게 되었습니다.터미널 멀티 플렉서의 종류로는 tmux, zellij 등이 있습니다. 터미널 멀티 플렉서...</description>
@@ -217,6 +182,41 @@
       <description>안녕하세요!서운입니다 오늘은 오픈소스 기여모임에 참여하게된 내용을 여러분들께 알려드리고자 합니다.</description>
       <guid isPermaLink="false">https://velog.io/@qqbck123/오픈소스-기여모임-10기-참여-후기</guid>
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>kt cloud TECH UP 프론트엔드 참여 후기</title>
+      <link>https://velog.io/@ksh-g001/kt-cloud-TECH-UP-프론트엔드-참여-후기</link>
+      <description>2025년 경기도 청년사다리를 마치고 어슬렁거리다가 kt cloud TECH UP을 발견했다. "안드로이드 네이티브 앱개발자 지망생이지만 웹 프레임워크도 알면 좋지 않을까, 웹앱까지 커버할 수 있는 개발자가 될려면 웹의 환경도 이해를 해야 좋지 않을까?!" 하는 마음으...</description>
+      <guid isPermaLink="false">https://velog.io/@ksh-g001/kt-cloud-TECH-UP-프론트엔드-참여-후기</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>쿠키야 왜 거기 있니</title>
+      <link>https://velog.io/@d0kyoung/delicious-cookies</link>
+      <description>인증 장애는 JWT 문제가 아니라 HTTP, 브라우저, 프레임워크 경계에서 터진다.</description>
+      <guid isPermaLink="false">https://velog.io/@d0kyoung/delicious-cookies</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Node.js는 싱글 스레드인데 어떻게 1000개 요청을 동시에 처리할까?</title>
+      <link>https://velog.io/@snowfe/Node.js는-싱글-스레드인데-어떻게-1000개-요청을-동시에-처리할까</link>
+      <description>지난 글에서 Node.js가 싱글 스레드라는 것을 배웠다. JavaScript를 실행하는 Call Stack이 하나여서, 한 번에 함수 하나만 실행할 수 있다는 것도 알았다. 하지만 여기서 의문이 생긴다...</description>
+      <guid isPermaLink="false">https://velog.io/@snowfe/Node.js는-싱글-스레드인데-어떻게-1000개-요청을-동시에-처리할까</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고록] 완전 대박 늦은 2025년 회고</title>
+      <link>https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</link>
+      <description>2025년에 있었던 일과 느낀 점, 배운 점 등을 매우 가볍게 풀어보려고 합니다.. 사실 그냥 제 혼잣말을 두서없이 주절주절 푸는 느낌일 것 같긴하지만 ㅎㅎ 탈락의 고베, 멘붕, 그리고 극복 다양한 회사에 서류를 제출했고, 정말로 꿈에 그리던 기업들의 면접 전형까...</description>
+      <guid isPermaLink="false">https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>이번주에 클로드와 함께 개발하며 생각한 것들</title>
+      <link>https://velog.io/@hey-sion/이번주에-클로드와-함께-개발하며-생각한-것들</link>
+      <description>회원가입, 내 정보 조회, 비밀번호 변경하기 기능을 개발하면서클로드에게 질문하고, 혼자 생각했던 내용을 정리한 기록예전에 언젠가 봤던 테스트 코드 강의에서 TDD는 red-green-refactor 패턴으로 하는게 정석(?)이라는 말을 들어본 기억이 났다. 그래, 그럼...</description>
+      <guid isPermaLink="false">https://velog.io/@hey-sion/이번주에-클로드와-함께-개발하며-생각한-것들</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
