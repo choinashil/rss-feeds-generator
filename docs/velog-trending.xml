@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Feb 2026 17:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:26:01 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
       <description>'진짜 한번 해볼까? 한번 코드를 내가 직접 작성하지 않고 어디까지 가능할지를 확인해봐야겠다! 한계를 정확히 알아줘야지'두달전 재미로 시작하게 된 사이드 프로젝트에서 시작한 에이전트 기반 코딩은 단순하게 "채팅만으로 어디까지 코딩할 수 있을까?"로 시작해서 지금은 에이...</description>
       <guid isPermaLink="false">https://velog.io/@teo/ai-agent-prolog</guid>
       <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 2편 - 설치 및 설정 완벽 가이드</title>
-      <link>https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</link>
-      <description>OpenClaw를 처음 설치하고 설정하는 전체 과정을 단계별로 안내합니다.Node.js 22 이상 (필수)운영체제: macOS: 그대로 사용 가능Linux: 그대로 사용 가능Windows: WSL2 사용 강력 권장 (네이티브 Windows는 미지원)pnpm (소스에서 ...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClaw-설치-및-설정-완벽-가이드</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
     </item>
     <item>
       <title>[번역] 리액트가 마침내 가장 큰 문제를 해결했습니다 - `useEffectEvent`의 묘미</title>
@@ -35,13 +28,6 @@
       <description>최근 AI 생산성 도구들이 쏟아지는 가운데 OpenAI에서 출시한 Codex 앱을 직접 사용해보았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jujini31/codex-앱-사용-후기</guid>
       <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw 1편 - OpenClaw(Clawbot, Moltbot) 대체 뭘까?</title>
-      <link>https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</link>
-      <description>OpenClaw 최근 OpenClaw라는 이름이 개발자·AI 커뮤니티에서 뜨겁게 회자되고 있어요. 단순히 인기 있는 오픈소스 프로젝트를 넘어 "AI 비서/자동화 도구의 패러다임"을 바꿔 놓을지도 모른다는 기대를 받고 있죠. 아래에서 그 이유를 정리해 봅니다. Op...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/OpenClawClawbot-Moltbot-대체-뭘까-어떻게-사용하는지-알아보자</guid>
-      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
       <title>[번역] 2026년 프런트엔드 개발자라면 알아야 할 4가지 CSS 기능</title>
@@ -79,13 +65,6 @@
       <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 최종 합격을 돌아보며</title>
-      <link>https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</link>
-      <description>재도전해서 좋았다</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/우아한테크코스-8기-최종-합격을-돌아보며</guid>
-      <pubDate>Wed, 04 Feb 2026 17:19:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
       <link>https://velog.io/@qlgks1/우리-프로그래머들-로버트-C-마틴</link>
       <description>요새 개발자의 미래에 대한 글과 견해가 쏟아져 나옵니다. 하꼬인 저도 “AI가 코딩 다 하는데 왜 배워요?”, “개발자는 이제 뭐가 남아요?” 같은 질문을 정말 자주 받습니다. 로버트 C. 마틴(엉클 밥)은 이런 질문을 얼마나 많이 받을까요 ㅎㅎ?</description>
@@ -93,10 +72,24 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
+      <title>리액트에서 데코레이터 쓰기 — LLM이 못 해주는 클린코드</title>
+      <link>https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</link>
+      <description>요즘 LLM한테 "게시글 CRUD 만들어줘" 하면 5분이면 나오잖아요. 근데 그렇게 만든 코드로 3개월 버텨본 적 있으신가요? 제 경험상, 사람이 구조를 안 잡아주면 코드는 결국 산으로 가더라고요.제 생각에 LLM이 아무리 발전해도 코드의 구조를 설계하는 건 여전히 사...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</guid>
+      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
       <title>[아티짹] 기술 블로그 구독 서비스 개발기</title>
       <link>https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</link>
       <description>여러분도 사용해 보세요! 무료에요!!</description>
       <guid isPermaLink="false">https://velog.io/@kjgi73k/아티짹-기술-블로그-구독-서비스-개발기</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>갤럭시북6 프로 14</title>
+      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
+      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
+      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
@@ -107,11 +100,18 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>갤럭시북6 프로 14</title>
-      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
-      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
-      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
+      <title>바이트댄스 시댄스 2.0 튜토리얼: 시댄스 2.0 사용 방법은?</title>
+      <link>https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</link>
+      <description>AI 비디오 생성 분야의 판도가 바뀌었습니다. 틱톡(TikTok)을 만든 바이트댄스(ByteDance)에서 시댄스 2.0을 출시하면서 상상과 영화 같은 현실 사이의 장벽이 사라졌습니다. 초현실적인 단편 영화를 만들고 싶든, 바이럴 소셜 미디어 클립을 만들고 싶든, 시댄...</description>
+      <guid isPermaLink="false">https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</guid>
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>유튜브 보다가 갑자기 앱 만들기 - One Page Today</title>
+      <link>https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</link>
+      <description>그냥저냥 유튜브를 보다가 뜬 AI 해커톤 공고 보고 나서 그냥 갑자기 추진력이 생겨버렸다. 이유는 딱히 없다. 일중독인가? 아무튼 해커톤 공고를 처음 봤을 때 주제가 폭이 아주 넓었다. &gt; OpenAI API를 활용한 비즈니스 가치가 있는 프로덕트 그걸 바이...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
       <title>'Opus 4.6' 확장됨 이게 뭐지</title>
@@ -121,11 +121,11 @@
       <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>바이트댄스 시댄스 2.0 튜토리얼: 시댄스 2.0 사용 방법은?</title>
-      <link>https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</link>
-      <description>AI 비디오 생성 분야의 판도가 바뀌었습니다. 틱톡(TikTok)을 만든 바이트댄스(ByteDance)에서 시댄스 2.0을 출시하면서 상상과 영화 같은 현실 사이의 장벽이 사라졌습니다. 초현실적인 단편 영화를 만들고 싶든, 바이럴 소셜 미디어 클립을 만들고 싶든, 시댄...</description>
-      <guid isPermaLink="false">https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</guid>
-      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
+      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
+      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
       <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
@@ -135,24 +135,10 @@
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>Velog Backup 서비스 기능 추가 및 개선하기</title>
-      <link>https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</link>
-      <description>Velog Backup 서비스를 제작했었다. 솔직히 당시엔 동작만 하면 됐지 하고 넘긴 부분이 많았는데, 다시 보니 신경 쓰이는 게 한두 개가 아니었다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Velog-Backup-서비스-기능-추가-및-개선하기</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스 8기 최종합격 후기</title>
       <link>https://velog.io/@jyt6640/우아한테크코스-8기-최종합격-후기</link>
       <description>안녕하세요! 개발자 자바입니다. 오늘은 우아한테크코스 8기 최종합격 후기에 대해서 작성했습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jyt6640/우아한테크코스-8기-최종합격-후기</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
-      <link>https://velog.io/@dyddn2015/신입-주니어-merge-할게요</link>
-      <description>저번 취업 성공 후기 포스팅이 정말 많은 관심을 받았다. 한동안 주/월간 velog 트렌딩 한 자리를 차지했고, 지금은 연간 velog 트렌딩에서 여전히 사랑받고 있다. 얼굴도 모르는 사람들에게 댓글에서 축하받는 기분이란.. 정말 다시 없을 경험이었고, 과분한 관심에...</description>
-      <guid isPermaLink="false">https://velog.io/@dyddn2015/신입-주니어-merge-할게요</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
     </item>
     <item>
@@ -163,18 +149,11 @@
       <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>리액트에서 데코레이터 쓰기 — LLM이 못 해주는 클린코드</title>
-      <link>https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</link>
-      <description>요즘 LLM한테 "게시글 CRUD 만들어줘" 하면 5분이면 나오잖아요. 근데 그렇게 만든 코드로 3개월 버텨본 적 있으신가요? 제 경험상, 사람이 구조를 안 잡아주면 코드는 결국 산으로 가더라고요.제 생각에 LLM이 아무리 발전해도 코드의 구조를 설계하는 건 여전히 사...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>kt cloud TECH UP 프론트엔드 참여 후기</title>
-      <link>https://velog.io/@ksh-g001/kt-cloud-TECH-UP-프론트엔드-참여-후기</link>
-      <description>2025년 경기도 청년사다리를 마치고 어슬렁거리다가 kt cloud TECH UP을 발견했다. "안드로이드 네이티브 앱개발자 지망생이지만 웹 프레임워크도 알면 좋지 않을까, 웹앱까지 커버할 수 있는 개발자가 될려면 웹의 환경도 이해를 해야 좋지 않을까?!" 하는 마음으...</description>
-      <guid isPermaLink="false">https://velog.io/@ksh-g001/kt-cloud-TECH-UP-프론트엔드-참여-후기</guid>
-      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+      <title>네이버 부스트캠프 웹・모바일 10기 멤버십을 마치며</title>
+      <link>https://velog.io/@dongho18/네이버-부스트캠프-웹・모바일-10기-멤버십을-마치며</link>
+      <description>말하는 감자에서 탈출하다! 🥔</description>
+      <guid isPermaLink="false">https://velog.io/@dongho18/네이버-부스트캠프-웹・모바일-10기-멤버십을-마치며</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
       <title>처음 참여해본 오픈소스 기여모임 10기 참여 후기</title>
@@ -212,10 +191,31 @@
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
     </item>
     <item>
+      <title>GPT Pro Codex vs Claude Code: 클린 환경에서 붙여본 지극히 주관적인 비교</title>
+      <link>https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</link>
+      <description>클린 세팅에서 GPT Pro(카톡)와 Claude Code를 실험 비교했다. 결과는 상황별 장점이 갈렸다.</description>
+      <guid isPermaLink="false">https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
+      <link>https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</link>
+      <description>[네이버부스트캠프] 10기 멤버십 수료 후기</description>
+      <guid isPermaLink="false">https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code에서 무료로 GPT-5.3 Codex 사용하기 - 완벽 가이드</title>
       <link>https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</link>
       <description>Claude Code를 쓰다가 API 비용이 부담되신 적 있으신가요? 이제 CLIProxyAPI로 GPT 모델을 연동 할 수 있습니다!저는 핸드폰 번호를 모아서 40개월어치 사놨습니다.https://gift.kakao.com/product/12953074Cla...</description>
       <guid isPermaLink="false">https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</guid>
+      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
+      <link>https://velog.io/@dyddn2015/신입-주니어-merge-할게요</link>
+      <description>저번 취업 성공 후기 포스팅이 정말 많은 관심을 받았다. 한동안 주/월간 velog 트렌딩 한 자리를 차지했고, 지금은 연간 velog 트렌딩에서 여전히 사랑받고 있다. 얼굴도 모르는 사람들에게 댓글에서 축하받는 기분이란.. 정말 다시 없을 경험이었고, 과분한 관심에...</description>
+      <guid isPermaLink="false">https://velog.io/@dyddn2015/신입-주니어-merge-할게요</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
     </item>
   </channel>
