@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Feb 2026 17:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 17:15:55 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
       <description>'진짜 한번 해볼까? 한번 코드를 내가 직접 작성하지 않고 어디까지 가능할지를 확인해봐야겠다! 한계를 정확히 알아줘야지'두달전 재미로 시작하게 된 사이드 프로젝트에서 시작한 에이전트 기반 코딩은 단순하게 "채팅만으로 어디까지 코딩할 수 있을까?"로 시작해서 지금은 에이...</description>
       <guid isPermaLink="false">https://velog.io/@teo/ai-agent-prolog</guid>
       <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 시니어 개발자들은 왜 잘못된 프로젝트를 말리지 않을까?</title>
+      <link>https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</link>
+      <description>어떤 프로젝트가 망한 것을 보고 많은 사용자들은 "왜 주위에서 안 말린 거지?" 라는 의문을 갖기도 합니다. 왜 경력이 많은 시니어 개발자들은 말리지 않았을까요? 좀 더 현실적인 관점에서 그 이유를 설명합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</guid>
+      <pubDate>Thu, 19 Feb 2026 17:22:06 +0000</pubDate>
     </item>
     <item>
       <title>최근 출시한 Codex 앱 직접 써봤습니다 — Automations·Skills·멀티 에이전트까지</title>
@@ -30,25 +37,11 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 2026년 프런트엔드 개발자라면 알아야 할 4가지 CSS 기능</title>
-      <link>https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</link>
-      <description>FE 개발자가 알아야 할 CSS 기능은 무엇일까요?</description>
-      <guid isPermaLink="false">https://velog.io/@typo/4-css-features-every-front-end-developer-should-know-in-2026</guid>
-      <pubDate>Tue, 10 Feb 2026 17:25:02 +0000</pubDate>
-    </item>
-    <item>
       <title>리액트에서 데코레이터 쓰기 — LLM이 못 해주는 클린코드</title>
       <link>https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</link>
       <description>요즘 LLM한테 "게시글 CRUD 만들어줘" 하면 5분이면 나오잖아요. 근데 그렇게 만든 코드로 3개월 버텨본 적 있으신가요? 제 경험상, 사람이 구조를 안 잡아주면 코드는 결국 산으로 가더라고요.제 생각에 LLM이 아무리 발전해도 코드의 구조를 설계하는 건 여전히 사...</description>
       <guid isPermaLink="false">https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>MacOS 스크린샷 앱을 만들었습니다.</title>
-      <link>https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</link>
-      <description>깃허브 스타 200개가 넘을줄 몰랐습니다...</description>
-      <guid isPermaLink="false">https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>사회초년생 개발자의 2025년 회고록</title>
@@ -58,18 +51,11 @@
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>n8n을 이용한 GeekNews 요약으로 아침 시작하기</title>
-      <link>https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</link>
-      <description>1. 벨로그 글로 접하게 된 n8n 자동화 벨로그를 읽던 중 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인 라는 흥미로운 글을 발견하게 되었습니다. 블로그 글을 공유 한번으로 요약해서 옵시디언에 정리해주는 자동화 파이프라인은 저에게 흥미롭게 다가왔습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@0tmddn8/n8n을-이용한-GeekNews-요약으로-아침-시작하기</guid>
-      <pubDate>Sat, 07 Feb 2026 17:08:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
-      <link>https://velog.io/@qlgks1/우리-프로그래머들-로버트-C-마틴</link>
-      <description>요새 개발자의 미래에 대한 글과 견해가 쏟아져 나옵니다. 하꼬인 저도 “AI가 코딩 다 하는데 왜 배워요?”, “개발자는 이제 뭐가 남아요?” 같은 질문을 정말 자주 받습니다. 로버트 C. 마틴(엉클 밥)은 이런 질문을 얼마나 많이 받을까요 ㅎㅎ?</description>
-      <guid isPermaLink="false">https://velog.io/@qlgks1/우리-프로그래머들-로버트-C-마틴</guid>
-      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+      <title>MacOS 스크린샷 앱을 만들었습니다.</title>
+      <link>https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</link>
+      <description>깃허브 스타 200개가 넘을줄 몰랐습니다...</description>
+      <guid isPermaLink="false">https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</guid>
+      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>[아티짹] 기술 블로그 구독 서비스 개발기</title>
@@ -79,32 +65,18 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
-      <title>갤럭시북6 프로 14</title>
-      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
-      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
-      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
-      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[번역] 시니어 개발자들은 왜 잘못된 프로젝트를 말리지 않을까?</title>
-      <link>https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</link>
-      <description>어떤 프로젝트가 망한 것을 보고 많은 사용자들은 "왜 주위에서 안 말린 거지?" 라는 의문을 갖기도 합니다. 왜 경력이 많은 시니어 개발자들은 말리지 않았을까요? 좀 더 현실적인 관점에서 그 이유를 설명합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</guid>
-      <pubDate>Thu, 19 Feb 2026 17:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swift 멘토를 Skill로 만들어버리기 (with Claude Code)</title>
-      <link>https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</link>
-      <description>나만의 Swift 멘토 만들어버리기</description>
-      <guid isPermaLink="false">https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</guid>
+      <title>[책 리뷰] 우리, 프로그래머들 - 로버트 C. 마틴</title>
+      <link>https://velog.io/@qlgks1/우리-프로그래머들-로버트-C-마틴</link>
+      <description>요새 개발자의 미래에 대한 글과 견해가 쏟아져 나옵니다. 하꼬인 저도 “AI가 코딩 다 하는데 왜 배워요?”, “개발자는 이제 뭐가 남아요?” 같은 질문을 정말 자주 받습니다. 로버트 C. 마틴(엉클 밥)은 이런 질문을 얼마나 많이 받을까요 ㅎㅎ?</description>
+      <guid isPermaLink="false">https://velog.io/@qlgks1/우리-프로그래머들-로버트-C-마틴</guid>
       <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
     </item>
     <item>
-      <title>바이트댄스 시댄스 2.0 튜토리얼: 시댄스 2.0 사용 방법은?</title>
-      <link>https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</link>
-      <description>AI 비디오 생성 분야의 판도가 바뀌었습니다. 틱톡(TikTok)을 만든 바이트댄스(ByteDance)에서 시댄스 2.0을 출시하면서 상상과 영화 같은 현실 사이의 장벽이 사라졌습니다. 초현실적인 단편 영화를 만들고 싶든, 바이럴 소셜 미디어 클립을 만들고 싶든, 시댄...</description>
-      <guid isPermaLink="false">https://velog.io/@lisa0802/바이트댄스-시댄스-2.0-튜토리얼-시댄스-2.0-사용-방법은</guid>
-      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+      <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
+      <link>https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</link>
+      <description>이걸로 영어공부 해보세요! 진짜 제대로 만들어봤어요</description>
+      <guid isPermaLink="false">https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI 해커톤 참여 - One Page Today</title>
@@ -114,11 +86,39 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>'Opus 4.6' 확장됨 이게 뭐지</title>
-      <link>https://velog.io/@dbwls/Opus-4.6-확장됨-이게-뭔데</link>
-      <description>오늘 익숙하게 claude에 들어가 코드를 뽑아내고자 했다.그런데Opus 4.6 확장됨이라고 떠있는데 난 Opus 4.5 애용자였으나 출장 중이라 예고도 못 들었어서 잠깐 당황했지만,일단 업그레이드됐으니까 기분이 좋은 김에 정리해보고자 했다.바로 어제 2026년 2월 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Opus-4.6-확장됨-이게-뭔데</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
+      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
+      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
+      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>갤럭시북6 프로 14</title>
+      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
+      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
+      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
+      <link>https://velog.io/@dyddn2015/신입-주니어-merge-할게요</link>
+      <description>저번 취업 성공 후기 포스팅이 정말 많은 관심을 받았다. 한동안 주/월간 velog 트렌딩 한 자리를 차지했고, 지금은 연간 velog 트렌딩에서 여전히 사랑받고 있다. 얼굴도 모르는 사람들에게 댓글에서 축하받는 기분이란.. 정말 다시 없을 경험이었고, 과분한 관심에...</description>
+      <guid isPermaLink="false">https://velog.io/@dyddn2015/신입-주니어-merge-할게요</guid>
+      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swift 멘토를 Skill로 만들어버리기 (with Claude Code)</title>
+      <link>https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</link>
+      <description>나만의 Swift 멘토 만들어버리기</description>
+      <guid isPermaLink="false">https://velog.io/@kirri1124/Swift-멘토를-Skill로-만들어버리기-with-Claude-Code</guid>
+      <pubDate>Mon, 09 Feb 2026 17:22:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고] IT 동아리 SIPE 5기 지원 및 합격 후기 (삼수 끝에..! 🎉🎉)</title>
+      <link>https://velog.io/@osohyun0224/회고-IT-동아리-SIPE-5기-지원-및-합격-후기-삼수-끝에</link>
+      <description>최근에 정말 들어가고 싶었던 IT 동아리 SIPE를 3수 끝에 합격하게 되어서 기쁜 마음으로 합격회고 글을 작성해봅니다! 전체 지원여정부터 합격하기까지의 과정을 담았습니다!</description>
+      <guid isPermaLink="false">https://velog.io/@osohyun0224/회고-IT-동아리-SIPE-5기-지원-및-합격-후기-삼수-끝에</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
@@ -149,18 +149,11 @@
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
     </item>
     <item>
-      <title>[회고록] 완전 대박 늦은 2025년 회고</title>
-      <link>https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</link>
-      <description>2025년에 있었던 일과 느낀 점, 배운 점 등을 매우 가볍게 풀어보려고 합니다.. 사실 그냥 제 혼잣말을 두서없이 주절주절 푸는 느낌일 것 같긴하지만 ㅎㅎ 탈락의 고베, 멘붕, 그리고 극복 다양한 회사에 서류를 제출했고, 정말로 꿈에 그리던 기업들의 면접 전형까...</description>
-      <guid isPermaLink="false">https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</guid>
-      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
-      <link>https://velog.io/@dyddn2015/신입-주니어-merge-할게요</link>
-      <description>저번 취업 성공 후기 포스팅이 정말 많은 관심을 받았다. 한동안 주/월간 velog 트렌딩 한 자리를 차지했고, 지금은 연간 velog 트렌딩에서 여전히 사랑받고 있다. 얼굴도 모르는 사람들에게 댓글에서 축하받는 기분이란.. 정말 다시 없을 경험이었고, 과분한 관심에...</description>
-      <guid isPermaLink="false">https://velog.io/@dyddn2015/신입-주니어-merge-할게요</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+      <title>신용카드현금화 경고 안내서｜불안해지기 전에 반드시 알아야 할 위험 신호</title>
+      <link>https://velog.io/@mugembo/신용카드현금화-경고-안내서</link>
+      <description>신용카드현금화 관련 검색 시 주의해야 할 리스크와 안전 기준을 실제 소비자 고민 흐름에 맞춰 정리한 정보성 가이드. 불법 광고와 금융 피해를 예방하기 위한 체크 포인트 제공.요즘은 결제 내역을 확인하는 순간부터괜히 생각이 많아지는 날이 있더라고요.금액이 크지 않아도,“...</description>
+      <guid isPermaLink="false">https://velog.io/@mugembo/신용카드현금화-경고-안내서</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>GPT Pro Codex vs Claude Code: 클린 환경에서 붙여본 지극히 주관적인 비교</title>
@@ -170,18 +163,25 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>Terminal Multiplexer TMUX로 깔끔하게 병렬처리하기</title>
-      <link>https://velog.io/@rookedsysc/Terminal-Multiplexer-TMUX로-깔끔하게-병렬처리하기</link>
-      <description>이번에 zellij에서 tmux 환경으로 전환을 하게 되었습니다. workmux라는 도구를 사용해보고 싶어서 였습니다. 사용경험이 너무 좋아 공유 드리고자 글을 작성하게 되었습니다.터미널 멀티 플렉서의 종류로는 tmux, zellij 등이 있습니다. 터미널 멀티 플렉서...</description>
-      <guid isPermaLink="false">https://velog.io/@rookedsysc/Terminal-Multiplexer-TMUX로-깔끔하게-병렬처리하기</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
+      <title>[회고록] 완전 대박 늦은 2025년 회고</title>
+      <link>https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</link>
+      <description>2025년에 있었던 일과 느낀 점, 배운 점 등을 매우 가볍게 풀어보려고 합니다.. 사실 그냥 제 혼잣말을 두서없이 주절주절 푸는 느낌일 것 같긴하지만 ㅎㅎ 탈락의 고베, 멘붕, 그리고 극복 다양한 회사에 서류를 제출했고, 정말로 꿈에 그리던 기업들의 면접 전형까...</description>
+      <guid isPermaLink="false">https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</guid>
+      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
     </item>
     <item>
-      <title>이번주에 클로드와 함께 개발하며 생각한 것들</title>
-      <link>https://velog.io/@hey-sion/이번주에-클로드와-함께-개발하며-생각한-것들</link>
-      <description>회원가입, 내 정보 조회, 비밀번호 변경하기 기능을 개발하면서클로드에게 질문하고, 혼자 생각했던 내용을 정리한 기록예전에 언젠가 봤던 테스트 코드 강의에서 TDD는 red-green-refactor 패턴으로 하는게 정석(?)이라는 말을 들어본 기억이 났다. 그래, 그럼...</description>
-      <guid isPermaLink="false">https://velog.io/@hey-sion/이번주에-클로드와-함께-개발하며-생각한-것들</guid>
-      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+      <title>신용카드현금화 경고 가이드｜급해질수록 더 위험해지는 선택 기준 정리</title>
+      <link>https://velog.io/@tasukushim/신용카드현금화-경고-가이드</link>
+      <description>실제 소비자 시선에서 풀어낸 정보성 리포트. 불법 광고와 금융 피해를 예방하기 위한 안전 기준 안내.신용카드현금화, 생각보다 먼저 찾아오는 건 ‘불안’이었어요어느 날은 숫자가 아니라 분위기가 먼저 이상하더라고요.결제 예정 금액을 보면서“아, 이달은 좀 빡빡하네…”이런 ...</description>
+      <guid isPermaLink="false">https://velog.io/@tasukushim/신용카드현금화-경고-가이드</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>신용카드현금화 경고 정리｜불안한 결제 상황에서 꼭 멈춰야 하는 이유</title>
+      <link>https://velog.io/@loriholcro/신용카드현금화-경고-정리</link>
+      <description>실제 소비자 시선으로 풀어낸 정보성 리포트. 불법 광고와 금융 피해 예방을 위한 안전 기준을 정리했습니다.신용카드현금화, 해결책처럼 보일수록 더 조심하게 됐어요어떤 날은 숫자가 아니라 분위기가 문제였어요.결제 예정 금액을 확인하는데,금액보다도 마음이 먼저 무거워졌거든요...</description>
+      <guid isPermaLink="false">https://velog.io/@loriholcro/신용카드현금화-경고-정리</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>처음 참여해본 오픈소스 기여모임 10기 참여 후기</title>
@@ -191,6 +191,20 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
+      <title>신용카드현금화 주의사항 경고｜막막해질 때 꼭 알아야 할 안전 가이드</title>
+      <link>https://velog.io/@uttambasha/신용카드현금화-주의사항-경고｜막막해질-때-꼭-알아야-할-안전-가이드</link>
+      <description>요즘 결제 알림이 뜰 때마다 괜히 가슴이 철렁했어요.한도는 줄어든 것 같은데, 생활비는 그대로라서요.그래서 신용카드현금화라는 단어를 검색창에 입력하는 순간,“이거… 괜찮은 걸까?” 하는 불안이 먼저 들더라고요.신용카드현금화가 왜 위험하다고 느껴지는지실제로 사람들이 겪는...</description>
+      <guid isPermaLink="false">https://velog.io/@uttambasha/신용카드현금화-주의사항-경고｜막막해질-때-꼭-알아야-할-안전-가이드</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>신용카드현금화 경고 리포트｜불안한 순간에 반드시 점검해야 할 안전 기준</title>
+      <link>https://velog.io/@sandereyasu/신용카드현금화-경고-리포트</link>
+      <description>신용카드현금화 검색 전 반드시 알아야 할 주의사항과 리스크를 실제 고민 흐름에 맞춰 정리한 소비자 보호 가이드. 불법 광고와 피해를 예방하기 위한 안전 체크 기준 제공.신용카드현금화, 검색창에 치는 순간부터 마음이 편치 않았어요결제 알림이 연달아 뜨던 어느 날이었어요....</description>
+      <guid isPermaLink="false">https://velog.io/@sandereyasu/신용카드현금화-경고-리포트</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
       <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
       <link>https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</link>
       <description>[네이버부스트캠프] 10기 멤버십 수료 후기</description>
@@ -198,25 +212,11 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>런닉스(Lernix)를 회고하며 4</title>
-      <link>https://velog.io/@kimsuyeon0916/런닉스를-회고하며-4</link>
-      <description>포텐업에서의 다섯 번째 프로젝트 과정을 돌아봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@kimsuyeon0916/런닉스를-회고하며-4</guid>
-      <pubDate>Thu, 19 Feb 2026 17:22:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>쿠키야 왜 거기 있니</title>
-      <link>https://velog.io/@d0kyoung/delicious-cookies</link>
-      <description>인증 장애는 JWT 문제가 아니라 HTTP, 브라우저, 프레임워크 경계에서 터진다.</description>
-      <guid isPermaLink="false">https://velog.io/@d0kyoung/delicious-cookies</guid>
-      <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.6, 뭐가 달라졌을까</title>
-      <link>https://velog.io/@jbj338033/claude-opus-4.6</link>
-      <description>1M 토큰, Agent Teams, 역대급 벤치마크까지. 개발자 관점에서 Opus 4.6을 깊이 파헤쳐봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jbj338033/claude-opus-4.6</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+      <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
+      <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
+      <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
+      <guid isPermaLink="false">https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
