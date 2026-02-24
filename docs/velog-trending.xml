@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 23 Feb 2026 17:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 17:24:42 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
@@ -51,6 +51,13 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
+      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
+      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
+      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI 해커톤 참여 - One Page Today</title>
       <link>https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</link>
       <description>그냥저냥 유튜브를 보다가 뜬 AI 해커톤 공고 보고 나서 그냥 갑자기 추진력이 생겨버렸다. 이유는 딱히 없다. 일중독인가? 아무튼 해커톤 공고를 처음 봤을 때 주제가 폭이 아주 넓었다. &gt; OpenAI API를 활용한 비즈니스 가치가 있는 프로덕트 그걸 바이...</description>
@@ -65,18 +72,18 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
-      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
-      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
-      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code에서 무료로 GPT-5.3 Codex 사용하기 - 완벽 가이드</title>
       <link>https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</link>
       <description>Claude Code를 쓰다가 API 비용이 부담되신 적 있으신가요? 이제 CLIProxyAPI로 GPT 모델을 연동 할 수 있습니다!저는 핸드폰 번호를 모아서 40개월어치 사놨습니다.https://gift.kakao.com/product/12953074Cla...</description>
       <guid isPermaLink="false">https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT Pro Codex vs Claude Code: 클린 환경에서 붙여본 지극히 주관적인 비교</title>
+      <link>https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</link>
+      <description>클린 세팅에서 GPT Pro(카톡)와 Claude Code를 실험 비교했다. 결과는 상황별 장점이 갈렸다.</description>
+      <guid isPermaLink="false">https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
       <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
@@ -91,20 +98,6 @@
       <description>안녕하세요! 개발자 자바입니다. 오늘은 우아한테크코스 8기 최종합격 후기에 대해서 작성했습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jyt6640/우아한테크코스-8기-최종합격-후기</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT Pro Codex vs Claude Code: 클린 환경에서 붙여본 지극히 주관적인 비교</title>
-      <link>https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</link>
-      <description>클린 세팅에서 GPT Pro(카톡)와 Claude Code를 실험 비교했다. 결과는 상황별 장점이 갈렸다.</description>
-      <guid isPermaLink="false">https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</guid>
-      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜몰랐다가 손해 보는 구조와 안전하게 피하는 방법</title>
-      <link>https://velog.io/@jodyannm/카드깡수수료-경고</link>
-      <description>처음엔 별생각 없었어요.검색창에 카드깡수수료를 쳤을 뿐인데, 화면에 뜨는 글들은 다 비슷비슷하더라고요.그런데 이상하게도, 읽고 나면 더 당황스러운 기분이 남았어요.“이게 진짜 정보가 맞나?” 하는 불안감 때문이었죠.카드깡수수료가 왜 문제로 이어지는지실제로 사람들이 헷갈...</description>
-      <guid isPermaLink="false">https://velog.io/@jodyannm/카드깡수수료-경고</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
       <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
@@ -128,11 +121,18 @@
       <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
     </item>
     <item>
-      <title>카드깡수수료 경고｜불안이 커지기 전에 알아야 할 구조 이해와 예방 포인트</title>
-      <link>https://velog.io/@araisven239/카드깡수수료-앵두티켓</link>
-      <description>이 단어를 굳이 검색하게 된 이유,아마 마음이 아주 편하진 않았을 거예요.카드깡수수료라는 표현은항상 조심해야 할 상황과 함께 떠오르니까요.저도 비슷했어요.정확히 알고 싶어서 읽기 시작했는데,글을 몇 개 넘기다 보니오히려 더 답답해지는 느낌이 들더라고요.그래서 이 글은무...</description>
-      <guid isPermaLink="false">https://velog.io/@araisven239/카드깡수수료-앵두티켓</guid>
+      <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
+      <link>https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</link>
+      <description>코딩할 때 다들 뭐 들으세요?저는 작업할 때 항상 유튜브를 틀어놓는데, 어느 날 GitHub 프로필을 보다가 문득 이런 생각이 들었습니다."contribution 그래프, 사용 언어, 스트릭 배지... 개발자로서 나는 잘 보이는데, 내가 뭘 듣는 사람인지는 아무 데도 ...</description>
+      <guid isPermaLink="false">https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</guid>
       <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>하이톤 대상 후기</title>
+      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
+      <description>고등학생 해커톤에서 대상 탔습니다</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
@@ -142,48 +142,6 @@
       <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>카드깡수수료 경고｜모르면 더 커지는 리스크 구조와 안전 점검 방법</title>
-      <link>https://velog.io/@kochpromit203/카드깡수수료-앵두티켓-8m18dg3z</link>
-      <description>검색창에 카드깡수수료를 입력하는 순간,이미 마음속엔 작은 걱정이 자리 잡고 있었을지도 몰라요.“혹시 내가 놓치고 있는 위험이 있는 건 아닐까.”이 생각, 은근히 오래 남더라고요.저도 비슷한 감정을 느낀 적이 있었어요.정보는 많은데,정작 읽고 나면 더 막막해지는 기분.그...</description>
-      <guid isPermaLink="false">https://velog.io/@kochpromit203/카드깡수수료-앵두티켓-8m18dg3z</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜알아두지 않으면 더 불안해지는 구조와 점검 방법</title>
-      <link>https://velog.io/@yusuflagovn800/카드깡수수료-앵두티켓-80p4pbn7</link>
-      <description>이 키워드를 검색한 이유,아마도 단순한 호기심은 아니었을 거예요.카드깡수수료라는 단어 자체가왠지 모르게 마음을 불편하게 만들거든요.저도 처음엔 그랬어요.명확한 답을 찾고 싶어서 읽기 시작했는데,글을 덮고 나면 오히려 더 당황스러운 기분이 남더라고요.그래서 이 글은불안을...</description>
-      <guid isPermaLink="false">https://velog.io/@yusuflagovn800/카드깡수수료-앵두티켓-80p4pbn7</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜알아두지 않으면 더 불안해지는 구조와 판단 기준</title>
-      <link>https://velog.io/@yangiadore/카드깡수수료-경고</link>
-      <description>이 키워드를 검색하게 된 이유,아마 마음이 조금 급했거나 정리가 필요했기 때문일 거예요.카드깡수수료라는 단어는 이상하게도검색하는 순간부터 마음을 편하게 두지 않거든요.저도 비슷했어요.명확한 기준을 알고 싶어서 여러 글을 읽었는데,읽으면 읽을수록 오히려 더 헷갈리는 느낌...</description>
-      <guid isPermaLink="false">https://velog.io/@yangiadore/카드깡수수료-경고</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜헷갈리기 쉬운 구조를 차분히 정리하는 예방 가이드</title>
-      <link>https://velog.io/@yasey/카드깡수수료-경고</link>
-      <description>검색창에 카드깡수수료를 입력한 순간,이미 마음 한쪽이 조금 무거웠을지도 몰라요.이 키워드는 늘 급하지 않으면 굳이 찾지 않게 되고,막상 찾아보면 설명이 서로 달라 더 불안해지기 쉬웠거든요.저도 그랬어요.정리된 정보를 기대했는데,읽고 나면 오히려 더 막막해지는 느낌이 남...</description>
-      <guid isPermaLink="false">https://velog.io/@yasey/카드깡수수료-경고</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜알아두지 않으면 더 불안해지는 비용 구조와 점검 기준</title>
-      <link>https://velog.io/@hasumostafa437/카드깡수수료-앵두티켓-k55f15st</link>
-      <description>이 단어를 검색한 순간,마음이 편안했다면 오히려 이상했을지도 몰라요.카드깡수수료라는 키워드는 늘조금은 불안한 상황과 함께 등장하니까요.저 역시 그랬어요.명확한 설명을 기대하고 읽기 시작했는데,끝까지 보고 나면 오히려 더 혼란스럽고 찝찝한 기분이 남더라고요.그래서 이 글...</description>
-      <guid isPermaLink="false">https://velog.io/@hasumostafa437/카드깡수수료-앵두티켓-k55f15st</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[신한 스퀘어브릿지 청년 해커톤 2기] 02. OT &amp; 1주차</title>
-      <link>https://velog.io/@heeflee_1310/신한-스퀘어브릿지-2기-1주차-기록</link>
-      <description>신한 스퀘어브릿지 청년 해커톤 2기 활동의 A-Z를 기록해보고자 합니다. - " 1주차 기록 "</description>
-      <guid isPermaLink="false">https://velog.io/@heeflee_1310/신한-스퀘어브릿지-2기-1주차-기록</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
       <title>[올리브영 테크블로그 읽기] Circuitbreaker를 사용한 장애 전파 방지</title>
       <link>https://velog.io/@kjgi73k/올리브영-테크블로그-읽기-Circuitbreaker를-사용한-장애-전파-방지</link>
       <description>올리브영과 함께 Circuitbreaker에 대해 알아보자</description>
@@ -191,11 +149,18 @@
       <pubDate>Sun, 22 Feb 2026 17:08:14 +0000</pubDate>
     </item>
     <item>
-      <title>쿠키야 왜 거기 있니</title>
-      <link>https://velog.io/@d0kyoung/delicious-cookies</link>
-      <description>인증 장애는 JWT 문제가 아니라 HTTP, 브라우저, 프레임워크 경계에서 터진다.</description>
-      <guid isPermaLink="false">https://velog.io/@d0kyoung/delicious-cookies</guid>
-      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
+      <title>카드깡수수료 경고｜몰랐다가 손해 보는 구조와 안전하게 피하는 방법</title>
+      <link>https://velog.io/@jodyannm/카드깡수수료-경고</link>
+      <description>처음엔 별생각 없었어요.검색창에 카드깡수수료를 쳤을 뿐인데, 화면에 뜨는 글들은 다 비슷비슷하더라고요.그런데 이상하게도, 읽고 나면 더 당황스러운 기분이 남았어요.“이게 진짜 정보가 맞나?” 하는 불안감 때문이었죠.카드깡수수료가 왜 문제로 이어지는지실제로 사람들이 헷갈...</description>
+      <guid isPermaLink="false">https://velog.io/@jodyannm/카드깡수수료-경고</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>테커집 장례식</title>
+      <link>https://velog.io/@yuripbong/테커집-장례식</link>
+      <description>2025년 3월부터, 거의 테커에 들어오자마자 합류해서 함께했던 나의 최장기 프로젝트 테커집이 2026년 2월 27일부로 서버를 내리고 막을 내린다.</description>
+      <guid isPermaLink="false">https://velog.io/@yuripbong/테커집-장례식</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>CSS Easing, 잘 사용하고 계신가요?</title>
@@ -205,18 +170,53 @@
       <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
-      <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
-      <link>https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</link>
-      <description>코딩할 때 다들 뭐 들으세요?저는 작업할 때 항상 유튜브를 틀어놓는데, 어느 날 GitHub 프로필을 보다가 문득 이런 생각이 들었습니다."contribution 그래프, 사용 언어, 스트릭 배지... 개발자로서 나는 잘 보이는데, 내가 뭘 듣는 사람인지는 아무 데도 ...</description>
-      <guid isPermaLink="false">https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</guid>
+      <title>쿠키야 왜 거기 있니</title>
+      <link>https://velog.io/@d0kyoung/delicious-cookies</link>
+      <description>인증 장애는 JWT 문제가 아니라 HTTP, 브라우저, 프레임워크 경계에서 터진다.</description>
+      <guid isPermaLink="false">https://velog.io/@d0kyoung/delicious-cookies</guid>
+      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>카드깡수수료 경고｜불안이 커지기 전에 알아야 할 구조 이해와 예방 포인트</title>
+      <link>https://velog.io/@araisven239/카드깡수수료-앵두티켓</link>
+      <description>이 단어를 굳이 검색하게 된 이유,아마 마음이 아주 편하진 않았을 거예요.카드깡수수료라는 표현은항상 조심해야 할 상황과 함께 떠오르니까요.저도 비슷했어요.정확히 알고 싶어서 읽기 시작했는데,글을 몇 개 넘기다 보니오히려 더 답답해지는 느낌이 들더라고요.그래서 이 글은무...</description>
+      <guid isPermaLink="false">https://velog.io/@araisven239/카드깡수수료-앵두티켓</guid>
       <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
-      <title>런닉스(Lernix)를 회고하며 4</title>
-      <link>https://velog.io/@kimsuyeon0916/런닉스를-회고하며-4</link>
-      <description>포텐업에서의 다섯 번째 프로젝트 과정을 돌아봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@kimsuyeon0916/런닉스를-회고하며-4</guid>
-      <pubDate>Sun, 22 Feb 2026 17:08:14 +0000</pubDate>
+      <title>카드깡수수료 경고｜모르면 더 커지는 리스크 구조와 안전 점검 방법</title>
+      <link>https://velog.io/@kochpromit203/카드깡수수료-앵두티켓-8m18dg3z</link>
+      <description>검색창에 카드깡수수료를 입력하는 순간,이미 마음속엔 작은 걱정이 자리 잡고 있었을지도 몰라요.“혹시 내가 놓치고 있는 위험이 있는 건 아닐까.”이 생각, 은근히 오래 남더라고요.저도 비슷한 감정을 느낀 적이 있었어요.정보는 많은데,정작 읽고 나면 더 막막해지는 기분.그...</description>
+      <guid isPermaLink="false">https://velog.io/@kochpromit203/카드깡수수료-앵두티켓-8m18dg3z</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[의정부호빠 &amp; 의정부호스트바] 010-3320-5180</title>
+      <link>https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</link>
+      <description>의정부호빠 &amp; 의정부호스트바 010-3320-5180 예약 문의 및 위치 안내안녕하세요! 의정부 밤문화를 선도하는 최고의 선택, 의정부호빠입니다. 특별한 날, 혹은 일상의 지루함을 날려버리고 싶을 때 가장 먼저 생각나는 의정부호스트바를 찾고 계신가요? 저희는 고객님의 ...</description>
+      <guid isPermaLink="false">https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>카드깡수수료 경고｜알아두지 않으면 더 불안해지는 비용 구조와 점검 기준</title>
+      <link>https://velog.io/@hasumostafa437/카드깡수수료-앵두티켓-k55f15st</link>
+      <description>이 단어를 검색한 순간,마음이 편안했다면 오히려 이상했을지도 몰라요.카드깡수수료라는 키워드는 늘조금은 불안한 상황과 함께 등장하니까요.저 역시 그랬어요.명확한 설명을 기대하고 읽기 시작했는데,끝까지 보고 나면 오히려 더 혼란스럽고 찝찝한 기분이 남더라고요.그래서 이 글...</description>
+      <guid isPermaLink="false">https://velog.io/@hasumostafa437/카드깡수수료-앵두티켓-k55f15st</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
+      <link>https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</link>
+      <description>작년에 왔던 제로콜라, 죽지도 않고 또왔네.</description>
+      <guid isPermaLink="false">https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>카드깡수수료 경고｜알아두지 않으면 더 불안해지는 구조와 점검 방법</title>
+      <link>https://velog.io/@yusuflagovn800/카드깡수수료-앵두티켓-80p4pbn7</link>
+      <description>이 키워드를 검색한 이유,아마도 단순한 호기심은 아니었을 거예요.카드깡수수료라는 단어 자체가왠지 모르게 마음을 불편하게 만들거든요.저도 처음엔 그랬어요.명확한 답을 찾고 싶어서 읽기 시작했는데,글을 덮고 나면 오히려 더 당황스러운 기분이 남더라고요.그래서 이 글은불안을...</description>
+      <guid isPermaLink="false">https://velog.io/@yusuflagovn800/카드깡수수료-앵두티켓-80p4pbn7</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
