@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Feb 2026 17:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 17:25:01 +0000</lastBuildDate>
     <item>
       <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
       <link>https://velog.io/@teo/ai-agent-prolog</link>
@@ -28,13 +28,6 @@
       <description>요즘 LLM한테 "게시글 CRUD 만들어줘" 하면 5분이면 나오잖아요. 근데 그렇게 만든 코드로 3개월 버텨본 적 있으신가요? 제 경험상, 사람이 구조를 안 잡아주면 코드는 결국 산으로 가더라고요.제 생각에 LLM이 아무리 발전해도 코드의 구조를 설계하는 건 여전히 사...</description>
       <guid isPermaLink="false">https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>MacOS 스크린샷 앱을 만들었습니다.</title>
-      <link>https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</link>
-      <description>깃허브 스타 200개가 넘을줄 몰랐습니다...</description>
-      <guid isPermaLink="false">https://velog.io/@byunjin11/MacOS-스타일-스크린샷-툴을-만들고-깃허브-스타-200개를-받았습니다</guid>
-      <pubDate>Thu, 12 Feb 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
@@ -58,6 +51,13 @@
       <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
+      <title>한달만에 AI로 코드 3만라인 짜며 깨달은 것</title>
+      <link>https://velog.io/@playername_ltt/한달만에-AI로-코드-3만라인-짜며-깨달은-것</link>
+      <description>바이브코더와는 다른 개발자의 에이전트 사용법.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/한달만에-AI로-코드-3만라인-짜며-깨달은-것</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI 해커톤 참여 - One Page Today</title>
       <link>https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</link>
       <description>그냥저냥 유튜브를 보다가 뜬 AI 해커톤 공고 보고 나서 그냥 갑자기 추진력이 생겨버렸다. 이유는 딱히 없다. 일중독인가? 아무튼 해커톤 공고를 처음 봤을 때 주제가 폭이 아주 넓었다. &gt; OpenAI API를 활용한 비즈니스 가치가 있는 프로덕트 그걸 바이...</description>
@@ -72,18 +72,18 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>갤럭시북6 프로 14</title>
-      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
-      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
-      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
-      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code에서 무료로 GPT-5.3 Codex 사용하기 - 완벽 가이드</title>
       <link>https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</link>
       <description>Claude Code를 쓰다가 API 비용이 부담되신 적 있으신가요? 이제 CLIProxyAPI로 GPT 모델을 연동 할 수 있습니다!저는 핸드폰 번호를 모아서 40개월어치 사놨습니다.https://gift.kakao.com/product/12953074Cla...</description>
       <guid isPermaLink="false">https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>갤럭시북6 프로 14</title>
+      <link>https://velog.io/@pswon/갤럭시북-6-프로-14</link>
+      <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
+      <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
+      <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
@@ -93,18 +93,18 @@
       <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
-      <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
-      <link>https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</link>
-      <description>이전 글에서 WebFlux 환경에서 분산 락을 Reactive 체인의 라이프사이클에 맞춰 안전하게 관리하는 방법을 다뤘습니다.락 획득과 해제 시점이 트랜잭션 커밋과 정확히 맞물리게 만들었고, 기능적으로는 문제가 없었습니다.하지만 부하 테스트를 통해 성능 측면에서 3가지...</description>
-      <guid isPermaLink="false">https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</guid>
-      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스 8기 최종합격 후기</title>
       <link>https://velog.io/@jyt6640/우아한테크코스-8기-최종합격-후기</link>
       <description>안녕하세요! 개발자 자바입니다. 오늘은 우아한테크코스 8기 최종합격 후기에 대해서 작성했습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jyt6640/우아한테크코스-8기-최종합격-후기</guid>
       <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring WebFlux + Redisson: 분산 락 처리 성능 개선하기</title>
+      <link>https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</link>
+      <description>이전 글에서 WebFlux 환경에서 분산 락을 Reactive 체인의 라이프사이클에 맞춰 안전하게 관리하는 방법을 다뤘습니다.락 획득과 해제 시점이 트랜잭션 커밋과 정확히 맞물리게 만들었고, 기능적으로는 문제가 없었습니다.하지만 부하 테스트를 통해 성능 측면에서 3가지...</description>
+      <guid isPermaLink="false">https://velog.io/@sh__y_/Spring-WebFlux-Redisson-분산-락-처리-성능-해결하기</guid>
+      <pubDate>Sat, 14 Feb 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
       <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
@@ -114,18 +114,18 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
-      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
-      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
-      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
-      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고록] 완전 대박 늦은 2025년 회고</title>
       <link>https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</link>
       <description>2025년에 있었던 일과 느낀 점, 배운 점 등을 매우 가볍게 풀어보려고 합니다.. 사실 그냥 제 혼잣말을 두서없이 주절주절 푸는 느낌일 것 같긴하지만 ㅎㅎ 탈락의 고베, 멘붕, 그리고 극복 다양한 회사에 서류를 제출했고, 정말로 꿈에 그리던 기업들의 면접 전형까...</description>
       <guid isPermaLink="false">https://velog.io/@youyoy689/회고록-완전-대박-늦은-2025년-회고</guid>
       <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
+      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
+      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
+      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
+      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
     </item>
     <item>
       <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
@@ -142,20 +142,6 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>[올리브영 테크블로그 읽기] Circuitbreaker를 사용한 장애 전파 방지</title>
-      <link>https://velog.io/@kjgi73k/올리브영-테크블로그-읽기-Circuitbreaker를-사용한-장애-전파-방지</link>
-      <description>올리브영과 함께 Circuitbreaker에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@kjgi73k/올리브영-테크블로그-읽기-Circuitbreaker를-사용한-장애-전파-방지</guid>
-      <pubDate>Sun, 22 Feb 2026 17:08:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>신용카드현금화업체 주의 보이지 않는 위험과 안전 확인 방법 총정리</title>
-      <link>https://velog.io/@loriholcro/신용카드현금화업체-주의-보이지-않는-위험과-안전-확인-방법-총정리</link>
-      <description>신용카드현금화업체 검색 전 반드시 확인해야 할 금융 리스크, 카드 약관 문제, 개인정보 보호 기준과 대응 방법을 정리한 소비자 보호 정보 가이드.신용카드현금화업체 주의 보이지 않는 위험과 안전 확인 방법 총정리며칠 전,결제 예정 알림을 보고 순간 숨이 턱 막힌 적이 ...</description>
-      <guid isPermaLink="false">https://velog.io/@loriholcro/신용카드현금화업체-주의-보이지-않는-위험과-안전-확인-방법-총정리</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
       <title>CSS Easing, 잘 사용하고 계신가요?</title>
       <link>https://velog.io/@eveneul/CSS-Easing-잘-사용하고-계신가요</link>
       <description>부드럽게 움직이는 건 알겠는데 어디에 사용하라고</description>
@@ -169,39 +155,25 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>신용카드현금화업체 경고 예상 못한 금융 리스크와 안전 점검 가이드</title>
-      <link>https://velog.io/@dittatelkis/신용카드현금화업체-경고-예상-못한-금융-리스크와-안전-점검-가이드</link>
-      <description>신용카드현금화업체 검색 전 반드시 알아야 할 위험 요소와 카드 약관 리스크, 개인정보 보호 기준, 안전 확인 방법을 정리한 금융 소비자 보호 리포트입니다.신용카드현금화업체 경고 예상 못한 금융 리스크와 안전 점검 가이드혹시 결제일이 다가오는데잔액이 부족해서 괜히 심장...</description>
-      <guid isPermaLink="false">https://velog.io/@dittatelkis/신용카드현금화업체-경고-예상-못한-금융-리스크와-안전-점검-가이드</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>신용카드현금화업체 경고 피해 리스크와 안전 확인 방법 정리</title>
-      <link>https://velog.io/@sandereyasu/신용카드현금화업체-앵두티켓</link>
-      <description>혹시 최근에 갑자기 자금이 막혀서 검색창에 신용카드현금화업체를 입력해본 적 있으신가요?저도 비슷한 경험이 있었어요.그 순간은 정말 막막하더라고요. 괜히 잘못 건드렸다가 기록이 남는 건 아닐지, 나도 모르게 법적인 문제가 생기는 건 아닐지… 불안감이 계속 맴돌았어요.실제...</description>
-      <guid isPermaLink="false">https://velog.io/@sandereyasu/신용카드현금화업체-앵두티켓</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>신용카드현금화업체 위험 신호 놓치기 쉬운 리스크와 안전 점검 방법</title>
-      <link>https://velog.io/@mugembo/신용카드현금화-앵두티켓</link>
-      <description>신용카드현금화업체 검색 전 반드시 알아야 할 주의사항과 금융 리스크, 개인정보 보호 기준, 카드사 약관 문제까지 정리한 소비자 보호 가이드입니다.혹시 최근에 자금 흐름이 꼬이면서무심코 신용카드현금화업체를 검색해본 적 있으신가요?저는 그 순간이 아직도 기억나요.“잠깐이면...</description>
-      <guid isPermaLink="false">https://velog.io/@mugembo/신용카드현금화-앵두티켓</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>카드깡수수료 경고｜몰랐다가 손해 보는 구조와 안전하게 피하는 방법</title>
-      <link>https://velog.io/@jodyannm/카드깡수수료-경고</link>
-      <description>처음엔 별생각 없었어요.검색창에 카드깡수수료를 쳤을 뿐인데, 화면에 뜨는 글들은 다 비슷비슷하더라고요.그런데 이상하게도, 읽고 나면 더 당황스러운 기분이 남았어요.“이게 진짜 정보가 맞나?” 하는 불안감 때문이었죠.카드깡수수료가 왜 문제로 이어지는지실제로 사람들이 헷갈...</description>
-      <guid isPermaLink="false">https://velog.io/@jodyannm/카드깡수수료-경고</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
       <title>AI를 이용해 문서로만 개발해본 후기</title>
       <link>https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</link>
       <description>AI를 이용해 생산성을 높일 수 있을까?</description>
       <guid isPermaLink="false">https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</guid>
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>교통 이슈 알림 시스템 개선기: Redis Sorted Set과 Kafka로 설계 바꾸기</title>
+      <link>https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</link>
+      <description>크롤링 시점 기준 알림에서 → 이슈 시작 시점 기준 알림으로기존 가는길 지금 알림 시스템에는 구조적인 문제가 하나 있었습니다.교통 이슈 데이터를 크롤링해오는 순간, 현재 시간이 이슈 시작 시간보다 이후이고 종료 시간보다 이전이면 곧바로 알림을 발송하는 방식이었습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Design] 피보나치 수열과 황금비로 로고 설계</title>
+      <link>https://velog.io/@tristanjung1006/Design-피보나치-수열과-황금비로-로고-설계</link>
+      <description>아름다운 디자인</description>
+      <guid isPermaLink="false">https://velog.io/@tristanjung1006/Design-피보나치-수열과-황금비로-로고-설계</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
       <title>2025년 + 2026 1월 회고</title>
@@ -211,11 +183,39 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
+      <title>[의정부호빠 &amp; 의정부호스트바] 010-3320-5180</title>
+      <link>https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</link>
+      <description>의정부호빠 &amp; 의정부호스트바 010-3320-5180 예약 문의 및 위치 안내안녕하세요! 의정부 밤문화를 선도하는 최고의 선택, 의정부호빠입니다. 특별한 날, 혹은 일상의 지루함을 날려버리고 싶을 때 가장 먼저 생각나는 의정부호스트바를 찾고 계신가요? 저희는 고객님의 ...</description>
+      <guid isPermaLink="false">https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>카드깡수수료 경고｜몰랐다가 손해 보는 구조와 안전하게 피하는 방법</title>
+      <link>https://velog.io/@jodyannm/카드깡수수료-경고</link>
+      <description>처음엔 별생각 없었어요.검색창에 카드깡수수료를 쳤을 뿐인데, 화면에 뜨는 글들은 다 비슷비슷하더라고요.그런데 이상하게도, 읽고 나면 더 당황스러운 기분이 남았어요.“이게 진짜 정보가 맞나?” 하는 불안감 때문이었죠.카드깡수수료가 왜 문제로 이어지는지실제로 사람들이 헷갈...</description>
+      <guid isPermaLink="false">https://velog.io/@jodyannm/카드깡수수료-경고</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI] 주니어 게임 개발자와 AI</title>
+      <link>https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</link>
+      <description>2022년, 대학교에서 소프트웨어 전공 수업을 듣던 중 교수님이 이런 말씀을 하셨다.“개발자로 살아가고 싶다면 항상 최신 기술과 동향을 파악하는 습관을 길러라.”그리고 그 자리에서 막 등장했던 ChatGPT를 소개해주셨다.직접 사용해본 교수님의 평가는 이랬다“대학교 1...</description>
+      <guid isPermaLink="false">https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
       <title>[회고록] 1,000명을 모았지만 80%가 떠난 이유</title>
       <link>https://velog.io/@yujintak/retrospective-1000-visitors-but-80-percent-left</link>
       <description>vinyl.pomodoro를 배포한지 거진 2주 넘게 지났다. 배포 당일부터 인스타그램을 통해 서비스 광고를 돌렸고, 많은 사람들이 사이트에 방문했다.방문자/페이지 뷰 사진방문자 수 1,040명, 페이지뷰 1,598. 사용자 1명당 페이지를 약 1.5회 조회했다는 뜻이...</description>
       <guid isPermaLink="false">https://velog.io/@yujintak/retrospective-1000-visitors-but-80-percent-left</guid>
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>법인카드현금화 위험 경고 보고서 │ 검색 전에 반드시 점검해야 할 리스크와 안전 기준</title>
+      <link>https://velog.io/@mugembo/법인카드현금화-위험-경고-보고서-검색-전에-반드시-점검해야-할-리스크와-안전-기준</link>
+      <description>법인카드현금화 관련 정보를 찾기 전 반드시 확인해야 할 주의사항과 구조적 리스크를 정리한 금융 소비자 보호 가이드. 홍보 목적이 아닌 피해 예방 중심의 정보 리포트입니다.검색창에 이 단어를 입력하는 순간,이미 마음 한쪽엔 고민이 있다는 뜻이더라고요.“혹시 괜찮은 방법이...</description>
+      <guid isPermaLink="false">https://velog.io/@mugembo/법인카드현금화-위험-경고-보고서-검색-전에-반드시-점검해야-할-리스크와-안전-기준</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
