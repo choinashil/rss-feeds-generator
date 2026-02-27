@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Feb 2026 17:25:01 +0000</lastBuildDate>
-    <item>
-      <title>진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?</title>
-      <link>https://velog.io/@teo/ai-agent-prolog</link>
-      <description>'진짜 한번 해볼까? 한번 코드를 내가 직접 작성하지 않고 어디까지 가능할지를 확인해봐야겠다! 한계를 정확히 알아줘야지'두달전 재미로 시작하게 된 사이드 프로젝트에서 시작한 에이전트 기반 코딩은 단순하게 "채팅만으로 어디까지 코딩할 수 있을까?"로 시작해서 지금은 에이...</description>
-      <guid isPermaLink="false">https://velog.io/@teo/ai-agent-prolog</guid>
-      <pubDate>Fri, 13 Feb 2026 17:18:41 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 17:13:05 +0000</lastBuildDate>
     <item>
       <title>[번역] 시니어 개발자들은 왜 잘못된 프로젝트를 말리지 않을까?</title>
       <link>https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</link>
@@ -44,11 +37,11 @@
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
-      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
-      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
-      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+      <title>[네부캠] 온라인 모각코 서비스 개발기</title>
+      <link>https://velog.io/@ldh-dodo/네부캠-온라인-모각코-서비스-개발기</link>
+      <description>네부캠에서 만든 우리의 이야기</description>
+      <guid isPermaLink="false">https://velog.io/@ldh-dodo/네부캠-온라인-모각코-서비스-개발기</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
       <title>한달만에 AI로 코드 3만라인 짜며 깨달은 것</title>
@@ -58,6 +51,13 @@
       <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
+      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
+      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
+      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
       <title>OpenAI 해커톤 참여 - One Page Today</title>
       <link>https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</link>
       <description>그냥저냥 유튜브를 보다가 뜬 AI 해커톤 공고 보고 나서 그냥 갑자기 추진력이 생겨버렸다. 이유는 딱히 없다. 일중독인가? 아무튼 해커톤 공고를 처음 봤을 때 주제가 폭이 아주 넓었다. &gt; OpenAI API를 활용한 비즈니스 가치가 있는 프로덕트 그걸 바이...</description>
@@ -65,18 +65,11 @@
       <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>GPT Pro Codex vs Claude Code: 클린 환경에서 붙여본 지극히 주관적인 비교</title>
-      <link>https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</link>
-      <description>클린 세팅에서 GPT Pro(카톡)와 Claude Code를 실험 비교했다. 결과는 상황별 장점이 갈렸다.</description>
-      <guid isPermaLink="false">https://velog.io/@sean_kk/GPT-Pro-Codex-vs-Claude-Code-클린-환경에서-붙여본-솔직-비교-ebs0gvya</guid>
-      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code에서 무료로 GPT-5.3 Codex 사용하기 - 완벽 가이드</title>
-      <link>https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</link>
-      <description>Claude Code를 쓰다가 API 비용이 부담되신 적 있으신가요? 이제 CLIProxyAPI로 GPT 모델을 연동 할 수 있습니다!저는 핸드폰 번호를 모아서 40개월어치 사놨습니다.https://gift.kakao.com/product/12953074Cla...</description>
-      <guid isPermaLink="false">https://velog.io/@happy_hack/Claude-Code에서-무료로-GPT-5.3-Codex-사용하기-완벽-가이드</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+      <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
+      <link>https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</link>
+      <description>코딩할 때 다들 뭐 들으세요?저는 작업할 때 항상 유튜브를 틀어놓는데, 어느 날 GitHub 프로필을 보다가 문득 이런 생각이 들었습니다."contribution 그래프, 사용 언어, 스트릭 배지... 개발자로서 나는 잘 보이는데, 내가 뭘 듣는 사람인지는 아무 데도 ...</description>
+      <guid isPermaLink="false">https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</guid>
+      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
       <title>갤럭시북6 프로 14</title>
@@ -84,13 +77,6 @@
       <description>갤럭시북 6 프로 14인치 풀옵션 실제 기기 구매하고 사용중이다. 2월말일자로 배송일을 선택했는데 다음날 배송하겠다고 안달이나서 미루고 미루고 미루다 받았다. 물량이 모자른게 아니고 아무도 안사는 거였나... 받고 누덕이 포장에 놀랐다가... 열어보고 안심... ...</description>
       <guid isPermaLink="false">https://velog.io/@pswon/갤럭시북-6-프로-14</guid>
       <pubDate>Sun, 15 Feb 2026 17:08:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
-      <link>https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</link>
-      <description>코딩할 때 다들 뭐 들으세요?저는 작업할 때 항상 유튜브를 틀어놓는데, 어느 날 GitHub 프로필을 보다가 문득 이런 생각이 들었습니다."contribution 그래프, 사용 언어, 스트릭 배지... 개발자로서 나는 잘 보이는데, 내가 뭘 듣는 사람인지는 아무 데도 ...</description>
-      <guid isPermaLink="false">https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 최종합격 후기</title>
@@ -121,18 +107,18 @@
       <pubDate>Mon, 16 Feb 2026 17:16:22 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
-      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
-      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
-      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
-      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
-    </item>
-    <item>
       <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
       <link>https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</link>
       <description>이걸로 영어공부 해보세요! 진짜 제대로 만들어봤어요</description>
       <guid isPermaLink="false">https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</guid>
       <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
+      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
+      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
+      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
+      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
     </item>
     <item>
       <title>하이톤 대상 후기</title>
@@ -155,6 +141,13 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
+      <title>교통 이슈 알림 시스템 개선기: Redis Sorted Set과 Kafka로 설계 바꾸기</title>
+      <link>https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</link>
+      <description>크롤링 시점 기준 알림에서 → 이슈 시작 시점 기준 알림으로기존 가는길 지금 알림 시스템에는 구조적인 문제가 하나 있었습니다.교통 이슈 데이터를 크롤링해오는 순간, 현재 시간이 이슈 시작 시간보다 이후이고 종료 시간보다 이전이면 곧바로 알림을 발송하는 방식이었습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</guid>
+      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
       <title>AI를 이용해 문서로만 개발해본 후기</title>
       <link>https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</link>
       <description>AI를 이용해 생산성을 높일 수 있을까?</description>
@@ -162,11 +155,11 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>교통 이슈 알림 시스템 개선기: Redis Sorted Set과 Kafka로 설계 바꾸기</title>
-      <link>https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</link>
-      <description>크롤링 시점 기준 알림에서 → 이슈 시작 시점 기준 알림으로기존 가는길 지금 알림 시스템에는 구조적인 문제가 하나 있었습니다.교통 이슈 데이터를 크롤링해오는 순간, 현재 시간이 이슈 시작 시간보다 이후이고 종료 시간보다 이전이면 곧바로 알림을 발송하는 방식이었습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</guid>
-      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+      <title>[Mobile] "배포해 줘"로 끝내는 Fastlane 자동화 🚀</title>
+      <link>https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</link>
+      <description>모바일 앱 개발자라면 배포 날마다 겪는 '그 시간'을 아실 겁니다. Fastlane을 도입해서 배포 과정을 자동화했지만, 여전히 터미널 앞을 떠나지는 못했죠. &gt; 🤷 개발자 A: "배포 명령어가 뭐였더라? fastlane ios beta? 아님 deploy?" ...</description>
+      <guid isPermaLink="false">https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
       <title>[Design] 피보나치 수열과 황금비로 로고 설계</title>
@@ -190,11 +183,25 @@
       <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
-      <title>카드깡수수료 경고｜몰랐다가 손해 보는 구조와 안전하게 피하는 방법</title>
-      <link>https://velog.io/@jodyannm/카드깡수수료-경고</link>
-      <description>처음엔 별생각 없었어요.검색창에 카드깡수수료를 쳤을 뿐인데, 화면에 뜨는 글들은 다 비슷비슷하더라고요.그런데 이상하게도, 읽고 나면 더 당황스러운 기분이 남았어요.“이게 진짜 정보가 맞나?” 하는 불안감 때문이었죠.카드깡수수료가 왜 문제로 이어지는지실제로 사람들이 헷갈...</description>
-      <guid isPermaLink="false">https://velog.io/@jodyannm/카드깡수수료-경고</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
+      <title>오픈소스 기여, 생각보다 어렵지 않다</title>
+      <link>https://velog.io/@mlnwns/오픈소스-기여-생각보다-어렵지-않다</link>
+      <description>우아한테크코스 7기로 활동하며, 오픈소스에 기여하는 크루들을 보며 나도 한 번 도전해보고 싶다는 생각을 하고 당시에 처음으로 오픈소스 기여를 시작하게 되었다.최근에는 토스에서 운영하는 리액트 기반 라이브러리인 react-simplikit의 공식 문서를 읽어보게 되었다....</description>
+      <guid isPermaLink="false">https://velog.io/@mlnwns/오픈소스-기여-생각보다-어렵지-않다</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
+      <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
+      <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
+      <guid isPermaLink="false">https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
+      <link>https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</link>
+      <description>작년에 왔던 제로콜라, 죽지도 않고 또왔네.</description>
+      <guid isPermaLink="false">https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
       <title>[AI] 주니어 게임 개발자와 AI</title>
@@ -209,13 +216,6 @@
       <description>vinyl.pomodoro를 배포한지 거진 2주 넘게 지났다. 배포 당일부터 인스타그램을 통해 서비스 광고를 돌렸고, 많은 사람들이 사이트에 방문했다.방문자/페이지 뷰 사진방문자 수 1,040명, 페이지뷰 1,598. 사용자 1명당 페이지를 약 1.5회 조회했다는 뜻이...</description>
       <guid isPermaLink="false">https://velog.io/@yujintak/retrospective-1000-visitors-but-80-percent-left</guid>
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>법인카드현금화 위험 경고 보고서 │ 검색 전에 반드시 점검해야 할 리스크와 안전 기준</title>
-      <link>https://velog.io/@mugembo/법인카드현금화-위험-경고-보고서-검색-전에-반드시-점검해야-할-리스크와-안전-기준</link>
-      <description>법인카드현금화 관련 정보를 찾기 전 반드시 확인해야 할 주의사항과 구조적 리스크를 정리한 금융 소비자 보호 가이드. 홍보 목적이 아닌 피해 예방 중심의 정보 리포트입니다.검색창에 이 단어를 입력하는 순간,이미 마음 한쪽엔 고민이 있다는 뜻이더라고요.“혹시 괜찮은 방법이...</description>
-      <guid isPermaLink="false">https://velog.io/@mugembo/법인카드현금화-위험-경고-보고서-검색-전에-반드시-점검해야-할-리스크와-안전-기준</guid>
-      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
