@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 02 Mar 2026 17:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 17:18:11 +0000</lastBuildDate>
     <item>
       <title>[번역] 시니어 개발자들은 왜 잘못된 프로젝트를 말리지 않을까?</title>
       <link>https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</link>
@@ -23,18 +23,11 @@
       <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>리액트에서 데코레이터 쓰기 — LLM이 못 해주는 클린코드</title>
-      <link>https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</link>
-      <description>요즘 LLM한테 "게시글 CRUD 만들어줘" 하면 5분이면 나오잖아요. 근데 그렇게 만든 코드로 3개월 버텨본 적 있으신가요? 제 경험상, 사람이 구조를 안 잡아주면 코드는 결국 산으로 가더라고요.제 생각에 LLM이 아무리 발전해도 코드의 구조를 설계하는 건 여전히 사...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/react-decorator-clean-over-llm</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[신입] -&gt; [주니어] merge 할게요 :)</title>
-      <link>https://velog.io/@dyddn2015/신입-주니어-merge-할게요</link>
-      <description>저번 취업 성공 후기 포스팅이 정말 많은 관심을 받았다. 한동안 주/월간 velog 트렌딩 한 자리를 차지했고, 지금은 연간 velog 트렌딩에서 여전히 사랑받고 있다. 얼굴도 모르는 사람들에게 댓글에서 축하받는 기분이란.. 정말 다시 없을 경험이었고, 과분한 관심에...</description>
-      <guid isPermaLink="false">https://velog.io/@dyddn2015/신입-주니어-merge-할게요</guid>
-      <pubDate>Tue, 17 Feb 2026 17:24:20 +0000</pubDate>
+      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
+      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
+      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>한달만에 AI로 코드 3만라인 짜며 깨달은 것</title>
@@ -58,46 +51,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>유튜브 링크 하나로 GitHub 프로필에 음악 카드 넣기</title>
-      <link>https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</link>
-      <description>코딩할 때 다들 뭐 들으세요?저는 작업할 때 항상 유튜브를 틀어놓는데, 어느 날 GitHub 프로필을 보다가 문득 이런 생각이 들었습니다."contribution 그래프, 사용 언어, 스트릭 배지... 개발자로서 나는 잘 보이는데, 내가 뭘 듣는 사람인지는 아무 데도 ...</description>
-      <guid isPermaLink="false">https://velog.io/@gguip/유튜브-링크-하나로-GitHub-프로필에-음악-카드-넣기</guid>
-      <pubDate>Mon, 23 Feb 2026 17:26:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 해커톤 참여 - One Page Today</title>
-      <link>https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</link>
-      <description>그냥저냥 유튜브를 보다가 뜬 AI 해커톤 공고 보고 나서 그냥 갑자기 추진력이 생겨버렸다. 이유는 딱히 없다. 일중독인가? 아무튼 해커톤 공고를 처음 봤을 때 주제가 폭이 아주 넓었다. &gt; OpenAI API를 활용한 비즈니스 가치가 있는 프로덕트 그걸 바이...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/유튜브-보다가-갑자기-앱-만들기-One-Page-Today</guid>
-      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
-      <link>https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</link>
-      <description>[네이버부스트캠프] 10기 멤버십 수료 후기</description>
-      <guid isPermaLink="false">https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</guid>
-      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
-      <link>https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</link>
-      <description>이걸로 영어공부 해보세요! 진짜 제대로 만들어봤어요</description>
-      <guid isPermaLink="false">https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</guid>
-      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
-      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
-      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
-      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
-      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>하이톤 대상 후기</title>
-      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
-      <description>고등학생 해커톤에서 대상 탔습니다</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
-      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+      <title>코드를 공부하는 게 의미가 있을까?</title>
+      <link>https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</link>
+      <description>전체적인 맥락을 이해하는 데에는 배움이 유효할지 몰라도 한 줄 한 줄 공부하는 것에 대한 건 의미가 있나 싶다</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</guid>
+      <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
       <title>대회에서 멘헤라야차서비스 만든 썰</title>
@@ -107,11 +65,25 @@
       <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>교통 이슈 알림 시스템 개선기: Redis Sorted Set과 Kafka로 설계 바꾸기</title>
-      <link>https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</link>
-      <description>크롤링 시점 기준 알림에서 → 이슈 시작 시점 기준 알림으로기존 가는길 지금 알림 시스템에는 구조적인 문제가 하나 있었습니다.교통 이슈 데이터를 크롤링해오는 순간, 현재 시간이 이슈 시작 시간보다 이후이고 종료 시간보다 이전이면 곧바로 알림을 발송하는 방식이었습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@mw310/교통-이슈-알림-시스템-개선기-Redis-Sorted-Set과-Kafka로-설계-바꾸기</guid>
-      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+      <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
+      <link>https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</link>
+      <description>이걸로 영어공부 해보세요! 진짜 제대로 만들어봤어요</description>
+      <guid isPermaLink="false">https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</guid>
+      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
+      <link>https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</link>
+      <description>[네이버부스트캠프] 10기 멤버십 수료 후기</description>
+      <guid isPermaLink="false">https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</guid>
+      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
+      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
+      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
+      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
+      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
     </item>
     <item>
       <title>오픈소스 기여, 생각보다 어렵지 않다</title>
@@ -121,17 +93,17 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
+      <title>하이톤 대상 후기</title>
+      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
+      <description>고등학생 해커톤에서 대상 탔습니다</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>open claw 도커에서 실행하기</title>
       <link>https://velog.io/@maxtnuk/open-claw-도커에서-실행하기</link>
       <guid isPermaLink="false">https://velog.io/@maxtnuk/open-claw-도커에서-실행하기</guid>
       <pubDate>Sat, 28 Feb 2026 17:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>테커집 장례식</title>
-      <link>https://velog.io/@yuripbong/테커집-장례식</link>
-      <description>2025년 3월부터, 거의 테커에 들어오자마자 합류해서 함께했던 나의 최장기 프로젝트 테커집이 2026년 2월 27일부로 서버를 내리고 막을 내린다.</description>
-      <guid isPermaLink="false">https://velog.io/@yuripbong/테커집-장례식</guid>
-      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>[우아한테크코스 8기] 레벨1 1주차 회고 - 헤맨 만큼 내 땅이다</title>
@@ -141,32 +113,18 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
+      <title>테커집 장례식</title>
+      <link>https://velog.io/@yuripbong/테커집-장례식</link>
+      <description>2025년 3월부터, 거의 테커에 들어오자마자 합류해서 함께했던 나의 최장기 프로젝트 테커집이 2026년 2월 27일부로 서버를 내리고 막을 내린다.</description>
+      <guid isPermaLink="false">https://velog.io/@yuripbong/테커집-장례식</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>🤓[우테코 8기] 안드로이드 크루 '조디악'의 1주차 회고: 판교에서의 새로운 시작</title>
       <link>https://velog.io/@chohs4164/우테코-8기-안드로이드-크루-조디악의-1주차-회고-판교에서의-새로운-시작</link>
       <description>인터넷에 검색을 해보아도 안드로이드 파트는 회고록이나 후기에 대한 글이 적어서 추후에 지원을 할 사람들에게 도움이 되어보고자 많이 부족하지만 1주차 회고록을 시작으로 우테코 과정을 글로 적어나가보고자 한다.또한 이번 8기부터는 교육장이 판교로 이전되었기 때문에 새로운 ...</description>
       <guid isPermaLink="false">https://velog.io/@chohs4164/우테코-8기-안드로이드-크루-조디악의-1주차-회고-판교에서의-새로운-시작</guid>
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI를 이용해 문서로만 개발해본 후기</title>
-      <link>https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</link>
-      <description>AI를 이용해 생산성을 높일 수 있을까?</description>
-      <guid isPermaLink="false">https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>코드를 한 줄 한 줄 공부하는 게 의미가 있을까?</title>
-      <link>https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</link>
-      <description>내 결론은 **없다**는 거다. 물론 개인의 의견일 뿐이며 나와 다르게 생각하는 사람도 분명 있을 것이다. 뭐 어쨌거나 내 생각은 이렇기에, 왜 그렇게 생각하는지 정리해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</guid>
-      <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[의정부호빠 &amp; 의정부호스트바] 010-3320-5180</title>
-      <link>https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</link>
-      <description>의정부호빠 &amp; 의정부호스트바 010-3320-5180 예약 문의 및 위치 안내안녕하세요! 의정부 밤문화를 선도하는 최고의 선택, 의정부호빠입니다. 특별한 날, 혹은 일상의 지루함을 날려버리고 싶을 때 가장 먼저 생각나는 의정부호스트바를 찾고 계신가요? 저희는 고객님의 ...</description>
-      <guid isPermaLink="false">https://velog.io/@onttm/의정부호빠-의정부호스트바-010-3320-5180</guid>
-      <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
       <title>2025년 + 2026 1월 회고</title>
@@ -176,11 +134,18 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
-      <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
-      <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
-      <guid isPermaLink="false">https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</guid>
-      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
+      <title>AI를 이용해 문서로만 개발해본 후기</title>
+      <link>https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</link>
+      <description>AI를 이용해 생산성을 높일 수 있을까?</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</guid>
+      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아하게 useGesture 훅으로 바텀시트 제스처 분리하기[바텀시트 구현 1편]</title>
+      <link>https://velog.io/@csh001231/useGesture-훅-구현하기</link>
+      <description>우아하게 바텀시트 구현하기 1편</description>
+      <guid isPermaLink="false">https://velog.io/@csh001231/useGesture-훅-구현하기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>[회고록] 1,000명을 모았지만 80%가 떠난 이유</title>
@@ -197,6 +162,19 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
+      <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
+      <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
+      <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
+      <guid isPermaLink="false">https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 무신사 MUSINSA ROOKIE AI NATIVE ENGINEER(인턴) 1차, 2차 코딩 테스트 후기</title>
+      <link>https://velog.io/@bcgo99/2026-무신사-MUSINSA-ROOKIE-AI-NATIVE-ENGINEER인턴-1차-2차-코딩-테스트-후기</link>
+      <guid isPermaLink="false">https://velog.io/@bcgo99/2026-무신사-MUSINSA-ROOKIE-AI-NATIVE-ENGINEER인턴-1차-2차-코딩-테스트-후기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
       <link>https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</link>
       <description>작년에 왔던 제로콜라, 죽지도 않고 또왔네.</description>
@@ -204,11 +182,17 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>1년차 주니어의 학습법 파인 튜닝: 인지-메타인지로 재설계하기</title>
-      <link>https://velog.io/@gms72901217/1년차-주니어의-학습-파인-튜닝-인지-메타인지로-재설계하기</link>
-      <description>[백년공부법]을 읽고 배운 뇌 과학 원리, 개발자 성장을 위한 최적화 알고리즘 설계기 그 1편 (인지와 메타인지 학습법).</description>
-      <guid isPermaLink="false">https://velog.io/@gms72901217/1년차-주니어의-학습-파인-튜닝-인지-메타인지로-재설계하기</guid>
-      <pubDate>Sat, 28 Feb 2026 17:05:18 +0000</pubDate>
+      <title>나 , 개발자, 그리고 앞으로의 방향성</title>
+      <link>https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</link>
+      <guid isPermaLink="false">https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bye 2025! 월급쟁이 되어 쓰는 (다소 늦은) 회고록</title>
+      <link>https://velog.io/@engus525/Bye-2025-월급쟁이-되어-쓰는-회고록</link>
+      <description>벌써 2월 중순이라니요..? 전 이제 회고록을 씁니다만.</description>
+      <guid isPermaLink="false">https://velog.io/@engus525/Bye-2025-월급쟁이-되어-쓰는-회고록</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>[AI] 주니어 게임 개발자와 AI</title>
@@ -216,6 +200,19 @@
       <description>2022년, 대학교에서 소프트웨어 전공 수업을 듣던 중 교수님이 이런 말씀을 하셨다.“개발자로 살아가고 싶다면 항상 최신 기술과 동향을 파악하는 습관을 길러라.”그리고 그 자리에서 막 등장했던 ChatGPT를 소개해주셨다.직접 사용해본 교수님의 평가는 이랬다“대학교 1...</description>
       <guid isPermaLink="false">https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</guid>
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 설치_docker 사용</title>
+      <link>https://velog.io/@kmj76/OpenClaw-설치docker-사용</link>
+      <guid isPermaLink="false">https://velog.io/@kmj76/OpenClaw-설치docker-사용</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>신용카드현금전환 경고 리포트｜잔여 한도 사용 전 반드시 점검할 안전 기준</title>
+      <link>https://velog.io/@verdadeiro/신용카드현금전환-경고-리포트｜잔여-한도-사용-전-반드시-점검할-안전-기준</link>
+      <description>이 글을 쓰는 이유는 단순했어요.상담 중에 신용카드현금화를 이미 알아봤다고 털어놓는 분들이 계속 늘고 있었거든요.처음엔 다들 비슷했어요.“딱 한 번만 쓰고 바로 정리하면 괜찮지 않을까요?”그 말 속에는 조급함이 섞여 있었어요.그런데 현장에서 본 결과는 생각과 조금 달랐...</description>
+      <guid isPermaLink="false">https://velog.io/@verdadeiro/신용카드현금전환-경고-리포트｜잔여-한도-사용-전-반드시-점검할-안전-기준</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
