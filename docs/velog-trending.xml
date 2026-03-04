@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 03 Mar 2026 17:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 17:15:55 +0000</lastBuildDate>
     <item>
       <title>[번역] 시니어 개발자들은 왜 잘못된 프로젝트를 말리지 않을까?</title>
       <link>https://velog.io/@typo/why-senior-engineers-let-bad-projects-fail</link>
@@ -37,6 +37,13 @@
       <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
+      <title>코드를 공부하는 게 의미가 있을까?</title>
+      <link>https://velog.io/@dbwls/코드를-공부하는-게-의미가-있을까</link>
+      <description>AI를 업무에 활용하며 매일같이 도움을 받다 보니까 자연스럽게 드는 의문이 있다. 코드를 한 줄 한 줄 공부하는 게 이제 무슨 의미가 있을까?</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/코드를-공부하는-게-의미가-있을까</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
       <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
       <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
@@ -49,13 +56,6 @@
       <description>네부캠에서 만든 우리의 이야기</description>
       <guid isPermaLink="false">https://velog.io/@ldh-dodo/네부캠-온라인-모각코-서비스-개발기</guid>
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>코드를 공부하는 게 의미가 있을까?</title>
-      <link>https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</link>
-      <description>전체적인 맥락을 이해하는 데에는 배움이 유효할지 몰라도 한 줄 한 줄 공부하는 것에 대한 건 의미가 있나 싶다</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/코드를-한-줄-한-줄-공부하는-게-의미가-있을까</guid>
-      <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
       <title>대회에서 멘헤라야차서비스 만든 썰</title>
@@ -72,20 +72,6 @@
       <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>[네이버부스트캠프] 10기 멤버십 수료 후기</title>
-      <link>https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</link>
-      <description>[네이버부스트캠프] 10기 멤버십 수료 후기</description>
-      <guid isPermaLink="false">https://velog.io/@hyejung9904/네이버부스트캠프-10기-멤버십-수료-후기</guid>
-      <pubDate>Wed, 18 Feb 2026 17:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[네이버 멤버쉽 10기 마무리] 행복하기만을 빌었던</title>
-      <link>https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</link>
-      <description>네이버 부스트캠프 10기 멤버쉽를 수료했어오</description>
-      <guid isPermaLink="false">https://velog.io/@d159123/네이버-멤버쉽-10기-마무리-행복하기만을-빌었던</guid>
-      <pubDate>Sat, 21 Feb 2026 17:08:16 +0000</pubDate>
-    </item>
-    <item>
       <title>오픈소스 기여, 생각보다 어렵지 않다</title>
       <link>https://velog.io/@mlnwns/오픈소스-기여-생각보다-어렵지-않다</link>
       <description>우아한테크코스 7기로 활동하며, 오픈소스에 기여하는 크루들을 보며 나도 한 번 도전해보고 싶다는 생각을 하고 당시에 처음으로 오픈소스 기여를 시작하게 되었다.최근에는 토스에서 운영하는 리액트 기반 라이브러리인 react-simplikit의 공식 문서를 읽어보게 되었다....</description>
@@ -93,17 +79,17 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>하이톤 대상 후기</title>
-      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
-      <description>고등학생 해커톤에서 대상 탔습니다</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
-      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
       <title>open claw 도커에서 실행하기</title>
       <link>https://velog.io/@maxtnuk/open-claw-도커에서-실행하기</link>
       <guid isPermaLink="false">https://velog.io/@maxtnuk/open-claw-도커에서-실행하기</guid>
       <pubDate>Sat, 28 Feb 2026 17:05:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아하게 useGesture 훅으로 바텀시트 제스처 분리하기[바텀시트 구현 1편]</title>
+      <link>https://velog.io/@csh001231/useGesture-훅-구현하기</link>
+      <description>우아하게 바텀시트 구현하기 1편</description>
+      <guid isPermaLink="false">https://velog.io/@csh001231/useGesture-훅-구현하기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>[우아한테크코스 8기] 레벨1 1주차 회고 - 헤맨 만큼 내 땅이다</title>
@@ -113,11 +99,18 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>테커집 장례식</title>
-      <link>https://velog.io/@yuripbong/테커집-장례식</link>
-      <description>2025년 3월부터, 거의 테커에 들어오자마자 합류해서 함께했던 나의 최장기 프로젝트 테커집이 2026년 2월 27일부로 서버를 내리고 막을 내린다.</description>
-      <guid isPermaLink="false">https://velog.io/@yuripbong/테커집-장례식</guid>
+      <title>하이톤 대상 후기</title>
+      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
+      <description>고등학생 해커톤에서 대상 탔습니다</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>무신사 AI Native Engineer 최종 합격 회고</title>
+      <link>https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</link>
+      <description>2026년 1월부터 진행된 MUSINSA ROOKIE AI NATIVE ENGINEER 전형에 최종 합격하게 됐다.이번 포스팅에서는 전형 과정에 대한 회고를 정리해보려고 한다.이번 채용 과정은 조금 특이했다.1차 코딩테스트는 AI 없이 기본기 검증, 2차 코딩테스트는 ...</description>
+      <guid isPermaLink="false">https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>🤓[우테코 8기] 안드로이드 크루 '조디악'의 1주차 회고: 판교에서의 새로운 시작</title>
@@ -127,11 +120,25 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>2025년 + 2026 1월 회고</title>
-      <link>https://velog.io/@real_kkamack/2025년-2026-1월-회고</link>
-      <description>사실 회고 아니고 일기임</description>
-      <guid isPermaLink="false">https://velog.io/@real_kkamack/2025년-2026-1월-회고</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
+      <title>사용자의 검색어를 이해해보자!</title>
+      <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
+      <description>군대 3개월 갈아넣기</description>
+      <guid isPermaLink="false">https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>테커집 장례식</title>
+      <link>https://velog.io/@yuripbong/테커집-장례식</link>
+      <description>2025년 3월부터, 거의 테커에 들어오자마자 합류해서 함께했던 나의 최장기 프로젝트 테커집이 2026년 2월 27일부로 서버를 내리고 막을 내린다.</description>
+      <guid isPermaLink="false">https://velog.io/@yuripbong/테커집-장례식</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>프론트엔드 개발자 실무 1년 회고... SW 엔지니어로 확장</title>
+      <link>https://velog.io/@seoin1002/프론트엔드-개발자-실무-1년-회고...-이제는-SW-엔지니어로</link>
+      <description>안녕하세요. 단단입니다. 2025년 2월 24일 제가 '올라핀테크'에 입사하고 1년이 흘렀습니다. 1년 동안 실무를 하면서 어떻게 성장했는지 회고했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@seoin1002/프론트엔드-개발자-실무-1년-회고...-이제는-SW-엔지니어로</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>AI를 이용해 문서로만 개발해본 후기</title>
@@ -141,10 +148,9 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>우아하게 useGesture 훅으로 바텀시트 제스처 분리하기[바텀시트 구현 1편]</title>
-      <link>https://velog.io/@csh001231/useGesture-훅-구현하기</link>
-      <description>우아하게 바텀시트 구현하기 1편</description>
-      <guid isPermaLink="false">https://velog.io/@csh001231/useGesture-훅-구현하기</guid>
+      <title>나 , 개발자, 그리고 앞으로의 방향성</title>
+      <link>https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</link>
+      <guid isPermaLink="false">https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</guid>
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
@@ -155,13 +161,6 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>[Mobile] "배포해 줘"로 끝내는 Fastlane 자동화 🚀</title>
-      <link>https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</link>
-      <description>모바일 앱 개발자라면 배포 날마다 겪는 '그 시간'을 아실 겁니다. Fastlane을 도입해서 배포 과정을 자동화했지만, 여전히 터미널 앞을 떠나지는 못했죠. &gt; 🤷 개발자 A: "배포 명령어가 뭐였더라? fastlane ios beta? 아님 deploy?" ...</description>
-      <guid isPermaLink="false">https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</guid>
-      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
-    </item>
-    <item>
       <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
       <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
       <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
@@ -169,10 +168,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>2026 무신사 MUSINSA ROOKIE AI NATIVE ENGINEER(인턴) 1차, 2차 코딩 테스트 후기</title>
-      <link>https://velog.io/@bcgo99/2026-무신사-MUSINSA-ROOKIE-AI-NATIVE-ENGINEER인턴-1차-2차-코딩-테스트-후기</link>
-      <guid isPermaLink="false">https://velog.io/@bcgo99/2026-무신사-MUSINSA-ROOKIE-AI-NATIVE-ENGINEER인턴-1차-2차-코딩-테스트-후기</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+      <title>[Mobile] "배포해 줘"로 끝내는 Fastlane 자동화 🚀</title>
+      <link>https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</link>
+      <description>모바일 앱 개발자라면 배포 날마다 겪는 '그 시간'을 아실 겁니다. Fastlane을 도입해서 배포 과정을 자동화했지만, 여전히 터미널 앞을 떠나지는 못했죠. &gt; 🤷 개발자 A: "배포 명령어가 뭐였더라? fastlane ios beta? 아님 deploy?" ...</description>
+      <guid isPermaLink="false">https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</guid>
+      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
       <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
@@ -182,24 +182,25 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>나 , 개발자, 그리고 앞으로의 방향성</title>
-      <link>https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</link>
-      <guid isPermaLink="false">https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+      <title>서비스 워커(Service Worker)로 리소스 캐싱하기</title>
+      <link>https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</link>
+      <description>캐싱을 직접 구현하며 서비스 워커에 대해 알아보기</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>Bye 2025! 월급쟁이 되어 쓰는 (다소 늦은) 회고록</title>
-      <link>https://velog.io/@engus525/Bye-2025-월급쟁이-되어-쓰는-회고록</link>
-      <description>벌써 2월 중순이라니요..? 전 이제 회고록을 씁니다만.</description>
-      <guid isPermaLink="false">https://velog.io/@engus525/Bye-2025-월급쟁이-되어-쓰는-회고록</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
+      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
+      <description>끼야악</description>
+      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>[AI] 주니어 게임 개발자와 AI</title>
-      <link>https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</link>
-      <description>2022년, 대학교에서 소프트웨어 전공 수업을 듣던 중 교수님이 이런 말씀을 하셨다.“개발자로 살아가고 싶다면 항상 최신 기술과 동향을 파악하는 습관을 길러라.”그리고 그 자리에서 막 등장했던 ChatGPT를 소개해주셨다.직접 사용해본 교수님의 평가는 이랬다“대학교 1...</description>
-      <guid isPermaLink="false">https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</guid>
-      <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
+      <title>클로드 코드(Claude Code) 토큰이 살살 녹고 있다면? 필승 절약 설정 7가지</title>
+      <link>https://velog.io/@hbcho/클로드-코드Claude-Code-토큰이-살살-녹고-있다면-필승-절약-설정-7가지</link>
+      <description>비용은 줄이고 성능은 올리는 Pro/Max 플랜별 최적화 가이드 &amp; 필수 명령어 총정리</description>
+      <guid isPermaLink="false">https://velog.io/@hbcho/클로드-코드Claude-Code-토큰이-살살-녹고-있다면-필승-절약-설정-7가지</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>OpenClaw 설치_docker 사용</title>
@@ -208,11 +209,11 @@
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>신용카드현금전환 경고 리포트｜잔여 한도 사용 전 반드시 점검할 안전 기준</title>
-      <link>https://velog.io/@verdadeiro/신용카드현금전환-경고-리포트｜잔여-한도-사용-전-반드시-점검할-안전-기준</link>
-      <description>이 글을 쓰는 이유는 단순했어요.상담 중에 신용카드현금화를 이미 알아봤다고 털어놓는 분들이 계속 늘고 있었거든요.처음엔 다들 비슷했어요.“딱 한 번만 쓰고 바로 정리하면 괜찮지 않을까요?”그 말 속에는 조급함이 섞여 있었어요.그런데 현장에서 본 결과는 생각과 조금 달랐...</description>
-      <guid isPermaLink="false">https://velog.io/@verdadeiro/신용카드현금전환-경고-리포트｜잔여-한도-사용-전-반드시-점검할-안전-기준</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+      <title>[AI] 주니어 게임 개발자와 AI</title>
+      <link>https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</link>
+      <description>2022년, 대학교에서 소프트웨어 전공 수업을 듣던 중 교수님이 이런 말씀을 하셨다.“개발자로 살아가고 싶다면 항상 최신 기술과 동향을 파악하는 습관을 길러라.”그리고 그 자리에서 막 등장했던 ChatGPT를 소개해주셨다.직접 사용해본 교수님의 평가는 이랬다“대학교 1...</description>
+      <guid isPermaLink="false">https://velog.io/@imeamangryang/AI-주니어-게임-개발자와-AI</guid>
+      <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
