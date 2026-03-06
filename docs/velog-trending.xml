@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 05 Mar 2026 17:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 17:14:29 +0000</lastBuildDate>
     <item>
       <title>‘개발자’는 구세대의 레거시다</title>
       <link>https://velog.io/@juunini/개발자는-구세대의-레거시다</link>
@@ -16,18 +16,18 @@
       <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
-      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
-      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
-    </item>
-    <item>
       <title>한달만에 AI로 코드 3만라인 짜며 깨달은 것</title>
       <link>https://velog.io/@playername_ltt/한달만에-AI로-코드-3만라인-짜며-깨달은-것</link>
       <description>바이브코더와는 다른 개발자의 에이전트 사용법.</description>
       <guid isPermaLink="false">https://velog.io/@playername_ltt/한달만에-AI로-코드-3만라인-짜며-깨달은-것</guid>
       <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
+      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
+      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>코드를 공부하는 게 의미가 있을까?</title>
@@ -44,11 +44,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini 3.1 Pro 출시 - 그래서 Claude 버릴 만한가?</title>
-      <link>https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</link>
-      <description>오늘 새벽, Google이 Gemini 3.1 Pro를 공개했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-3.1-Pro-출시-그래서-Claude-버릴-만한가</guid>
-      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
+      <title>무신사 AI Native Engineer 최종 합격 회고</title>
+      <link>https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</link>
+      <description>2026년 1월부터 진행된 MUSINSA ROOKIE AI NATIVE ENGINEER 전형에 최종 합격하게 됐다.이번 포스팅에서는 전형 과정에 대한 회고를 정리해보려고 한다.이번 채용 과정은 조금 특이했다.1차 코딩테스트는 AI 없이 기본기 검증, 2차 코딩테스트는 ...</description>
+      <guid isPermaLink="false">https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>대회에서 멘헤라야차서비스 만든 썰</title>
@@ -72,10 +72,10 @@
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>무신사 AI Native Engineer 최종 합격 회고</title>
-      <link>https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</link>
-      <description>2026년 1월부터 진행된 MUSINSA ROOKIE AI NATIVE ENGINEER 전형에 최종 합격하게 됐다.이번 포스팅에서는 전형 과정에 대한 회고를 정리해보려고 한다.이번 채용 과정은 조금 특이했다.1차 코딩테스트는 AI 없이 기본기 검증, 2차 코딩테스트는 ...</description>
-      <guid isPermaLink="false">https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</guid>
+      <title>사용자의 검색어를 이해해보자!</title>
+      <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
+      <description>군대 3개월 갈아넣기</description>
+      <guid isPermaLink="false">https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</guid>
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
@@ -86,25 +86,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>AI가 나만을 위한 문제를 실시간으로 만들어주는 학습 플랫폼을 만들었습니다</title>
-      <link>https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</link>
-      <description>이걸로 영어공부 해보세요! 진짜 제대로 만들어봤어요</description>
-      <guid isPermaLink="false">https://velog.io/@cgoing-love/AI가-나만을-위한-문제를-실시간으로-만들어주는-학습-플랫폼을-만들었습니다</guid>
-      <pubDate>Fri, 20 Feb 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
       <title>우아하게 useGesture 훅으로 바텀시트 제스처 분리하기[바텀시트 구현 1편]</title>
       <link>https://velog.io/@csh001231/useGesture-훅-구현하기</link>
       <description>우아하게 바텀시트 구현하기 1편</description>
       <guid isPermaLink="false">https://velog.io/@csh001231/useGesture-훅-구현하기</guid>
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>사용자의 검색어를 이해해보자!</title>
-      <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
-      <description>군대 3개월 갈아넣기</description>
-      <guid isPermaLink="false">https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
       <title>open claw 도커에서 실행하기</title>
@@ -120,18 +106,18 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>하이톤 대상 후기</title>
-      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
-      <description>고등학생 해커톤에서 대상 탔습니다</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
-      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
       <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
       <link>https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</link>
       <description>이 세팅의 시작은 3학년에 새롭게 수강을 시작한 과목인 "인공지능실무" 과목에서 전달된 반가운 공지에서 비롯되었습니다. 실습을 위해 학생들에게 우분투 워크스테이션을 한 학기 동안 대여해준다는 내용이었죠.사양을 확인해 보니 Intel Xeon Silver 4208(8코어...</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</guid>
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>하이톤 대상 후기</title>
+      <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
+      <description>고등학생 해커톤에서 대상 탔습니다</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/하이톤-대상-후기</guid>
+      <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>Jest로 프론트 코드 테스트하기</title>
@@ -155,11 +141,45 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
+      <title>2026 정보처리기사 필기 일주일 합격법</title>
+      <link>https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</link>
+      <description>정보처리기사 준비 나는 군 복학 후 3학년으로 다시 시작했고, 그동안 손 놨던 컴퓨터공학 지식과 학점을 다시 쌓아가느라 굉장히 바쁘게 살았다. 하지만 돌이켜보면 학점 외에 크게 성취했다고 느낀 것들이 없어서 지쳐있기도 했고, 자신감도 많이 떨어져 있는 상태였다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>출퇴근 지하철에서 Claude Code로 1기능 구현한 후기</title>
+      <link>https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</link>
+      <description>출퇴근 왕복 90분 동안 Claude Code에 지시를 던져서 기능 하나를 완성했다핵심은 스마트폰에서 SSH로 접속해서 AI 코딩 에이전트를 조작하는 것안드로이드에서 한글이 제대로 되는 SSH 앱이 거의 없어서 직접 만들었다저는 소프트웨어 엔지니어입니다. 그리고 아이를...</description>
+      <guid isPermaLink="false">https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>고3이 회사 다니며 겪은 일</title>
+      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
+      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
       <title>AI를 이용해 문서로만 개발해본 후기</title>
       <link>https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</link>
       <description>AI를 이용해 생산성을 높일 수 있을까?</description>
       <guid isPermaLink="false">https://velog.io/@yeo___li/AI를-이용해-문서로만-개발해본-후기</guid>
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[7주차] SQLite 옮겼다가 502 맞고, 배포 뜯어고치고, 기술 선택 기준 다시 세운 주</title>
+      <link>https://velog.io/@gusdudco6/cohi-chat-7</link>
+      <guid isPermaLink="false">https://velog.io/@gusdudco6/cohi-chat-7</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>디자인 시스템 패키지를 배포해 보자 (feat. 맨땅에 헤딩)</title>
+      <link>https://velog.io/@cconac/디자인-시스템-패키지를-배포해-보자-feat.-맨땅에-헤딩</link>
+      <description>JECT는 디자인 시스템 개발 중!</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/디자인-시스템-패키지를-배포해-보자-feat.-맨땅에-헤딩</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
       <title>[회고록] 1,000명을 모았지만 80%가 떠난 이유</title>
@@ -182,13 +202,6 @@
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>토스 테크 블로그를 읽고 AST 뜯어보기</title>
-      <link>https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</link>
-      <description>코드는 그저 컴퓨터가 실행하는 텍스트일까요? 토스 테크 블로그의 퍼널 시각화 글을 읽으며 AST(추상 구문 트리)의 개념을 공부하고, 코드를 조작 가능한 데이터로 바라보는 법을 배웠습니다. 여기에 로직의 빈틈을 메워주는 의사결정 테이블 인사이트까지 더해진 회고록입니다....</description>
-      <guid isPermaLink="false">https://velog.io/@kdy9883/토스-테크-블로그를-읽고-AST-뜯어보기</guid>
-      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
       <link>https://velog.io/@z_coke/Server-홈서버-업그레이드-탐험기-03</link>
       <description>작년에 왔던 제로콜라, 죽지도 않고 또왔네.</description>
@@ -196,24 +209,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>[Mobile] "배포해 줘"로 끝내는 Fastlane 자동화 🚀</title>
-      <link>https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</link>
-      <description>모바일 앱 개발자라면 배포 날마다 겪는 '그 시간'을 아실 겁니다. Fastlane을 도입해서 배포 과정을 자동화했지만, 여전히 터미널 앞을 떠나지는 못했죠. &gt; 🤷 개발자 A: "배포 명령어가 뭐였더라? fastlane ios beta? 아님 deploy?" ...</description>
-      <guid isPermaLink="false">https://velog.io/@medistream/Mobile-배포해-줘로-끝내는-Fastlane-자동화</guid>
-      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>헤드보드 ANC를 기획하며 정리한 Active Noise Control 핵심 개념</title>
-      <link>https://velog.io/@bssm_woals/헤드보드-ANC</link>
-      <guid isPermaLink="false">https://velog.io/@bssm_woals/헤드보드-ANC</guid>
-      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
-      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
-      <description>끼야악</description>
-      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+      <title>2025년 회고</title>
+      <link>https://velog.io/@songsunkook/2025-회고</link>
+      <description>채용 프로세스가 끝나면 회고 써야지!! 근데 왜 안끝나</description>
+      <guid isPermaLink="false">https://velog.io/@songsunkook/2025-회고</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
