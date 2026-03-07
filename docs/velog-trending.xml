@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 06 Mar 2026 17:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 17:06:02 +0000</lastBuildDate>
     <item>
       <title>‘개발자’는 구세대의 레거시다</title>
       <link>https://velog.io/@juunini/개발자는-구세대의-레거시다</link>
@@ -23,18 +23,18 @@
       <pubDate>Thu, 26 Feb 2026 17:25:01 +0000</pubDate>
     </item>
     <item>
-      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
-      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
-      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
-    </item>
-    <item>
       <title>코드를 공부하는 게 의미가 있을까?</title>
       <link>https://velog.io/@dbwls/코드를-공부하는-게-의미가-있을까</link>
       <description>AI를 업무에 활용하며 매일같이 도움을 받다 보니까 자연스럽게 드는 의문이 있다. 코드를 한 줄 한 줄 공부하는 게 이제 무슨 의미가 있을까?</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/코드를-공부하는-게-의미가-있을까</guid>
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
+      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
+      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
       <title>[네부캠] 온라인 모각코 서비스 개발기</title>
@@ -86,11 +86,11 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>우아하게 useGesture 훅으로 바텀시트 제스처 분리하기[바텀시트 구현 1편]</title>
-      <link>https://velog.io/@csh001231/useGesture-훅-구현하기</link>
-      <description>우아하게 바텀시트 구현하기 1편</description>
-      <guid isPermaLink="false">https://velog.io/@csh001231/useGesture-훅-구현하기</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
+      <title>우아하게 구현하는 바텀시트 - 제스처 훅 설계</title>
+      <link>https://velog.io/@csh001231/우아하게-구현하는-바텀시트-제스처-훅-설계</link>
+      <description>우아하게 구현하는 바텀시트 1편</description>
+      <guid isPermaLink="false">https://velog.io/@csh001231/우아하게-구현하는-바텀시트-제스처-훅-설계</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
     <item>
       <title>open claw 도커에서 실행하기</title>
@@ -106,13 +106,6 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
-      <link>https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</link>
-      <description>이 세팅의 시작은 3학년에 새롭게 수강을 시작한 과목인 "인공지능실무" 과목에서 전달된 반가운 공지에서 비롯되었습니다. 실습을 위해 학생들에게 우분투 워크스테이션을 한 학기 동안 대여해준다는 내용이었죠.사양을 확인해 보니 Intel Xeon Silver 4208(8코어...</description>
-      <guid isPermaLink="false">https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</guid>
-      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
-    </item>
-    <item>
       <title>하이톤 대상 후기</title>
       <link>https://velog.io/@qtaghdi/하이톤-대상-후기</link>
       <description>고등학생 해커톤에서 대상 탔습니다</description>
@@ -120,10 +113,10 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>Jest로 프론트 코드 테스트하기</title>
-      <link>https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</link>
-      <description>카카오 로그인 구현중 문제가 발생했다. 카카오 SDK를 사용하여 주소로 직접 요청하지 않아도 자동으로 카카오 OAuth 인증 페이지로 리다이렉트되도록 설정했고, 로그인 버튼 클릭 시 카카오 로그인이 동작하도록 기능을 구현했다. 또한 로그인하지 않았거나...</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</guid>
+      <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
+      <link>https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</link>
+      <description>이 세팅의 시작은 3학년에 새롭게 수강을 시작한 과목인 "인공지능실무" 과목에서 전달된 반가운 공지에서 비롯되었습니다. 실습을 위해 학생들에게 우분투 워크스테이션을 한 학기 동안 대여해준다는 내용이었죠.사양을 확인해 보니 Intel Xeon Silver 4208(8코어...</description>
+      <guid isPermaLink="false">https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</guid>
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
@@ -141,24 +134,17 @@
       <pubDate>Tue, 24 Feb 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>2026 정보처리기사 필기 일주일 합격법</title>
-      <link>https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</link>
-      <description>정보처리기사 준비 나는 군 복학 후 3학년으로 다시 시작했고, 그동안 손 놨던 컴퓨터공학 지식과 학점을 다시 쌓아가느라 굉장히 바쁘게 살았다. 하지만 돌이켜보면 학점 외에 크게 성취했다고 느낀 것들이 없어서 지쳐있기도 했고, 자신감도 많이 떨어져 있는 상태였다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+      <title>Jest로 프론트 코드 테스트하기</title>
+      <link>https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</link>
+      <description>카카오 로그인 구현중 문제가 발생했다. 카카오 SDK를 사용하여 주소로 직접 요청하지 않아도 자동으로 카카오 OAuth 인증 페이지로 리다이렉트되도록 설정했고, 로그인 버튼 클릭 시 카카오 로그인이 동작하도록 기능을 구현했다. 또한 로그인하지 않았거나...</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</guid>
+      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
       <title>출퇴근 지하철에서 Claude Code로 1기능 구현한 후기</title>
       <link>https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</link>
       <description>출퇴근 왕복 90분 동안 Claude Code에 지시를 던져서 기능 하나를 완성했다핵심은 스마트폰에서 SSH로 접속해서 AI 코딩 에이전트를 조작하는 것안드로이드에서 한글이 제대로 되는 SSH 앱이 거의 없어서 직접 만들었다저는 소프트웨어 엔지니어입니다. 그리고 아이를...</description>
       <guid isPermaLink="false">https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>고3이 회사 다니며 겪은 일</title>
-      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
-      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
@@ -169,16 +155,10 @@
       <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
     </item>
     <item>
-      <title>[7주차] SQLite 옮겼다가 502 맞고, 배포 뜯어고치고, 기술 선택 기준 다시 세운 주</title>
-      <link>https://velog.io/@gusdudco6/cohi-chat-7</link>
-      <guid isPermaLink="false">https://velog.io/@gusdudco6/cohi-chat-7</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>디자인 시스템 패키지를 배포해 보자 (feat. 맨땅에 헤딩)</title>
-      <link>https://velog.io/@cconac/디자인-시스템-패키지를-배포해-보자-feat.-맨땅에-헤딩</link>
-      <description>JECT는 디자인 시스템 개발 중!</description>
-      <guid isPermaLink="false">https://velog.io/@cconac/디자인-시스템-패키지를-배포해-보자-feat.-맨땅에-헤딩</guid>
+      <title>고3이 회사 다니며 겪은 일</title>
+      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
+      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
@@ -195,11 +175,10 @@
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>서비스 워커(Service Worker)로 리소스 캐싱하기</title>
-      <link>https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</link>
-      <description>캐싱을 직접 구현하며 서비스 워커에 대해 알아보기</description>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+      <title>[7주차] SQLite 옮겼다가 502 맞고, 배포 뜯어고치고, 기술 선택 기준 다시 세운 주</title>
+      <link>https://velog.io/@gusdudco6/cohi-chat-7</link>
+      <guid isPermaLink="false">https://velog.io/@gusdudco6/cohi-chat-7</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
       <title>[Server] 홈서버 업그레이드 탐험기 - 03</title>
@@ -209,11 +188,32 @@
       <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
     </item>
     <item>
-      <title>2025년 회고</title>
-      <link>https://velog.io/@songsunkook/2025-회고</link>
-      <description>채용 프로세스가 끝나면 회고 써야지!! 근데 왜 안끝나</description>
-      <guid isPermaLink="false">https://velog.io/@songsunkook/2025-회고</guid>
+      <title>서비스 워커(Service Worker)로 리소스 캐싱하기</title>
+      <link>https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</link>
+      <description>캐싱을 직접 구현하며 서비스 워커에 대해 알아보기</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/서비스-워커Service-Worker로-리소스-캐싱하기</guid>
+      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
+      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
+      <description>끼야악</description>
+      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 정보처리기사 필기 일주일 합격법</title>
+      <link>https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</link>
+      <description>정보처리기사 준비 나는 군 복학 후 3학년으로 다시 시작했고, 그동안 손 놨던 컴퓨터공학 지식과 학점을 다시 쌓아가느라 굉장히 바쁘게 살았다. 하지만 돌이켜보면 학점 외에 크게 성취했다고 느낀 것들이 없어서 지쳐있기도 했고, 자신감도 많이 떨어져 있는 상태였다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>두 번째 회사를 마무리하며</title>
+      <link>https://velog.io/@chae0738/두-번째-회사를-마무리하며</link>
+      <description>세 번째 회사로...</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/두-번째-회사를-마무리하며</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
