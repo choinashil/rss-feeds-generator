@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 10 Mar 2026 17:18:40 +0000</lastBuildDate>
-    <item>
-      <title>‘개발자’는 구세대의 레거시다</title>
-      <link>https://velog.io/@juunini/개발자는-구세대의-레거시다</link>
-      <description>AI 개좋음</description>
-      <guid isPermaLink="false">https://velog.io/@juunini/개발자는-구세대의-레거시다</guid>
-      <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 17:20:06 +0000</lastBuildDate>
     <item>
       <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
       <link>https://velog.io/@teo/we-programmer</link>
       <description>흔히들, AI 시대에는 깊이가 중요하다, CS 지식이 중요하다는 말들을 많이 합니다. 하지만 솔직히 이 책에 나오는 어셈블러나 초창기 컴퓨터 지식을 우리가 속속들이 모른다고 해서 지금 당장 큰 문제가 생기지는 않습니다. 반대로 안다고 해서 달라질 것도 없죠. 그렇다면</description>
       <guid isPermaLink="false">https://velog.io/@teo/we-programmer</guid>
       <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘개발자’는 구세대의 레거시다</title>
+      <link>https://velog.io/@juunini/개발자는-구세대의-레거시다</link>
+      <description>AI 개좋음</description>
+      <guid isPermaLink="false">https://velog.io/@juunini/개발자는-구세대의-레거시다</guid>
+      <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
       <title>코드를 공부하는 게 의미가 있을까?</title>
@@ -86,6 +86,13 @@
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
+      <title>두 번째 회사를 마무리하며</title>
+      <link>https://velog.io/@chae0738/두-번째-회사를-마무리하며</link>
+      <description>세 번째 회사로...</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/두-번째-회사를-마무리하며</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
+    </item>
+    <item>
       <title>사용자의 검색어를 이해해보자!</title>
       <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
       <description>군대 3개월 갈아넣기</description>
@@ -100,18 +107,11 @@
       <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
     <item>
-      <title>두 번째 회사를 마무리하며</title>
-      <link>https://velog.io/@chae0738/두-번째-회사를-마무리하며</link>
-      <description>세 번째 회사로...</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/두-번째-회사를-마무리하며</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>오픈소스 기여, 생각보다 어렵지 않다</title>
-      <link>https://velog.io/@mlnwns/오픈소스-기여-생각보다-어렵지-않다</link>
-      <description>우아한테크코스 7기로 활동하며, 오픈소스에 기여하는 크루들을 보며 나도 한 번 도전해보고 싶다는 생각을 하고 당시에 처음으로 오픈소스 기여를 시작하게 되었다.최근에는 토스에서 운영하는 리액트 기반 라이브러리인 react-simplikit의 공식 문서를 읽어보게 되었다....</description>
-      <guid isPermaLink="false">https://velog.io/@mlnwns/오픈소스-기여-생각보다-어렵지-않다</guid>
-      <pubDate>Fri, 27 Feb 2026 17:13:05 +0000</pubDate>
+      <title>"돈 줄 테니 세팅 좀 해줘" - 친구의 말에 n8n 자동화를 SaaS로 만들어버린 이야기</title>
+      <link>https://velog.io/@do-hyun123/NOD-archive-release</link>
+      <description>지난 글의 회고와 문제점 지난 12월, 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인이라는 글을 올렸습니다. iOS 단축어, n8n, Gemini, Obsidian을 엮어서 "읽은 글을 자동으로 요약하고 저장하는" 저만의 워크플로우를 소개했었죠.</description>
+      <guid isPermaLink="false">https://velog.io/@do-hyun123/NOD-archive-release</guid>
+      <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
     </item>
     <item>
       <title>무신사 AI ROOKIE ENGINEERING 합격 회고</title>
@@ -149,11 +149,11 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
-      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
-      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
-      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
-      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
-      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+      <title>AI 시대의 코딩 환경 구축! 2026년 추천 개발 툴 Top 10</title>
+      <link>https://velog.io/@ken708/2026-programmer-tools-top10</link>
+      <description>2026년, AI의 발전과 Postman 등 도구 정책 변화로 개발 환경이 격변 중입니다. 본 글에서는 Apidog, Cursor 등 개발 생산성을 극대화해 줄 필수 도구 Top 10을 엄선해 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ken708/2026-programmer-tools-top10</guid>
+      <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
     </item>
     <item>
       <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
@@ -163,18 +163,25 @@
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
+      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
+      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
+      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
+      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
+      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>브라우저 렌더링 과정</title>
+      <link>https://velog.io/@imcute0703123/브라우저-렌더링-과정</link>
+      <description>우리가 보이는 지금 이 화면이 사용자에게 보여지려면, 결국 컴퓨터가 이해할 수 있는 형태로 전달되어야 한다. 하지만 사람이 기계어를 직접 작성하기는 어렵기 때문에 HTML, CSS, JavaScript 같은 코드로 작성하고, 이를 브라우저나 엔진이 해석해서 실행한다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/브라우저-렌더링-과정</guid>
+      <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
+    </item>
+    <item>
       <title>🤓[우테코 8기] 안드로이드 크루 '조디악'의 1주차 회고: 판교에서의 새로운 시작</title>
       <link>https://velog.io/@chohs4164/우테코-8기-안드로이드-크루-조디악의-1주차-회고-판교에서의-새로운-시작</link>
       <description>인터넷에 검색을 해보아도 안드로이드 파트는 회고록이나 후기에 대한 글이 적어서 추후에 지원을 할 사람들에게 도움이 되어보고자 많이 부족하지만 1주차 회고록을 시작으로 우테코 과정을 글로 적어나가보고자 한다.또한 이번 8기부터는 교육장이 판교로 이전되었기 때문에 새로운 ...</description>
       <guid isPermaLink="false">https://velog.io/@chohs4164/우테코-8기-안드로이드-크루-조디악의-1주차-회고-판교에서의-새로운-시작</guid>
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jest로 프론트 코드 테스트하기</title>
-      <link>https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</link>
-      <description>카카오 로그인 구현중 문제가 발생했다. 카카오 SDK를 사용하여 주소로 직접 요청하지 않아도 자동으로 카카오 OAuth 인증 페이지로 리다이렉트되도록 설정했고, 로그인 버튼 클릭 시 카카오 로그인이 동작하도록 기능을 구현했다. 또한 로그인하지 않았거나...</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</guid>
-      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
       <title>고3이 회사 다니며 겪은 일</title>
@@ -190,20 +197,6 @@
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
     </item>
     <item>
-      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
-      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
-      <description>끼야악</description>
-      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>[회고록] 1,000명을 모았지만 80%가 떠난 이유</title>
-      <link>https://velog.io/@yujintak/retrospective-1000-visitors-but-80-percent-left</link>
-      <description>vinyl.pomodoro를 배포한지 거진 2주 넘게 지났다. 배포 당일부터 인스타그램을 통해 서비스 광고를 돌렸고, 많은 사람들이 사이트에 방문했다.방문자/페이지 뷰 사진방문자 수 1,040명, 페이지뷰 1,598. 사용자 1명당 페이지를 약 1.5회 조회했다는 뜻이...</description>
-      <guid isPermaLink="false">https://velog.io/@yujintak/retrospective-1000-visitors-but-80-percent-left</guid>
-      <pubDate>Wed, 25 Feb 2026 17:25:11 +0000</pubDate>
-    </item>
-    <item>
       <title>2025년 회고</title>
       <link>https://velog.io/@songsunkook/2025-회고</link>
       <description>채용 프로세스가 끝나면 회고 써야지!! 근데 왜 안끝나</description>
@@ -211,11 +204,18 @@
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
     </item>
     <item>
-      <title>OKLCH 기반 디자인 시스템 설계하기</title>
-      <link>https://velog.io/@sunujun/React-Native에서-OKLCH-기반-디자인-시스템-설계하기</link>
-      <description>Tailwind CSS 팔레트의 한계를 넘어, 인지적으로 균일한 색상 시스템을 구축한 과정</description>
-      <guid isPermaLink="false">https://velog.io/@sunujun/React-Native에서-OKLCH-기반-디자인-시스템-설계하기</guid>
-      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
+      <title>Jest로 프론트 코드 테스트하기</title>
+      <link>https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</link>
+      <description>카카오 로그인 구현중 문제가 발생했다. 카카오 SDK를 사용하여 주소로 직접 요청하지 않아도 자동으로 카카오 OAuth 인증 페이지로 리다이렉트되도록 설정했고, 로그인 버튼 클릭 시 카카오 로그인이 동작하도록 기능을 구현했다. 또한 로그인하지 않았거나...</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</guid>
+      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
+      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
+      <description>끼야악</description>
+      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
