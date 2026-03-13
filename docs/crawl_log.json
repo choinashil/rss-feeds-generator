@@ -1,27 +1,6 @@
 {
   "history": [
     {
-      "timestamp": "2026-02-07T17:08:17.798360+00:00",
-      "feed": "inflearn_conference",
-      "status": "success",
-      "count": 0,
-      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/inflearn-conference.xml"
-    },
-    {
-      "timestamp": "2026-02-08T17:08:30.420737+00:00",
-      "feed": "velog_trending",
-      "status": "success",
-      "count": 30,
-      "message": "docs/velog-trending.xml 생성 완료"
-    },
-    {
-      "timestamp": "2026-02-08T17:08:30.700475+00:00",
-      "feed": "naver_conference",
-      "status": "success",
-      "count": 0,
-      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/naver-conference.xml"
-    },
-    {
       "timestamp": "2026-02-08T17:08:31.121230+00:00",
       "feed": "inflearn_conference",
       "status": "success",
@@ -695,6 +674,27 @@
     },
     {
       "timestamp": "2026-03-12T17:20:46.507985+00:00",
+      "feed": "inflearn_conference",
+      "status": "success",
+      "count": 0,
+      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/inflearn-conference.xml"
+    },
+    {
+      "timestamp": "2026-03-13T17:14:19.955731+00:00",
+      "feed": "velog_trending",
+      "status": "success",
+      "count": 30,
+      "message": "docs/velog-trending.xml 생성 완료"
+    },
+    {
+      "timestamp": "2026-03-13T17:14:20.185441+00:00",
+      "feed": "naver_conference",
+      "status": "success",
+      "count": 0,
+      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/naver-conference.xml"
+    },
+    {
+      "timestamp": "2026-03-13T17:14:20.321433+00:00",
       "feed": "inflearn_conference",
       "status": "success",
       "count": 0,
