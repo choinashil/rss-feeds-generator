@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 13 Mar 2026 17:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 17:08:32 +0000</lastBuildDate>
     <item>
       <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
       <link>https://velog.io/@teo/we-programmer</link>
@@ -58,13 +58,6 @@
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 수십억 행을 위한 가상 스크롤링 — HighTable의 기법들</title>
-      <link>https://velog.io/@superlipbalm/virtual-scroll</link>
-      <description>브라우저에서 수십억 행을 렌더링하기 위해 HighTable이 사용하는 지연 로딩, 테이블 슬라이싱, 무한 픽셀, 정밀 스크롤, 2단계 랜덤 접근 등 5가지 가상 스크롤링 기법을 설명합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@superlipbalm/virtual-scroll</guid>
-      <pubDate>Thu, 12 Mar 2026 17:20:45 +0000</pubDate>
-    </item>
-    <item>
       <title>대회에서 멘헤라야차서비스 만든 썰</title>
       <link>https://velog.io/@x0gus/대회에서-멘헤라야차서비스-만든-썰</link>
       <description>멘헤라에 대해 얼마나 아시나요?</description>
@@ -72,11 +65,11 @@
       <pubDate>Sun, 01 Mar 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 아이디어는 싸고, 실행은 더 싸다</title>
-      <link>https://velog.io/@sehyunny/idea-is-cheap-execution-is-cheaper</link>
-      <description>멋진 아이디어를 떠올리는 것이 가장 쉬운 일이었던 때를 기억하시나요?</description>
-      <guid isPermaLink="false">https://velog.io/@sehyunny/idea-is-cheap-execution-is-cheaper</guid>
-      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
+      <title>[번역] 수십억 행을 위한 가상 스크롤링 — HighTable의 기법들</title>
+      <link>https://velog.io/@superlipbalm/virtual-scroll</link>
+      <description>브라우저에서 수십억 행을 렌더링하기 위해 HighTable이 사용하는 지연 로딩, 테이블 슬라이싱, 무한 픽셀, 정밀 스크롤, 2단계 랜덤 접근 등 5가지 가상 스크롤링 기법을 설명합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@superlipbalm/virtual-scroll</guid>
+      <pubDate>Thu, 12 Mar 2026 17:20:45 +0000</pubDate>
     </item>
     <item>
       <title>두 번째 회사를 마무리하며</title>
@@ -86,6 +79,13 @@
       <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
     <item>
+      <title>(번역) 아이디어는 싸고, 실행은 더 싸다</title>
+      <link>https://velog.io/@sehyunny/idea-is-cheap-execution-is-cheaper</link>
+      <description>멋진 아이디어를 떠올리는 것이 가장 쉬운 일이었던 때를 기억하시나요?</description>
+      <guid isPermaLink="false">https://velog.io/@sehyunny/idea-is-cheap-execution-is-cheaper</guid>
+      <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
+    </item>
+    <item>
       <title>사용자의 검색어를 이해해보자!</title>
       <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
       <description>군대 3개월 갈아넣기</description>
@@ -93,18 +93,18 @@
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
-      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
-      <description>다른 재미를 찾아가는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
-    </item>
-    <item>
       <title>출퇴근 지하철에서 Claude Code로 1기능 구현한 후기</title>
       <link>https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</link>
       <description>출퇴근 왕복 90분 동안 Claude Code에 지시를 던져서 기능 하나를 완성했다핵심은 스마트폰에서 SSH로 접속해서 AI 코딩 에이전트를 조작하는 것안드로이드에서 한글이 제대로 되는 SSH 앱이 거의 없어서 직접 만들었다저는 소프트웨어 엔지니어입니다. 그리고 아이를...</description>
       <guid isPermaLink="false">https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
+      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
+      <description>다른 재미를 찾아가는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
     </item>
     <item>
       <title>우아하게 구현하는 바텀시트 - 제스처 훅 설계</title>
@@ -126,13 +126,6 @@
       <description>지난 글의 회고와 문제점 지난 12월, 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인이라는 글을 올렸습니다. iOS 단축어, n8n, Gemini, Obsidian을 엮어서 "읽은 글을 자동으로 요약하고 저장하는" 저만의 워크플로우를 소개했었죠.</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/NOD-archive-release</guid>
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
-      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
-      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
     </item>
     <item>
       <title>클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?</title>
@@ -163,18 +156,18 @@
       <pubDate>Mon, 02 Mar 2026 17:18:04 +0000</pubDate>
     </item>
     <item>
+      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
+      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
+      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
       <title>AI 시대의 코딩 환경 구축! 2026년 추천 개발 툴 Top 10</title>
       <link>https://velog.io/@ken708/2026-programmer-tools-top10</link>
       <description>2026년, AI의 발전과 Postman 등 도구 정책 변화로 개발 환경이 격변 중입니다. 본 글에서는 Apidog, Cursor 등 개발 생산성을 극대화해 줄 필수 도구 Top 10을 엄선해 소개합니다.</description>
       <guid isPermaLink="false">https://velog.io/@ken708/2026-programmer-tools-top10</guid>
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
-      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
-      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
-      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
-      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
     </item>
     <item>
       <title>2025년 회고</title>
@@ -184,17 +177,17 @@
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
     </item>
     <item>
+      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
+      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
+      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
+      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
+      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+    </item>
+    <item>
       <title>나 , 개발자, 그리고 앞으로의 방향성</title>
       <link>https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</link>
       <guid isPermaLink="false">https://velog.io/@khw090/나-개발자-그리고-앞으로의-방향성</guid>
       <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
-      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
-      <description>끼야악</description>
-      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
     <item>
       <title>고3이 회사 다니며 겪은 일</title>
@@ -202,6 +195,13 @@
       <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
+      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
+      <description>끼야악</description>
+      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
     </item>
     <item>
       <title>Jest로 프론트 코드 테스트하기</title>
