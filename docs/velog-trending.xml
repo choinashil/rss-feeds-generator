@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 15 Mar 2026 17:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 17:24:42 +0000</lastBuildDate>
     <item>
       <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
       <link>https://velog.io/@teo/we-programmer</link>
@@ -20,13 +20,6 @@
       <link>https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</link>
       <description>2026년 1월부터 진행된 MUSINSA ROOKIE AI NATIVE ENGINEER 전형에 최종 합격하게 됐다.이번 포스팅에서는 전형 과정에 대한 회고를 정리해보려고 한다.이번 채용 과정은 조금 특이했다.1차 코딩테스트는 AI 없이 기본기 검증, 2차 코딩테스트는 ...</description>
       <guid isPermaLink="false">https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>프론트엔드 개발자 실무 1년 회고... SW 엔지니어로 확장</title>
-      <link>https://velog.io/@seoin1002/프론트엔드-개발자-실무-1년-회고...-이제는-SW-엔지니어로</link>
-      <description>안녕하세요. 단단입니다. 2025년 2월 24일 제가 '올라핀테크'에 입사하고 1년이 흘렀습니다. 1년 동안 실무를 하면서 어떻게 성장했는지 회고했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@seoin1002/프론트엔드-개발자-실무-1년-회고...-이제는-SW-엔지니어로</guid>
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
@@ -44,6 +37,13 @@
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
+      <title>두 번째 회사를 마무리하며</title>
+      <link>https://velog.io/@chae0738/두-번째-회사를-마무리하며</link>
+      <description>세 번째 회사로...</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/두-번째-회사를-마무리하며</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
+    </item>
+    <item>
       <title>[번역] 수십억 행을 위한 가상 스크롤링 — HighTable의 기법들</title>
       <link>https://velog.io/@superlipbalm/virtual-scroll</link>
       <description>브라우저에서 수십억 행을 렌더링하기 위해 HighTable이 사용하는 지연 로딩, 테이블 슬라이싱, 무한 픽셀, 정밀 스크롤, 2단계 랜덤 접근 등 5가지 가상 스크롤링 기법을 설명합니다.</description>
@@ -51,11 +51,11 @@
       <pubDate>Thu, 12 Mar 2026 17:20:45 +0000</pubDate>
     </item>
     <item>
-      <title>두 번째 회사를 마무리하며</title>
-      <link>https://velog.io/@chae0738/두-번째-회사를-마무리하며</link>
-      <description>세 번째 회사로...</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/두-번째-회사를-마무리하며</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
+      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
+      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
+      <description>다른 재미를 찾아가는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
     </item>
     <item>
       <title>사용자의 검색어를 이해해보자!</title>
@@ -72,18 +72,11 @@
       <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
-      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
-      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
-      <description>다른 재미를 찾아가는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>우아하게 구현하는 바텀시트 - 제스처 훅 설계</title>
-      <link>https://velog.io/@csh001231/우아하게-구현하는-바텀시트-제스처-훅-설계</link>
-      <description>우아하게 구현하는 바텀시트 1편</description>
-      <guid isPermaLink="false">https://velog.io/@csh001231/우아하게-구현하는-바텀시트-제스처-훅-설계</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
+      <title>바이브코딩으로 서비스 출시하고 2주간 운영하며 배운 것들</title>
+      <link>https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</link>
+      <description>바이브코딩이 유행이다 서비스 개발자로 일하면서 가만히 있을 수가 없었다 이전에 만든 서비스가 언론에 소개되고 수십만 명이 접속한 경험이 있으니 자신은 있었다 그러나 삽질의 연속이었고 깨지면서 배운게 정말 많았다 그 경험을 공유합니다 기술 스택 오픈코드를 사용했다 ...</description>
+      <guid isPermaLink="false">https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>무신사 AI ROOKIE ENGINEERING 합격 회고</title>
@@ -114,11 +107,32 @@
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
+      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
+      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
+      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
       <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
       <link>https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</link>
       <description>이 세팅의 시작은 3학년에 새롭게 수강을 시작한 과목인 "인공지능실무" 과목에서 전달된 반가운 공지에서 비롯되었습니다. 실습을 위해 학생들에게 우분투 워크스테이션을 한 학기 동안 대여해준다는 내용이었죠.사양을 확인해 보니 Intel Xeon Silver 4208(8코어...</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</guid>
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
+      <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
+      <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
+      <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>고3이 회사 다니며 겪은 일</title>
+      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
+      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
+      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
       <title>2025년 회고</title>
@@ -135,32 +149,11 @@
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
     </item>
     <item>
-      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
-      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
-      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>이거 참 가관이구만 ㅋㅋㅋ</title>
-      <link>https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</link>
-      <description>끼야악</description>
-      <guid isPermaLink="false">https://velog.io/@mogmandl/이거-참-가관이구만-ㅋㅋㅋ</guid>
-      <pubDate>Sat, 07 Mar 2026 17:06:02 +0000</pubDate>
-    </item>
-    <item>
       <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
       <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
       <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
       <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>고3이 회사 다니며 겪은 일</title>
-      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
-      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
       <title>Jest로 프론트 코드 테스트하기</title>
@@ -170,10 +163,10 @@
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
-      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
-      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
+      <title>MOZU - 고등학생이 실제 기관에 납품하기까지</title>
+      <link>https://velog.io/@do-hyun123/MOZU-retrospect</link>
+      <description>시작은 한 통의 의뢰였다 2024년 12월, 대전시 진로융합교육원에서 내가 재학 중인 대덕소프트웨어마이스터고등학교에 하나의 의뢰가 들어왔다. 중학생들을 대상으로 한 창업·경영 진로체험 수업에서 사용할 모의주식 투자 플랫폼을 만들어달라는 것이었다. 진로융합교육원은 초...</description>
+      <guid isPermaLink="false">https://velog.io/@do-hyun123/MOZU-retrospect</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
@@ -184,10 +177,24 @@
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
+      <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
+      <link>https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</link>
+      <description>안녕하세요 '누'입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>무신사 AI NATIVE ROOKIE 전환형 인턴 합격 후기</title>
       <link>https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</link>
       <description>Intro 기약 없는 취준 생활을 끝내게 해준 무신사 인턴.. 1차 코테, 2차 과제테스트, 3차 면접 전형을 모두 드리블로 돌파한 과정을 회고록으로 남기고자 한다. &gt; ### Part 1) 공고를 보다 평소 무신사 현대카드도 쓰고, 무신사 체험단도 11회 진행...</description>
       <guid isPermaLink="false">https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
+      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
+      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
@@ -198,23 +205,16 @@
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
+      <title>2026년, 왜 "사람임을 증명하는 것"이 필요해졌는가</title>
+      <link>https://velog.io/@nabin_ptxt/2026년-왜-사람임을-증명하는-것이-필요해졌는가</link>
+      <guid isPermaLink="false">https://velog.io/@nabin_ptxt/2026년-왜-사람임을-증명하는-것이-필요해졌는가</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>프리패치만 하면 될 줄 알았으나 먼 길 돌아온 LCP 개선기 🐌</title>
       <link>https://velog.io/@chae_eun_ini/프리패치만-하면-될-줄-알았으나-먼-길-돌아온-LCP-개선기</link>
       <description>블로그 글 정리를 미루는 나에게얼마 안 되는 개발 경험을 돌아보면, 이전까지는 성능 개선에 대한 고민 없이 기능 구현에만 급급한 개발을 해왔던 것 같습니다. 그런데 성능 최적화나 유지보수성, 에러 핸들링 같은 디테일을 챙기게 된 데에는, 시간이 지나면서 기본적인 구현이...</description>
       <guid isPermaLink="false">https://velog.io/@chae_eun_ini/프리패치만-하면-될-줄-알았으나-먼-길-돌아온-LCP-개선기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOZU - 고등학생이 실제 기관에 납품하기까지</title>
-      <link>https://velog.io/@do-hyun123/MOZU-retrospect</link>
-      <description>시작은 한 통의 의뢰였다 2024년 12월, 대전시 진로융합교육원에서 내가 재학 중인 대덕소프트웨어마이스터고등학교에 하나의 의뢰가 들어왔다. 중학생들을 대상으로 한 창업·경영 진로체험 수업에서 사용할 모의주식 투자 플랫폼을 만들어달라는 것이었다. 진로융합교육원은 초...</description>
-      <guid isPermaLink="false">https://velog.io/@do-hyun123/MOZU-retrospect</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>캐시: 아이디어의 반복</title>
-      <link>https://velog.io/@seoki/캐시-아이디어의-반복</link>
-      <guid isPermaLink="false">https://velog.io/@seoki/캐시-아이디어의-반복</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
   </channel>
