@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 16 Mar 2026 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 17:24:55 +0000</lastBuildDate>
     <item>
       <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
       <link>https://velog.io/@teo/we-programmer</link>
@@ -23,18 +23,25 @@
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
     </item>
     <item>
-      <title>알림의 개수를 95.7% 절감하여 알림 피로를 개선한 이야기</title>
-      <link>https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</link>
-      <description>한 달동안 평균 1만개 이상 발생하던 시스템 알림을 95.7% 절감하여 온콜 피로를 개선한 사례를 공유합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/알림-개수를-95.7-절감하여-알림-피로를-개선한-이야기</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:11 +0000</pubDate>
-    </item>
-    <item>
       <title>LLM - 모델 경쟁이 끝나고, “하네스 경쟁”의 시작?!, opencode 와 oh-my-opencode</title>
       <link>https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</link>
       <description>LLM 평가 축은 빠르게 변하고 있습니다. 이제 “모델이 얼마나 똑똑한가”만으로는 체감 품질을 설명하기 어렵습니다. 이제 생산성은 긴 작업을 얼마나 안정적으로 이어갈 수 있는지, 그리고 도구·컨텍스트·검증 루프를 얼마나 잘 운영하는지에서 갈립니다.</description>
       <guid isPermaLink="false">https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</guid>
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
+      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
+      <description>다른 재미를 찾아가는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이브코딩으로 서비스 출시하고 2주간 수익화 하며 배운 것들 후기</title>
+      <link>https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</link>
+      <description>바이브코딩이 유행이다 서비스 개발자로 일하면서 가만히 있을 수가 없었다 이전에 만든 서비스가 언론에 소개되고 수십만 명이 접속한 경험이 있으니 자신은 있었다 그러나 삽질의 연속이었고 깨지면서 배운게 정말 많았다 그 경험을 공유합니다 기술 스택 오픈코드를 사용했다 ...</description>
+      <guid isPermaLink="false">https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>두 번째 회사를 마무리하며</title>
@@ -51,32 +58,11 @@
       <pubDate>Thu, 12 Mar 2026 17:20:45 +0000</pubDate>
     </item>
     <item>
-      <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
-      <link>https://velog.io/@leehyunho2001/coding-no-jaem</link>
-      <description>다른 재미를 찾아가는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
-    </item>
-    <item>
       <title>사용자의 검색어를 이해해보자!</title>
       <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
       <description>군대 3개월 갈아넣기</description>
       <guid isPermaLink="false">https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</guid>
       <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>출퇴근 지하철에서 Claude Code로 1기능 구현한 후기</title>
-      <link>https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</link>
-      <description>출퇴근 왕복 90분 동안 Claude Code에 지시를 던져서 기능 하나를 완성했다핵심은 스마트폰에서 SSH로 접속해서 AI 코딩 에이전트를 조작하는 것안드로이드에서 한글이 제대로 되는 SSH 앱이 거의 없어서 직접 만들었다저는 소프트웨어 엔지니어입니다. 그리고 아이를...</description>
-      <guid isPermaLink="false">https://velog.io/@hagakun/출퇴근-지하철에서-Claude-Code로-1기능-구현한-후기</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>바이브코딩으로 서비스 출시하고 2주간 운영하며 배운 것들</title>
-      <link>https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</link>
-      <description>바이브코딩이 유행이다 서비스 개발자로 일하면서 가만히 있을 수가 없었다 이전에 만든 서비스가 언론에 소개되고 수십만 명이 접속한 경험이 있으니 자신은 있었다 그러나 삽질의 연속이었고 깨지면서 배운게 정말 많았다 그 경험을 공유합니다 기술 스택 오픈코드를 사용했다 ...</description>
-      <guid isPermaLink="false">https://velog.io/@2hyunbin/퇴근-후-넷플릭스-보면서-만든-서비스-2주-수익</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>무신사 AI ROOKIE ENGINEERING 합격 회고</title>
@@ -86,11 +72,25 @@
       <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
+      <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
+      <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
+      <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>"돈 줄 테니 세팅 좀 해줘" - 친구의 말에 n8n 자동화를 SaaS로 만들어버린 이야기</title>
       <link>https://velog.io/@do-hyun123/NOD-archive-release</link>
       <description>지난 글의 회고와 문제점 지난 12월, 아이폰 공유 한 번으로 끝내는 지식 관리 자동화 파이프라인이라는 글을 올렸습니다. iOS 단축어, n8n, Gemini, Obsidian을 엮어서 "읽은 글을 자동으로 요약하고 저장하는" 저만의 워크플로우를 소개했었죠.</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/NOD-archive-release</guid>
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 코딩 툴, 제대로 쓰고 계신가요?</title>
+      <link>https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</link>
+      <description>기초 공부를 핑계삼아, 부정확함을 핑계삼아 미루고 있는 CLI 툴 사용. 이젠 사용해야 합니다. Springboot Template까지 준비해뒀어요. 한번 읽어보세요.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?</title>
@@ -107,6 +107,13 @@
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
+      <title>해커톤 본선 발표 후기</title>
+      <link>https://velog.io/@dbwls/해커톤-본선-발표-후기</link>
+      <description>3월 7일에 처음으로 해커톤에 참여해서 본선까지 다녀왔다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/해커톤-본선-발표-후기</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
+    </item>
+    <item>
       <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
       <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
       <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
@@ -119,20 +126,6 @@
       <description>이 세팅의 시작은 3학년에 새롭게 수강을 시작한 과목인 "인공지능실무" 과목에서 전달된 반가운 공지에서 비롯되었습니다. 실습을 위해 학생들에게 우분투 워크스테이션을 한 학기 동안 대여해준다는 내용이었죠.사양을 확인해 보니 Intel Xeon Silver 4208(8코어...</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/School-OpenClaw-Tailscale</guid>
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
-      <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
-      <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
-      <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>고3이 회사 다니며 겪은 일</title>
-      <link>https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</link>
-      <description>고등학교 3학년이 회사에서 혼자 프론트엔드 총괄하기</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/고3-때-스타트업-들어간-이야기</guid>
-      <pubDate>Fri, 06 Mar 2026 17:14:29 +0000</pubDate>
     </item>
     <item>
       <title>2025년 회고</title>
@@ -149,11 +142,18 @@
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
     </item>
     <item>
-      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
-      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
-      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
-      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
-      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+      <title>무신사 AI NATIVE ROOKIE 전환형 인턴 합격 후기</title>
+      <link>https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</link>
+      <description>Intro 기약 없는 취준 생활을 끝내게 해준 무신사 인턴.. 1차 코테, 2차 과제테스트, 3차 면접 전형을 모두 드리블로 돌파한 과정을 회고록으로 남기고자 한다. &gt; ### Part 1) 공고를 보다 평소 무신사 현대카드도 쓰고, 무신사 체험단도 11회 진행...</description>
+      <guid isPermaLink="false">https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>도커로 오픈클로 설치하기</title>
+      <link>https://velog.io/@ludobico98/도커로-오픈클로-설치하기</link>
+      <description>가장 먼저 OpenClaw의 공식 소스코드를 내 PC로 클론하고, 해당 폴더로 이동합니다.openclaw 폴더 안으로 이동한 상태에서, 아래 스크립트를 실행(윈도우면 git bash로)하여 도커(Docker) 환경 구성을 시작합니다. 이 명령어는 필요한 도커 이미지를 ...</description>
+      <guid isPermaLink="false">https://velog.io/@ludobico98/도커로-오픈클로-설치하기</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>Jest로 프론트 코드 테스트하기</title>
@@ -170,10 +170,17 @@
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
-      <title>도커로 오픈클로 설치하기</title>
-      <link>https://velog.io/@ludobico98/도커로-오픈클로-설치하기</link>
-      <description>가장 먼저 OpenClaw의 공식 소스코드를 내 PC로 클론하고, 해당 폴더로 이동합니다.openclaw 폴더 안으로 이동한 상태에서, 아래 스크립트를 실행(윈도우면 git bash로)하여 도커(Docker) 환경 구성을 시작합니다. 이 명령어는 필요한 도커 이미지를 ...</description>
-      <guid isPermaLink="false">https://velog.io/@ludobico98/도커로-오픈클로-설치하기</guid>
+      <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
+      <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
+      <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
+      <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
+      <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
+      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
+      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
@@ -184,38 +191,32 @@
       <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>무신사 AI NATIVE ROOKIE 전환형 인턴 합격 후기</title>
-      <link>https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</link>
-      <description>Intro 기약 없는 취준 생활을 끝내게 해준 무신사 인턴.. 1차 코테, 2차 과제테스트, 3차 면접 전형을 모두 드리블로 돌파한 과정을 회고록으로 남기고자 한다. &gt; ### Part 1) 공고를 보다 평소 무신사 현대카드도 쓰고, 무신사 체험단도 11회 진행...</description>
-      <guid isPermaLink="false">https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>핫챗! 대규모 트래픽 오픈채팅방 대응 전략</title>
+      <link>https://velog.io/@kdelay/line-openchat-system-design</link>
+      <description>DAU 5천만, 일일 메시지 30억 건을 처리하는 채팅 시스템... 감당할 수 있겠습니까?</description>
+      <guid isPermaLink="false">https://velog.io/@kdelay/line-openchat-system-design</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
-      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
-      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>Eggly 메이커 로그 #1: "7개 만들었는데 아무도 안 와서 8번째를 만들었습니다"</title>
+      <link>https://velog.io/@ironkey/메이커-로그-1-7개-만들었는데-아무도-안-와서-8번째를-만들었습니다</link>
+      <description>"만드는 건 쉬운데 알려지는 건 어렵다"를 해결하는 플랫폼을 만들었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/메이커-로그-1-7개-만들었는데-아무도-안-와서-8번째를-만들었습니다</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>OKLCH 기반 디자인 시스템 설계하기</title>
-      <link>https://velog.io/@sunujun/React-Native에서-OKLCH-기반-디자인-시스템-설계하기</link>
-      <description>Tailwind CSS 팔레트의 한계를 넘어, 인지적으로 균일한 색상 시스템을 구축한 과정</description>
-      <guid isPermaLink="false">https://velog.io/@sunujun/React-Native에서-OKLCH-기반-디자인-시스템-설계하기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>Go 개발의 상식을 뒤바꿀 6가지 필수 도구</title>
+      <link>https://velog.io/@sunny_123/Go-개발의-상식을-뒤바꿀-6가지-필수-도구</link>
+      <description>Go 언어 자체는 매우 간결하지만, 풍부한 도구 체계(Toolchain)야말로 개발 효율을 높이는 핵심입니다. 오랫동안 Go를 사용해 온 개발자로서 코드 품질 관리, 인프라 관리, 그리고 환경 구축에서 뛰어난 성능을 발휘하는 도구 몇 가지를 공유하고자 합니다.예전에 참...</description>
+      <guid isPermaLink="false">https://velog.io/@sunny_123/Go-개발의-상식을-뒤바꿀-6가지-필수-도구</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>2026년, 왜 "사람임을 증명하는 것"이 필요해졌는가</title>
-      <link>https://velog.io/@nabin_ptxt/2026년-왜-사람임을-증명하는-것이-필요해졌는가</link>
-      <guid isPermaLink="false">https://velog.io/@nabin_ptxt/2026년-왜-사람임을-증명하는-것이-필요해졌는가</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>프리패치만 하면 될 줄 알았으나 먼 길 돌아온 LCP 개선기 🐌</title>
-      <link>https://velog.io/@chae_eun_ini/프리패치만-하면-될-줄-알았으나-먼-길-돌아온-LCP-개선기</link>
-      <description>블로그 글 정리를 미루는 나에게얼마 안 되는 개발 경험을 돌아보면, 이전까지는 성능 개선에 대한 고민 없이 기능 구현에만 급급한 개발을 해왔던 것 같습니다. 그런데 성능 최적화나 유지보수성, 에러 핸들링 같은 디테일을 챙기게 된 데에는, 시간이 지나면서 기본적인 구현이...</description>
-      <guid isPermaLink="false">https://velog.io/@chae_eun_ini/프리패치만-하면-될-줄-알았으나-먼-길-돌아온-LCP-개선기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>Linear + Codex 연동 실무: 이슈에서 PR까지 자동화</title>
+      <link>https://velog.io/@pobi/Linear-Codex-연동-실무-이슈에서-PR까지-자동화</link>
+      <description>이거 나는 3만원에 5장샀다 이게 써보니까 너무 사용량이 많이 남는다 그래서 나는 최대한 굴릴방법을 찾기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/Linear-Codex-연동-실무-이슈에서-PR까지-자동화</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
