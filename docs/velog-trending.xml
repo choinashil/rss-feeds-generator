@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Mar 2026 17:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:24:35 +0000</lastBuildDate>
     <item>
       <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
       <link>https://velog.io/@teo/we-programmer</link>
@@ -16,18 +16,11 @@
       <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
     </item>
     <item>
-      <title>무신사 AI Native Engineer 최종 합격 회고</title>
-      <link>https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</link>
-      <description>2026년 1월부터 진행된 MUSINSA ROOKIE AI NATIVE ENGINEER 전형에 최종 합격하게 됐다.이번 포스팅에서는 전형 과정에 대한 회고를 정리해보려고 한다.이번 채용 과정은 조금 특이했다.1차 코딩테스트는 AI 없이 기본기 검증, 2차 코딩테스트는 ...</description>
-      <guid isPermaLink="false">https://velog.io/@alstjrzla/무신사-AI-Native-Engineer-합격-회고</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM - 모델 경쟁이 끝나고, “하네스 경쟁”의 시작?!, opencode 와 oh-my-opencode</title>
-      <link>https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</link>
-      <description>LLM 평가 축은 빠르게 변하고 있습니다. 이제 “모델이 얼마나 똑똑한가”만으로는 체감 품질을 설명하기 어렵습니다. 이제 생산성은 긴 작업을 얼마나 안정적으로 이어갈 수 있는지, 그리고 도구·컨텍스트·검증 루프를 얼마나 잘 운영하는지에서 갈립니다.</description>
-      <guid isPermaLink="false">https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</guid>
-      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
+      <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
+      <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
+      <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
+      <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
       <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
@@ -35,6 +28,13 @@
       <description>다른 재미를 찾아가는 과정</description>
       <guid isPermaLink="false">https://velog.io/@leehyunho2001/coding-no-jaem</guid>
       <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>LLM - 모델 경쟁이 끝나고, “하네스 경쟁”의 시작?!, opencode 와 oh-my-opencode</title>
+      <link>https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</link>
+      <description>LLM 평가 축은 빠르게 변하고 있습니다. 이제 “모델이 얼마나 똑똑한가”만으로는 체감 품질을 설명하기 어렵습니다. 이제 생산성은 긴 작업을 얼마나 안정적으로 이어갈 수 있는지, 그리고 도구·컨텍스트·검증 루프를 얼마나 잘 운영하는지에서 갈립니다.</description>
+      <guid isPermaLink="false">https://velog.io/@qlgks1/opencode-oh-my-opencode-harness</guid>
+      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
       <title>바이브코딩으로 서비스 출시하고 2주간 수익화 하며 배운 것들 후기</title>
@@ -58,13 +58,6 @@
       <pubDate>Thu, 12 Mar 2026 17:20:45 +0000</pubDate>
     </item>
     <item>
-      <title>사용자의 검색어를 이해해보자!</title>
-      <link>https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</link>
-      <description>군대 3개월 갈아넣기</description>
-      <guid isPermaLink="false">https://velog.io/@newcodes7/사용자의-검색어를-이해해보자</guid>
-      <pubDate>Wed, 04 Mar 2026 17:15:55 +0000</pubDate>
-    </item>
-    <item>
       <title>무신사 AI ROOKIE ENGINEERING 합격 회고</title>
       <link>https://velog.io/@smj_716/무신사-AI-ROOKIE-ENGINEERING-합격-회고</link>
       <description>올해 초에 진행된 무신사 AI ROOKIE NATIVE ENGINEERING 전형에 최종 합격하게 되었다🎉 채용 전환형 인턴을 뽑는 전형이라 과정이 길었다. 그래서 그 과정들을 회고해보려고 한다. 지원 계기 2022년 대학 입학 당시만 해도 ChatGPT가 없던 ...</description>
@@ -72,11 +65,11 @@
       <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
-      <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
-      <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
-      <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+      <title>해커톤 본선 발표 후기</title>
+      <link>https://velog.io/@dbwls/해커톤-본선-발표-후기</link>
+      <description>3월 7일에 처음으로 해커톤에 참여해서 본선까지 다녀왔다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/해커톤-본선-발표-후기</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>"돈 줄 테니 세팅 좀 해줘" - 친구의 말에 n8n 자동화를 SaaS로 만들어버린 이야기</title>
@@ -93,13 +86,6 @@
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?</title>
-      <link>https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</link>
-      <description>AWS gp3의 내구성은 99.8%에서 99.9% 라고 합니다. 1000개의 디스크가 있을 때 1년 중 딱 한 개의 디스크에서 고장이 발생할 확률입니다. 과연 gp3를 사용하는 우리의 서비스도 1000분의 1 확률로만 고장날까요? 그렇지 않다는 사실을 증명합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</guid>
-      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
-    </item>
-    <item>
       <title>[우아한 테크코스 8기] 2주차 : 제발 생각좀 하고 말해요🤯</title>
       <link>https://velog.io/@giyoul/우아한-테크코스-8기-2주차-제발-생각좀-하고-말해요</link>
       <description>라이! 제발 생각 좀 하고 대답해요...!</description>
@@ -107,18 +93,11 @@
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
-      <title>해커톤 본선 발표 후기</title>
-      <link>https://velog.io/@dbwls/해커톤-본선-발표-후기</link>
-      <description>3월 7일에 처음으로 해커톤에 참여해서 본선까지 다녀왔다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/해커톤-본선-발표-후기</guid>
-      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
-      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
-      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+      <title>클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?</title>
+      <link>https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</link>
+      <description>AWS gp3의 내구성은 99.8%에서 99.9% 라고 합니다. 1000개의 디스크가 있을 때 1년 중 딱 한 개의 디스크에서 고장이 발생할 확률입니다. 과연 gp3를 사용하는 우리의 서비스도 1000분의 1 확률로만 고장날까요? 그렇지 않다는 사실을 증명합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</guid>
+      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
     </item>
     <item>
       <title>학교 워크스테이션으로 원격 AI 개발 환경 구축하기 (OpenClaw + Tailscale)</title>
@@ -128,11 +107,32 @@
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
     </item>
     <item>
+      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
+      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
+      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
+      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
+    </item>
+    <item>
       <title>2025년 회고</title>
       <link>https://velog.io/@songsunkook/2025-회고</link>
       <description>채용 프로세스가 끝나면 회고 써야지!! 근데 왜 안끝나</description>
       <guid isPermaLink="false">https://velog.io/@songsunkook/2025-회고</guid>
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>MOZU - 고등학생이 실제 기관에 납품하기까지</title>
+      <link>https://velog.io/@do-hyun123/MOZU-retrospect</link>
+      <description>시작은 한 통의 의뢰였다 2024년 12월, 대전시 진로융합교육원에서 내가 재학 중인 대덕소프트웨어마이스터고등학교에 하나의 의뢰가 들어왔다. 중학생들을 대상으로 한 창업·경영 진로체험 수업에서 사용할 모의주식 투자 플랫폼을 만들어달라는 것이었다. 진로융합교육원은 초...</description>
+      <guid isPermaLink="false">https://velog.io/@do-hyun123/MOZU-retrospect</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
+      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
+      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>AI 시대의 코딩 환경 구축! 2026년 추천 개발 툴 Top 10</title>
@@ -149,25 +149,11 @@
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
-      <title>도커로 오픈클로 설치하기</title>
-      <link>https://velog.io/@ludobico98/도커로-오픈클로-설치하기</link>
-      <description>가장 먼저 OpenClaw의 공식 소스코드를 내 PC로 클론하고, 해당 폴더로 이동합니다.openclaw 폴더 안으로 이동한 상태에서, 아래 스크립트를 실행(윈도우면 git bash로)하여 도커(Docker) 환경 구성을 시작합니다. 이 명령어는 필요한 도커 이미지를 ...</description>
-      <guid isPermaLink="false">https://velog.io/@ludobico98/도커로-오픈클로-설치하기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Jest로 프론트 코드 테스트하기</title>
       <link>https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</link>
       <description>카카오 로그인 구현중 문제가 발생했다. 카카오 SDK를 사용하여 주소로 직접 요청하지 않아도 자동으로 카카오 OAuth 인증 페이지로 리다이렉트되도록 설정했고, 로그인 버튼 클릭 시 카카오 로그인이 동작하도록 기능을 구현했다. 또한 로그인하지 않았거나...</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/Jest로-프론트-코드-테스트하기</guid>
       <pubDate>Thu, 05 Mar 2026 17:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>MOZU - 고등학생이 실제 기관에 납품하기까지</title>
-      <link>https://velog.io/@do-hyun123/MOZU-retrospect</link>
-      <description>시작은 한 통의 의뢰였다 2024년 12월, 대전시 진로융합교육원에서 내가 재학 중인 대덕소프트웨어마이스터고등학교에 하나의 의뢰가 들어왔다. 중학생들을 대상으로 한 창업·경영 진로체험 수업에서 사용할 모의주식 투자 플랫폼을 만들어달라는 것이었다. 진로융합교육원은 초...</description>
-      <guid isPermaLink="false">https://velog.io/@do-hyun123/MOZU-retrospect</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
@@ -177,11 +163,11 @@
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
     </item>
     <item>
-      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
-      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
-      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>퇴근했습니다.</title>
+      <link>https://velog.io/@fbckdgns3/퇴근했습니다</link>
+      <description>저는 얼마 전, 잘 다니던 직장에서 무기한 퇴근(=퇴사)을 하게 되었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@fbckdgns3/퇴근했습니다</guid>
+      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
     </item>
     <item>
       <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
@@ -198,13 +184,6 @@
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>Eggly 메이커 로그 #1: "7개 만들었는데 아무도 안 와서 8번째를 만들었습니다"</title>
-      <link>https://velog.io/@ironkey/메이커-로그-1-7개-만들었는데-아무도-안-와서-8번째를-만들었습니다</link>
-      <description>"만드는 건 쉬운데 알려지는 건 어렵다"를 해결하는 플랫폼을 만들었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ironkey/메이커-로그-1-7개-만들었는데-아무도-안-와서-8번째를-만들었습니다</guid>
-      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Go 개발의 상식을 뒤바꿀 6가지 필수 도구</title>
       <link>https://velog.io/@sunny_123/Go-개발의-상식을-뒤바꿀-6가지-필수-도구</link>
       <description>Go 언어 자체는 매우 간결하지만, 풍부한 도구 체계(Toolchain)야말로 개발 효율을 높이는 핵심입니다. 오랫동안 Go를 사용해 온 개발자로서 코드 품질 관리, 인프라 관리, 그리고 환경 구축에서 뛰어난 성능을 발휘하는 도구 몇 가지를 공유하고자 합니다.예전에 참...</description>
@@ -212,11 +191,32 @@
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
+      <title>Eggly 메이커 로그 #4: 개발자끼리 서로 밀어주는 구조 — 상호 추천과 백링크</title>
+      <link>https://velog.io/@ironkey/Eggly-메이커-로그-4-개발자끼리-서로-밀어주는-구조-상호-추천과-백링크</link>
+      <description>SEO에서 점수만큼 중요한 게 하나 있습니다. 그건 바로.. 백링크 입니다..!</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-4-개발자끼리-서로-밀어주는-구조-상호-추천과-백링크</guid>
+      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eggly 메이커 로그 #5: 운영비 $0인 서비스를 홍보비 $0으로 알리기 — 채널별 마케팅 실전기</title>
+      <link>https://velog.io/@ironkey/Eggly-메이커-로그-5-운영비-0인-서비스를-홍보비-0으로-알리기-채널별-마케팅-실전기</link>
+      <description>Eggly를 만들게 된 이유가 "만들었는데 아무도 안 온다"였습니다. 아이러니하게도, Eggly 자체도 같은 문제에 부딪혔습니다.플랫폼을 만들었습니다. SEO 진단도 됩니다. 상호 추천도 됩니다. 근데 사용자가 없으면 빈 플랫폼입니다.광고비? 없습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-5-운영비-0인-서비스를-홍보비-0으로-알리기-채널별-마케팅-실전기</guid>
+      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Linear + Codex 연동 실무: 이슈에서 PR까지 자동화</title>
       <link>https://velog.io/@pobi/Linear-Codex-연동-실무-이슈에서-PR까지-자동화</link>
       <description>이거 나는 3만원에 5장샀다 이게 써보니까 너무 사용량이 많이 남는다 그래서 나는 최대한 굴릴방법을 찾기로 했다.</description>
       <guid isPermaLink="false">https://velog.io/@pobi/Linear-Codex-연동-실무-이슈에서-PR까지-자동화</guid>
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>리액트 렌더링과 리렌더링</title>
+      <link>https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</link>
+      <description>렌더링이란? 컴포넌트 함수가 호출돼서 JSX를 반환하는 과정이다. setState가 호출되면 함수 컴포넌트가 호출되고 그 결과가 가상 dom tree에 들어가고 이전 가상 dom과 실제 dom을 비교한 뒤 달라진 부분이 있으면 실제 dom에 반영되어 브라우저 렌더링이...</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</guid>
+      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
