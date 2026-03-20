@@ -1,27 +1,6 @@
 {
   "history": [
     {
-      "timestamp": "2026-02-14T17:08:39.335116+00:00",
-      "feed": "inflearn_conference",
-      "status": "success",
-      "count": 0,
-      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/inflearn-conference.xml"
-    },
-    {
-      "timestamp": "2026-02-15T17:08:10.545998+00:00",
-      "feed": "velog_trending",
-      "status": "success",
-      "count": 30,
-      "message": "docs/velog-trending.xml 생성 완료"
-    },
-    {
-      "timestamp": "2026-02-15T17:08:10.820234+00:00",
-      "feed": "naver_conference",
-      "status": "success",
-      "count": 0,
-      "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/naver-conference.xml"
-    },
-    {
       "timestamp": "2026-02-15T17:08:10.952553+00:00",
       "feed": "inflearn_conference",
       "status": "success",
@@ -699,6 +678,25 @@
       "status": "success",
       "count": 0,
       "message": "⚠️ 필터링된 영상 없음 - 빈 RSS 생성: docs/inflearn-conference.xml"
+    },
+    {
+      "timestamp": "2026-03-20T17:15:53.549768+00:00",
+      "feed": "velog_trending",
+      "status": "success",
+      "count": 30,
+      "message": "docs/velog-trending.xml 생성 완료"
+    },
+    {
+      "timestamp": "2026-03-20T17:15:54.164345+00:00",
+      "feed": "naver_conference",
+      "status": "failure",
+      "error": "피드에서 항목을 찾을 수 없습니다. 채널 ID를 확인하세요."
+    },
+    {
+      "timestamp": "2026-03-20T17:15:54.678446+00:00",
+      "feed": "inflearn_conference",
+      "status": "failure",
+      "error": "피드에서 항목을 찾을 수 없습니다. 채널 ID를 확인하세요."
     }
   ]
 }

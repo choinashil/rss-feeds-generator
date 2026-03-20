@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 19 Mar 2026 17:23:12 +0000</lastBuildDate>
-    <item>
-      <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
-      <link>https://velog.io/@teo/we-programmer</link>
-      <description>흔히들, AI 시대에는 깊이가 중요하다, CS 지식이 중요하다는 말들을 많이 합니다. 하지만 솔직히 이 책에 나오는 어셈블러나 초창기 컴퓨터 지식을 우리가 속속들이 모른다고 해서 지금 당장 큰 문제가 생기지는 않습니다. 반대로 안다고 해서 달라질 것도 없죠. 그렇다면</description>
-      <guid isPermaLink="false">https://velog.io/@teo/we-programmer</guid>
-      <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Mar 2026 17:15:53 +0000</lastBuildDate>
     <item>
       <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
       <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
       <description>여러분, PC 온라인 게임 해본 적 있으신가요? 요즘은 플랫폼에 구애받지 않는 크로스플랫폼 게임이 많아졌지만, 예전에는 PC 게임 하면 윈도우 전용이었고, 엄청 길고 긴 다운로드와 설치 과정을 거쳐야 겨우 플레이할 수 있었죠. 이번에 저는 2003년에 출시된 윈도우...</description>
       <guid isPermaLink="false">https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</guid>
       <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>우리, 프로그래머들 — .md로 코딩하는 시대</title>
+      <link>https://velog.io/@teo/we-programmer</link>
+      <description>흔히들, AI 시대에는 깊이가 중요하다, CS 지식이 중요하다는 말들을 많이 합니다. 하지만 솔직히 이 책에 나오는 어셈블러나 초창기 컴퓨터 지식을 우리가 속속들이 모른다고 해서 지금 당장 큰 문제가 생기지는 않습니다. 반대로 안다고 해서 달라질 것도 없죠. 그렇다면</description>
+      <guid isPermaLink="false">https://velog.io/@teo/we-programmer</guid>
+      <pubDate>Tue, 10 Mar 2026 17:18:40 +0000</pubDate>
     </item>
     <item>
       <title>AI 덕분에 개발이 쉬워졌고, 재미는 없어졌다.</title>
@@ -86,18 +86,18 @@
       <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>AI 코딩 툴, 제대로 쓰고 계신가요?</title>
-      <link>https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</link>
-      <description>기초 공부를 핑계삼아, 부정확함을 핑계삼아 미루고 있는 CLI 툴 사용. 이젠 사용해야 합니다. Springboot Template까지 준비해뒀어요. 한번 읽어보세요.</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</guid>
-      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>[우아한 테크코스 8기] 2주차 : 제발 생각좀 하고 말해요🤯</title>
       <link>https://velog.io/@giyoul/우아한-테크코스-8기-2주차-제발-생각좀-하고-말해요</link>
       <description>라이! 제발 생각 좀 하고 대답해요...!</description>
       <guid isPermaLink="false">https://velog.io/@giyoul/우아한-테크코스-8기-2주차-제발-생각좀-하고-말해요</guid>
       <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 코딩 툴, 제대로 쓰고 계신가요?</title>
+      <link>https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</link>
+      <description>기초 공부를 핑계삼아, 부정확함을 핑계삼아 미루고 있는 CLI 툴 사용. 이젠 사용해야 합니다. Springboot Template까지 준비해뒀어요. 한번 읽어보세요.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
@@ -135,11 +135,25 @@
       <pubDate>Wed, 11 Mar 2026 17:20:06 +0000</pubDate>
     </item>
     <item>
+      <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
+      <link>https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</link>
+      <description>안녕하세요 '누'입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
       <title>무신사 AI NATIVE ROOKIE 전환형 인턴 합격 후기</title>
       <link>https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</link>
       <description>Intro 기약 없는 취준 생활을 끝내게 해준 무신사 인턴.. 1차 코테, 2차 과제테스트, 3차 면접 전형을 모두 드리블로 돌파한 과정을 회고록으로 남기고자 한다. &gt; ### Part 1) 공고를 보다 평소 무신사 현대카드도 쓰고, 무신사 체험단도 11회 진행...</description>
       <guid isPermaLink="false">https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>영한님을 동결건조해서 내 AI 코딩 강사로 만들어봤다</title>
+      <link>https://velog.io/@ryugi62/영한님을-동결건조해서-내-AI-코딩-강사로-만들어봤다</link>
+      <description>"옆에 영한님이 있으면 좋겠다"는 생각에서 출발한 프로젝트! 김영한 강사님의 '교수법 DNA'를 추출해 AI에 주입했습니다. 시간여행, 찰떡 비유, "백문이불여일타"까지 완벽 구현한 나만의 1:1 코딩 강사 동결건조 프롬프트를 공개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ryugi62/영한님을-동결건조해서-내-AI-코딩-강사로-만들어봤다</guid>
+      <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
       <title>정말 이제는 개발자가 기술을 몰라도 될까</title>
@@ -149,18 +163,18 @@
       <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
-      <link>https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</link>
-      <description>안녕하세요 '누'입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
       <title>코골이 ANC: FFT 분석으로 본 코골이의 주파수 구조</title>
       <link>https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</link>
       <description>코골이를 줄이기 위한 헤드보드 기반 ANC(Active Noise Cancellation) 시스템을 구상하면서, 가장 먼저 한 일은 코골이 소리를 주파수 관점에서 분석하는 것이었다.</description>
       <guid isPermaLink="false">https://velog.io/@bssm_woals/코골이-ANC-FFT-분석으로-본-코골이의-주파수-구조</guid>
       <pubDate>Sun, 08 Mar 2026 17:06:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>결혼한지 2년도 넘었는데 아직도 모바일청첩장 만드는 사람 (부제: 스몰빅웨딩 모청 리뉴얼)</title>
+      <link>https://velog.io/@heyday_xz/결혼한지-2년도-넘었는데-아직도-모바일청첩장-만드는-사람-부제-스몰빅웨딩-모청-리뉴얼</link>
+      <description>그러니까 나는 아직도 모바일청첩장을 만들고 있다. 내 결혼에 사용했던 청첩장으로부터 시작해 외주 청첩장을 만들고, 그 청첩장을 최첨단 수동(..)으로 만들다가 최근 리뉴얼을 마친 이야기.</description>
+      <guid isPermaLink="false">https://velog.io/@heyday_xz/결혼한지-2년도-넘었는데-아직도-모바일청첩장-만드는-사람-부제-스몰빅웨딩-모청-리뉴얼</guid>
+      <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
       <title>리액트 렌더링과 리렌더링</title>
@@ -170,13 +184,6 @@
       <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
     </item>
     <item>
-      <title>Go 개발의 상식을 뒤바꿀 6가지 필수 도구</title>
-      <link>https://velog.io/@sunny_123/Go-개발의-상식을-뒤바꿀-6가지-필수-도구</link>
-      <description>Go 언어 자체는 매우 간결하지만, 풍부한 도구 체계(Toolchain)야말로 개발 효율을 높이는 핵심입니다. 오랫동안 Go를 사용해 온 개발자로서 코드 품질 관리, 인프라 관리, 그리고 환경 구축에서 뛰어난 성능을 발휘하는 도구 몇 가지를 공유하고자 합니다.예전에 참...</description>
-      <guid isPermaLink="false">https://velog.io/@sunny_123/Go-개발의-상식을-뒤바꿀-6가지-필수-도구</guid>
-      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Linear + Codex 연동 실무: 이슈에서 PR까지 자동화</title>
       <link>https://velog.io/@pobi/Linear-Codex-연동-실무-이슈에서-PR까지-자동화</link>
       <description>이거 나는 3만원에 5장샀다 이게 써보니까 너무 사용량이 많이 남는다 그래서 나는 최대한 굴릴방법을 찾기로 했다.</description>
@@ -184,25 +191,18 @@
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
-      <title>2026 정보처리기사 필기 일주일 합격법</title>
-      <link>https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</link>
-      <description>정보처리기사 준비 나는 군 복학 후 3학년으로 다시 시작했고, 그동안 손 놨던 컴퓨터공학 지식과 학점을 다시 쌓아가느라 굉장히 바쁘게 살았다. 하지만 돌이켜보면 학점 외에 크게 성취했다고 느낀 것들이 없어서 지쳐있기도 했고, 자신감도 많이 떨어져 있는 상태였다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@geunho_0916/2026-정보처리기사-필기-일주일-합격법</guid>
-      <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
+      <title>Eggly 메이커 로그 #9: 팔로워 0에서 시작하는 SNS 마케팅 — 링크드인, 스레드, X 실전기</title>
+      <link>https://velog.io/@ironkey/Eggly-메이커-로그-9-팔로워-0에서-시작하는-SNS-마케팅-링크드인-스레드-X-실전기</link>
+      <description>링크드인, X, 스레드를 동시에 시작하기로 했습니다.문제는 세 채널 모두 팔로워가 0이라는 것입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-9-팔로워-0에서-시작하는-SNS-마케팅-링크드인-스레드-X-실전기</guid>
+      <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>Eggly 메이커 로그 #6: "색인 생성되지 않음" — 구글에 등록되는 건 만드는 것보다 어렵다</title>
-      <link>https://velog.io/@ironkey/Eggly-메이커-로그-6-색인-생성되지-않음-구글에-등록되는-건-만드는-것보다-어렵다</link>
-      <description>구글 서치 콘솔... 너 왜이렇게 까다롭니</description>
-      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-6-색인-생성되지-않음-구글에-등록되는-건-만드는-것보다-어렵다</guid>
-      <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eggly 메이커 로그 #7: 프로젝트 페이지 하나가 구글에 잡히기까지 — SSR, 메타 태그, 구조화 데이터 구현기</title>
-      <link>https://velog.io/@ironkey/Eggly-메이커-로그-7-프로젝트-페이지-하나가-구글에-잡히기까지-SSR-메타-태그-구조화-데이터-구현기</link>
-      <description>SSR + 메타태그 + 구조화 데이터 구현 SEO 전문가가 되는날까지..!</description>
-      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-7-프로젝트-페이지-하나가-구글에-잡히기까지-SSR-메타-태그-구조화-데이터-구현기</guid>
-      <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
+      <title>[AI] 포트폴리오에 AI 기반 무물보(?) 구축</title>
+      <link>https://velog.io/@tristanjung1006/AI-포트폴리오-사이트에-AI-채팅-구축하기</link>
+      <description>드디어 포트폴리오 사이트 개발</description>
+      <guid isPermaLink="false">https://velog.io/@tristanjung1006/AI-포트폴리오-사이트에-AI-채팅-구축하기</guid>
+      <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
       <title>캐시: 아이디어의 반복</title>
@@ -211,11 +211,11 @@
       <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>브라우저 렌더링 과정</title>
-      <link>https://velog.io/@imcute0703123/브라우저-렌더링-과정</link>
-      <description>우리가 보이는 지금 이 화면이 사용자에게 보여지려면, 결국 컴퓨터가 이해할 수 있는 형태로 전달되어야 한다. 하지만 사람이 기계어를 직접 작성하기는 어렵기 때문에 HTML, CSS, JavaScript 같은 코드로 작성하고, 이를 브라우저나 엔진이 해석해서 실행한다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/브라우저-렌더링-과정</guid>
-      <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
+      <title>AI 시대, 모바일 개발자의 생존에 관한 고찰</title>
+      <link>https://velog.io/@hogu59/urvival-strategies-for-mobile-developers-in-the-ai-era</link>
+      <description>모바일 개발자는 다가오는 AI 시대에 어떻게 생존할 수 있을까에 대한 고찰입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hogu59/urvival-strategies-for-mobile-developers-in-the-ai-era</guid>
+      <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
