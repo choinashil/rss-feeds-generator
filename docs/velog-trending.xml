@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 21 Mar 2026 17:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 17:07:10 +0000</lastBuildDate>
     <item>
       <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
       <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
@@ -100,18 +100,18 @@
       <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
     </item>
     <item>
-      <title>클라우드 디스크의 내구성을 얼마나 믿을 수 있을까?</title>
-      <link>https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</link>
-      <description>AWS gp3의 내구성은 99.8%에서 99.9% 라고 합니다. 1000개의 디스크가 있을 때 1년 중 딱 한 개의 디스크에서 고장이 발생할 확률입니다. 과연 gp3를 사용하는 우리의 서비스도 1000분의 1 확률로만 고장날까요? 그렇지 않다는 사실을 증명합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/클라우드-디스크의-내구성을-얼마나-믿을-수-있을까</guid>
-      <pubDate>Mon, 09 Mar 2026 17:19:30 +0000</pubDate>
-    </item>
-    <item>
       <title>MOZU - 고등학생이 실제 기관에 납품하기까지</title>
       <link>https://velog.io/@do-hyun123/MOZU-retrospect</link>
       <description>시작은 한 통의 의뢰였다 2024년 12월, 대전시 진로융합교육원에서 내가 재학 중인 대덕소프트웨어마이스터고등학교에 하나의 의뢰가 들어왔다. 중학생들을 대상으로 한 창업·경영 진로체험 수업에서 사용할 모의주식 투자 플랫폼을 만들어달라는 것이었다. 진로융합교육원은 초...</description>
       <guid isPermaLink="false">https://velog.io/@do-hyun123/MOZU-retrospect</guid>
       <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
+      <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
+      <description>이런 내 맘은 뭘까?</description>
+      <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
+      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
       <title>AI 시대의 코딩 환경 구축! 2026년 추천 개발 툴 Top 10</title>
@@ -135,25 +135,11 @@
       <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
     </item>
     <item>
-      <title>무신사 AI NATIVE ROOKIE 전환형 인턴 합격 후기</title>
-      <link>https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</link>
-      <description>Intro 기약 없는 취준 생활을 끝내게 해준 무신사 인턴.. 1차 코테, 2차 과제테스트, 3차 면접 전형을 모두 드리블로 돌파한 과정을 회고록으로 남기고자 한다. &gt; ### Part 1) 공고를 보다 평소 무신사 현대카드도 쓰고, 무신사 체험단도 11회 진행...</description>
-      <guid isPermaLink="false">https://velog.io/@kty8600/무신사-AI-NATIVE-ROOKIE-전환형-인턴-합격-후기</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
-    </item>
-    <item>
       <title>영한님을 동결건조해서 내 AI 코딩 강사로 만들어봤다</title>
       <link>https://velog.io/@ryugi62/영한님을-동결건조해서-내-AI-코딩-강사로-만들어봤다</link>
       <description>"옆에 영한님이 있으면 좋겠다"는 생각에서 출발한 프로젝트! 김영한 강사님의 '교수법 DNA'를 추출해 AI에 주입했습니다. 시간여행, 찰떡 비유, "백문이불여일타"까지 완벽 구현한 나만의 1:1 코딩 강사 동결건조 프롬프트를 공개합니다.</description>
       <guid isPermaLink="false">https://velog.io/@ryugi62/영한님을-동결건조해서-내-AI-코딩-강사로-만들어봤다</guid>
       <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
-      <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
-      <description>이런 내 맘은 뭘까?</description>
-      <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
-      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
       <title>결혼한지 2년도 넘었는데 아직도 모바일청첩장 만드는 사람 (부제: 스몰빅웨딩 모청 리뉴얼)</title>
@@ -170,25 +156,10 @@
       <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>Eggly 메이커 로그 #11: 하루 100명이 오는데 아무도 안 머문다 — 체류시간과 재방문율 개선 실전기</title>
-      <link>https://velog.io/@ironkey/Eggly-메이커-로그-11-하루-100명이-오는데-아무도-안-머문다-체류시간과-재방문율-개선-실전기</link>
-      <description>마케팅을 열심히 했습니다. 디스콰이엇, velog, OKKY, 네이버 카페, 카카오 오픈채팅방, X, 스레드, 링크드인. 채널을 8개나 운영하고 있습니다.결과: 하루 방문자 50~100명.0명이던 시절에 비하면 진전이 있습니다. 하지만 문제가 있었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-11-하루-100명이-오는데-아무도-안-머문다-체류시간과-재방문율-개선-실전기</guid>
-      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eggly 메이커 로그 #10: "읽는 콘텐츠"만으로는 부족했다 — 커뮤니티 투표 기능을 만든 이유</title>
-      <link>https://velog.io/@ironkey/Eggly-메이커-로그-10-읽는-콘텐츠만으로는-부족했다-커뮤니티-투표-기능을-만든-이유</link>
-      <description>메이커 로그, 좋은 기능이라고 생각합니다. 하지만 한 가지 문제가 있었습니다.글을 쓰는 사람이 저밖에 없었습니다.방문자는 하루에 50~100명 정도 오고 있습니다. 그런데 메이커 로그를 남기는 사람은 저 혼자입니다. 나머지 99%는 구경만 하고 갑니다.당연한 일입니다</description>
-      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-10-읽는-콘텐츠만으로는-부족했다-커뮤니티-투표-기능을-만든-이유</guid>
-      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>리액트 렌더링과 리렌더링</title>
-      <link>https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</link>
-      <description>렌더링이란? 컴포넌트 함수가 호출돼서 JSX를 반환하는 과정이다. setState가 호출되면 함수 컴포넌트가 호출되고 그 결과가 가상 dom tree에 들어가고 이전 가상 dom과 실제 dom을 비교한 뒤 달라진 부분이 있으면 실제 dom에 반영되어 브라우저 렌더링이...</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</guid>
-      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
+      <title>연봉을 점프하는 일</title>
+      <link>https://velog.io/@joosing/연봉을-점프-하는-일</link>
+      <guid isPermaLink="false">https://velog.io/@joosing/연봉을-점프-하는-일</guid>
+      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
     </item>
     <item>
       <title>[AI] 포트폴리오에 AI 기반 무물보(?) 구축</title>
@@ -205,6 +176,13 @@
       <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
+      <title>리액트 렌더링과 리렌더링</title>
+      <link>https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</link>
+      <description>렌더링이란? 컴포넌트 함수가 호출돼서 JSX를 반환하는 과정이다. setState가 호출되면 함수 컴포넌트가 호출되고 그 결과가 가상 dom tree에 들어가고 이전 가상 dom과 실제 dom을 비교한 뒤 달라진 부분이 있으면 실제 dom에 반영되어 브라우저 렌더링이...</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</guid>
+      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
+    </item>
+    <item>
       <title>캐시: 아이디어의 반복</title>
       <link>https://velog.io/@seoki/캐시-아이디어의-반복</link>
       <guid isPermaLink="false">https://velog.io/@seoki/캐시-아이디어의-반복</guid>
@@ -216,6 +194,27 @@
       <description>우리가 보이는 지금 이 화면이 사용자에게 보여지려면, 결국 컴퓨터가 이해할 수 있는 형태로 전달되어야 한다. 하지만 사람이 기계어를 직접 작성하기는 어렵기 때문에 HTML, CSS, JavaScript 같은 코드로 작성하고, 이를 브라우저나 엔진이 해석해서 실행한다.</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/브라우저-렌더링-과정</guid>
       <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eggly 메이커 로그 #11: 하루 100명이 오는데 아무도 안 머문다 — 체류시간과 재방문율 개선 실전기</title>
+      <link>https://velog.io/@ironkey/Eggly-메이커-로그-11-하루-100명이-오는데-아무도-안-머문다-체류시간과-재방문율-개선-실전기</link>
+      <description>마케팅을 열심히 했습니다. 디스콰이엇, velog, OKKY, 네이버 카페, 카카오 오픈채팅방, X, 스레드, 링크드인. 채널을 8개나 운영하고 있습니다.결과: 하루 방문자 50~100명.0명이던 시절에 비하면 진전이 있습니다. 하지만 문제가 있었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커-로그-11-하루-100명이-오는데-아무도-안-머문다-체류시간과-재방문율-개선-실전기</guid>
+      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>엘릭서(Elixir)는 뭐하는 놈일까?</title>
+      <link>https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</link>
+      <description>프로그래밍 언어를 공부하다 보면 꼭 한 번쯤 듣게 되는 이름이 있다. 바로 Elixir(엘릭서). 이름만 보면 무슨 판타지 게임에서 마나 채워주는 물약 같지만, 사실 엘릭서는 동시성 처리에 강하고, 장애에 잘 버티고, 서버 개발에 아주 잘 맞는 함수형 프로그래밍 ...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</guid>
+      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우아한테크코스 8기] 페어 프로그래밍 이렇게 하는 거 맞나요?</title>
+      <link>https://velog.io/@dah911/우아한테크코스-페어-프로그래밍-이렇게-하는-거-맞나요</link>
+      <description>영기와 함께 한 대환장 페어 프로그래밍</description>
+      <guid isPermaLink="false">https://velog.io/@dah911/우아한테크코스-페어-프로그래밍-이렇게-하는-거-맞나요</guid>
+      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
