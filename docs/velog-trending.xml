@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 17:19:54 +0000</lastBuildDate>
     <item>
       <title>Claude Code로 20년 전 상용 게임을 거의 고치지 않고 브라우저로 이식하기까지</title>
       <link>https://velog.io/@aespa/claude-code-gunz-the-duel-web-port</link>
@@ -25,9 +25,16 @@
     <item>
       <title>이력서는 썼는데 면접이 막막해서, AI 모의면접관을 만들어봤다. (feat. Claude Artifacts)</title>
       <link>https://velog.io/@babypig/이력서는-썼는데-면접이-막막해서-AI-모의면접관을-만들어봤다.-feat.-Claude-Artifacts</link>
-      <description>이력서 + JD만 넣으면 꼬리질문까지 해주는 모의면접 도구를 Claude Artifacts로 만든 이야기이직을 준비하면서 1~2월에 이력서 스터디에 참여했다. 스터디원끼리 이력서에 피드백을 남기는 트랙과, 서로 면접관이 되어 이력서 기반 모의면접을 진행하는 트랙으로 나...</description>
+      <description>이력서 + JD만 넣으면 꼬리질문까지 해주는 모의면접 도구를 Claude Artifacts로 만든 이야기 만들게 된 계기 이직을 준비하면서 1~2월에 이력서 스터디에 참여했다. 스터디원끼리 이력서에 피드백을 남기는 트랙과, 서로 면접관이 되어 이력서 기반 모의면접을...</description>
       <guid isPermaLink="false">https://velog.io/@babypig/이력서는-썼는데-면접이-막막해서-AI-모의면접관을-만들어봤다.-feat.-Claude-Artifacts</guid>
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>18살 소마고 고등학생이 Swift Student Challenge Distinguished Winner?</title>
+      <link>https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</link>
+      <description>Swift Student Challenge 2026 Distinguished Winner가 되었습니다</description>
+      <guid isPermaLink="false">https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</guid>
+      <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
     </item>
     <item>
       <title>영한님을 동결건조해서 내 AI 코딩 강사로 만들어봤다</title>
@@ -65,13 +72,6 @@
       <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>AI 코딩 툴, 제대로 쓰고 계신가요?</title>
-      <link>https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</link>
-      <description>기초 공부를 핑계삼아, 부정확함을 핑계삼아 미루고 있는 CLI 툴 사용. 이젠 사용해야 합니다. Springboot Template까지 준비해뒀어요. 한번 읽어보세요.</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</guid>
-      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
-    </item>
-    <item>
       <title>velog에 요상한 광고가 너무 많아져서 개발한 Clean Velog 크롬 확장</title>
       <link>https://velog.io/@dbwls/velog에-광고가-너무-많아져서-개발한-Clean-Velog-크롬-확장</link>
       <description>벨로그 최신 피드에 요상한 광고가 요즘 넘쳐나길래 일단 급하게 만들었다. 이런 기능들이 velog에 추가됐으면 좋겠다.</description>
@@ -79,25 +79,11 @@
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
-      <link>https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</link>
-      <description>안녕하세요 '누'입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</guid>
-      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>카카오톡 챗봇 beta 입점 미팅 후기</title>
-      <link>https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</link>
-      <description>카카오톡 챗봇 beta 입점 미팅 제안이 왔다. 그런데… 인터넷에 관련 후기가 하나도 없었다.(!!) 그래서 내가 한 번 남겨보기로 했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/카카오톡-챗봇-beta-입점-미팅-후기</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
-      <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
-      <description>이런 내 맘은 뭘까?</description>
-      <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
-      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
+      <title>AI 코딩 툴, 제대로 쓰고 계신가요?</title>
+      <link>https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</link>
+      <description>기초 공부를 핑계삼아, 부정확함을 핑계삼아 미루고 있는 CLI 툴 사용. 이젠 사용해야 합니다. Springboot Template까지 준비해뒀어요. 한번 읽어보세요.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI-코딩-툴-제대로-쓰고-계신가요</guid>
+      <pubDate>Tue, 17 Mar 2026 17:24:55 +0000</pubDate>
     </item>
     <item>
       <title>컴포넌트의 인생 Lifecycle</title>
@@ -107,11 +93,18 @@
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
     </item>
     <item>
-      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
-      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
-      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
-      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
+      <title>누가 아직도 API 문서를 손으로 씀 ㅋㅋ</title>
+      <link>https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</link>
+      <description>안녕하세요 '누'입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/누가-아직도-API-문서를-손으로-씀-ㅋㅋ</guid>
+      <pubDate>Mon, 16 Mar 2026 17:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>본인의 서비스를 무료로 홍보해 보세요!</title>
+      <link>https://velog.io/@hello1234/인디-스팟에서-본인의-서비스를-무료로-홍보해-보세요</link>
+      <description>요즘은 바이브코딩이든, AI 도구든, 누구나 제품을 만들 수 있는 시대가 됐습니다.근데 만들고 나면 벽에 부딪힙니다. 초기 피드백을 받을 곳이 없습니다.레딧에 올리면 묻히고, 커뮤니티에 올리면 홍보글 취급 당하고, 주변 지인에게 부탁하면 돌아오는 건 "오 좋은데?" 한...</description>
+      <guid isPermaLink="false">https://velog.io/@hello1234/인디-스팟에서-본인의-서비스를-무료로-홍보해-보세요</guid>
+      <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
       <title>GitHub 잔디 색상 변경하기 (feat. 잔디에도 미감이 필요하다니)</title>
@@ -121,11 +114,25 @@
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>ResNet 오래된 건데 왜 썼어요?</title>
-      <link>https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</link>
-      <description>"ResNet 오래된 건데 왜 썼어요? 전체적인 모델 디자인은 어떻게 짜여진 거예요?"</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</guid>
-      <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
+      <title>Claude Code 숨은 명령어 10가지 — 알면 개발 효율이 달라집니다</title>
+      <link>https://velog.io/@takuya/claude-code-hidden-commands</link>
+      <description>Claude Code에는 잘 알려지지 않은 편리한 명령어가 많이 숨겨져 있습니다. 이 글에서는 컨텍스트 오염을 방지하는 /btw, 코드 되돌리기 /rewind, 사용 분석 /insights 등 실용적인 숨은 명령어 10개를 엄선해서 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@takuya/claude-code-hidden-commands</guid>
+      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
+      <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
+      <description>이런 내 맘은 뭘까?</description>
+      <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
+      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🏠 혼자 작업하면 딴짓하는 나를 위해 직접 만들었습니다: '모각작' 런칭 기록</title>
+      <link>https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</link>
+      <description>집중이 잘 안 될 때, 혼자 작업할 때의 막막함을 덜어주는 온라인 몰입 도구 '모각작'이 정식 런칭되었습니다. 카메라 공유나 랭킹의 부담 없이도 함께 작업하는 감각을 유지하기 위해 어떤 고민을 했는지에 대한 기록을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/혼자-작업하면-딴짓하는-나를-위해-직접-만들었습니다-모각작-런칭까지의-최종-기록</guid>
+      <pubDate>Sun, 15 Mar 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>정말 이제는 개발자가 기술을 몰라도 될까</title>
@@ -135,11 +142,18 @@
       <pubDate>Thu, 19 Mar 2026 17:23:12 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 숨은 명령어 10가지 — 알면 개발 효율이 달라집니다</title>
-      <link>https://velog.io/@takuya/claude-code-hidden-commands</link>
-      <description>Claude Code에는 잘 알려지지 않은 편리한 명령어가 많이 숨겨져 있습니다. 이 글에서는 컨텍스트 오염을 방지하는 /btw, 코드 되돌리기 /rewind, 사용 분석 /insights 등 실용적인 숨은 명령어 10개를 엄선해서 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@takuya/claude-code-hidden-commands</guid>
-      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
+      <title>코드와 함께 보는 DI와 IoC</title>
+      <link>https://velog.io/@kkm06101010/Application-Context의-동작</link>
+      <description>저는 스프링 프레임워크를 배우면서 가장 먼저 IoC와 DI라는 개념에 대해서 접했습니다. IoC와 DI는 정말 추상적인 개념이기도 하고 저도 배우면서 정확한 동작에 대해 설명해주는 게시물이 없어서 이 글을 쓰게 됐습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@kkm06101010/Application-Context의-동작</guid>
+      <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>ResNet 오래된 건데 왜 썼어요?</title>
+      <link>https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</link>
+      <description>"ResNet 오래된 건데 왜 썼어요? 전체적인 모델 디자인은 어떻게 짜여진 거예요?"</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</guid>
+      <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
     </item>
     <item>
       <title>연봉을 점프하는 일</title>
@@ -155,10 +169,10 @@
       <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
     </item>
     <item>
-      <title>인디 스팟에서 본인의 서비스를 무료로 홍보해 보세요!</title>
-      <link>https://velog.io/@hello1234/인디-스팟에서-본인의-서비스를-무료로-홍보해-보세요</link>
-      <description>요즘은 바이브코딩이든, AI 도구든, 누구나 제품을 만들 수 있는 시대가 됐습니다.근데 만들고 나면 벽에 부딪힙니다. 초기 피드백을 받을 곳이 없습니다.레딧에 올리면 묻히고, 커뮤니티에 올리면 홍보글 취급 당하고, 주변 지인에게 부탁하면 돌아오는 건 "오 좋은데?" 한...</description>
-      <guid isPermaLink="false">https://velog.io/@hello1234/인디-스팟에서-본인의-서비스를-무료로-홍보해-보세요</guid>
+      <title>아니 그래서 잘하는 게 뭐예요? 직무 방향을 잃었다면 AI에게 맡겨보자</title>
+      <link>https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</link>
+      <description>스타트업 N잡러가 되버린 나.. 이제 방향을 찾아서 ai한테 맡겨봤는데 상당히 좋더라구요 진로에 대해 계획하기가 어렵다면 같이 만들어보시길 바라며!</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</guid>
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
@@ -169,13 +183,6 @@
       <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
     </item>
     <item>
-      <title>아니 그래서 잘하는 게 뭐예요? 직무 방향을 잃었다면 AI에게 맡겨보자</title>
-      <link>https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</link>
-      <description>스타트업 N잡러가 되버린 나.. 이제 방향을 찾아서 ai한테 맡겨봤는데 상당히 좋더라구요 진로에 대해 계획하기가 어렵다면 같이 만들어보시길 바라며!</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</guid>
-      <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
-    </item>
-    <item>
       <title>AI 시대, 모바일 개발자의 생존에 관한 고찰</title>
       <link>https://velog.io/@hogu59/urvival-strategies-for-mobile-developers-in-the-ai-era</link>
       <description>모바일 개발자는 다가오는 AI 시대에 어떻게 생존할 수 있을까에 대한 고찰입니다.</description>
@@ -183,11 +190,11 @@
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>엘릭서(Elixir)는 뭐하는 놈일까?</title>
-      <link>https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</link>
-      <description>프로그래밍 언어를 공부하다 보면 꼭 한 번쯤 듣게 되는 이름이 있다. 바로 Elixir(엘릭서). 이름만 보면 무슨 판타지 게임에서 마나 채워주는 물약 같지만, 사실 엘릭서는 동시성 처리에 강하고, 장애에 잘 버티고, 서버 개발에 아주 잘 맞는 함수형 프로그래밍 ...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</guid>
-      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
+      <title>달리는 기차의 바퀴를 바꿔라: i18n 다국어 주입기</title>
+      <link>https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</link>
+      <description>스마트하게 다국어 지원 시작하기</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</guid>
+      <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
     </item>
     <item>
       <title>[우아한테크코스 8기] 레벨1_3-4주차 회고 - 나만의 뾰족한 송곳 만들기</title>
@@ -197,24 +204,17 @@
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
     </item>
     <item>
+      <title>엘릭서(Elixir)는 뭐하는 놈일까?</title>
+      <link>https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</link>
+      <description>프로그래밍 언어를 공부하다 보면 꼭 한 번쯤 듣게 되는 이름이 있다. 바로 Elixir(엘릭서). 이름만 보면 무슨 판타지 게임에서 마나 채워주는 물약 같지만, 사실 엘릭서는 동시성 처리에 강하고, 장애에 잘 버티고, 서버 개발에 아주 잘 맞는 함수형 프로그래밍 ...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/엘릭서Elixir는-뭐하는-놈일까</guid>
+      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
       <title>서비스 기업과제에 클로드 스킬 제작에 이틀 쓰고, 과제 사이트 만드는 데는 1시간만 써봤습니다</title>
       <link>https://velog.io/@lofcgi/서비스-기업과제에-클로드-스킬-제작에-이틀-쓰고-과제-사이트-만드는-데는-1시간만-써봤습니다</link>
       <description>Claude Code 슬래시 커맨드로 파이프라인을 만들었습니다. URL 하나 넣으면 프로토타입 → 풀스택 앱 → 배포까지 알아서 돌아갑니다.클로드 활용이 과제 전문에 나와있어서 파이프라인 자체를 만드는 데 집중했고, 기업과제는 1시간 정도 구현한 것 같습니다.v1 → ...</description>
       <guid isPermaLink="false">https://velog.io/@lofcgi/서비스-기업과제에-클로드-스킬-제작에-이틀-쓰고-과제-사이트-만드는-데는-1시간만-써봤습니다</guid>
-      <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>리액트 렌더링과 리렌더링</title>
-      <link>https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</link>
-      <description>렌더링이란? 컴포넌트 함수가 호출돼서 JSX를 반환하는 과정이다. setState가 호출되면 함수 컴포넌트가 호출되고 그 결과가 가상 dom tree에 들어가고 이전 가상 dom과 실제 dom을 비교한 뒤 달라진 부분이 있으면 실제 dom에 반영되어 브라우저 렌더링이...</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-리렌더링</guid>
-      <pubDate>Wed, 18 Mar 2026 17:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>2022년부터 2025년까지의 회고 🙇🏻‍♀️</title>
-      <link>https://velog.io/@doitmin/2022년부터-2025년까지의-회고</link>
-      <description>🎓 소프트웨어 고등학교를 졸업한 신입 개발자의 지난 학교생활 돌아보기 ✨</description>
-      <guid isPermaLink="false">https://velog.io/@doitmin/2022년부터-2025년까지의-회고</guid>
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
   </channel>
