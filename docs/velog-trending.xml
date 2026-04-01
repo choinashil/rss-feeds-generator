@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code 소스코드가 통째로 유출됐다</title>
+      <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
+      <description>2026년 3월 31일, Anthropic의 Claude Code 전체 소스코드가 유출됐다. 해킹이 아니다. npm 레지스트리에 .map 파일이 포함된 채 퍼블리시된 거다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</guid>
+      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>이력서는 썼는데 면접이 막막해서, AI 모의면접관을 만들어봤다. (feat. Claude Artifacts)</title>
       <link>https://velog.io/@babypig/이력서는-썼는데-면접이-막막해서-AI-모의면접관을-만들어봤다.-feat.-Claude-Artifacts</link>
@@ -30,18 +37,18 @@
       <pubDate>Fri, 20 Mar 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
-      <title>윈도우 탐색기가 답답해서 직접 만든, WinUI 3 기반 '밀러 컬럼' 탐색기 (Open Source)</title>
-      <link>https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</link>
-      <description>개발자로서 macOS와 Windows를 오가며 작업할 때, 가장 뼈저리게 느껴지는 '역체감'은 바로 파일 탐색기입니다. macOS의 Finder는 밀러 컬럼(Miller Columns) 방식을 통해 깊은 폴더 구조를 직관적으로 탐색하고, 스페이스바 하나로 파일을 미리보...</description>
-      <guid isPermaLink="false">https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</guid>
-      <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code 숨은 명령어 10가지 — 알면 개발 효율이 달라집니다</title>
       <link>https://velog.io/@takuya/claude-code-hidden-commands</link>
       <description>Claude Code에는 잘 알려지지 않은 편리한 명령어가 많이 숨겨져 있습니다. 이 글에서는 컨텍스트 오염을 방지하는 /btw, 코드 되돌리기 /rewind, 사용 분석 /insights 등 실용적인 숨은 명령어 10개를 엄선해서 소개합니다.</description>
       <guid isPermaLink="false">https://velog.io/@takuya/claude-code-hidden-commands</guid>
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>윈도우 탐색기가 답답해서 직접 만든, WinUI 3 기반 '밀러 컬럼' 탐색기 (Open Source)</title>
+      <link>https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</link>
+      <description>개발자로서 macOS와 Windows를 오가며 작업할 때, 가장 뼈저리게 느껴지는 '역체감'은 바로 파일 탐색기입니다. macOS의 Finder는 밀러 컬럼(Miller Columns) 방식을 통해 깊은 폴더 구조를 직관적으로 탐색하고, 스페이스바 하나로 파일을 미리보...</description>
+      <guid isPermaLink="false">https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</guid>
+      <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
     </item>
     <item>
       <title>velog에 요상한 광고가 너무 많아져서 개발한 Clean Velog 크롬 확장</title>
@@ -72,13 +79,6 @@
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 소스코드가 통째로 유출됐다</title>
-      <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
-      <description>2026년 3월 31일, Anthropic의 Claude Code 전체 소스코드가 유출됐다. 해킹이 아니다. npm 레지스트리에 .map 파일이 포함된 채 퍼블리시된 거다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</guid>
-      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
-    </item>
-    <item>
       <title>정말 이제는 개발자가 기술을 몰라도 될까</title>
       <link>https://velog.io/@lgwk0642/정말-이제는-개발자가-기술을-몰라도-될까</link>
       <description>인간 시대의 끝이 도래했다</description>
@@ -100,17 +100,17 @@
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
     </item>
     <item>
+      <title>연봉을 점프하는 일</title>
+      <link>https://velog.io/@joosing/연봉을-점프-하는-일</link>
+      <guid isPermaLink="false">https://velog.io/@joosing/연봉을-점프-하는-일</guid>
+      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
+    </item>
+    <item>
       <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
       <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
       <description>이런 내 맘은 뭘까?</description>
       <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
       <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>연봉을 점프하는 일</title>
-      <link>https://velog.io/@joosing/연봉을-점프-하는-일</link>
-      <guid isPermaLink="false">https://velog.io/@joosing/연봉을-점프-하는-일</guid>
-      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
     </item>
     <item>
       <title>프롬프트 엔지니어링은 끝났다 — 하네스 엔지니어링으로 AI 에이전트를 길들인 이야기</title>
@@ -134,17 +134,18 @@
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>Microsoft Applied Skills 취득 후기 — 공짜 자격증이 진짜 의미 있을까?</title>
-      <link>https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</link>
-      <guid isPermaLink="false">https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</guid>
-      <pubDate>Sat, 28 Mar 2026 17:09:26 +0000</pubDate>
+      <title>백엔드의 신 되기 1일차</title>
+      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
+      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
+      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>가독성 좋은 코드란?</title>
-      <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
-      <description>주관을 가진 코드를 작성하게 되는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
+      <title>소프트웨어 마에스트로(소마) 17기 합격 후기</title>
+      <link>https://velog.io/@mazorika/소프트웨어-마에스트로소마-17기-합격-후기</link>
+      <description>SW마에스트로(소마) 17기에 최종 합격했습니다. 솔직히 코딩테스트를 본 직후에는 "이번엔 틀렸다"고 확신했는데, 면접까지 가게 되었고, 결국 최종 합격이라는 결과를 받았습니다.저는 iOS 개발자이고, 수상 4개, 학교 대표 활동 1개, 오픈소스 기여 경험이 있습니다....</description>
+      <guid isPermaLink="false">https://velog.io/@mazorika/소프트웨어-마에스트로소마-17기-합격-후기</guid>
+      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
     </item>
     <item>
       <title>아니 그래서 잘하는 게 뭐예요? 직무 방향을 잃었다면 AI에게 맡겨보자</title>
@@ -154,6 +155,12 @@
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
+      <title>Microsoft Applied Skills 취득 후기 — 공짜 자격증이 진짜 의미 있을까?</title>
+      <link>https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</link>
+      <guid isPermaLink="false">https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</guid>
+      <pubDate>Sat, 28 Mar 2026 17:09:26 +0000</pubDate>
+    </item>
+    <item>
       <title>[우아한테크코스 8기] 레벨1_3-4주차 회고 - 나만의 뾰족한 송곳 만들기</title>
       <link>https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨13-4주차-회고-나만의-뾰족한-송곳-만들기</link>
       <description>들어가며 3주차 회고를 따로 작성하려고 했지만, 원정대 활동 시작과 동시에 너무 바빠지는 바람에 3-4주차 회고를 한꺼번에 작성하게 됐다. 우테코 생활을 하며 회고에 활용하기 위해 그때 그때 생각나고 느낀 점들을 키워드 중심으로 간단하게 정리하고 있는데, 일주일만 ...</description>
@@ -161,17 +168,24 @@
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
     </item>
     <item>
-      <title>백엔드의 신 되기 1일차</title>
-      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
-      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
-      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고] 소프트웨어 마에스트로 17기 합격</title>
       <link>https://velog.io/@jeong011010/회고-소프트웨어-마에스트로-17기-합격</link>
       <description>소프트웨어 마에스트로 합격하는법</description>
       <guid isPermaLink="false">https://velog.io/@jeong011010/회고-소프트웨어-마에스트로-17기-합격</guid>
+      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>가독성 좋은 코드란?</title>
+      <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
+      <description>주관을 가진 코드를 작성하게 되는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>평균 응답시간 1.2초 -&gt; 137ms, 뭘 바꿨을까?</title>
+      <link>https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</link>
+      <description>조회 하는 부분의 api를 테스트했을 때 평균 1.2초 최대 7.1초라는 매우 느린 속도가 관찰되었습니다. 현재 상황에서 병목지점이 있음을 예상하고 최적화를 진행했습니다. 1차 해결 Tomcat의 쓰레드 풀의 개수를 확장</description>
+      <guid isPermaLink="false">https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</guid>
       <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
     </item>
     <item>
@@ -182,25 +196,11 @@
       <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
     </item>
     <item>
-      <title>소프트웨어 마에스트로(소마) 17기 합격 후기</title>
-      <link>https://velog.io/@mazorika/소프트웨어-마에스트로소마-17기-합격-후기</link>
-      <description>SW마에스트로(소마) 17기에 최종 합격했습니다. 솔직히 코딩테스트를 본 직후에는 "이번엔 틀렸다"고 확신했는데, 면접까지 가게 되었고, 결국 최종 합격이라는 결과를 받았습니다.저는 iOS 개발자이고, 수상 4개, 학교 대표 활동 1개, 오픈소스 기여 경험이 있습니다....</description>
-      <guid isPermaLink="false">https://velog.io/@mazorika/소프트웨어-마에스트로소마-17기-합격-후기</guid>
-      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>평균 응답시간 1.2초 -&gt; 137ms, 뭘 바꿨을까?</title>
-      <link>https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</link>
-      <description>조회 하는 부분의 api를 테스트했을 때 평균 1.2초 최대 7.1초라는 매우 느린 속도가 관찰되었습니다. 현재 상황에서 병목지점이 있음을 예상하고 최적화를 진행했습니다. 1차 해결 Tomcat의 쓰레드 풀의 개수를 확장</description>
-      <guid isPermaLink="false">https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</guid>
-      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2022년부터 2025년까지의 회고 🙇🏻‍♀️</title>
-      <link>https://velog.io/@doitmin/2022년부터-2025년까지의-회고</link>
-      <description>🎓 소프트웨어 고등학교를 졸업한 신입 개발자의 지난 학교생활 돌아보기 ✨</description>
-      <guid isPermaLink="false">https://velog.io/@doitmin/2022년부터-2025년까지의-회고</guid>
-      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
+      <title>[2026] 3월회고: 분명 백수인데 회사 다닐 때보다 바쁜 이유</title>
+      <link>https://velog.io/@hongsinugget/2026-3월회고-분명-백수인데-회사-다닐-때보다-바쁜-이유</link>
+      <description>안녕하세요? 홍시너겟입니다.하하, 벌써 2026년 4분의 1이 지나가버렸네요...ㅠㅠ이번 달은 스케줄이 정말 많아서 금방 빨리 지나간 것 같아요..</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-3월회고-분명-백수인데-회사-다닐-때보다-바쁜-이유</guid>
+      <pubDate>Wed, 01 Apr 2026 17:20:51 +0000</pubDate>
     </item>
     <item>
       <title>게임을... 게임을 만들고 싶어요!!</title>
@@ -210,11 +210,11 @@
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>한글로 코딩하는 언어, Han을 살펴보다</title>
-      <link>https://velog.io/@pobi/한글로-코딩하는-언어-Han을-살펴보다</link>
-      <description>“프로그래밍 언어는 왜 늘 영어여야 할까?”Han은 이 질문을 꽤 진지하게 밀어붙인 프로젝트다.최근 GeekNews에서 Han이라는 프로젝트를 봤다. Han은 모든 키워드를 한국어로 작성하는 정적 타입 프로그래밍 언어이고, Rust로 구현된 컴파일러와 인터프리터를 함께...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/한글로-코딩하는-언어-Han을-살펴보다</guid>
-      <pubDate>Sun, 29 Mar 2026 17:10:13 +0000</pubDate>
+      <title>2022년부터 2025년까지의 회고 🙇🏻‍♀️</title>
+      <link>https://velog.io/@doitmin/2022년부터-2025년까지의-회고</link>
+      <description>🎓 소프트웨어 고등학교를 졸업한 신입 개발자의 지난 학교생활 돌아보기 ✨</description>
+      <guid isPermaLink="false">https://velog.io/@doitmin/2022년부터-2025년까지의-회고</guid>
+      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
