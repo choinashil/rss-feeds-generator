@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 03 Apr 2026 17:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 17:10:48 +0000</lastBuildDate>
     <item>
       <title>Claude Code 소스코드가 통째로 유출됐다</title>
       <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
@@ -44,18 +44,18 @@
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다</title>
-      <link>https://velog.io/@skynet/앤스로픽Anthropic의-수익성-김밥천국-보다-안-좋다</link>
-      <description>앤스로픽은 가까운 시일내로 폭발적인 이익을 낼 것이라 기대하며 높은 기업 가치를 인정받고 있습니다. 그러나 재무제표의 숫자는 다른 말을 하고 있습니다. LLM과 그 응용 서비스의 수익성이 요식업보다 낮다는 점을 증명합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skynet/앤스로픽Anthropic의-수익성-김밥천국-보다-안-좋다</guid>
-      <pubDate>Fri, 03 Apr 2026 17:12:28 +0000</pubDate>
-    </item>
-    <item>
       <title>윈도우 탐색기가 답답해서 직접 만든, WinUI 3 기반 '밀러 컬럼' 탐색기 (Open Source)</title>
       <link>https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</link>
       <description>개발자로서 macOS와 Windows를 오가며 작업할 때, 가장 뼈저리게 느껴지는 '역체감'은 바로 파일 탐색기입니다. macOS의 Finder는 밀러 컬럼(Miller Columns) 방식을 통해 깊은 폴더 구조를 직관적으로 탐색하고, 스페이스바 하나로 파일을 미리보...</description>
       <guid isPermaLink="false">https://velog.io/@nwlsrb/윈도우-탐색기가-답답해서-직접-만든-WinUI-3-기반-밀러-컬럼-탐색기-Open-Source</guid>
       <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다</title>
+      <link>https://velog.io/@skynet/앤스로픽Anthropic의-수익성-김밥천국-보다-안-좋다</link>
+      <description>앤스로픽은 가까운 시일내로 폭발적인 이익을 낼 것이라 기대하며 높은 기업 가치를 인정받고 있습니다. 그러나 재무제표의 숫자는 다른 말을 하고 있습니다. LLM과 그 응용 서비스의 수익성이 요식업보다 낮다는 점을 증명합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@skynet/앤스로픽Anthropic의-수익성-김밥천국-보다-안-좋다</guid>
+      <pubDate>Fri, 03 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
       <title>velog에 요상한 광고가 너무 많아져서 개발한 Clean Velog 크롬 확장</title>
@@ -79,13 +79,6 @@
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
-      <title>AI를 잘 쓴다는 건 대체 무슨 뜻일까</title>
-      <link>https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</link>
-      <description>최근 GPT 유료 플랜을 결제하고 Codex를 본격적으로 사용하면서 한 가지 질문이 머릿속에 계속 맴돌았다.AI를 잘 쓴다는 건 도대체 무엇일까? 대체 그 기준이 뭐지?처음에는 단순하다고 생각했다. AI에게 정확한 프롬프트만 던지면 원하는 답을 얻을 수 있고, 그러면 ...</description>
-      <guid isPermaLink="false">https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</guid>
-      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
-    </item>
-    <item>
       <title>WiFi로 재실 감지? RuView 믿었다가... (feat. 삽질 기록)</title>
       <link>https://velog.io/@jisung719/WiFi로-재실-감지-RuView-직접-해봤다-feat.-삽질-기록</link>
       <description>시작은 침대 압력 센서의 배신으로부터 스마트홈을 꾸리면서 항상 골치였던 게 하나 있었다. 바로 재실 감지.</description>
@@ -100,31 +93,18 @@
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
+      <title>AI를 잘 쓴다는 건 대체 무슨 뜻일까</title>
+      <link>https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</link>
+      <description>최근 GPT 유료 플랜을 결제하고 Codex를 본격적으로 사용하면서 한 가지 질문이 머릿속에 계속 맴돌았다.AI를 잘 쓴다는 건 도대체 무엇일까? 대체 그 기준이 뭐지?처음에는 단순하다고 생각했다. AI에게 정확한 프롬프트만 던지면 원하는 답을 얻을 수 있고, 그러면 ...</description>
+      <guid isPermaLink="false">https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</guid>
+      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
+    </item>
+    <item>
       <title>컴포넌트의 인생 Lifecycle</title>
       <link>https://velog.io/@wijaeseong/컴포넌트의-인생-Lifecycle</link>
       <description>컴포넌트의 인생인 Lifecycle과 useEffect</description>
       <guid isPermaLink="false">https://velog.io/@wijaeseong/컴포넌트의-인생-Lifecycle</guid>
       <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>연봉을 점프하는 일</title>
-      <link>https://velog.io/@joosing/연봉을-점프-하는-일</link>
-      <guid isPermaLink="false">https://velog.io/@joosing/연봉을-점프-하는-일</guid>
-      <pubDate>Sun, 22 Mar 2026 17:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>display와 조건부 렌더링에도 애니메이션을 주고 싶어</title>
-      <link>https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</link>
-      <description>이런 내 맘은 뭘까?</description>
-      <guid isPermaLink="false">https://velog.io/@eveneul/display와-조건부-렌더링에도-애니메이션을-주고-싶어</guid>
-      <pubDate>Sat, 21 Mar 2026 17:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>백엔드의 신 되기 1일차</title>
-      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
-      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
-      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
       <title>소프트웨어 마에스트로(소마) 17기 합격 후기</title>
@@ -134,18 +114,18 @@
       <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
     </item>
     <item>
+      <title>백엔드의 신 되기 1일차</title>
+      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
+      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
+      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
+    </item>
+    <item>
       <title>ResNet 오래된 건데 왜 썼어요?</title>
       <link>https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</link>
       <description>"ResNet 오래된 건데 왜 썼어요? 전체적인 모델 디자인은 어떻게 짜여진 거예요?"</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/ResNet-오래된-건데-왜-썼어요</guid>
       <pubDate>Mon, 23 Mar 2026 17:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 유출 뒤에 나온 Claw Dev: 한 번의 소스맵 실수가 보여준 것</title>
-      <link>https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</link>
-      <description>3월 31일, Anthropic는 Claude Code 2.1.88 배포 과정에서 내부 TypeScript 코드가 들어 있는 소스맵 파일을 함께 공개해 버렸다. 이후 공개 보도를 통해 이 파일이 50만 줄이 넘는 Claude Code 내부 구현을 사실상 복원 가능한 수...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</guid>
-      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
       <title>[회고] 소프트웨어 마에스트로 17기 합격</title>
@@ -162,18 +142,18 @@
       <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code 유출 뒤에 나온 Claw Dev: 한 번의 소스맵 실수가 보여준 것</title>
+      <link>https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</link>
+      <description>3월 31일, Anthropic는 Claude Code 2.1.88 배포 과정에서 내부 TypeScript 코드가 들어 있는 소스맵 파일을 함께 공개해 버렸다. 이후 공개 보도를 통해 이 파일이 50만 줄이 넘는 Claude Code 내부 구현을 사실상 복원 가능한 수...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</guid>
+      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
+    </item>
+    <item>
       <title>PDF 한 장으로 나만의 커리어 코치를? — n8n + Upstage API로 만든 AI 커리어 어드바이저</title>
       <link>https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</link>
       <description>Upstage AI Ambassador 2기 미션1: 노코드 기반 워크플로우 SNS 공유</description>
       <guid isPermaLink="false">https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</guid>
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우아한테크코스 8기] 레벨1_3-4주차 회고 - 나만의 뾰족한 송곳 만들기</title>
-      <link>https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨13-4주차-회고-나만의-뾰족한-송곳-만들기</link>
-      <description>들어가며 3주차 회고를 따로 작성하려고 했지만, 원정대 활동 시작과 동시에 너무 바빠지는 바람에 3-4주차 회고를 한꺼번에 작성하게 됐다. 우테코 생활을 하며 회고에 활용하기 위해 그때 그때 생각나고 느낀 점들을 키워드 중심으로 간단하게 정리하고 있는데, 일주일만 ...</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨13-4주차-회고-나만의-뾰족한-송곳-만들기</guid>
-      <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
     </item>
     <item>
       <title>평균 응답시간 1.2초 -&gt; 137ms, 뭘 바꿨을까?</title>
@@ -187,13 +167,6 @@
       <link>https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</link>
       <guid isPermaLink="false">https://velog.io/@yujintak/Microsoft-Applied-Skills-취득-후기-공짜-자격증이-진짜-의미-있을까</guid>
       <pubDate>Sat, 28 Mar 2026 17:09:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>가독성 좋은 코드란?</title>
-      <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
-      <description>주관을 가진 코드를 작성하게 되는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
       <title>게임을... 게임을 만들고 싶어요!!</title>
@@ -210,11 +183,39 @@
       <pubDate>Wed, 01 Apr 2026 17:20:51 +0000</pubDate>
     </item>
     <item>
+      <title>가독성 좋은 코드란?</title>
+      <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
+      <description>주관을 가진 코드를 작성하게 되는 과정</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
+    </item>
+    <item>
       <title>코드와 함께 보는 DI와 IoC</title>
       <link>https://velog.io/@kkm06101010/Application-Context의-동작</link>
       <description>저는 스프링 프레임워크를 배우면서 가장 먼저 IoC와 DI라는 개념에 대해서 접했습니다. IoC와 DI는 정말 추상적인 개념이기도 하고 저도 배우면서 정확한 동작에 대해 설명해주는 게시물이 없어서 이 글을 쓰게 됐습니다.</description>
       <guid isPermaLink="false">https://velog.io/@kkm06101010/Application-Context의-동작</guid>
       <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>한글로 코딩하는 언어, Han을 살펴보다</title>
+      <link>https://velog.io/@pobi/한글로-코딩하는-언어-Han을-살펴보다</link>
+      <description>“프로그래밍 언어는 왜 늘 영어여야 할까?”Han은 이 질문을 꽤 진지하게 밀어붙인 프로젝트다.최근 GeekNews에서 Han이라는 프로젝트를 봤다. Han은 모든 키워드를 한국어로 작성하는 정적 타입 프로그래밍 언어이고, Rust로 구현된 컴파일러와 인터프리터를 함께...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/한글로-코딩하는-언어-Han을-살펴보다</guid>
+      <pubDate>Sat, 04 Apr 2026 17:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BE] 학교 구성원 250명 교내 서비스에서 MSA 사용하기</title>
+      <link>https://velog.io/@finda-tech/BE-학교-구성원-250명-교내-서비스에서-MSA-사용하기</link>
+      <description>이번 글에서는 학습을 목적으로 프로젝트에 MSA를 도입하며 겪은 고민과 설계 과정, 그리고 적용 후기를 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@finda-tech/BE-학교-구성원-250명-교내-서비스에서-MSA-사용하기</guid>
+      <pubDate>Sat, 04 Apr 2026 17:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>프롬프트보다 구조가 성능을 만든다: harness가 흥미로운 이유</title>
+      <link>https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</link>
+      <description>코딩 에이전트를 써보면 금방 드는 생각이 있다. 이제 문제는 “모델이 뭘 할 수 있느냐”보다 “그 능력을 얼마나 일관되게 끌어내느냐”에 더 가깝다는 점이다. harness가 눈에 띄는 이유도 바로 여기에 있다. 이 프로젝트는 또 하나의 에이전트를 추가하는 도구가 아니라...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</guid>
+      <pubDate>Sat, 04 Apr 2026 17:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
