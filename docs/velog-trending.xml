@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 17:23:16 +0000</lastBuildDate>
     <item>
       <title>Claude Code 소스코드가 통째로 유출됐다</title>
       <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
@@ -23,25 +23,11 @@
       <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>이력서는 썼는데 면접이 막막해서, AI 모의면접관을 만들어봤다. (feat. Claude Artifacts)</title>
-      <link>https://velog.io/@babypig/이력서는-썼는데-면접이-막막해서-AI-모의면접관을-만들어봤다.-feat.-Claude-Artifacts</link>
-      <description>이력서 + JD만 넣으면 꼬리질문까지 해주는 모의면접 도구를 Claude Artifacts로 만든 이야기 만들게 된 계기 이직을 준비하면서 1~2월에 이력서 스터디에 참여했다. 스터디원끼리 이력서에 피드백을 남기는 트랙과, 서로 면접관이 되어 이력서 기반 모의면접을...</description>
-      <guid isPermaLink="false">https://velog.io/@babypig/이력서는-썼는데-면접이-막막해서-AI-모의면접관을-만들어봤다.-feat.-Claude-Artifacts</guid>
-      <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
-    </item>
-    <item>
       <title>18살 소마고 고등학생이 Swift Student Challenge Distinguished Winner?</title>
       <link>https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</link>
       <description>Swift Student Challenge 2026 Distinguished Winner가 되었습니다</description>
       <guid isPermaLink="false">https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</guid>
       <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 숨은 명령어 10가지 — 알면 개발 효율이 달라집니다</title>
-      <link>https://velog.io/@takuya/claude-code-hidden-commands</link>
-      <description>Claude Code에는 잘 알려지지 않은 편리한 명령어가 많이 숨겨져 있습니다. 이 글에서는 컨텍스트 오염을 방지하는 /btw, 코드 되돌리기 /rewind, 사용 분석 /insights 등 실용적인 숨은 명령어 10개를 엄선해서 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@takuya/claude-code-hidden-commands</guid>
-      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
       <title>앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다</title>
@@ -55,13 +41,6 @@
       <link>https://velog.io/@dbwls/velog에-광고가-너무-많아져서-개발한-Clean-Velog-크롬-확장</link>
       <description>벨로그 최신 피드에 요상한 광고가 요즘 넘쳐나길래 일단 급하게 만들었다. 이런 기능들이 velog에 추가됐으면 좋겠다.</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/velog에-광고가-너무-많아져서-개발한-Clean-Velog-크롬-확장</guid>
-      <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitHub 잔디 색상 변경하기 (feat. 잔디에도 미감이 필요하다니)</title>
-      <link>https://velog.io/@cconac/깃허브-잔디-색깔-바꾸러-오세요</link>
-      <description>마음대로 커스텀 가능</description>
-      <guid isPermaLink="false">https://velog.io/@cconac/깃허브-잔디-색깔-바꾸러-오세요</guid>
       <pubDate>Wed, 25 Mar 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
@@ -93,18 +72,11 @@
       <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>컴포넌트의 인생 Lifecycle</title>
-      <link>https://velog.io/@wijaeseong/컴포넌트의-인생-Lifecycle</link>
-      <description>컴포넌트의 인생인 Lifecycle과 useEffect</description>
-      <guid isPermaLink="false">https://velog.io/@wijaeseong/컴포넌트의-인생-Lifecycle</guid>
-      <pubDate>Tue, 24 Mar 2026 17:22:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>빅데이터분석기사 필기 공부법, 빅분기 12회 시험 후기</title>
-      <link>https://velog.io/@dywjd8080/빅데이터분석기사-필기-공부법</link>
-      <description>아 합격한 건 아니고요. 오늘 시험보고 왔는데 벨로그 첫 글 주제를 고민하다 빅분기를 선정하게 되었습니다. 누군가에게 도움이 되길 바라며... 1. 책 선정 저는 2026 이기적 빅데이터분석기사 필기 기본서 사용했습니다. 왜 이 책을 골랐냐면... 순위가 높았고 이기...</description>
-      <guid isPermaLink="false">https://velog.io/@dywjd8080/빅데이터분석기사-필기-공부법</guid>
-      <pubDate>Sun, 05 Apr 2026 17:10:55 +0000</pubDate>
+      <title>백엔드의 신 되기 1일차</title>
+      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
+      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
+      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
       <title>소프트웨어 마에스트로(소마) 17기 합격 후기</title>
@@ -114,25 +86,11 @@
       <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>백엔드의 신 되기 1일차</title>
-      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
-      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
-      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고] 소프트웨어 마에스트로 17기 합격</title>
       <link>https://velog.io/@jeong011010/회고-소프트웨어-마에스트로-17기-합격</link>
       <description>소프트웨어 마에스트로 합격하는법</description>
       <guid isPermaLink="false">https://velog.io/@jeong011010/회고-소프트웨어-마에스트로-17기-합격</guid>
       <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>아니 그래서 잘하는 게 뭐예요? 직무 방향을 잃었다면 AI에게 맡겨보자</title>
-      <link>https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</link>
-      <description>스타트업 N잡러가 되버린 나.. 이제 방향을 찾아서 ai한테 맡겨봤는데 상당히 좋더라구요 진로에 대해 계획하기가 어렵다면 같이 만들어보시길 바라며!</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/아니-그래서-잘하는-게-뭐예요직무-방향을-잃었다면-AI에게-맡겨보자</guid>
-      <pubDate>Thu, 26 Mar 2026 17:25:04 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 유출 뒤에 나온 Claw Dev: 한 번의 소스맵 실수가 보여준 것</title>
@@ -162,13 +120,6 @@
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>게임을... 게임을 만들고 싶어요!!</title>
-      <link>https://velog.io/@hyunho/게임을...-게임을-만들고-싶어요</link>
-      <description>1인 개발을 시작한 지 4개월이 거의 되갑니다. 생각보다 좀 느린감이 있어서 반성하게 되네요. 0부터 시작하는 게임 개발이라서 시행 착오도 많았다고 생각합니다.그리고 뭐... 사서 고생하는거죠. 룩앤필을 중요하게 생각한 나머지, 씬 세팅이나 에셋 제작에도 꽤나 시간을 ...</description>
-      <guid isPermaLink="false">https://velog.io/@hyunho/게임을...-게임을-만들고-싶어요</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
       <title>[2026] 3월회고: 분명 백수인데 회사 다닐 때보다 바쁜 이유</title>
       <link>https://velog.io/@hongsinugget/2026-3월회고-분명-백수인데-회사-다닐-때보다-바쁜-이유</link>
       <description>안녕하세요? 홍시너겟입니다.하하, 벌써 2026년 4분의 1이 지나가버렸네요...ㅠㅠ이번 달은 스케줄이 정말 많아서 금방 빨리 지나간 것 같아요..</description>
@@ -176,11 +127,31 @@
       <pubDate>Wed, 01 Apr 2026 17:20:51 +0000</pubDate>
     </item>
     <item>
+      <title>프롬프트보다 구조가 성능을 만든다: harness가 흥미로운 이유</title>
+      <link>https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</link>
+      <description>코딩 에이전트를 써보면 금방 드는 생각이 있다. 이제 문제는 “모델이 뭘 할 수 있느냐”보다 “그 능력을 얼마나 일관되게 끌어내느냐”에 더 가깝다는 점이다. harness가 눈에 띄는 이유도 바로 여기에 있다. 이 프로젝트는 또 하나의 에이전트를 추가하는 도구가 아니라...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</guid>
+      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+    </item>
+    <item>
       <title>가독성 좋은 코드란?</title>
       <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
       <description>주관을 가진 코드를 작성하게 되는 과정</description>
       <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
+      <link>https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</link>
+      <description>구름톤 17기 무려 최우수상!!! 제주도에서 진행되는 3박4일 해커톤 해커톤 핑계로 제주도 여행 가능</description>
+      <guid isPermaLink="false">https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>3주차 회고록</title>
+      <link>https://velog.io/@sjeda07/3주차-회고록</link>
+      <guid isPermaLink="false">https://velog.io/@sjeda07/3주차-회고록</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
       <title>코드와 함께 보는 DI와 IoC</title>
@@ -197,24 +168,52 @@
       <pubDate>Sat, 04 Apr 2026 17:10:48 +0000</pubDate>
     </item>
     <item>
-      <title>프롬프트보다 구조가 성능을 만든다: harness가 흥미로운 이유</title>
-      <link>https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</link>
-      <description>코딩 에이전트를 써보면 금방 드는 생각이 있다. 이제 문제는 “모델이 뭘 할 수 있느냐”보다 “그 능력을 얼마나 일관되게 끌어내느냐”에 더 가깝다는 점이다. harness가 눈에 띄는 이유도 바로 여기에 있다. 이 프로젝트는 또 하나의 에이전트를 추가하는 도구가 아니라...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+      <title>[yANUs - groupware] 0. 서비스 소개</title>
+      <link>https://velog.io/@jyt6640/yANUs-groupware-0.-서비스-소개</link>
+      <description>본 서비스는 일정, 할 일, 출퇴근, 파일 공유, 멤버 관리를 하나로 묶어 동아리를 운영하는 서비스입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/yANUs-groupware-0.-서비스-소개</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>내 코드, 다른 회사 가면 통할까(feet. AI)</title>
-      <link>https://velog.io/@heinkang/내-코드-다른-회사-가면-통할까feet.-AI</link>
-      <description>AI한테 코드 짜달라고 했다.동작 잘 했다.프로젝트 기간엔 만들기만 급급했고코드리뷰가 없는 회사라 기능만 되면 그만이었다.근데 항상 찜찜했다.🙄🙄🙄이거 맞아??뭔가 어색했다. 딱히 왜인지 몰랐다. 그냥 눈에 걸렸다.10년 전 자바스크립트랑 다른 문법들을 요즘 눈에...</description>
-      <guid isPermaLink="false">https://velog.io/@heinkang/내-코드-다른-회사-가면-통할까feet.-AI</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+      <title>달리는 기차의 바퀴를 바꿔라: i18n 다국어 주입기</title>
+      <link>https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</link>
+      <description>스마트하게 다국어 지원 시작하기</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>개발자가 반드시 알아야 할 Claude Code 명령어 Top 15 + Buddy</title>
+      <link>https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</link>
+      <description>Claude Code 창시자 Boris Cherny의 팁, 공식 문서, 개발자 커뮤니티에서 반복적으로 언급되는 것들만 추렸습니다.Claude Code v2.1.91 기준 |Claude Code v2.1.89에 만우절(April 1st) 기념으로 추가된 이스터에그입니다....</description>
+      <guid isPermaLink="false">https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
       <title>[Claude Code] 클로드 코드에서 펫 만들기 🍄 (제 펫은... 버섯 🍄‍🟫)</title>
       <link>https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</link>
       <guid isPermaLink="false">https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</guid>
       <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI와 함께 사주 서비스를 만들었습니다 — Claude Code 실전 개발기</title>
+      <link>https://velog.io/@houndhollis/AI와-함께-사주-서비스를-만들었습니다-Claude-Code-실전-개발기</link>
+      <description>"AI로 코딩한다"는 말이 흔해졌지만, 막상 어떻게 활용했는지 구체적으로 공유하는 글은 많지 않습니다.저는 최근 onebite-saju라는 AI 사주 운세 서비스를 만들었습니다. 생년월일시를 입력하면 만세력 기반으로 사주 8글자를 추출하고, Gemini AI가 개인화된...</description>
+      <guid isPermaLink="false">https://velog.io/@houndhollis/AI와-함께-사주-서비스를-만들었습니다-Claude-Code-실전-개발기</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>군대에서 로그라이트 게임 만들기 220일차 [D-151]</title>
+      <link>https://velog.io/@1ska2suwkd/군대에서-로그라이트-게임-만들기-220일차</link>
+      <description>중앙통제던전 화이팅.</description>
+      <guid isPermaLink="false">https://velog.io/@1ska2suwkd/군대에서-로그라이트-게임-만들기-220일차</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>cokacdir란 무엇인가: 텔레그램에서 돌아가는 AI 코딩 에이전트</title>
+      <link>https://velog.io/@pobi/cokacdir란-무엇인가-텔레그램에서-돌아가는-AI-코딩-에이전트</link>
+      <description>AI 코딩 도구를 떠올리면 보통 이런 그림이 먼저 나온다.내 PC에 설치한다터미널이나 IDE에서 실행한다책상 앞에 앉아서 작업한다그런데 cokacdir는 이 익숙한 흐름을 조금 다른 방향으로 밀어붙인다.이 도구를 한 줄로 설명하면 이렇다.텔레그램 채팅을 그대로 AI 코...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/cokacdir란-무엇인가-텔레그램에서-돌아가는-AI-코딩-에이전트</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
