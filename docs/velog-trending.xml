@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:18:35 +0000</lastBuildDate>
     <item>
       <title>Claude Code 소스코드가 통째로 유출됐다</title>
       <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
@@ -23,11 +23,11 @@
       <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>18살 소마고 고등학생이 Swift Student Challenge Distinguished Winner?</title>
-      <link>https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</link>
-      <description>Swift Student Challenge 2026 Distinguished Winner가 되었습니다</description>
-      <guid isPermaLink="false">https://velog.io/@leejh08/18살-소마고-고등학생이-Swift-Student-Challenge-Distinguished-Winner</guid>
-      <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
+      <title>뭔가 큰 일이 벌어지고 있다</title>
+      <link>https://velog.io/@sehyunny/sth-big-is-happening</link>
+      <description>원문: https://shumer.dev/something-big-is-happening 2020년 2월을 떠올려보세요. 만약 여러분이 세심한 주의를 기울이고 있었다면, 해외에서 바이러스가 퍼지고 있다는 이야기를...</description>
+      <guid isPermaLink="false">https://velog.io/@sehyunny/sth-big-is-happening</guid>
+      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
     </item>
     <item>
       <title>앤스로픽(Anthropic)의 수익성, 김밥천국 보다 안 좋다</title>
@@ -35,13 +35,6 @@
       <description>앤스로픽은 가까운 시일내로 폭발적인 이익을 낼 것이라 기대하며 높은 기업 가치를 인정받고 있습니다. 그러나 재무제표의 숫자는 다른 말을 하고 있습니다. LLM과 그 응용 서비스의 수익성이 요식업보다 낮다는 점을 증명합니다.</description>
       <guid isPermaLink="false">https://velog.io/@skynet/앤스로픽Anthropic의-수익성-김밥천국-보다-안-좋다</guid>
       <pubDate>Fri, 03 Apr 2026 17:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>뭔가 큰 일이 벌어지고 있다</title>
-      <link>https://velog.io/@sehyunny/sth-big-is-happening</link>
-      <description>원문: https://shumer.dev/something-big-is-happening 2020년 2월을 떠올려보세요. 만약 여러분이 세심한 주의를 기울이고 있었다면, 해외에서 바이러스가 퍼지고 있다는 이야기를...</description>
-      <guid isPermaLink="false">https://velog.io/@sehyunny/sth-big-is-happening</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
     </item>
     <item>
       <title>프롬프트 엔지니어링은 끝났다 — 하네스 엔지니어링으로 AI 에이전트를 길들인 이야기</title>
@@ -65,18 +58,18 @@
       <pubDate>Sun, 29 Mar 2026 17:10:13 +0000</pubDate>
     </item>
     <item>
-      <title>백엔드의 신 되기 1일차</title>
-      <link>https://velog.io/@shson1217/백엔드의-신-되기-1일차</link>
-      <description>어쩌다보니 백엔드 개발 1일차가 되었다.백엔드 개발도 해봤으면 좋겠다는 이사님의 말에 백엔드 개발을 자원했다.</description>
-      <guid isPermaLink="false">https://velog.io/@shson1217/백엔드의-신-되기-1일차</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
       <title>AI시대의 취준생/주니어 개발자 행동지침 (2026)</title>
       <link>https://velog.io/@railgunofpku/aisurvival2026</link>
       <description>이건 힘멜이 가장 좋아했던 마법이야. ???: 프리렌사마, 언제적 이야기를 하시는 건가요.</description>
       <guid isPermaLink="false">https://velog.io/@railgunofpku/aisurvival2026</guid>
       <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>(번역) 잘못된 Pretext 데모를 보고 있습니다</title>
+      <link>https://velog.io/@tap_kim/youre-looking-at-the-wrong-pretext-demo</link>
+      <description>Pretext가 하는 진짜 중요한 일은 DOM을 읽지 않고도 텍스트 블록의 높이를 예측하는 것입니다. 레이아웃 재계산을 단 한 번도 트리거하지 않고 텍스트 노드를 배치할 수 있다는 뜻입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/youre-looking-at-the-wrong-pretext-demo</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
       <title>소프트웨어 마에스트로(소마) 17기 합격 후기</title>
@@ -121,17 +114,18 @@
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
+      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
+      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
+      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
+      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
+    </item>
+    <item>
       <title>PDF 한 장으로 나만의 커리어 코치를? — n8n + Upstage API로 만든 AI 커리어 어드바이저</title>
       <link>https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</link>
       <description>Upstage AI Ambassador 2기 미션1: 노코드 기반 워크플로우 SNS 공유</description>
       <guid isPermaLink="false">https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</guid>
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 ~ 2026년 1분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
     </item>
     <item>
       <title>가독성 좋은 코드란?</title>
@@ -141,18 +135,10 @@
       <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
     </item>
     <item>
-      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
-      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
-      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>코드와 함께 보는 DI와 IoC</title>
-      <link>https://velog.io/@kkm06101010/Application-Context의-동작</link>
-      <description>저는 스프링 프레임워크를 배우면서 가장 먼저 IoC와 DI라는 개념에 대해서 접했습니다. IoC와 DI는 정말 추상적인 개념이기도 하고 저도 배우면서 정확한 동작에 대해 설명해주는 게시물이 없어서 이 글을 쓰게 됐습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@kkm06101010/Application-Context의-동작</guid>
-      <pubDate>Fri, 27 Mar 2026 17:19:54 +0000</pubDate>
+      <title>2025 ~ 2026년 1분기 회고</title>
+      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
+      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code의 구조 - 하네스는 얇게, 지능은 모델에</title>
@@ -160,13 +146,6 @@
       <description>하네스는 얇게, 지능은 모델에</description>
       <guid isPermaLink="false">https://velog.io/@strurao/Claude-Code의-구조-설계-하네스는-얇게-지능은-모델에</guid>
       <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>달리는 기차의 바퀴를 바꿔라: i18n 다국어 주입기</title>
-      <link>https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</link>
-      <description>스마트하게 다국어 지원 시작하기</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/달리는-기차의-바퀴를-바꿔라-i18n-다국어-주입기</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
       <title>cokacdir란 무엇인가: 텔레그램에서 돌아가는 AI 코딩 에이전트</title>
@@ -190,17 +169,31 @@
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>팀 문서 찾느라 15분씩 쓰는 게 싫어서 RAG 플랫폼을 만들었습니다</title>
-      <link>https://velog.io/@joungminsung/팀-문서-찾느라-15분씩-쓰는-게-싫어서-RAG-플랫폼을-만들었습니다</link>
-      <description>문서 찾느라 Notion, Drive, GitHub 돌아다니는 거 너무 귀찮아서 직접 만들었습니다. 연결해두면 자연어로 물어볼 수 있는 오픈소스 RAG 플랫폼</description>
-      <guid isPermaLink="false">https://velog.io/@joungminsung/팀-문서-찾느라-15분씩-쓰는-게-싫어서-RAG-플랫폼을-만들었습니다</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
+      <title>[UE5/C++] TFT 하이브리드 Drag &amp; Drop 시스템</title>
+      <link>https://velog.io/@vmvm9184/UE5C-TFT-하이브리드-Drag-Drop-시스템</link>
+      <description>Drag &amp; Drop: 기물을 꾹 눌러서 빠르게 원하는 위치에 놓는 방식 (속도 중시)Click-to-Move: 기물을 한 번 클릭해 선택하고, 배치할 곳을 다시 클릭하는 방식 (정밀도 중시)저는 이 두 가지 방식을 따로 분리하지 않고, 유저의 입력 지속 시간을 통해 ...</description>
+      <guid isPermaLink="false">https://velog.io/@vmvm9184/UE5C-TFT-하이브리드-Drag-Drop-시스템</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
       <title>[Claude Code] 클로드 코드에서 펫 만들기 🍄 (제 펫은... 버섯 🍄‍🟫)</title>
       <link>https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</link>
       <guid isPermaLink="false">https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</guid>
       <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>비개발자가 혼자해커톤 참여한 썰 with.use_figma도입기</title>
+      <link>https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</link>
+      <description>안녕하세요 살아돌아온 홍시너겟입니다.제가 저번달 회고글에서 보다시피.. 해커톤을 준비했는데요. 오늘 개발 제출기간이 끝났고 심사평가만 남은 기간이라서 풀어보고자 합니다</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>살인달팽이 만들어봤습니다.....</title>
+      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
+      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
+      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
     </item>
     <item>
       <title>개발자가 반드시 알아야 할 Claude Code 명령어 Top 15 + Buddy</title>
@@ -210,11 +203,18 @@
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>살인달팽이 만들어봤습니다.....</title>
-      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
-      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
+      <title>Claude Code 사용량 확인하다가 결국 직접 위젯 만들어버렸다!</title>
+      <link>https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</link>
+      <description>사용량 안 보고 썼다가 하루 날림</description>
+      <guid isPermaLink="false">https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ClaudeCode Harness Engineering -1편</title>
+      <link>https://velog.io/@kyeongjun1007/ClaudeCode-Harness-Engineering-1편</link>
+      <description>클로드코드 하네스 내손내짠 해봅시다.</description>
+      <guid isPermaLink="false">https://velog.io/@kyeongjun1007/ClaudeCode-Harness-Engineering-1편</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
