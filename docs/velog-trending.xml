@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 12 Apr 2026 17:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:25:21 +0000</lastBuildDate>
     <item>
       <title>Claude Code 소스코드가 통째로 유출됐다</title>
       <link>https://velog.io/@dbwls/Claude-Code-소스코드가-통째로-유출됐다</link>
@@ -37,18 +37,18 @@
       <pubDate>Fri, 03 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
+      <title>AI시대의 취준생/주니어 개발자 행동지침 (2026)</title>
+      <link>https://velog.io/@railgunofpku/aisurvival2026</link>
+      <description>프리렌사마, 언제적 이야기를 하시는 건가요.</description>
+      <guid isPermaLink="false">https://velog.io/@railgunofpku/aisurvival2026</guid>
+      <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
+    </item>
+    <item>
       <title>AI를 잘 쓴다는 건 대체 무슨 뜻일까</title>
       <link>https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</link>
       <description>최근 GPT 유료 플랜을 결제하고 Codex를 본격적으로 사용하면서 한 가지 질문이 머릿속에 계속 맴돌았다.AI를 잘 쓴다는 건 도대체 무엇일까? 대체 그 기준이 뭐지?처음에는 단순하다고 생각했다. AI에게 정확한 프롬프트만 던지면 원하는 답을 얻을 수 있고, 그러면 ...</description>
       <guid isPermaLink="false">https://velog.io/@riverhee/AI를-잘-쓴다는-건-대체-무슨-뜻일까</guid>
       <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI시대의 취준생/주니어 개발자 행동지침 (2026)</title>
-      <link>https://velog.io/@railgunofpku/aisurvival2026</link>
-      <description>이건 힘멜이 가장 좋아했던 마법이야. ???: 프리렌사마, 언제적 이야기를 하시는 건가요.</description>
-      <guid isPermaLink="false">https://velog.io/@railgunofpku/aisurvival2026</guid>
-      <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
     </item>
     <item>
       <title>(번역) 잘못된 Pretext 데모를 보고 있습니다</title>
@@ -58,18 +58,18 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>평균 응답시간 1.2초 -&gt; 137ms, 뭘 바꿨을까?</title>
-      <link>https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</link>
-      <description>조회 하는 부분의 api를 테스트했을 때 평균 1.2초 최대 7.1초라는 매우 느린 속도가 관찰되었습니다. 현재 상황에서 병목지점이 있음을 예상하고 최적화를 진행했습니다. 1차 해결 Tomcat의 쓰레드 풀의 개수를 확장</description>
-      <guid isPermaLink="false">https://velog.io/@kkm06101010/평균-응답시간-1.2초-137ms-뭘-바꿨을까</guid>
-      <pubDate>Tue, 31 Mar 2026 17:23:00 +0000</pubDate>
+      <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
+      <link>https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</link>
+      <description>구름톤 17기 무려 최우수상!!! 제주도에서 진행되는 3박4일 해커톤 해커톤 핑계로 제주도 여행 가능</description>
+      <guid isPermaLink="false">https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>프롬프트보다 구조가 성능을 만든다: harness가 흥미로운 이유</title>
-      <link>https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</link>
-      <description>코딩 에이전트를 써보면 금방 드는 생각이 있다. 이제 문제는 “모델이 뭘 할 수 있느냐”보다 “그 능력을 얼마나 일관되게 끌어내느냐”에 더 가깝다는 점이다. harness가 눈에 띄는 이유도 바로 여기에 있다. 이 프로젝트는 또 하나의 에이전트를 추가하는 도구가 아니라...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/프롬프트보다-구조가-성능을-만든다-harness가-흥미로운-이유</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+      <title>고용 형태에 갇히지 않기 — 토스 계약직 6개월 회고</title>
+      <link>https://velog.io/@hying/토스-어시-회고</link>
+      <description>토스 프론트엔드 어시스턴트 계약직 6개월 회고. 계약직이라는 틀에 갇히지 않고 서비스를 온전히 맡아 돌리며, 주변 자원을 적극 활용해 성장한 이야기. 잘한 것과 아쉬운 것, 그리고 동료들에게 받은 피드백까지 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/토스-어시-회고</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 유출 뒤에 나온 Claw Dev: 한 번의 소스맵 실수가 보여준 것</title>
@@ -79,11 +79,11 @@
       <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
-      <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
-      <link>https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</link>
-      <description>구름톤 17기 무려 최우수상!!! 제주도에서 진행되는 3박4일 해커톤 해커톤 핑계로 제주도 여행 가능</description>
-      <guid isPermaLink="false">https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
+      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
+      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
+      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
     </item>
     <item>
       <title>[2026] 3월회고: 분명 백수인데 회사 다닐 때보다 바쁜 이유</title>
@@ -100,31 +100,11 @@
       <pubDate>Sun, 12 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
-      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
-      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
-      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>가독성 좋은 코드란?</title>
-      <link>https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</link>
-      <description>주관을 가진 코드를 작성하게 되는 과정</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/가독성-좋은-코드란-exsv51yu</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>PDF 한 장으로 나만의 커리어 코치를? — n8n + Upstage API로 만든 AI 커리어 어드바이저</title>
-      <link>https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</link>
-      <description>Upstage AI Ambassador 2기 미션1: 노코드 기반 워크플로우 SNS 공유</description>
-      <guid isPermaLink="false">https://velog.io/@choihyun-1110/PDF-한-장으로-나만의-커리어-코치를-n8n-Upstage-API로-만든-AI-커리어-어드바이저</guid>
-      <pubDate>Mon, 30 Mar 2026 17:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 ~ 2026년 1분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+      <title>html-in-canvas로 영화 프로젝트 헤일메리 명장면 구현하기</title>
+      <link>https://velog.io/@eveneul/html-in-canvas</link>
+      <description>멋짐! 멋짐! 멋짐! \🪨/</description>
+      <guid isPermaLink="false">https://velog.io/@eveneul/html-in-canvas</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
       <title>하네스 엔지니어링과 개발자의 미래</title>
@@ -141,52 +121,17 @@
       <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
     </item>
     <item>
-      <title>cokacdir란 무엇인가: 텔레그램에서 돌아가는 AI 코딩 에이전트</title>
-      <link>https://velog.io/@pobi/cokacdir란-무엇인가-텔레그램에서-돌아가는-AI-코딩-에이전트</link>
-      <description>AI 코딩 도구를 떠올리면 보통 이런 그림이 먼저 나온다.내 PC에 설치한다터미널이나 IDE에서 실행한다책상 앞에 앉아서 작업한다그런데 cokacdir는 이 익숙한 흐름을 조금 다른 방향으로 밀어붙인다.이 도구를 한 줄로 설명하면 이렇다.텔레그램 채팅을 그대로 AI 코...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/cokacdir란-무엇인가-텔레그램에서-돌아가는-AI-코딩-에이전트</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI와 함께 사주 서비스를 만들었습니다 — Claude Code 실전 개발기</title>
-      <link>https://velog.io/@houndhollis/AI와-함께-사주-서비스를-만들었습니다-Claude-Code-실전-개발기</link>
-      <description>"AI로 코딩한다"는 말이 흔해졌지만, 막상 어떻게 활용했는지 구체적으로 공유하는 글은 많지 않습니다.저는 최근 onebite-saju라는 AI 사주 운세 서비스를 만들었습니다. 생년월일시를 입력하면 만세력 기반으로 사주 8글자를 추출하고, Gemini AI가 개인화된...</description>
-      <guid isPermaLink="false">https://velog.io/@houndhollis/AI와-함께-사주-서비스를-만들었습니다-Claude-Code-실전-개발기</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[UE5/C++] TFT 하이브리드 Drag &amp; Drop 시스템</title>
-      <link>https://velog.io/@vmvm9184/UE5C-TFT-하이브리드-Drag-Drop-시스템</link>
-      <description>Drag &amp; Drop: 기물을 꾹 눌러서 빠르게 원하는 위치에 놓는 방식 (속도 중시)Click-to-Move: 기물을 한 번 클릭해 선택하고, 배치할 곳을 다시 클릭하는 방식 (정밀도 중시)저는 이 두 가지 방식을 따로 분리하지 않고, 유저의 입력 지속 시간을 통해 ...</description>
-      <guid isPermaLink="false">https://velog.io/@vmvm9184/UE5C-TFT-하이브리드-Drag-Drop-시스템</guid>
-      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Claude Code] 클로드 코드에서 펫 만들기 🍄 (제 펫은... 버섯 🍄‍🟫)</title>
-      <link>https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</link>
-      <guid isPermaLink="false">https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</guid>
+      <title>2025 ~ 2026년 1분기 회고</title>
+      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
       <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 사용량 확인하다가 결국 직접 위젯 만들어버렸다!</title>
-      <link>https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</link>
-      <description>사용량 안 보고 썼다가 하루 날림</description>
-      <guid isPermaLink="false">https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</guid>
-      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자가 반드시 알아야 할 Claude Code 명령어 Top 15 + Buddy</title>
-      <link>https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</link>
-      <description>Claude Code 창시자 Boris Cherny의 팁, 공식 문서, 개발자 커뮤니티에서 반복적으로 언급되는 것들만 추렸습니다.Claude Code v2.1.91 기준 |Claude Code v2.1.89에 만우절(April 1st) 기념으로 추가된 이스터에그입니다....</description>
-      <guid isPermaLink="false">https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>비개발자가 혼자해커톤 참여한 썰 with.use_figma도입기</title>
-      <link>https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</link>
-      <description>안녕하세요 살아돌아온 홍시너겟입니다.제가 저번달 회고글에서 보다시피.. 해커톤을 준비했는데요. 오늘 개발 제출기간이 끝났고 심사평가만 남은 기간이라서 풀어보고자 합니다</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</guid>
-      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+      <title>웹뷰 브릿지 통신, 디자인 패턴으로 추상화하기</title>
+      <link>https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</link>
+      <description>자동차 인포테인먼트 웹뷰 개발에서 마주치는 크로스플랫폼 브릿지 통신 문제를 다룹니다. Android와 Linux(CEF) 환경에서 브릿지 구현 방식이 어떻게 다른지 살펴보고, 어댑터 패턴과 팩토리 패턴을 조합해 플랫폼에 종속되지 않는 추상화 레이어를 설계합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
       <title>ClaudeCode Harness Engineering -1편</title>
@@ -196,11 +141,30 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>리액트 렌더링과 메모이제이션</title>
-      <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
-      <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</guid>
-      <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
+      <title>[당근/회고] 인턴 출근 1주차 회고</title>
+      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</link>
+      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 사용량 확인하다가 결국 직접 위젯 만들어버렸다!</title>
+      <link>https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</link>
+      <description>사용량 안 보고 썼다가 하루 날림</description>
+      <guid isPermaLink="false">https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>비개발자가 혼자해커톤 참여한 썰 with.use_figma도입기</title>
+      <link>https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</link>
+      <description>안녕하세요 살아돌아온 홍시너겟입니다.제가 저번달 회고글에서 보다시피.. 해커톤을 준비했는데요. 오늘 개발 제출기간이 끝났고 심사평가만 남은 기간이라서 풀어보고자 합니다</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/비개발자가-혼자해커톤-참여한-썰-with.usefigma도입기</guid>
+      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Claude Code] 클로드 코드에서 펫 만들기 🍄 (제 펫은... 버섯 🍄‍🟫)</title>
+      <link>https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</link>
+      <guid isPermaLink="false">https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</guid>
+      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
     </item>
     <item>
       <title>코드를 안짜는 개발자는 개발자가 맞을까</title>
@@ -210,11 +174,46 @@
       <pubDate>Sun, 12 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
-      <title>Practical Kotlin Deep Dive: 질문으로 학습하는 심화 코틀린 책</title>
-      <link>https://velog.io/@skydoves/practical-kotlin-deep-dive</link>
-      <description>이 책은 "코틀린을 어떻게 사용하는가"를 넘어, "코틀린이 실제로 어떻게 동작하는가"까지 안내합니다. 내부 구현을 들여다보고, 바이트코드와 컴파일러의 동작을 명확히 탐구하며, 언어를 형성하는 핵심 내부 구조를 파헤칩니다.</description>
-      <guid isPermaLink="false">https://velog.io/@skydoves/practical-kotlin-deep-dive</guid>
-      <pubDate>Sun, 12 Apr 2026 17:12:28 +0000</pubDate>
+      <title>개발자가 반드시 알아야 할 Claude Code 명령어 Top 15 + Buddy</title>
+      <link>https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</link>
+      <description>Claude Code 창시자 Boris Cherny의 팁, 공식 문서, 개발자 커뮤니티에서 반복적으로 언급되는 것들만 추렸습니다.Claude Code v2.1.91 기준 |Claude Code v2.1.89에 만우절(April 1st) 기념으로 추가된 이스터에그입니다....</description>
+      <guid isPermaLink="false">https://velog.io/@kkaengji/개발자가-반드시-알아야-할-Claude-Code-명령어-Top-15</guid>
+      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"쟤네는 대체 뭐함?" 소리 듣는 부서들에서만 8년을 일했다.</title>
+      <link>https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</link>
+      <description>“쟤네는 대체 뭐 하는 부서임?“ 분명 아무것도 안 한 것도 아닌데, 욕 먹는 부서만 골라가며 8년을 버틴 엔지니어의 자기 반성하는 썰</description>
+      <guid isPermaLink="false">https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>990원짜리 사주 서비스에 7,000명이 결제했다 — 그래서 관상도 보기로 했다</title>
+      <link>https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</link>
+      <description>안녕하세요, 1편에서 '운명 분석 엔진' 이야기를 들려드린 지 벌써 시간이 꽤 흘렀네요. 오랜만에 인사드립니다. 990원이라는 가격에 반신반의하며 올렸던 서비스에 감사하게도 7,000명이라는 유저분이 다녀가셨고, 그 지표들을 분석하며 다음 스텝을 준비하느라 꽤 바쁜 시...</description>
+      <guid isPermaLink="false">https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>리액트 렌더링과 메모이제이션</title>
+      <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
+      <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</guid>
+      <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eggly 메이커로그 #18 - Render 무료 플랜, 콜드스타트 없이 쓰는 법</title>
+      <link>https://velog.io/@ironkey/Eggly-메이커로그-18-Render-무료-플랜-콜드스타트-없이-쓰는-법</link>
+      <description>Eggly 백엔드는 Render 무료 플랜으로 운영하고 있습니다. 운영비 0원을 목표로 하고 있기 때문에 무료 플랜을 최대한 활용하는 게 중요한데요. Render 무료 플랜에는 치명적인 단점이 하나 있습니다. 15분 동안 요청이 없으면 서버가 꺼집니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ironkey/Eggly-메이커로그-18-Render-무료-플랜-콜드스타트-없이-쓰는-법</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>살인달팽이 만들어봤습니다.....</title>
+      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
+      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
