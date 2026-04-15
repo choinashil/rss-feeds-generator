@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 14 Apr 2026 17:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:25:53 +0000</lastBuildDate>
     <item>
-      <title>Claude Code Buddy 가챠 뽑기 🎲</title>
-      <link>https://velog.io/@strurao/claude-buddy-가챠뽑기</link>
-      <description>유출본 소스코드에 들어 있던 /buddy 기능이 공식 공개되었다.</description>
-      <guid isPermaLink="false">https://velog.io/@strurao/claude-buddy-가챠뽑기</guid>
-      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
+      <title>[속보] 백준 서비스 종료</title>
+      <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
+      <description>BAEKJOON. 2026년 4월 28일을 끝으로 종료한다.</description>
+      <guid isPermaLink="false">https://velog.io/@happynj2697/속보-백준-서비스-종료</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>뭔가 큰 일이 벌어지고 있다</title>
@@ -58,18 +58,18 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code가 요즘 이상하다면?</title>
+      <link>https://velog.io/@justn-hyeok/off-claude-code-adaptive-thinking</link>
+      <description>요새 Claude Code 좀 이상하지 않나요 Claude Code 사용하다보면 이런 경험이 다들 있으실 겁니다. 분명 Opus 4.6, Sonnet 4.6을 쓰고 있는데, 코드 검증도 똑바로 안 하고 자신 있게 틀린 답을 내놓을 때. 존재하지 않는 API 버전을 지...</description>
+      <guid isPermaLink="false">https://velog.io/@justn-hyeok/off-claude-code-adaptive-thinking</guid>
+      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
+    </item>
+    <item>
       <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
       <link>https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</link>
       <description>구름톤 17기 무려 최우수상!!! 제주도에서 진행되는 3박4일 해커톤 해커톤 핑계로 제주도 여행 가능</description>
       <guid isPermaLink="false">https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</guid>
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 유출 뒤에 나온 Claw Dev: 한 번의 소스맵 실수가 보여준 것</title>
-      <link>https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</link>
-      <description>3월 31일, Anthropic는 Claude Code 2.1.88 배포 과정에서 내부 TypeScript 코드가 들어 있는 소스맵 파일을 함께 공개해 버렸다. 이후 공개 보도를 통해 이 파일이 50만 줄이 넘는 Claude Code 내부 구현을 사실상 복원 가능한 수...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/Claude-Code-유출-뒤에-나온-Claw-Dev-한-번의-소스맵-실수가-보여준-것</guid>
-      <pubDate>Thu, 02 Apr 2026 17:19:28 +0000</pubDate>
     </item>
     <item>
       <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
@@ -100,26 +100,6 @@
       <pubDate>Sun, 12 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code가 요즘 이상하다면?</title>
-      <link>https://velog.io/@justn-hyeok/off-claude-code-adaptive-thinking</link>
-      <description>요새 Claude Code 좀 이상하지 않나요 Claude Code 사용하다보면 이런 경험이 다들 있으실 겁니다. 분명 Opus 4.6, Sonnet 4.6을 쓰고 있는데, 코드 검증도 똑바로 안 하고 자신 있게 틀린 답을 내놓을 때. 존재하지 않는 API 버전을 지...</description>
-      <guid isPermaLink="false">https://velog.io/@justn-hyeok/off-claude-code-adaptive-thinking</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code의 구조 - 하네스는 얇게, 지능은 모델에</title>
-      <link>https://velog.io/@strurao/Claude-Code의-구조-설계-하네스는-얇게-지능은-모델에</link>
-      <description>하네스는 얇게, 지능은 모델에</description>
-      <guid isPermaLink="false">https://velog.io/@strurao/Claude-Code의-구조-설계-하네스는-얇게-지능은-모델에</guid>
-      <pubDate>Wed, 08 Apr 2026 17:29:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025 ~ 2026년 1분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code 사용량 확인하다가 결국 직접 위젯 만들어버렸다!</title>
       <link>https://velog.io/@khwee2000/Claude-Code-사용량-확인하다가-결국-직접-위젯-만들어버렸다</link>
       <description>사용량 안 보고 썼다가 하루 날림</description>
@@ -134,11 +114,10 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>ClaudeCode Harness Engineering -1편</title>
-      <link>https://velog.io/@kyeongjun1007/ClaudeCode-Harness-Engineering-1편</link>
-      <description>클로드코드 하네스 내손내짠 해봅시다.</description>
-      <guid isPermaLink="false">https://velog.io/@kyeongjun1007/ClaudeCode-Harness-Engineering-1편</guid>
-      <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
+      <title>2025 ~ 2026년 1분기 회고</title>
+      <link>https://velog.io/@minjaekimm/2025-2026년-1분기-회고</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2025-2026년-1분기-회고</guid>
+      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
     </item>
     <item>
       <title>990원짜리 사주 서비스에 7,000명이 결제했다 — 그래서 관상도 보기로 했다</title>
@@ -161,10 +140,11 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>[Claude Code] 클로드 코드에서 펫 만들기 🍄 (제 펫은... 버섯 🍄‍🟫)</title>
-      <link>https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</link>
-      <guid isPermaLink="false">https://velog.io/@miming-00/Claude-Code-클로드-코드에서-펫-만들기-제-펫은...-버섯</guid>
-      <pubDate>Mon, 06 Apr 2026 17:18:55 +0000</pubDate>
+      <title>살인달팽이 만들어봤습니다.....</title>
+      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
+      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
+      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
       <title>개발자가 반드시 알아야 할 Claude Code 명령어 Top 15 + Buddy</title>
@@ -174,20 +154,6 @@
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>이래도 Fragment를 쓰지 않겠다고?</title>
-      <link>https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</link>
-      <description>Fragment 한 번 써보실래요?</description>
-      <guid isPermaLink="false">https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>살인달팽이 만들어봤습니다.....</title>
-      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
-      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>"쟤네는 대체 뭐함?" 소리 듣는 부서들에서만 8년을 일했다.</title>
       <link>https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</link>
       <description>“쟤네는 대체 뭐 하는 부서임?“ 분명 아무것도 안 한 것도 아닌데, 욕 먹는 부서만 골라가며 8년을 버틴 엔지니어의 자기 반성하는 썰</description>
@@ -195,11 +161,11 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>웹뷰 브릿지 통신, 디자인 패턴으로 추상화하기</title>
-      <link>https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</link>
-      <description>자동차 인포테인먼트 웹뷰 개발에서 마주치는 크로스플랫폼 브릿지 통신 문제를 다룹니다. Android와 Linux(CEF) 환경에서 브릿지 구현 방식이 어떻게 다른지 살펴보고, 어댑터 패턴과 팩토리 패턴을 조합해 플랫폼에 종속되지 않는 추상화 레이어를 설계합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+      <title>이래도 Fragment를 쓰지 않겠다고?</title>
+      <link>https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</link>
+      <description>Fragment 한 번 써보실래요?</description>
+      <guid isPermaLink="false">https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</guid>
+      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
       <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
@@ -209,11 +175,46 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
+      <title>프론트엔드 개발자의 바이브 디자인하기</title>
+      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
+      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦞 TypeScript를 모르는 개발자가 OpenClaw에 기여한 이야기</title>
+      <link>https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</link>
+      <description>TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</description>
+      <guid isPermaLink="false">https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+    </item>
+    <item>
       <title>리액트 렌더링과 메모이제이션</title>
       <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
       <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</guid>
       <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>웹뷰 브릿지 통신, 디자인 패턴으로 추상화하기</title>
+      <link>https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</link>
+      <description>자동차 인포테인먼트 웹뷰 개발에서 마주치는 크로스플랫폼 브릿지 통신 문제를 다룹니다. Android와 Linux(CEF) 환경에서 브릿지 구현 방식이 어떻게 다른지 살펴보고, 어댑터 패턴과 팩토리 패턴을 조합해 플랫폼에 종속되지 않는 추상화 레이어를 설계합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tnghgks/웹뷰-브릿지-통신-디자인-패턴으로-추상화하기</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redis에 대한 나의 첫 오해</title>
+      <link>https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</link>
+      <description>많은 예제에서 Redis를 사용하고 있기 때문에 별다른 고민 없이 도입했던 경험이 있습니다. 하지만 Redis를 제대로 이해하지 못한 채 사용하는 것은 분명한 한계가 있었습니다. 이 글에서는 Redis를 다시 학습하며 알게 된 내용을 정리해보려 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>조회만 90%인 서비스에 JPA를 그대로 써도 될까?</title>
+      <link>https://velog.io/@wktls0349/조회만-90인-서비스에-JPA를-그대로-써도-될까</link>
+      <description>F1MOA라는 서비스를 알고있나요? 아마 대부분이 모르실겁니다. 제가 올해 1월부터 개발해 2월 말쯤 배포한 F1 레이스 데이터와 라이브 타이밍을 제공하는 웹 서비스거든요, 홍보차 쓴 글들이 디시인사이드나 에펨코리아에서 많은 추천을 받았고 지금까지고 사용해주시는 분들이...</description>
+      <guid isPermaLink="false">https://velog.io/@wktls0349/조회만-90인-서비스에-JPA를-그대로-써도-될까</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
