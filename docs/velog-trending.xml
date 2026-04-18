@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 17:13:43 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -51,18 +51,11 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 4.7이 출시됐다</title>
-      <link>https://velog.io/@dbwls/Claude-Opus-4.7이-출시됐다</link>
-      <description>진짜 그동안의 유출이 마케팅이었는지, 기대감이 좀 증폭된다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-Opus-4.7이-출시됐다</guid>
-      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
-      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
-      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
-      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
+      <title>하네스 엔지니어링과 개발자의 미래</title>
+      <link>https://velog.io/@k-svelte-master/vibecoding-is-good</link>
+      <description>AI가 코드를 짜고, 테스트를 돌리고, 심지어 커밋까지 합니다. "LLM이 다 해준대요." 사장님은 바이브코딩으로 개발하라고 합니다. 이런 말들 사이에서 개발자로서 불안하지 않으면 거짓말이겠죠.근데 저는 실제로 LLM과 함께 일하면서, 좀 다른 생각을 갖게 됐습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/vibecoding-is-good</guid>
+      <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
     </item>
     <item>
       <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
@@ -72,11 +65,11 @@
       <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
-      <title>하네스 엔지니어링과 개발자의 미래</title>
-      <link>https://velog.io/@k-svelte-master/vibecoding-is-good</link>
-      <description>AI가 코드를 짜고, 테스트를 돌리고, 심지어 커밋까지 합니다. "LLM이 다 해준대요." 사장님은 바이브코딩으로 개발하라고 합니다. 이런 말들 사이에서 개발자로서 불안하지 않으면 거짓말이겠죠.근데 저는 실제로 LLM과 함께 일하면서, 좀 다른 생각을 갖게 됐습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/vibecoding-is-good</guid>
-      <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
+      <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
+      <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
+      <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</guid>
+      <pubDate>Thu, 09 Apr 2026 17:26:54 +0000</pubDate>
     </item>
     <item>
       <title>html-in-canvas로 영화 프로젝트 헤일메리 명장면 구현하기</title>
@@ -86,18 +79,18 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Opus 4.7이 출시됐다</title>
+      <link>https://velog.io/@dbwls/Claude-Opus-4.7이-출시됐다</link>
+      <description>진짜 그동안의 유출이 마케팅이었는지, 기대감이 좀 증폭된다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-Opus-4.7이-출시됐다</guid>
+      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
+    </item>
+    <item>
       <title>990원짜리 사주 서비스에 7,000명이 결제했다 — 그래서 관상도 보기로 했다</title>
       <link>https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</link>
       <description>안녕하세요, 1편에서 '운명 분석 엔진' 이야기를 들려드린 지 벌써 시간이 꽤 흘렀네요. 오랜만에 인사드립니다. 990원이라는 가격에 반신반의하며 올렸던 서비스에 감사하게도 7,000명이라는 유저분이 다녀가셨고, 그 지표들을 분석하며 다음 스텝을 준비하느라 꽤 바쁜 시...</description>
       <guid isPermaLink="false">https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>빅데이터분석기사 필기 공부법, 빅분기 12회 시험 후기</title>
-      <link>https://velog.io/@dywjd8080/빅데이터분석기사-필기-공부법</link>
-      <description>아 합격한 건 아니고요. 오늘 시험보고 왔는데 벨로그 첫 글 주제를 고민하다 빅분기를 선정하게 되었습니다. 누군가에게 도움이 되길 바라며... 1. 책 선정 저는 2026 이기적 빅데이터분석기사 필기 기본서 사용했습니다. 왜 이 책을 골랐냐면... 순위가 높았고 이기...</description>
-      <guid isPermaLink="false">https://velog.io/@dywjd8080/빅데이터분석기사-필기-공부법</guid>
-      <pubDate>Sun, 12 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
       <title>비개발자가 혼자해커톤 참여한 썰 with.use_figma도입기</title>
@@ -127,16 +120,16 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>[당근/회고] 인턴 출근 1주차 회고</title>
-      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</link>
-      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>"쟤네는 대체 뭐함?" 소리 듣는 부서들에서만 8년을 일했다.</title>
       <link>https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</link>
       <description>“쟤네는 대체 뭐 하는 부서임?“ 분명 아무것도 안 한 것도 아닌데, 욕 먹는 부서만 골라가며 8년을 버틴 엔지니어의 자기 반성하는 썰</description>
       <guid isPermaLink="false">https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</guid>
+      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[당근/회고] 인턴 출근 1주차 회고</title>
+      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</link>
+      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
@@ -160,11 +153,11 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
-      <title>무료로 클로드 하네스 세팅하기</title>
-      <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
-      <description>프로이상만 된다고한다..</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+      <title>프론트엔드 개발자의 바이브 디자인하기</title>
+      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
+      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
@@ -174,18 +167,18 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
-      <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
-      <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
-      <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
-      <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+      <title>LG Aimers 8기 후기</title>
+      <link>https://velog.io/@yjinmo/LG-Aimers-8기-본선-후기-nqn78njt</link>
+      <description>(썸네일 출처 : "AI로 산업 난제를 해결한다...LG, LG 에이머스 참가자 2만 명 돌파",인공지능 신문) LG Aimers 8기 본선을 다녀와서, 후기를 남겨보려고 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@yjinmo/LG-Aimers-8기-본선-후기-nqn78njt</guid>
+      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드 개발자의 바이브 디자인하기</title>
-      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
-      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+      <title>무료로 클로드 하네스 세팅하기</title>
+      <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
+      <description>프로이상만 된다고한다..</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
       <title>조회만 90%인 서비스에 JPA를 그대로 써도 될까?</title>
@@ -202,18 +195,25 @@
       <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
+      <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
+      <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
+      <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
+      <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
+      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
+      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
+      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
+    </item>
+    <item>
       <title>🦞 TypeScript를 모르는 개발자가 OpenClaw에 기여한 이야기</title>
       <link>https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</link>
       <description>TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</description>
       <guid isPermaLink="false">https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</guid>
       <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>정보처리기사 1트/원트 합격 후기</title>
-      <link>https://velog.io/@gguha0826/정보처리기사-1트원트-합격-후기</link>
-      <description>정처기 합격 꿀팁</description>
-      <guid isPermaLink="false">https://velog.io/@gguha0826/정보처리기사-1트원트-합격-후기</guid>
-      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
