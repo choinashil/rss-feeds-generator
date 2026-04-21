@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:24:09 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -51,13 +51,6 @@
       <pubDate>Fri, 10 Apr 2026 17:18:35 +0000</pubDate>
     </item>
     <item>
-      <title>이렇게 행복한 해커톤이 있었나? 구름톤 17기</title>
-      <link>https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</link>
-      <description>구름톤 17기 무려 최우수상!!! 제주도에서 진행되는 3박4일 해커톤 해커톤 핑계로 제주도 여행 가능</description>
-      <guid isPermaLink="false">https://velog.io/@happynj2697/이렇게-행복한-해커톤이-있었나-구름톤-17기</guid>
-      <pubDate>Tue, 07 Apr 2026 17:23:16 +0000</pubDate>
-    </item>
-    <item>
       <title>눈떠보니 41.6K 스타 레포에 기여했다.</title>
       <link>https://velog.io/@qtaghdi/눈떠보니-41.6K-스타-레포에-기여했다</link>
       <description>여러분 저 됐어요!! 오픈 소스 기여자 됐어요!!</description>
@@ -70,6 +63,13 @@
       <description>안녕하세요, 1편에서 '운명 분석 엔진' 이야기를 들려드린 지 벌써 시간이 꽤 흘렀네요. 오랜만에 인사드립니다. 990원이라는 가격에 반신반의하며 올렸던 서비스에 감사하게도 7,000명이라는 유저분이 다녀가셨고, 그 지표들을 분석하며 다음 스텝을 준비하느라 꽤 바쁜 시...</description>
       <guid isPermaLink="false">https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 굿바이 innerHTML, 반가워 setHTML: Firefox 148에서 한층 강화된 XSS 방어</title>
+      <link>https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</link>
+      <description>새롭게 표준화된 Sanitizer API는 웹 개발자가 신뢰할 수 없는 HTML을 DOM에 삽입하기 전에 정제(sanitize)할 수 있는 직관적인 방법을 제공합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
       <title>html-in-canvas로 영화 프로젝트 헤일메리 명장면 구현하기</title>
@@ -93,17 +93,17 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>"쟤네는 대체 뭐함?" 소리 듣는 부서들에서만 8년을 일했다.</title>
-      <link>https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</link>
-      <description>“쟤네는 대체 뭐 하는 부서임?“ 분명 아무것도 안 한 것도 아닌데, 욕 먹는 부서만 골라가며 8년을 버틴 엔지니어의 자기 반성하는 썰</description>
-      <guid isPermaLink="false">https://velog.io/@chung/쟤네는-대체-뭐함-소리-듣는-부서들에서만-8년을-일했다</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>[당근/회고] 인턴 출근 1주차 회고</title>
       <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</link>
       <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>프론트엔드 개발자의 바이브 디자인하기</title>
+      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
+      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
@@ -120,46 +120,11 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드 개발자의 바이브 디자인하기</title>
-      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
-      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
-      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
-      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
-      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
-    </item>
-    <item>
       <title>LG Aimers 8기 후기</title>
       <link>https://velog.io/@yjinmo/LG-Aimers-8기-후기</link>
       <description>LG Aimers 8기 회고록</description>
       <guid isPermaLink="false">https://velog.io/@yjinmo/LG-Aimers-8기-후기</guid>
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
-      <link>https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</link>
-      <description>Claude Team 플랜을 활용하고 계신가요? 2026년 1월부터 Standard 시트($25/월)에서도 Claude Code를 사용할 수 있게 되었고, 제가 AX전환 컨설팅을 하고 있는 일본 회사에서는 모든 엔지니어를 Team 플랜으로 전환했습니다. 이 글에서는...</description>
-      <guid isPermaLink="false">https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>무료로 클로드 하네스 세팅하기</title>
-      <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
-      <description>프로이상만 된다고한다..</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redis에 대한 나의 첫 오해</title>
-      <link>https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</link>
-      <description>많은 예제에서 Redis를 사용하고 있기 때문에 별다른 고민 없이 도입했던 경험이 있습니다. 하지만 Redis를 제대로 이해하지 못한 채 사용하는 것은 분명한 한계가 있었습니다. 이 글에서는 Redis를 다시 학습하며 알게 된 내용을 정리해보려 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>정보처리기사 1트/원트 합격 후기</title>
@@ -169,17 +134,25 @@
       <pubDate>Sun, 19 Apr 2026 17:13:42 +0000</pubDate>
     </item>
     <item>
-      <title>조회만 90%인 서비스에 JPA를 그대로 써도 될까?</title>
-      <link>https://velog.io/@wktls0349/조회만-90인-서비스에-JPA를-그대로-써도-될까</link>
-      <description>F1MOA라는 서비스를 알고있나요? 아마 대부분이 모르실겁니다. 제가 올해 1월부터 개발해 2월 말쯤 배포한 F1 레이스 데이터와 라이브 타이밍을 제공하는 웹 서비스거든요, 홍보차 쓴 글들이 디시인사이드나 에펨코리아에서 많은 추천을 받았고 지금까지고 사용해주시는 분들이...</description>
-      <guid isPermaLink="false">https://velog.io/@wktls0349/조회만-90인-서비스에-JPA를-그대로-써도-될까</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+      <title>무료로 클로드 하네스 세팅하기</title>
+      <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
+      <description>프로이상만 된다고한다..</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
-      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
-      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
-      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
-      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
+      <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
+      <link>https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</link>
+      <description>Claude Team 플랜을 활용하고 계신가요? 2026년 1월부터 Standard 시트($25/월)에서도 Claude Code를 사용할 수 있게 되었고, 제가 AX전환 컨설팅을 하고 있는 일본 회사에서는 모든 엔지니어를 Team 플랜으로 전환했습니다. 이 글에서는...</description>
+      <guid isPermaLink="false">https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</guid>
+      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redis에 대한 나의 첫 오해</title>
+      <link>https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</link>
+      <description>많은 예제에서 Redis를 사용하고 있기 때문에 별다른 고민 없이 도입했던 경험이 있습니다. 하지만 Redis를 제대로 이해하지 못한 채 사용하는 것은 분명한 한계가 있었습니다. 이 글에서는 Redis를 다시 학습하며 알게 된 내용을 정리해보려 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
@@ -189,11 +162,18 @@
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
-      <title>🦞 TypeScript를 모르는 개발자가 OpenClaw에 기여한 이야기</title>
-      <link>https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</link>
-      <description>TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</description>
-      <guid isPermaLink="false">https://velog.io/@brokenfinger/TypeScript를-모르는-개발자가-OpenClaw에-기여한-이야기</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
+      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
+      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
+      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
+      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
+      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
       <title>뭐??? 테일윈드를 쓰는데, clswind를 모른다고??</title>
@@ -210,11 +190,30 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
+      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
+      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
+      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
+      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>graphify 사용법</title>
+      <link>https://velog.io/@ohhalim777/graphify-사용법</link>
+      <guid isPermaLink="false">https://velog.io/@ohhalim777/graphify-사용법</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+    </item>
+    <item>
       <title>리액트 렌더링과 메모이제이션</title>
       <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
       <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</guid>
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>26-1분기 회고: 인턴과 소마, 오픈소스 이야기</title>
+      <link>https://velog.io/@_roundtable/26-1분기-회고</link>
+      <description>겨울방학을 돌아보며…</description>
+      <guid isPermaLink="false">https://velog.io/@_roundtable/26-1분기-회고</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
