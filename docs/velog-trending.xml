@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:32:45 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -44,18 +44,18 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 굿바이 innerHTML, 반가워 setHTML: Firefox 148에서 한층 강화된 XSS 방어</title>
-      <link>https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</link>
-      <description>새롭게 표준화된 Sanitizer API는 웹 개발자가 신뢰할 수 없는 HTML을 DOM에 삽입하기 전에 정제(sanitize)할 수 있는 직관적인 방법을 제공합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
-    </item>
-    <item>
       <title>html-in-canvas로 영화 프로젝트 헤일메리 명장면 구현하기</title>
       <link>https://velog.io/@eveneul/html-in-canvas</link>
       <description>멋짐! 멋짐! 멋짐! \🪨/</description>
       <guid isPermaLink="false">https://velog.io/@eveneul/html-in-canvas</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 굿바이 innerHTML, 반가워 setHTML: Firefox 148에서 한층 강화된 XSS 방어</title>
+      <link>https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</link>
+      <description>새롭게 표준화된 Sanitizer API는 웹 개발자가 신뢰할 수 없는 HTML을 DOM에 삽입하기 전에 정제(sanitize)할 수 있는 직관적인 방법을 제공합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.7이 출시됐다</title>
@@ -65,18 +65,18 @@
       <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>살인달팽이 만들어봤습니다.....</title>
-      <link>https://velog.io/@pobi/살인달팽이-만들어봤습니다</link>
-      <description>살인 달팽이에서 영감을 받아서데스크톱 위에서 내 커서를 끝까지 쫓아오는 달팽이를 만들어봤습니다.느리긴 한데,문제는 언젠가는 반드시 닿는다는 점입니다.KillSnail은 macOS 데스크톱 위에서 달팽이가 내 커서를 계속 추격하는 메뉴바 장난 앱입니다.메뉴바에 조용히 떠...</description>
-      <guid isPermaLink="false">https://velog.io/@pobi/살인달팽이-만들어봤습니다</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>프론트엔드 개발자의 바이브 디자인하기</title>
       <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
       <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
       <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
       <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이브코딩으로 배포는 했는데, 사용자가 어떻게 쓰는지 모르겠다면?</title>
+      <link>https://velog.io/@yujintak/microsoft-clarity-1</link>
+      <description>"바이브코딩으로 배포했는데... 그 다음은 뭐 하지?"Cursor랑 Claude로 며칠 만에 서비스 하나 뚝딱 만들어본 적 있으신가요?저도 그랬습니다. 아이디어 떠오른 날 바로 배포까지 했었는데요, 그런데 배포 후 며칠 지나니까 이런 생각이 들었습니다."사람들이 진짜...</description>
+      <guid isPermaLink="false">https://velog.io/@yujintak/microsoft-clarity-1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
       <title>[당근/회고] 인턴 출근 1주차 회고</title>
@@ -85,11 +85,10 @@
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
-      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
-      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
-      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+      <title>이래도 Fragment를 쓰지 않겠다고?</title>
+      <link>https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</link>
+      <guid isPermaLink="false">https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</guid>
+      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
       <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
@@ -99,20 +98,6 @@
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
-      <title>이래도 Fragment를 쓰지 않겠다고?</title>
-      <link>https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</link>
-      <description>Fragment 한 번 써보실래요?</description>
-      <guid isPermaLink="false">https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>백준 아카이브</title>
-      <link>https://velog.io/@suinkim/백준-아카이브</link>
-      <description>백준 서비스 종료 안내 피드백준 문제를 풀며 알고리즘 공부를 했던 과거가 떠올라서아까운 문제들이 사라지기 전에 공익 목적으로 아카이브해야겠다는 생각을 했습니다.BOJ Archive GitHubBOJ Archive Website각 문제의 저작권은 원 출제자 및 해당 대회...</description>
-      <guid isPermaLink="false">https://velog.io/@suinkim/백준-아카이브</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
-    </item>
-    <item>
       <title>LG Aimers 8기 후기</title>
       <link>https://velog.io/@yjinmo/LG-Aimers-8기-후기</link>
       <description>LG Aimers 8기 회고록</description>
@@ -120,10 +105,24 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
+      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
+      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
+      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+    </item>
+    <item>
       <title>무료로 클로드 하네스 세팅하기</title>
       <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
       <description>프로이상만 된다고한다..</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
+      <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
+      <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
+      <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
@@ -134,11 +133,11 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
-      <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
-      <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
-      <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
-      <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+      <title>백준 아카이브</title>
+      <link>https://velog.io/@suinkim/백준-아카이브</link>
+      <description>백준 서비스 종료 안내 피드백준 문제를 풀며 알고리즘 공부를 했던 과거가 떠올라서아까운 문제들이 사라지기 전에 공익 목적으로 아카이브해야겠다는 생각을 했습니다.BOJ Archive GitHubBOJ Archive Website각 문제의 저작권은 원 출제자 및 해당 대회...</description>
+      <guid isPermaLink="false">https://velog.io/@suinkim/백준-아카이브</guid>
+      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
     <item>
       <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
@@ -148,18 +147,18 @@
       <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
     </item>
     <item>
-      <title>Redis에 대한 나의 첫 오해</title>
-      <link>https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</link>
-      <description>많은 예제에서 Redis를 사용하고 있기 때문에 별다른 고민 없이 도입했던 경험이 있습니다. 하지만 Redis를 제대로 이해하지 못한 채 사용하는 것은 분명한 한계가 있었습니다. 이 글에서는 Redis를 다시 학습하며 알게 된 내용을 정리해보려 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@fire_918/Redis에-대한-나의-첫-오해</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
-    </item>
-    <item>
       <title>[iOS] SwiftUI로 Android 개발하기: Skip 삽질기 총정리</title>
       <link>https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</link>
       <description>Skip을 도입하면서 겪은 과정과 그 안에서 알게 된 점들을 정리해봤습니다. 처음 Skip을 도입하시는 분들께 작은 도움이 되었으면 합니다.</description>
       <guid isPermaLink="false">https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</guid>
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>스토리북으로 컴포넌트 기반 개발하기</title>
+      <link>https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</link>
+      <description>스토리북 야르~~</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
       <title>뭐??? 테일윈드를 쓰는데, clswind를 모른다고??</title>
@@ -169,10 +168,24 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
+      <title>## 휴대폰 소액결제 완벽 가이드: 구조, 한도, 미납, 콘텐츠이용료·정보이용료까지 총정리</title>
+      <link>https://velog.io/@minkymoney/minky1</link>
+      <description>휴대폰 소액결제는 별도의 카드나 계좌 없이도 간편하게 결제가 가능한 방식으로 많은 사람들이 이용하고 있다.하지만 단순히 “편하다”는 이유로 사용하는 경우 구조를 제대로 이해하지 못해 불필요한 문제를 겪는 경우도 많다.특히 소액결제, 콘텐츠이용료, 정보이용료는 서로 비슷...</description>
+      <guid isPermaLink="false">https://velog.io/@minkymoney/minky1</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
+    </item>
+    <item>
       <title>graphify 사용법</title>
       <link>https://velog.io/@ohhalim777/graphify-사용법</link>
       <guid isPermaLink="false">https://velog.io/@ohhalim777/graphify-사용법</guid>
       <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 시대, 이렇게 죽을 순 없어</title>
+      <link>https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</link>
+      <description>AI 시대의 개발자 어떻게 살아남을 것인가</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 유출 앞에서 불편함을 감각하는 것</title>
@@ -188,13 +201,6 @@
       <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>폴더구조 고민과 회고</title>
-      <link>https://velog.io/@yereong/폴더구조-고민과-회고</link>
-      <description>프론트엔드 폴더구조에 대한 고민, 그리고 신입 개발자의 AI 사용에 대한 회고글입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-고민과-회고</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
-    </item>
-    <item>
       <title>리액트 렌더링과 메모이제이션</title>
       <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
       <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
@@ -206,13 +212,6 @@
       <link>https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</link>
       <description>Claude Code로 프로덕션 코드를 만들기 위해 하네스를 직접 구축한 경험기입니다. User Scope 기반 설정부터 Project Scope 하네스 파이프라인 구축, skill-creator를 활용한 지속적 개선까지의 과정을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>전역, 그리고 한달</title>
-      <link>https://velog.io/@genyf/전역-그리고-한달</link>
-      <description>전역을 했다. 너무나 신날 줄 알았는데, 정말 아무런 감흥이 없다. 2026년 2월 26일, 2024년 5월 27일 부터 시작한 군 복무가 21개월의 시간을 흘러 보낸 뒤에야 드디어 끝이 나게 되었다. 전역은 너무나 축하할 일이고 행복할 일이다. 군대에서 모든 군인들이...</description>
-      <guid isPermaLink="false">https://velog.io/@genyf/전역-그리고-한달</guid>
       <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
   </channel>
