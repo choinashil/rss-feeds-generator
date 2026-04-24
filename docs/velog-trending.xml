@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Apr 2026 17:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:21:31 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -65,18 +65,18 @@
       <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드 개발자의 바이브 디자인하기</title>
-      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
-      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
-      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
-    </item>
-    <item>
       <title>바이브코딩으로 배포는 했는데, 사용자가 어떻게 쓰는지 모르겠다면?</title>
       <link>https://velog.io/@yujintak/microsoft-clarity-1</link>
       <description>"바이브코딩으로 배포했는데... 그 다음은 뭐 하지?"Cursor랑 Claude로 며칠 만에 서비스 하나 뚝딱 만들어본 적 있으신가요?저도 그랬습니다. 아이디어 떠오른 날 바로 배포까지 했었는데요, 그런데 배포 후 며칠 지나니까 이런 생각이 들었습니다."사람들이 진짜...</description>
       <guid isPermaLink="false">https://velog.io/@yujintak/microsoft-clarity-1</guid>
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>프론트엔드 개발자의 바이브 디자인하기</title>
+      <link>https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</link>
+      <description>바이브 디자인의 한계를 느껴 디자인 시스템 구축을 결심하게 된 이야기 입니다... 그래도 클로드 최고! 스티치 최고!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/프론트엔드-개발자의-바이브-디자인하기</guid>
+      <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
       <title>[당근/회고] 인턴 출근 1주차 회고</title>
@@ -91,13 +91,6 @@
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
-      <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
-      <link>https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</link>
-      <description>클로드 공식에서 추천한 스킬 잘 만드는 법을 사용해서 ROS2 관련 스킬을 제작해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
       <title>LG Aimers 8기 후기</title>
       <link>https://velog.io/@yjinmo/LG-Aimers-8기-후기</link>
       <description>LG Aimers 8기 회고록</description>
@@ -105,11 +98,11 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
-      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
-      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
-      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+      <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
+      <link>https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</link>
+      <description>클로드 공식에서 추천한 스킬 잘 만드는 법을 사용해서 ROS2 관련 스킬을 제작해봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
       <title>무료로 클로드 하네스 세팅하기</title>
@@ -119,11 +112,32 @@
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
+      <title>AI 시대, 이렇게 죽을 순 없어</title>
+      <link>https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</link>
+      <description>AI 시대의 개발자 어떻게 살아남을 것인가</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
+    </item>
+    <item>
       <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
       <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
       <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
       <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
+      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
+      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>잘될 연애 말고, 망할 연애를 알려드립니다</title>
+      <link>https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</link>
+      <description>똥차수집가소리듣는 당신을 위한 서비스</description>
+      <guid isPermaLink="false">https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
       <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
@@ -140,6 +154,20 @@
       <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
     <item>
+      <title>[iOS] SwiftUI로 Android 개발하기: Skip 삽질기 총정리</title>
+      <link>https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</link>
+      <description>Skip을 도입하면서 겪은 과정과 그 안에서 알게 된 점들을 정리해봤습니다. 처음 Skip을 도입하시는 분들께 작은 도움이 되었으면 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</guid>
+      <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
+      <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
+      <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
+      <guid isPermaLink="false">https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
       <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
       <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
@@ -147,11 +175,18 @@
       <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
     </item>
     <item>
-      <title>[iOS] SwiftUI로 Android 개발하기: Skip 삽질기 총정리</title>
-      <link>https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</link>
-      <description>Skip을 도입하면서 겪은 과정과 그 안에서 알게 된 점들을 정리해봤습니다. 처음 Skip을 도입하시는 분들께 작은 도움이 되었으면 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</guid>
-      <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
+      <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 0)</title>
+      <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</link>
+      <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
+      <guid isPermaLink="false">https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>김다예 자기소개</title>
+      <link>https://velog.io/@min_you/김다예-자기소개</link>
+      <description>INSTAR: min\_\_\_you (민유민)만들며 배우는 사람에이아이 배우기현재 집필중인 책 &amp;lt;도파민 하이재킹&gt; 기한내에 출간하기ADHD새로운 것을 배우고 아이디어를 실행하는 것걍 말시키면 됩니다.배워서 남주는 것 배운것을 수익화로 연결 하는 것기획자로서의 일...</description>
+      <guid isPermaLink="false">https://velog.io/@min_you/김다예-자기소개</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
       <title>스토리북으로 컴포넌트 기반 개발하기</title>
@@ -168,50 +203,17 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
-      <title>## 휴대폰 소액결제 완벽 가이드: 구조, 한도, 미납, 콘텐츠이용료·정보이용료까지 총정리</title>
-      <link>https://velog.io/@minkymoney/minky1</link>
-      <description>휴대폰 소액결제는 별도의 카드나 계좌 없이도 간편하게 결제가 가능한 방식으로 많은 사람들이 이용하고 있다.하지만 단순히 “편하다”는 이유로 사용하는 경우 구조를 제대로 이해하지 못해 불필요한 문제를 겪는 경우도 많다.특히 소액결제, 콘텐츠이용료, 정보이용료는 서로 비슷...</description>
-      <guid isPermaLink="false">https://velog.io/@minkymoney/minky1</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>graphify 사용법</title>
-      <link>https://velog.io/@ohhalim777/graphify-사용법</link>
-      <guid isPermaLink="false">https://velog.io/@ohhalim777/graphify-사용법</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 시대, 이렇게 죽을 순 없어</title>
-      <link>https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</link>
-      <description>AI 시대의 개발자 어떻게 살아남을 것인가</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
+      <title>프로덕션 코드를 만드는 Claude Code 하네스 구축기</title>
+      <link>https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</link>
+      <description>Claude Code로 프로덕션 코드를 만들기 위해 하네스를 직접 구축한 경험기입니다. User Scope 기반 설정부터 Project Scope 하네스 파이프라인 구축, skill-creator를 활용한 지속적 개선까지의 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</guid>
+      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 유출 앞에서 불편함을 감각하는 것</title>
       <link>https://velog.io/@gonasooc/Claude-Code-유출-앞에서-불편함을-감각하는-것</link>
       <description>최근 Claude Code 유출 사건을 보면서 느낀 감정은 단순한 흥미만은 아니었다. 직원의 실수로 핵심 IP가 유출됐고, 누군가 이를 정리해 공개했으며, 이후 포팅과 분석이 순식간에 이어졌다. 마침 그 시간에 랩탑 앞에 있었기에 이 과정을 실시간으로 보고 있었고, X...</description>
       <guid isPermaLink="false">https://velog.io/@gonasooc/Claude-Code-유출-앞에서-불편함을-감각하는-것</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
-      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
-      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
-      <pubDate>Fri, 17 Apr 2026 17:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>리액트 렌더링과 메모이제이션</title>
-      <link>https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</link>
-      <description>리액트 렌더링 원리 리액트 렌더링과 브라우저 렌더링은 공통적으로 자체적인 렌더링 프로세스가 있지만 과정이 아예 다르다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/리액트-렌더링과-메모이제이션</guid>
-      <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>프로덕션 코드를 만드는 Claude Code 하네스 구축기</title>
-      <link>https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</link>
-      <description>Claude Code로 프로덕션 코드를 만들기 위해 하네스를 직접 구축한 경험기입니다. User Scope 기반 설정부터 Project Scope 하네스 파이프라인 구축, skill-creator를 활용한 지속적 개선까지의 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</guid>
       <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
   </channel>
