@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:15:53 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -28,13 +28,6 @@
       <description>요새 Claude Code 좀 이상하지 않나요 Claude Code 사용하다보면 이런 경험이 다들 있으실 겁니다. 분명 Opus 4.6, Sonnet 4.6을 쓰고 있는데, 코드 검증도 똑바로 안 하고 자신 있게 틀린 답을 내놓을 때. 존재하지 않는 API 버전을 지...</description>
       <guid isPermaLink="false">https://velog.io/@justn-hyeok/off-claude-code-adaptive-thinking</guid>
       <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>하네스 엔지니어링과 개발자의 미래</title>
-      <link>https://velog.io/@k-svelte-master/vibecoding-is-good</link>
-      <description>AI가 코드를 짜고, 테스트를 돌리고, 심지어 커밋까지 합니다. "LLM이 다 해준대요." 사장님은 바이브코딩으로 개발하라고 합니다. 이런 말들 사이에서 개발자로서 불안하지 않으면 거짓말이겠죠.근데 저는 실제로 LLM과 함께 일하면서, 좀 다른 생각을 갖게 됐습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/vibecoding-is-good</guid>
-      <pubDate>Sat, 11 Apr 2026 17:11:37 +0000</pubDate>
     </item>
     <item>
       <title>990원짜리 사주 서비스에 7,000명이 결제했다 — 그래서 관상도 보기로 했다</title>
@@ -119,11 +112,25 @@
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
+      <title>로봇 모션이 망가지는 이유</title>
+      <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
+      <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</guid>
+      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
+    </item>
+    <item>
       <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
       <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
       <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
       <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
+      <link>https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</link>
+      <description>Claude Team 플랜을 활용하고 계신가요? 2026년 1월부터 Standard 시트($25/월)에서도 Claude Code를 사용할 수 있게 되었고, 제가 AX전환 컨설팅을 하고 있는 일본 회사에서는 모든 엔지니어를 Team 플랜으로 전환했습니다. 이 글에서는...</description>
+      <guid isPermaLink="false">https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</guid>
+      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
     </item>
     <item>
       <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
@@ -133,18 +140,11 @@
       <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
-      <title>잘될 연애 말고, 망할 연애를 알려드립니다</title>
-      <link>https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</link>
-      <description>똥차수집가소리듣는 당신을 위한 서비스</description>
-      <guid isPermaLink="false">https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</guid>
-      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
-      <link>https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</link>
-      <description>Claude Team 플랜을 활용하고 계신가요? 2026년 1월부터 Standard 시트($25/월)에서도 Claude Code를 사용할 수 있게 되었고, 제가 AX전환 컨설팅을 하고 있는 일본 회사에서는 모든 엔지니어를 Team 플랜으로 전환했습니다. 이 글에서는...</description>
-      <guid isPermaLink="false">https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
+      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
+      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
+      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
+      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
     </item>
     <item>
       <title>백준 아카이브</title>
@@ -161,18 +161,11 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
-      <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
-      <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
-      <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
-      <guid isPermaLink="false">https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</guid>
-      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
-      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
-      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
-      <pubDate>Sat, 18 Apr 2026 17:13:43 +0000</pubDate>
+      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
+      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
+      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
+      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
       <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 0)</title>
@@ -189,6 +182,13 @@
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
+      <title>잘될 연애 말고, 망할 연애를 알려드립니다</title>
+      <link>https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</link>
+      <description>똥차수집가소리듣는 당신을 위한 서비스</description>
+      <guid isPermaLink="false">https://velog.io/@x0gus/잘될-연애-말고-망할-연애를-알려드립니다</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
       <title>스토리북으로 컴포넌트 기반 개발하기</title>
       <link>https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</link>
       <description>스토리북 야르~~</description>
@@ -196,18 +196,11 @@
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
-      <title>뭐??? 테일윈드를 쓰는데, clswind를 모른다고??</title>
-      <link>https://velog.io/@iubns/뭐-테일윈드를-쓰는데-clswind를-모른다고</link>
-      <description>뭐??? 테일윈드를 쓰는데, clswind를 모른다고???</description>
-      <guid isPermaLink="false">https://velog.io/@iubns/뭐-테일윈드를-쓰는데-clswind를-모른다고</guid>
-      <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>프로덕션 코드를 만드는 Claude Code 하네스 구축기</title>
-      <link>https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</link>
-      <description>Claude Code로 프로덕션 코드를 만들기 위해 하네스를 직접 구축한 경험기입니다. User Scope 기반 설정부터 Project Scope 하네스 파이프라인 구축, skill-creator를 활용한 지속적 개선까지의 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@cjkangme/프로덕션-코드를-만드는-Claude-Code-하네스-구축기</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
+      <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
+      <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
+      <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
+      <guid isPermaLink="false">https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code 유출 앞에서 불편함을 감각하는 것</title>
@@ -215,6 +208,12 @@
       <description>최근 Claude Code 유출 사건을 보면서 느낀 감정은 단순한 흥미만은 아니었다. 직원의 실수로 핵심 IP가 유출됐고, 누군가 이를 정리해 공개했으며, 이후 포팅과 분석이 순식간에 이어졌다. 마침 그 시간에 랩탑 앞에 있었기에 이 과정을 실시간으로 보고 있었고, X...</description>
       <guid isPermaLink="false">https://velog.io/@gonasooc/Claude-Code-유출-앞에서-불편함을-감각하는-것</guid>
       <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
+      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
+      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
+      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
