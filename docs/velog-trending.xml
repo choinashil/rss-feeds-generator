@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:15:56 +0000</lastBuildDate>
     <item>
       <title>[속보] 백준 서비스 종료</title>
       <link>https://velog.io/@happynj2697/속보-백준-서비스-종료</link>
@@ -34,13 +34,6 @@
       <link>https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</link>
       <description>안녕하세요, 1편에서 '운명 분석 엔진' 이야기를 들려드린 지 벌써 시간이 꽤 흘렀네요. 오랜만에 인사드립니다. 990원이라는 가격에 반신반의하며 올렸던 서비스에 감사하게도 7,000명이라는 유저분이 다녀가셨고, 그 지표들을 분석하며 다음 스텝을 준비하느라 꽤 바쁜 시...</description>
       <guid isPermaLink="false">https://velog.io/@link_dropper/990원짜리-사주-서비스에-7000명이-결제했다-그래서-관상도-보기로-했다</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>html-in-canvas로 영화 프로젝트 헤일메리 명장면 구현하기</title>
-      <link>https://velog.io/@eveneul/html-in-canvas</link>
-      <description>멋짐! 멋짐! 멋짐! \🪨/</description>
-      <guid isPermaLink="false">https://velog.io/@eveneul/html-in-canvas</guid>
       <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
     </item>
     <item>
@@ -72,12 +65,6 @@
       <pubDate>Wed, 15 Apr 2026 17:25:53 +0000</pubDate>
     </item>
     <item>
-      <title>[당근/회고] 인턴 출근 1주차 회고</title>
-      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</link>
-      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-1주차-회고</guid>
-      <pubDate>Mon, 13 Apr 2026 17:25:21 +0000</pubDate>
-    </item>
-    <item>
       <title>이래도 Fragment를 쓰지 않겠다고?</title>
       <link>https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</link>
       <guid isPermaLink="false">https://velog.io/@jhje5595/이래도-Fragment를-쓰지-않겠다고</guid>
@@ -91,17 +78,17 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
-      <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
-      <link>https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</link>
-      <description>클로드 공식에서 추천한 스킬 잘 만드는 법을 사용해서 ROS2 관련 스킬을 제작해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
       <title>무료로 클로드 하네스 세팅하기</title>
       <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
       <description>프로이상만 된다고한다..</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
+      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
+      <link>https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</link>
+      <description>클로드 공식에서 추천한 스킬 잘 만드는 법을 사용해서 ROS2 관련 스킬을 제작해봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</guid>
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
@@ -112,32 +99,11 @@
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
-      <title>로봇 모션이 망가지는 이유</title>
-      <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
-      <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</guid>
-      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
-    </item>
-    <item>
       <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
       <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
       <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
       <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
       <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Team 플랜 완전 가이드 2026 — 관리 화면 전 설정 해설 및 실전 운영 노하우</title>
-      <link>https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</link>
-      <description>Claude Team 플랜을 활용하고 계신가요? 2026년 1월부터 Standard 시트($25/월)에서도 Claude Code를 사용할 수 있게 되었고, 제가 AX전환 컨설팅을 하고 있는 일본 회사에서는 모든 엔지니어를 Team 플랜으로 전환했습니다. 이 글에서는...</description>
-      <guid isPermaLink="false">https://velog.io/@aiengineer/Claude-Team-플랜-완전-가이드-2026-관리-화면-전-설정-해설-및-실전-운영-노하우</guid>
-      <pubDate>Tue, 14 Apr 2026 17:27:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
-      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
-      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
       <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
@@ -154,6 +120,20 @@
       <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
     <item>
+      <title>김다예 자기소개</title>
+      <link>https://velog.io/@min_you/김다예-자기소개</link>
+      <description>INSTAR: min\_\_\_you (민유민)만들며 배우는 사람에이아이 배우기현재 집필중인 책 &amp;lt;도파민 하이재킹&gt; 기한내에 출간하기ADHD새로운 것을 배우고 아이디어를 실행하는 것걍 말시키면 됩니다.배워서 남주는 것 배운것을 수익화로 연결 하는 것기획자로서의 일...</description>
+      <guid isPermaLink="false">https://velog.io/@min_you/김다예-자기소개</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
+      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
+      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
+    </item>
+    <item>
       <title>[iOS] SwiftUI로 Android 개발하기: Skip 삽질기 총정리</title>
       <link>https://velog.io/@finda-tech/iOSSwiftUI로-Android-개발하기-Skip-삽질기-총정리</link>
       <description>Skip을 도입하면서 겪은 과정과 그 안에서 알게 된 점들을 정리해봤습니다. 처음 Skip을 도입하시는 분들께 작은 도움이 되었으면 합니다.</description>
@@ -161,10 +141,10 @@
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
     </item>
     <item>
-      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
-      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
-      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
+      <title>로봇 모션이 망가지는 이유</title>
+      <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
+      <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</guid>
       <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
@@ -172,13 +152,6 @@
       <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</link>
       <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
       <guid isPermaLink="false">https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</guid>
-      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>김다예 자기소개</title>
-      <link>https://velog.io/@min_you/김다예-자기소개</link>
-      <description>INSTAR: min\_\_\_you (민유민)만들며 배우는 사람에이아이 배우기현재 집필중인 책 &amp;lt;도파민 하이재킹&gt; 기한내에 출간하기ADHD새로운 것을 배우고 아이디어를 실행하는 것걍 말시키면 됩니다.배워서 남주는 것 배운것을 수익화로 연결 하는 것기획자로서의 일...</description>
-      <guid isPermaLink="false">https://velog.io/@min_you/김다예-자기소개</guid>
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
@@ -196,6 +169,19 @@
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
+      <title>OmOCon 참가 후기 — 선두에 선 사람들</title>
+      <link>https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</link>
+      <description>컨퍼런스 참가후기</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</guid>
+      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
+      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
+      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
+      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
+    </item>
+    <item>
       <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
       <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
       <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
@@ -203,16 +189,31 @@
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code 유출 앞에서 불편함을 감각하는 것</title>
-      <link>https://velog.io/@gonasooc/Claude-Code-유출-앞에서-불편함을-감각하는-것</link>
-      <description>최근 Claude Code 유출 사건을 보면서 느낀 감정은 단순한 흥미만은 아니었다. 직원의 실수로 핵심 IP가 유출됐고, 누군가 이를 정리해 공개했으며, 이후 포팅과 분석이 순식간에 이어졌다. 마침 그 시간에 랩탑 앞에 있었기에 이 과정을 실시간으로 보고 있었고, X...</description>
-      <guid isPermaLink="false">https://velog.io/@gonasooc/Claude-Code-유출-앞에서-불편함을-감각하는-것</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
+      <title>[LeetCode] Top review 150; Merge Sorted Array</title>
+      <link>https://velog.io/@eunbileeme/LeetCode-Top-review-150-Merge-Sorted-Array</link>
+      <description>(2026.04.26)</description>
+      <guid isPermaLink="false">https://velog.io/@eunbileeme/LeetCode-Top-review-150-Merge-Sorted-Array</guid>
+      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
     </item>
     <item>
-      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
-      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
-      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
+      <title>폴더구조 고민과 회고</title>
+      <link>https://velog.io/@yereong/폴더구조-고민과-회고</link>
+      <description>프론트엔드 폴더구조에 대한 고민, 그리고 신입 개발자의 AI 사용에 대한 회고글입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-고민과-회고</guid>
+      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>로딩스피너를 기다리며... 「ちょこん....」</title>
+      <link>https://velog.io/@kangmin01/로딩스피너를-기다리며...-「ちょこん....」</link>
+      <description>「ちょこん....」 (옹기종기 얌전히…)</description>
+      <guid isPermaLink="false">https://velog.io/@kangmin01/로딩스피너를-기다리며...-「ちょこん....」</guid>
+      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
+      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
+      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
       <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
     </item>
   </channel>
