@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:32:39 +0000</lastBuildDate>
     <item>
       <title>바이브코딩으로 배포는 했는데, 사용자가 어떻게 쓰는지 모르겠다면?</title>
       <link>https://velog.io/@yujintak/microsoft-clarity-1</link>
@@ -37,18 +37,18 @@
       <pubDate>Mon, 27 Apr 2026 17:32:19 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 굿바이 innerHTML, 반가워 setHTML: Firefox 148에서 한층 강화된 XSS 방어</title>
-      <link>https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</link>
-      <description>새롭게 표준화된 Sanitizer API는 웹 개발자가 신뢰할 수 없는 HTML을 DOM에 삽입하기 전에 정제(sanitize)할 수 있는 직관적인 방법을 제공합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 0)</title>
       <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</link>
       <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
       <guid isPermaLink="false">https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-0</guid>
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 굿바이 innerHTML, 반가워 setHTML: Firefox 148에서 한층 강화된 XSS 방어</title>
+      <link>https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</link>
+      <description>새롭게 표준화된 Sanitizer API는 웹 개발자가 신뢰할 수 없는 HTML을 DOM에 삽입하기 전에 정제(sanitize)할 수 있는 직관적인 방법을 제공합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@superlipbalm/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148</guid>
+      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
     </item>
     <item>
       <title>AI 시대, 이렇게 죽을 순 없어</title>
@@ -79,32 +79,11 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>무료로 클로드 하네스 세팅하기</title>
-      <link>https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</link>
-      <description>프로이상만 된다고한다..</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/무료로-클로드-하네스-세팅하기</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
       <title>LG Aimers 8기 후기</title>
       <link>https://velog.io/@yjinmo/LG-Aimers-8기-후기</link>
       <description>LG Aimers 8기 회고록</description>
       <guid isPermaLink="false">https://velog.io/@yjinmo/LG-Aimers-8기-후기</guid>
       <pubDate>Mon, 20 Apr 2026 17:24:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>대한민국 정부 디자인 시스템 KRDS 에 대해 아시나요?</title>
-      <link>https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</link>
-      <description>대한민국 정부 디자인시스템 KRDS 에 대해 아시나요?</description>
-      <guid isPermaLink="false">https://velog.io/@yeseong0412/대한민국-정부-디자인-시스템-KRDS-에-대해-아시나요</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SKILL.md를 라우터로 쓰면 뭐가 좋지</title>
-      <link>https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</link>
-      <description>클로드 공식에서 추천한 스킬 잘 만드는 법을 사용해서 ROS2 관련 스킬을 제작해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/SKILL.md를-라우터로-쓰면-뭐가-좋지</guid>
-      <pubDate>Thu, 16 Apr 2026 17:31:16 +0000</pubDate>
     </item>
     <item>
       <title>백준 아카이브</title>
@@ -121,11 +100,11 @@
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
-      <title>로봇 모션이 망가지는 이유</title>
-      <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
-      <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</guid>
-      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
+      <title>"AI가 있는데 제가 필요한가요?" -8개월차 후배의 질문</title>
+      <link>https://velog.io/@devjiji/AI가-다-해주는데-신입인-저는-뭘-해야-하죠-8개월차-후배가-물었다</link>
+      <description>"AI가 있는데 제가 꼭 필요한가요?" 8개월차 후배가 물었다. SI 3년차인 내가 했던 고민과 똑같았다. 코드를 잘 짜는 것보다 중요해진 건 "질문하는 능력"이었다. 커피챗에서 나눈 이야기, 그리고 끝나고 내가 배운 것을 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@devjiji/AI가-다-해주는데-신입인-저는-뭘-해야-하죠-8개월차-후배가-물었다</guid>
+      <pubDate>Mon, 27 Apr 2026 17:32:19 +0000</pubDate>
     </item>
     <item>
       <title>AI시대, 직(職)이 아닌 업(業)을 찾아라.</title>
@@ -135,11 +114,25 @@
       <pubDate>Mon, 27 Apr 2026 17:32:19 +0000</pubDate>
     </item>
     <item>
-      <title>"AI가 있는데 제가 필요한가요?" -8개월차 후배의 질문</title>
-      <link>https://velog.io/@devjiji/AI가-다-해주는데-신입인-저는-뭘-해야-하죠-8개월차-후배가-물었다</link>
-      <description>"AI가 있는데 제가 꼭 필요한가요?" 8개월차 후배가 물었다. SI 3년차인 내가 했던 고민과 똑같았다. 코드를 잘 짜는 것보다 중요해진 건 "질문하는 능력"이었다. 커피챗에서 나눈 이야기, 그리고 끝나고 내가 배운 것을 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@devjiji/AI가-다-해주는데-신입인-저는-뭘-해야-하죠-8개월차-후배가-물었다</guid>
-      <pubDate>Mon, 27 Apr 2026 17:32:19 +0000</pubDate>
+      <title>로봇 모션이 망가지는 이유</title>
+      <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
+      <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</guid>
+      <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>비개발자가 바이브 해커톤 1등한 썰과 디자인스프린터 활용하기</title>
+      <link>https://velog.io/@hongsinugget/비전공자-해커톤-1등-후기와-디자인스프린터-활용하기</link>
+      <description>안녕하세요 홍시너겟입니다 많은분들이 축하해주셔서 좀 얼떨더름 한 상태이구요..(??) 어디서부터 설명을 해야되는지 모르겠지만 제 경험과 노하우(?)들을 끝난김에 공유해보고자 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/비전공자-해커톤-1등-후기와-디자인스프린터-활용하기</guid>
+      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>스토리북으로 컴포넌트 기반 개발하기</title>
+      <link>https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</link>
+      <description>스토리북 야르~~</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</guid>
+      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
       <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
@@ -156,18 +149,11 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>스토리북으로 컴포넌트 기반 개발하기</title>
-      <link>https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</link>
-      <description>스토리북 야르~~</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>비개발자가 바이브 해커톤 1등한 썰과 디자인스프린터 활용하기</title>
-      <link>https://velog.io/@hongsinugget/비전공자-해커톤-1등-후기와-디자인스프린터-활용하기</link>
-      <description>안녕하세요 홍시너겟입니다 많은분들이 축하해주셔서 좀 얼떨더름 한 상태이구요..(??) 어디서부터 설명을 해야되는지 모르겠지만 제 경험과 노하우(?)들을 끝난김에 공유해보고자 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/비전공자-해커톤-1등-후기와-디자인스프린터-활용하기</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
+      <title>[우테코 레벨 1 회고] 무엇을? 왜? 어떻게?</title>
+      <link>https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</link>
+      <description>안녕하세요! 개발자 흑곰(자바)입니다. 오늘은 우아한테크코스 8기 레벨 1 회고에 대해서 작성했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/레벨-1-회고-무엇을-왜-어떻게</guid>
+      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
     </item>
     <item>
       <title>Good Bye, BOJ!</title>
@@ -184,6 +170,20 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
+      <title>폴더구조 고민과 회고</title>
+      <link>https://velog.io/@yereong/폴더구조-고민과-회고</link>
+      <description>프론트엔드 폴더구조에 대한 고민, 그리고 신입 개발자의 AI 사용에 대한 회고글입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-고민과-회고</guid>
+      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 이미지로 뽑은 UI, 실제 웹사이트로 구현해봤다</title>
+      <link>https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</link>
+      <description>ChatGPT 이미지 생성이 좋아졌다길래 웹 UI, 로고, 캐릭터를 뽑아봤다. 생각보다 잘 나와서 하루 만에 실제 반응형 웹사이트 Leveli까지 만들어봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</guid>
+      <pubDate>Wed, 29 Apr 2026 17:33:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
       <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
       <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
@@ -191,11 +191,17 @@
       <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
     </item>
     <item>
-      <title>폴더구조 고민과 회고</title>
-      <link>https://velog.io/@yereong/폴더구조-고민과-회고</link>
-      <description>프론트엔드 폴더구조에 대한 고민, 그리고 신입 개발자의 AI 사용에 대한 회고글입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-고민과-회고</guid>
-      <pubDate>Sun, 26 Apr 2026 17:15:56 +0000</pubDate>
+      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
+      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
+      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
+      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>현대적 의존성 관리 도구 분석: uv, pnpm, Gradle, Cargo</title>
+      <link>https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</link>
+      <guid isPermaLink="false">https://velog.io/@fru1tworld/현대적-의존성-관리-도구-분석-uv-pnpm-Gradle-Cargo</guid>
+      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
     </item>
     <item>
       <title>멋사 프론트엔드 회고록 4주차</title>
@@ -205,18 +211,11 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>[우아한테크코스 8기] 레벨1 회고 - 이렇게 재밌어도 되나?</title>
-      <link>https://velog.io/@dah911/우아한테크코스-8기-레벨1-회고-이렇게-재밌어도-되나</link>
-      <description>고생했다~!</description>
-      <guid isPermaLink="false">https://velog.io/@dah911/우아한테크코스-8기-레벨1-회고-이렇게-재밌어도-되나</guid>
-      <pubDate>Wed, 29 Apr 2026 17:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 이미지로 뽑은 UI, 실제 웹사이트로 구현해봤다</title>
-      <link>https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</link>
-      <description>ChatGPT 이미지 생성이 좋아졌다길래 웹 UI, 로고, 캐릭터를 뽑아봤다. 생각보다 잘 나와서 하루 만에 실제 반응형 웹사이트 Leveli까지 만들어봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</guid>
-      <pubDate>Wed, 29 Apr 2026 17:33:34 +0000</pubDate>
+      <title>여러분 저 됐어요! 정규직 되었어요!</title>
+      <link>https://velog.io/@mic050r/여러분-저-됐어요-정규직-되었어요</link>
+      <description>문서화의 중요성을 잊지 말자,,</description>
+      <guid isPermaLink="false">https://velog.io/@mic050r/여러분-저-됐어요-정규직-되었어요</guid>
+      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
