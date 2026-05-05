@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 04 May 2026 17:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:34:51 +0000</lastBuildDate>
     <item>
       <title>바이브코딩으로 배포는 했는데, 사용자가 어떻게 쓰는지 모르겠다면?</title>
       <link>https://velog.io/@yujintak/microsoft-clarity-1</link>
@@ -58,18 +58,18 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>백준 아카이브</title>
-      <link>https://velog.io/@suinkim/백준-아카이브</link>
-      <description>백준 서비스 종료 안내 피드백준 문제를 풀며 알고리즘 공부를 했던 과거가 떠올라서아까운 문제들이 사라지기 전에 공익 목적으로 아카이브해야겠다는 생각을 했습니다.BOJ Archive GitHubBOJ Archive Website각 문제의 저작권은 원 출제자 및 해당 대회...</description>
-      <guid isPermaLink="false">https://velog.io/@suinkim/백준-아카이브</guid>
-      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
-    </item>
-    <item>
       <title>드롭다운에서 Korea를 찾아주는 크롬 익스텐션</title>
       <link>https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</link>
       <description>외국 사이트에서 회원가입할 때 국가를 선택하는 드롭다운에서 한국 표시를 찾기 어려운 경험이 있어서 만들어 봤어요.South Korea인 경우도 있고, Korea South, 또는 Republic of Korea 등 다양한 선택지가 있어서 한 번에 찾기 어렵다는 문제를 ...</description>
       <guid isPermaLink="false">https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</guid>
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>백준 아카이브</title>
+      <link>https://velog.io/@suinkim/백준-아카이브</link>
+      <description>백준 서비스 종료 안내 피드백준 문제를 풀며 알고리즘 공부를 했던 과거가 떠올라서아까운 문제들이 사라지기 전에 공익 목적으로 아카이브해야겠다는 생각을 했습니다.BOJ Archive GitHubBOJ Archive Website각 문제의 저작권은 원 출제자 및 해당 대회...</description>
+      <guid isPermaLink="false">https://velog.io/@suinkim/백준-아카이브</guid>
+      <pubDate>Wed, 22 Apr 2026 17:22:52 +0000</pubDate>
     </item>
     <item>
       <title>"AI가 있는데 제가 필요한가요?" -8개월차 후배의 질문</title>
@@ -107,13 +107,6 @@
       <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
     </item>
     <item>
-      <title>화려함보단 깊이를 추구합니다 | 코드잇 13기 회고록</title>
-      <link>https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</link>
-      <description>코드잇 13기 프론트엔드 단기심화과정이 끝이 났다. 졸업까지 바쁘게 지냈는데 일주일도 안 돼서 이 부트캠프에 들어오고 또 정말 바쁘게 지낸거같다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/화려함보단-깊이를-추구합니다-코드잇-13기-회고록</guid>
-      <pubDate>Tue, 21 Apr 2026 17:24:09 +0000</pubDate>
-    </item>
-    <item>
       <title>로봇 모션이 망가지는 이유</title>
       <link>https://velog.io/@dbwls/로봇-모션이-찌그러지는-이유</link>
       <description>로봇팔로 반원을 그릴 일이 있었다. 그런데 문제가 생겼다</description>
@@ -135,13 +128,6 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT 이미지로 뽑은 UI, 실제 웹사이트로 구현해봤다</title>
-      <link>https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</link>
-      <description>ChatGPT 이미지 생성이 좋아졌다길래 웹 UI, 로고, 캐릭터를 뽑아봤다. 생각보다 잘 나와서 하루 만에 실제 반응형 웹사이트 Leveli까지 만들어봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</guid>
-      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
-    </item>
-    <item>
       <title>보상 트랜잭션, 사실 필요하지 않았습니다 — `@Transactional` 한 줄에 묶여있던 도메인 분리하기</title>
       <link>https://velog.io/@sh__y_/보상-트랜잭션-사실-필요하지-않았습니다-Transactional-한-줄에-묶여있던-도메인-분리하기</link>
       <description>결국 절반은 그냥 지웠습니다."A 가 실패하면 B 를 되돌리고, 보상이 또 실패하면 그것도 되돌린다" — service 메서드 안에 분기가 깊게 쌓여있던 보상 트랜잭션 (compensating transaction) 코드입니다. 단단한 시스템이라고 믿고 있었습니다.</description>
@@ -149,17 +135,24 @@
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
     </item>
     <item>
-      <title>Good Bye, BOJ!</title>
-      <link>https://velog.io/@imcute0703123/Good-Bye-BOJ</link>
-      <description>이미 다들 아시겠지만 2026.04.29부터 백준 서버 종료다 스트릭 안깨지려고 새벽 6시 전이면 일어나서 풀고 다시 자고 그랬었는데</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/Good-Bye-BOJ</guid>
-      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
+      <title>ChatGPT 이미지로 뽑은 UI, 실제 웹사이트로 구현해봤다</title>
+      <link>https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</link>
+      <description>ChatGPT 이미지 생성이 좋아졌다길래 웹 UI, 로고, 캐릭터를 뽑아봤다. 생각보다 잘 나와서 하루 만에 실제 반응형 웹사이트 Leveli까지 만들어봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@lova-clover/ChatGPT-이미지로-뽑은-UI-실제-웹사이트로-구현해봤다</guid>
+      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 프론트엔드 레벨1 회고, 난 어떤 사람이었는가 ?</title>
       <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</link>
       <description>우아한테크코스 8기 프론트엔드 레벨1 생활을 정리하며 ...</description>
       <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</guid>
+      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good Bye, BOJ!</title>
+      <link>https://velog.io/@imcute0703123/Good-Bye-BOJ</link>
+      <description>이미 다들 아시겠지만 2026.04.29부터 백준 서버 종료다 스트릭 안깨지려고 새벽 6시 전이면 일어나서 풀고 다시 자고 그랬었는데</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/Good-Bye-BOJ</guid>
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
@@ -191,6 +184,20 @@
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
+      <title>내 서비스가 털린다면?</title>
+      <link>https://velog.io/@imcute0703123/내-서비스가-털린다면</link>
+      <description>유명한 보안 이슈들 최근 공급망 공격 뉴스가 자주 보인다. npm install이나 pip install처럼 오픈소스 패키지를 설치할 때도 공격이 발생할 수 있다. 오픈소스 커뮤니티에서 선한 개발자인 척 열심히 활동하다가, 어느 순간 악성코드가 포함된 버전을</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/내-서비스가-털린다면</guid>
+      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>개인 홈페이지에서 이력서 뽑기</title>
+      <link>https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</link>
+      <description>개인 홈페이지 업데이트와 이력서 업데이트를 따로 하는 게 늘 거슬렸다.프로젝트 하나 끝났을 때 해야 하는 일이 두 줄기였다.홈페이지: public/data/\*\*, public/locales/\*\* JSON 수정 → 사이트에 반영이력서: 한글 열고 텍스트 복붙 → ...</description>
+      <guid isPermaLink="false">https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</guid>
+      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+    </item>
+    <item>
       <title>아직도 API 명세서를 수동으로 고치시나요?</title>
       <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
       <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
@@ -205,18 +212,11 @@
       <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>내 서비스가 털린다면?</title>
-      <link>https://velog.io/@imcute0703123/내-서비스가-털린다면</link>
-      <description>유명한 보안 이슈들 최근 공급망 공격 뉴스가 자주 보인다. npm install이나 pip install처럼 오픈소스 패키지를 설치할 때도 공격이 발생할 수 있다. 오픈소스 커뮤니티에서 선한 개발자인 척 열심히 활동하다가, 어느 순간 악성코드가 포함된 버전을</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/내-서비스가-털린다면</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>개인 홈페이지에서 이력서 뽑기</title>
-      <link>https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</link>
-      <description>개인 홈페이지 업데이트와 이력서 업데이트를 따로 하는 게 늘 거슬렸다.프로젝트 하나 끝났을 때 해야 하는 일이 두 줄기였다.홈페이지: public/data/\*\*, public/locales/\*\* JSON 수정 → 사이트에 반영이력서: 한글 열고 텍스트 복붙 → ...</description>
-      <guid isPermaLink="false">https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</guid>
-      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+      <title>OmOCon 참가 후기 — 선두에 선 사람들</title>
+      <link>https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</link>
+      <description>컨퍼런스 참가후기</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</guid>
+      <pubDate>Tue, 05 May 2026 17:34:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
