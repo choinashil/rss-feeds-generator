@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 May 2026 17:33:59 +0000</lastBuildDate>
-    <item>
-      <title>바이브코딩으로 배포는 했는데, 사용자가 어떻게 쓰는지 모르겠다면?</title>
-      <link>https://velog.io/@yujintak/microsoft-clarity-1</link>
-      <description>"바이브코딩으로 배포했는데... 그 다음은 뭐 하지?"Cursor랑 Claude로 며칠 만에 서비스 하나 뚝딱 만들어본 적 있으신가요?저도 그랬습니다. 아이디어 떠오른 날 바로 배포까지 했었는데요, 그런데 배포 후 며칠 지나니까 이런 생각이 들었습니다."사람들이 진짜...</description>
-      <guid isPermaLink="false">https://velog.io/@yujintak/microsoft-clarity-1</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 17:35:28 +0000</lastBuildDate>
     <item>
       <title>그만할게요</title>
       <link>https://velog.io/@yoochanhong/그만할게요</link>
@@ -37,20 +30,6 @@
       <pubDate>Wed, 29 Apr 2026 17:33:34 +0000</pubDate>
     </item>
     <item>
-      <title>AI 시대, 이렇게 죽을 순 없어</title>
-      <link>https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</link>
-      <description>AI 시대의 개발자 어떻게 살아남을 것인가</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/AI-시대에-이렇게-죽을-순-없어</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>자기소개</title>
-      <link>https://velog.io/@min_you/김다예-자기소개</link>
-      <description>INSTAR: min\_\_\_you (민유민)만들며 배우는 사람에이아이 배우기현재 집필중인 책 &amp;lt;도파민 하이재킹&gt; 기한내에 출간하기ADHD새로운 것을 배우고 아이디어를 실행하는 것걍 말시키면 됩니다.배워서 남주는 것 배운것을 수익화로 연결 하는 것기획자로서의 일...</description>
-      <guid isPermaLink="false">https://velog.io/@min_you/김다예-자기소개</guid>
-      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
-    </item>
-    <item>
       <title>&lt;개발자가 블로그도 잘 써야 하나요?&gt; 도서 증정 이벤트</title>
       <link>https://velog.io/@velog/개발자가-블로그도-잘-써야-하나요-도서-증정-이벤트</link>
       <description>기술 블로그, 해야 한다는 거 압니다. 다들 알아요. 근데 막상 쓰려고 하면 '이런 거 올려도 되나?' 싶고, 어떻게 시작해야 할지 모르겠고, 갈수록 임시저장함만 쌓이죠. 기술 블로깅에 대한 책이 나왔는데 길벗 출판사에서 벨로그에 4권을 증정해주셨습니다!</description>
@@ -63,6 +42,13 @@
       <description>외국 사이트에서 회원가입할 때 국가를 선택하는 드롭다운에서 한국 표시를 찾기 어려운 경험이 있어서 만들어 봤어요.South Korea인 경우도 있고, Korea South, 또는 Republic of Korea 등 다양한 선택지가 있어서 한 번에 찾기 어렵다는 문제를 ...</description>
       <guid isPermaLink="false">https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</guid>
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이브코딩 직무 면접 회고</title>
+      <link>https://velog.io/@dbwls/바이브코딩-직무-면접-회고하기</link>
+      <description>면접을 봤다. 순수 AI Native 빌더 면접이었고, 지원만해도 최소 2만 원, 합격하면 10만 원 상품권을 주는 초호화(?) 공고였다. 덜컥 1차에 합격했고 면접을 준비했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/바이브코딩-직무-면접-회고하기</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
       <title>브라우저에서 C++를 채점한다. — NEXT JUDGE 개발기 (오픈 온라인 저지 — 안녕, 백준)</title>
@@ -93,13 +79,6 @@
       <pubDate>Mon, 27 Apr 2026 17:32:19 +0000</pubDate>
     </item>
     <item>
-      <title>스토리북으로 컴포넌트 기반 개발하기</title>
-      <link>https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</link>
-      <description>스토리북 야르~~</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/스토리북으로-컴포넌트-기반-개발하기</guid>
-      <pubDate>Thu, 23 Apr 2026 17:32:45 +0000</pubDate>
-    </item>
-    <item>
       <title>비개발자가 바이브 해커톤 1등한 썰과 디자인스프린터 활용하기</title>
       <link>https://velog.io/@hongsinugget/비전공자-해커톤-1등-후기와-디자인스프린터-활용하기</link>
       <description>안녕하세요 홍시너겟입니다 많은분들이 축하해주셔서 좀 얼떨더름 한 상태이구요..(??) 어디서부터 설명을 해야되는지 모르겠지만 제 경험과 노하우(?)들을 끝난김에 공유해보고자 합니다.</description>
@@ -114,18 +93,18 @@
       <pubDate>Sat, 25 Apr 2026 17:15:53 +0000</pubDate>
     </item>
     <item>
+      <title>[당근/회고] 인턴 출근 3주차 회고</title>
+      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</link>
+      <description>당근에서의 3주차 회고</description>
+      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</guid>
+      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+    </item>
+    <item>
       <title>보상 트랜잭션, 사실 필요하지 않았습니다 — `@Transactional` 한 줄에 묶여있던 도메인 분리하기</title>
       <link>https://velog.io/@sh__y_/보상-트랜잭션-사실-필요하지-않았습니다-Transactional-한-줄에-묶여있던-도메인-분리하기</link>
       <description>결국 절반은 그냥 지웠습니다."A 가 실패하면 B 를 되돌리고, 보상이 또 실패하면 그것도 되돌린다" — service 메서드 안에 분기가 깊게 쌓여있던 보상 트랜잭션 (compensating transaction) 코드입니다. 단단한 시스템이라고 믿고 있었습니다.</description>
       <guid isPermaLink="false">https://velog.io/@sh__y_/보상-트랜잭션-사실-필요하지-않았습니다-Transactional-한-줄에-묶여있던-도메인-분리하기</guid>
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>CMUX x AIM 해커톤 회고</title>
-      <link>https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</link>
-      <description>인생 첫 해커톤. 바이브 시대의 서막을 겪고 왔습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
       <title>우아한테크코스 8기 프론트엔드 레벨1 회고, 난 어떤 사람이었는가 ?</title>
@@ -135,11 +114,18 @@
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
-      <title>[당근/회고] 인턴 출근 3주차 회고</title>
-      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</link>
-      <description>당근에서의 3주차 회고</description>
-      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</guid>
-      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+      <title>karpathy 4원칙을 팀에 적용을 위한 실험</title>
+      <link>https://velog.io/@gyeonglog/karpathy-4원칙을-팀에-적용을-위한-실험</link>
+      <description>AGENTS.md에 4원칙 한 단락. 결과는 얼마나 달라질까.얼마 전 유튜브에서 karpathy가 이야기한 코딩 에이전트 작업 원칙을 정리해본 글을 봤습니다. 특히 가정하지 말고 표면화하라와 단순함이 우선이라는 두 부분이 매력적으로 다가왔습니다. AI작업을 진행하면서 ...</description>
+      <guid isPermaLink="false">https://velog.io/@gyeonglog/karpathy-4원칙을-팀에-적용을-위한-실험</guid>
+      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CMUX x AIM 해커톤 회고</title>
+      <link>https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</link>
+      <description>인생 첫 해커톤. 바이브 시대의 서막을 겪고 왔습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</guid>
+      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT 이미지로 뽑은 UI, 실제 웹사이트로 구현해봤다</title>
@@ -149,13 +135,6 @@
       <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>Good Bye, BOJ!</title>
-      <link>https://velog.io/@imcute0703123/Good-Bye-BOJ</link>
-      <description>이미 다들 아시겠지만 2026.04.29부터 백준 서버 종료다 스트릭 안깨지려고 새벽 6시 전이면 일어나서 풀고 다시 자고 그랬었는데</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/Good-Bye-BOJ</guid>
-      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
-    </item>
-    <item>
       <title>OOO을 변기에 넣고 내려</title>
       <link>https://velog.io/@gaeroro/toilet</link>
       <description>너는 무엇을 내릴래?</description>
@@ -163,39 +142,11 @@
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
-      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
-      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
-      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
-      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
-      <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
-      <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
-      <guid isPermaLink="false">https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</guid>
-      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>karpathy 4원칙을 팀에 적용을 위한 실험</title>
-      <link>https://velog.io/@gyeonglog/karpathy-4원칙을-팀에-적용을-위한-실험</link>
-      <description>AGENTS.md에 4원칙 한 단락. 결과는 얼마나 달라질까.얼마 전 유튜브에서 karpathy가 이야기한 코딩 에이전트 작업 원칙을 정리해본 글을 봤습니다. 특히 가정하지 말고 표면화하라와 단순함이 우선이라는 두 부분이 매력적으로 다가왔습니다. AI작업을 진행하면서 ...</description>
-      <guid isPermaLink="false">https://velog.io/@gyeonglog/karpathy-4원칙을-팀에-적용을-위한-실험</guid>
-      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>인메모리 rate limiter 만들기</title>
-      <link>https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</link>
-      <description>단일 서버에서 rate limit을 쉽게 적용해보자</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</guid>
-      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>개인 홈페이지에서 이력서 뽑기</title>
-      <link>https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</link>
-      <description>개인 홈페이지 업데이트와 이력서 업데이트를 따로 하는 게 늘 거슬렸다.프로젝트 하나 끝났을 때 해야 하는 일이 두 줄기였다.홈페이지: public/data/\*\*, public/locales/\*\* JSON 수정 → 사이트에 반영이력서: 한글 열고 텍스트 복붙 → ...</description>
-      <guid isPermaLink="false">https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</guid>
-      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+      <title>Good Bye, BOJ!</title>
+      <link>https://velog.io/@imcute0703123/Good-Bye-BOJ</link>
+      <description>이미 다들 아시겠지만 2026.04.29부터 백준 서버 종료다 스트릭 안깨지려고 새벽 6시 전이면 일어나서 풀고 다시 자고 그랬었는데</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/Good-Bye-BOJ</guid>
+      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
       <title>내 서비스가 털린다면?</title>
@@ -205,11 +156,18 @@
       <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>나는 왜 기술블로그를 시작하는가</title>
-      <link>https://velog.io/@lazyyoyo/나는-왜-기술블로그를-시작하는가</link>
-      <description>요요의 첫 velog 게시글입니다. 반갑습니다. 앞으로 열심히 달려보겠습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@lazyyoyo/나는-왜-기술블로그를-시작하는가</guid>
-      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
+      <title>[ASM] 소프트웨어 마에스트로 부산센터 합격 회고 (지옥에서 돌아오기)</title>
+      <link>https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</link>
+      <description>소프트웨어 마에스트로 17기 부산 센터에 최종 합격했다! 올해 여름 졸업을 앞두고 있었기 때문에, 학업 스케줄상 올해가 아니면 지원 타이밍이 애매해질 수 있겠다는 생각이 마음 한편에 있었다. 그래서 이번 지원은 나에게 꽤나 간절했다. 솔직히 말하면, “부산 센터...</description>
+      <guid isPermaLink="false">https://velog.io/@ssomae/SWM-소프트웨어-마에스트로-부산센터-합격-회고</guid>
+      <pubDate>Fri, 24 Apr 2026 17:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>아직도 API 명세서를 수동으로 고치시나요?</title>
+      <link>https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</link>
+      <description>백엔드 코드 바꿨는데 왜 DOCS는 그대로일까: 휴먼 에러를 멸종시키는 법</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/아직도-API-명세서를-수동으로-고치시나요</guid>
+      <pubDate>Thu, 30 Apr 2026 17:32:39 +0000</pubDate>
     </item>
     <item>
       <title>15기 싸피(SSAFY) 합격 &amp; 퇴소 &amp; 회고</title>
@@ -217,6 +175,48 @@
       <description>안녕하세요, SSAFY 15기 합격 후기 남기기도 전에 퇴소와 회고글을 함께 가져오게 되었습니다. 현 싸피생분들이 도대체 이건 무슨 글이냐고 물어보는데요. 너무 뻔한 글보다는 이런 글이 더 궁금하지 않을까요? (어그로꾼의 한마디였습니다.) 아무튼 16기 모집 기간도 얼...</description>
       <guid isPermaLink="false">https://velog.io/@tlstkdgus/15기-싸피SSAFY-합격-퇴소-회고</guid>
       <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>개인 홈페이지에서 이력서 뽑기</title>
+      <link>https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</link>
+      <description>개인 홈페이지 업데이트와 이력서 업데이트를 따로 하는 게 늘 거슬렸다.프로젝트 하나 끝났을 때 해야 하는 일이 두 줄기였다.홈페이지: public/data/\*\*, public/locales/\*\* JSON 수정 → 사이트에 반영이력서: 한글 열고 텍스트 복붙 → ...</description>
+      <guid isPermaLink="false">https://velog.io/@mogiyoon/개인-홈페이지에서-이력서-뽑기</guid>
+      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>나는 왜 기술블로그를 시작하는가</title>
+      <link>https://velog.io/@lazyyoyo/나는-왜-기술블로그를-시작하는가</link>
+      <description>요요의 첫 velog 게시글입니다. 반갑습니다. 앞으로 열심히 달려보겠습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@lazyyoyo/나는-왜-기술블로그를-시작하는가</guid>
+      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>OmOCon 참가 후기 — 선두에 선 사람들</title>
+      <link>https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</link>
+      <description>컨퍼런스 참가후기</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/OmOCon-참가-후기-선두에-선-사람들</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>인메모리 rate limiter 만들기</title>
+      <link>https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</link>
+      <description>단일 서버에서 rate limit을 쉽게 적용해보자</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</guid>
+      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 시대는, 서비스 기획부터 다르다!</title>
+      <link>https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</link>
+      <description>이번 수업에서는 AI 시대에 서비스를 기획할 때 필요한 기본 흐름을 배웠다.단순히 “좋은 아이디어를 떠올리는 것”이 아니라,시장을 조사하고, 사용자의 문제를 발견하고, 그 문제를 논리적으로 정리한 뒤,AI를 활용해서 더 빠르게 검증하고 실행하는 과정이 중요하다는 것을 ...</description>
+      <guid isPermaLink="false">https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redis의 용량을 고려하라.</title>
+      <link>https://velog.io/@kaka77/Redis의-용량을-고려하라</link>
+      <description>최근 백엔드 면접에서 한 면접관님이 던진 질문이 머리에 오래 남았다."1,000만 건의 데이터가 전부 Redis에 올라가면 문제가 생기지 않을까요?"처음엔 "TTL을 짧게 걸면 되지 않나?" 정도로 답했지만, 면접관님의 표정에서 이미 부족한 답변이라는 걸 알 수 있었다...</description>
+      <guid isPermaLink="false">https://velog.io/@kaka77/Redis의-용량을-고려하라</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
