@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 11 May 2026 17:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:42:17 +0000</lastBuildDate>
     <item>
       <title>그만할게요</title>
       <link>https://velog.io/@yoochanhong/그만할게요</link>
@@ -44,13 +44,6 @@
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
     </item>
     <item>
-      <title>브라우저에서 C++를 채점한다. — NEXT JUDGE 개발기 (오픈 온라인 저지 — 안녕, 백준)</title>
-      <link>https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</link>
-      <description>크래프톤 정글에서 알고리즘을 공부하면서 백준 온라인 저지를 자주 사용했어요. 최근 서비스가 종료되면서, 문제와 테스트케이스를 보존하려고 데이터를 아카이빙해 공개 저장소에 정리했습니다.이 과정에서 커뮤니티 기반 오픈 알고리즘 저지 플랫폼까지 아이디어를 확장하게 됐어요. ...</description>
-      <guid isPermaLink="false">https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</guid>
-      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
-    </item>
-    <item>
       <title>토스페이먼츠 서버 개발자 합격 회고</title>
       <link>https://velog.io/@pdy000726/토스페이먼츠-서버-개발자-합격-회고</link>
       <description>토스페이먼츠 서버 개발자 합격 회고</description>
@@ -72,6 +65,20 @@
       <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
     </item>
     <item>
+      <title>브라우저에서 C++를 채점한다. — NEXT JUDGE 개발기 (오픈 온라인 저지 — 안녕, 백준)</title>
+      <link>https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</link>
+      <description>크래프톤 정글에서 알고리즘을 공부하면서 백준 온라인 저지를 자주 사용했어요. 최근 서비스가 종료되면서, 문제와 테스트케이스를 보존하려고 데이터를 아카이빙해 공개 저장소에 정리했습니다.이 과정에서 커뮤니티 기반 오픈 알고리즘 저지 플랫폼까지 아이디어를 확장하게 됐어요. ...</description>
+      <guid isPermaLink="false">https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</guid>
+      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SSAF{IT}] 깃허브 스타 10만 개 받은 CLAUDE.md의 정체</title>
+      <link>https://velog.io/@eomgerm/SSAFIT-깃허브-스타-10만-개-받은-CLAUDE.md의-정체</link>
+      <description>깃허브를 뜨겁게 달군 스타 10만개의 주인공 CLADUE.md에 대해 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@eomgerm/SSAFIT-깃허브-스타-10만-개-받은-CLAUDE.md의-정체</guid>
+      <pubDate>Sat, 09 May 2026 17:21:01 +0000</pubDate>
+    </item>
+    <item>
       <title>EP5. 브라키오사우르스 김현우에게 티라노사우르스와 맞짱까면 누가 이길지를 묻다</title>
       <link>https://velog.io/@x0gus/EP5.-브라키오사우르스-김현우에게-티라노사우르스와-맞짱까면-누가-이길지를-묻다</link>
       <description>김현우 그에 대해 알아보자</description>
@@ -86,18 +93,18 @@
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 프론트엔드 레벨1 회고, 난 어떤 사람이었는가 ?</title>
-      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</link>
-      <description>우아한테크코스 8기 프론트엔드 레벨1 생활을 정리하며 ...</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</guid>
-      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
-    </item>
-    <item>
       <title>karpathy 4원칙을 팀에 적용을 위한 실험</title>
       <link>https://velog.io/@gyeonglog/karpathy</link>
       <description>AGENTS.md에 4원칙 한 단락. 결과는 얼마나 달라질까.얼마 전 유튜브에서 karpathy가 이야기한 코딩 에이전트 작업 원칙을 정리해본 글을 봤습니다. 특히 가정하지 말고 표면화하라와 단순함이 우선이라는 두 부분이 매력적으로 다가왔습니다. AI작업을 진행하면서 ...</description>
       <guid isPermaLink="false">https://velog.io/@gyeonglog/karpathy</guid>
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한테크코스 8기 프론트엔드 레벨1 회고, 난 어떤 사람이었는가 ?</title>
+      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</link>
+      <description>우아한테크코스 8기 프론트엔드 레벨1 생활을 정리하며 ...</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</guid>
+      <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
       <title>Redis의 용량을 고려하라.</title>
@@ -107,25 +114,11 @@
       <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
-      <title>CMUX x AIM 해커톤 회고</title>
-      <link>https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</link>
-      <description>인생 첫 해커톤. 바이브 시대의 서막을 겪고 왔습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/CMUX-x-AIM-해커톤-회고</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
-    </item>
-    <item>
       <title>OOO을 변기에 넣고 내려</title>
       <link>https://velog.io/@gaeroro/toilet</link>
       <description>너는 무엇을 내릴래?</description>
       <guid isPermaLink="false">https://velog.io/@gaeroro/toilet</guid>
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SSAF{IT}] 깃허브 스타 10만 개 받은 CLAUDE.md의 정체</title>
-      <link>https://velog.io/@eomgerm/SSAFIT-깃허브-스타-10만-개-받은-CLAUDE.md의-정체</link>
-      <description>깃허브를 뜨겁게 달군 스타 10만개의 주인공 CLADUE.md에 대해 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@eomgerm/SSAFIT-깃허브-스타-10만-개-받은-CLAUDE.md의-정체</guid>
-      <pubDate>Sat, 09 May 2026 17:21:01 +0000</pubDate>
     </item>
     <item>
       <title>나는 왜 기술블로그를 시작하는가</title>
@@ -135,17 +128,10 @@
       <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
     </item>
     <item>
-      <title>내 서비스가 털린다면?</title>
-      <link>https://velog.io/@imcute0703123/내-서비스가-털린다면</link>
-      <description>유명한 보안 이슈들 최근 공급망 공격 뉴스가 자주 보인다. npm install이나 pip install처럼 오픈소스 패키지를 설치할 때도 공격이 발생할 수 있다. 오픈소스 커뮤니티에서 선한 개발자인 척 열심히 활동하다가, 어느 순간 악성코드가 포함된 버전을</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/내-서비스가-털린다면</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>애니 보는 10분 동안 Claude가 코드를 다 짜버렸다</title>
-      <link>https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</link>
-      <description>Claude를 오케스트레이터로 쓰게 된 계기. 민트와하트 프로젝트 이야기.</description>
-      <guid isPermaLink="false">https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</guid>
+      <title>일을 사랑하는 방법</title>
+      <link>https://velog.io/@kpeel5839/일을-사랑하는-방법</link>
+      <description>일을 사랑하자</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/일을-사랑하는-방법</guid>
       <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
     </item>
     <item>
@@ -156,32 +142,23 @@
       <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
-      <title>일을 사랑하는 방법</title>
-      <link>https://velog.io/@kpeel5839/일을-사랑하는-방법</link>
-      <description>일을 사랑하자</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/일을-사랑하는-방법</guid>
+      <title>하루 만에 웹앱 만들기: Claude Code, Antigravity, Codex와 함께 만든 “나는 어떤 축구선수형 개발자일까?”</title>
+      <link>https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</link>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>애니 보는 10분 동안 Claude가 코드를 다 짜버렸다</title>
+      <link>https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</link>
+      <description>Claude를 오케스트레이터로 쓰게 된 계기. 민트와하트 프로젝트 이야기.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</guid>
       <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
     </item>
     <item>
-      <title>티비위키 최신 주소 바로가기</title>
-      <link>https://velog.io/@tvwiki/티비위키-최신-주소-바로가기</link>
-      <description>2026 최신 주소 검색 업데이트 완료드라마·예능·영화를 무료로 스트리밍하는 TVWIKI. 어떤 사이트인지 확인해보시고 접속하세요.티비위키(TVWIKI)는 국내 드라마, 예능, 영화는 물론 해외 시리즈까지 폭넓은 콘텐츠를 무료로 제공하는 스트리밍 플랫폼입니다. 회원 가...</description>
-      <guid isPermaLink="false">https://velog.io/@tvwiki/티비위키-최신-주소-바로가기</guid>
-      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>인메모리 rate limiter 만들기</title>
-      <link>https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</link>
-      <description>단일 서버에서 rate limit을 쉽게 적용해보자</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</guid>
-      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 1)</title>
-      <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-1</link>
-      <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
-      <guid isPermaLink="false">https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-1</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+      <title>[멋사] 5주차 회고록</title>
+      <link>https://velog.io/@_zn_/멋사-5주차-회고록</link>
+      <guid isPermaLink="false">https://velog.io/@_zn_/멋사-5주차-회고록</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
       <title>깃허브 10만 스타를 받은 CLAUDE.md를 읽고 느낀 것</title>
@@ -191,6 +168,33 @@
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
+      <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 1)</title>
+      <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-1</link>
+      <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
+      <guid isPermaLink="false">https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-1</guid>
+      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>인메모리 rate limiter 만들기</title>
+      <link>https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</link>
+      <description>단일 서버에서 rate limit을 쉽게 적용해보자</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/인메모리-rate-limiter-만들기</guid>
+      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Type vs Interface, "그냥 익숙해서"에서 벗어나기</title>
+      <link>https://velog.io/@hying/Type-vs-Interface</link>
+      <description>코드리뷰를 계기로 type과 interface를 왜 구분해서 쓰는지 다시 살펴봤다. TypeScript 공식 문서와 예시를 바탕으로 interface와 type의 차이, 그리고 내가 interface를 더 자주 사용하게 된 기준을 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/Type-vs-Interface</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>5주차 과제</title>
+      <link>https://velog.io/@kny337/5주차-과제</link>
+      <guid isPermaLink="false">https://velog.io/@kny337/5주차-과제</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
+    </item>
+    <item>
       <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
       <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
       <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
@@ -198,17 +202,11 @@
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
-      <title>멋쟁이사자 아이디어톤(1)</title>
-      <link>https://velog.io/@gyutaetae/멋쟁이사자-아이디어톤1</link>
-      <guid isPermaLink="false">https://velog.io/@gyutaetae/멋쟁이사자-아이디어톤1</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>우아한테크코스에서 오픈소스 기여 시작하기(우아한 컨트리뷰터) - Level1</title>
-      <link>https://velog.io/@antoliny0919/우아한테크코스에서-오픈소스-기여-시작하기우아한-컨트리뷰터-Level1</link>
-      <description>우아한테크코스에서 오픈소스 기여 스터디를 운영해 나가면서 느꼈던 점들..</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스에서-오픈소스-기여-시작하기우아한-컨트리뷰터-Level1</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+      <title>[채용 설명회] 2026년 하반기 금융보안원 Tech·Security</title>
+      <link>https://velog.io/@melonhong46/2026년-하반기-금융보안원-채용-설명회-정리-및-후기</link>
+      <description>금융보안원의 채용설명회에 참석했다.</description>
+      <guid isPermaLink="false">https://velog.io/@melonhong46/2026년-하반기-금융보안원-채용-설명회-정리-및-후기</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
       <title>공무원 개발자 성장기 - 시작</title>
