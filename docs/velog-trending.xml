@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 13 May 2026 17:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:36:22 +0000</lastBuildDate>
     <item>
       <title>바이브코딩 직무 면접 회고</title>
       <link>https://velog.io/@dbwls/바이브코딩-직무-면접-회고하기</link>
@@ -23,11 +23,11 @@
       <pubDate>Fri, 08 May 2026 17:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>드롭다운에서 Korea를 찾아주는 크롬 익스텐션</title>
-      <link>https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</link>
-      <description>외국 사이트에서 회원가입할 때 국가를 선택하는 드롭다운에서 한국 표시를 찾기 어려운 경험이 있어서 만들어 봤어요.South Korea인 경우도 있고, Korea South, 또는 Republic of Korea 등 다양한 선택지가 있어서 한 번에 찾기 어렵다는 문제를 ...</description>
-      <guid isPermaLink="false">https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</guid>
-      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+      <title>[번역] useEffect 함수에 이름 붙이기, 절대 후회 없을 선택</title>
+      <link>https://velog.io/@typo/name-your-effects</link>
+      <description>React 개발자라면 useEffect는 너무 익숙한 함수입니다. 하지만 useEffect 함수에 이름을 붙여 본 개발자는 얼마나 있을까요? 이 글은 effect 함수에 이름을 붙인 후 느꼈던 변화를 공유합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@typo/name-your-effects</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
     <item>
       <title>토스페이먼츠 서버 개발자 합격 회고</title>
@@ -37,18 +37,18 @@
       <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
     </item>
     <item>
+      <title>드롭다운에서 Korea를 찾아주는 크롬 익스텐션</title>
+      <link>https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</link>
+      <description>외국 사이트에서 회원가입할 때 국가를 선택하는 드롭다운에서 한국 표시를 찾기 어려운 경험이 있어서 만들어 봤어요.South Korea인 경우도 있고, Korea South, 또는 Republic of Korea 등 다양한 선택지가 있어서 한 번에 찾기 어렵다는 문제를 ...</description>
+      <guid isPermaLink="false">https://velog.io/@hello1234/드롭다운에서-Korea를-바로-찾아드리는-크롬-익스텐션을-만들어봤어요</guid>
+      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+    </item>
+    <item>
       <title>EP6.벨로그 어그로 1황 김태현에게 취업현황을 묻다</title>
       <link>https://velog.io/@x0gus/EP6.벨로그-어그로-1황-김태현에게-취업현황을-묻다</link>
       <description>김태현 그에 대해 알아보자</description>
       <guid isPermaLink="false">https://velog.io/@x0gus/EP6.벨로그-어그로-1황-김태현에게-취업현황을-묻다</guid>
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>[당근/회고] 인턴 출근 3주차 회고</title>
-      <link>https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</link>
-      <description>당근에서의 3주차 회고</description>
-      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근회고-인턴-출근-3주차-회고</guid>
-      <pubDate>Mon, 04 May 2026 17:33:47 +0000</pubDate>
     </item>
     <item>
       <title>[SSAF{IT}] 깃허브 스타 10만 개 받은 CLAUDE.md의 정체</title>
@@ -72,11 +72,11 @@
       <pubDate>Fri, 08 May 2026 17:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>보상 트랜잭션, 사실 필요하지 않았습니다 — `@Transactional` 한 줄에 묶여있던 도메인 분리하기</title>
-      <link>https://velog.io/@sh__y_/보상-트랜잭션-사실-필요하지-않았습니다-Transactional-한-줄에-묶여있던-도메인-분리하기</link>
-      <description>결국 절반은 그냥 지웠습니다."A 가 실패하면 B 를 되돌리고, 보상이 또 실패하면 그것도 되돌린다" — service 메서드 안에 분기가 깊게 쌓여있던 보상 트랜잭션 (compensating transaction) 코드입니다. 단단한 시스템이라고 믿고 있었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@sh__y_/보상-트랜잭션-사실-필요하지-않았습니다-Transactional-한-줄에-묶여있던-도메인-분리하기</guid>
-      <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
+      <title>Redis의 용량을 고려하라.</title>
+      <link>https://velog.io/@kaka77/Redis의-용량을-고려하라</link>
+      <description>최근 백엔드 면접에서 한 면접관님이 던진 질문이 머리에 오래 남았다."1,000만 건의 데이터가 전부 Redis에 올라가면 문제가 생기지 않을까요?"처음엔 "TTL을 짧게 걸면 되지 않나?" 정도로 답했지만, 면접관님의 표정에서 이미 부족한 답변이라는 걸 알 수 있었다...</description>
+      <guid isPermaLink="false">https://velog.io/@kaka77/Redis의-용량을-고려하라</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
       <title>OOO을 변기에 넣고 내려</title>
@@ -86,18 +86,18 @@
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
     </item>
     <item>
-      <title>Redis의 용량을 고려하라.</title>
-      <link>https://velog.io/@kaka77/Redis의-용량을-고려하라</link>
-      <description>최근 백엔드 면접에서 한 면접관님이 던진 질문이 머리에 오래 남았다."1,000만 건의 데이터가 전부 Redis에 올라가면 문제가 생기지 않을까요?"처음엔 "TTL을 짧게 걸면 되지 않나?" 정도로 답했지만, 면접관님의 표정에서 이미 부족한 답변이라는 걸 알 수 있었다...</description>
-      <guid isPermaLink="false">https://velog.io/@kaka77/Redis의-용량을-고려하라</guid>
-      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스 8기 프론트엔드 레벨1 회고, 난 어떤 사람이었는가 ?</title>
       <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</link>
       <description>우아한테크코스 8기 프론트엔드 레벨1 생활을 정리하며 ...</description>
       <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨-1회고-난-어떤-사람이었는가</guid>
       <pubDate>Sat, 02 May 2026 17:17:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>하루 만에 웹앱 만들기: Claude Code, Antigravity, Codex와 함께 만든 “나는 어떤 축구선수형 개발자일까?”</title>
+      <link>https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</link>
+      <description>들어가며: 월드컵 시즌에 개발자가 할 수 있는 일 업로드중.. 2026 북중미 월드컵이 다가오고 있다. 어느 날 친구와 통화하다가 축구 이야기가 나왔다. 월드컵 이야기를 하다가 자연스럽게 선수 스타일 이야기로 이어졌고, 그러다 문득 이런 생각이 들었다. “개발자도...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</guid>
+      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
       <title>karpathy 4원칙을 팀에 적용을 위한 실험</title>
@@ -107,11 +107,11 @@
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
-      <title>하루 만에 웹앱 만들기: Claude Code, Antigravity, Codex와 함께 만든 “나는 어떤 축구선수형 개발자일까?”</title>
-      <link>https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</link>
-      <description>들어가며: 월드컵 시즌에 개발자가 할 수 있는 일 업로드중.. 2026 북중미 월드컵이 다가오고 있다. 어느 날 친구와 통화하다가 축구 이야기가 나왔다. 월드컵 이야기를 하다가 자연스럽게 선수 스타일 이야기로 이어졌고, 그러다 문득 이런 생각이 들었다. “개발자도...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/하루-만에-웹앱-만들기-Claude-Code-Antigravity-Codex와-함께-만든-나는-어떤-축구선수형-개발자일까</guid>
-      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
+      <title>AI 시대는, 서비스 기획부터 다르다!</title>
+      <link>https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</link>
+      <description>이번 수업에서는 AI 시대에 서비스를 기획할 때 필요한 기본 흐름을 배웠다.단순히 “좋은 아이디어를 떠올리는 것”이 아니라,시장을 조사하고, 사용자의 문제를 발견하고, 그 문제를 논리적으로 정리한 뒤,AI를 활용해서 더 빠르게 검증하고 실행하는 과정이 중요하다는 것을 ...</description>
+      <guid isPermaLink="false">https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</guid>
+      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
       <title>일을 사랑하는 방법</title>
@@ -126,13 +126,6 @@
       <description>요요의 첫 velog 게시글입니다. 반갑습니다. 앞으로 열심히 달려보겠습니다.</description>
       <guid isPermaLink="false">https://velog.io/@lazyyoyo/나는-왜-기술블로그를-시작하는가</guid>
       <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 시대는, 서비스 기획부터 다르다!</title>
-      <link>https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</link>
-      <description>이번 수업에서는 AI 시대에 서비스를 기획할 때 필요한 기본 흐름을 배웠다.단순히 “좋은 아이디어를 떠올리는 것”이 아니라,시장을 조사하고, 사용자의 문제를 발견하고, 그 문제를 논리적으로 정리한 뒤,AI를 활용해서 더 빠르게 검증하고 실행하는 과정이 중요하다는 것을 ...</description>
-      <guid isPermaLink="false">https://velog.io/@min_you/AI-시대는-서비스-기획부터-다르다</guid>
-      <pubDate>Thu, 07 May 2026 17:35:28 +0000</pubDate>
     </item>
     <item>
       <title>깃허브 10만 스타를 받은 CLAUDE.md를 읽고 느낀 것</title>
@@ -163,17 +156,24 @@
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
-      <title>오픈소스 기여 어떻게 시작해야 되나요 ?</title>
-      <link>https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</link>
-      <description>프로그래머라면 누구나 한 번쯤은 오픈소스 기여라는걸 꿈꾼다. 하지만 오픈소스의 장벽은 너무 높아보인다. 오픈소스 기여.. 어떻게 시작하는 걸까 ?</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</guid>
-      <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
-    </item>
-    <item>
       <title>나는 어쩌면 실패했을지도</title>
       <link>https://velog.io/@imeureka/나는-어쩌면-실패했을지도</link>
       <description>어느 안과 대기실에서 쓰는 회고반차를 쓰고 찾아온 안과 대기하다가 오랜만에 벨로그를 켰다. 요새 컬러렌즈를 끼고 촬영과 편집을 반복하다 보니 눈이 예전 같지 않아 안과에 왔다.. 26년 상반기 회고하기엔 아직 이르지만 잉여 시간을 활용해 회고해보려 한다.나는 한때 프론...</description>
       <guid isPermaLink="false">https://velog.io/@imeureka/나는-어쩌면-실패했을지도</guid>
+      <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
+      <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
+      <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
+      <guid isPermaLink="false">https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</guid>
+      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>오픈소스 기여 어떻게 시작해야 되나요 ?</title>
+      <link>https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</link>
+      <description>프로그래머라면 누구나 한 번쯤은 오픈소스 기여라는걸 꿈꾼다. 하지만 오픈소스의 장벽은 너무 높아보인다. 오픈소스 기여.. 어떻게 시작하는 걸까 ?</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</guid>
       <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
     </item>
     <item>
@@ -184,20 +184,6 @@
       <pubDate>Sun, 03 May 2026 17:18:33 +0000</pubDate>
     </item>
     <item>
-      <title>공무원 개발자 성장기 - 시작</title>
-      <link>https://velog.io/@edusproutcomics/공무원-개발자-성장기-fvm3sq2w</link>
-      <description>초등학교 행정실 근무하는 공무원이 만든 업무 효율화 웹사이트를 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@edusproutcomics/공무원-개발자-성장기-fvm3sq2w</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
-      <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
-      <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
-      <guid isPermaLink="false">https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
       <title>우아한테크코스에서 오픈소스 기여 시작하기(우아한 컨트리뷰터) - Level1</title>
       <link>https://velog.io/@antoliny0919/우아한테크코스에서-오픈소스-기여-시작하기우아한-컨트리뷰터-Level1</link>
       <description>우아한테크코스에서 오픈소스 기여 스터디를 운영해 나가면서 느꼈던 점들..</description>
@@ -205,16 +191,32 @@
       <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
     </item>
     <item>
-      <title>[멋사] 5주차 회고록</title>
-      <link>https://velog.io/@_zn_/멋사-5주차-회고록</link>
-      <guid isPermaLink="false">https://velog.io/@_zn_/멋사-5주차-회고록</guid>
-      <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
+      <title>[회고록] 바이브코딩으로 만든 서비스로 첫 수익을 만들었습니다 — 1편: 이벤트 트래킹</title>
+      <link>https://velog.io/@yujintak/vive-coding-revenu-1</link>
+      <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
+      <guid isPermaLink="false">https://velog.io/@yujintak/vive-coding-revenu-1</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
     <item>
-      <title>[DB] 데이터베이스 정규화 (1NF, 2NF, 3NF)</title>
-      <link>https://velog.io/@jjun012/DB-데이터베이스-정규화-1NF-2NF-3NF</link>
-      <guid isPermaLink="false">https://velog.io/@jjun012/DB-데이터베이스-정규화-1NF-2NF-3NF</guid>
-      <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
+      <title>(긴급!) 지금 절대로 코덱스를 다운로드 하지마세요 .</title>
+      <link>https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</link>
+      <description>이 글은 LLM과 함께 제작되었습니다맥에서 코덱스를 다운로드 하려고 하던 중 바로 사파리에 codex를 검색하여 맨 위에 있는 사이트에 접속하였다 당연히 OpenAI Codex를 다운로드하는 것처럼 보였다. 하지만... 복사하고 터미널에 붙혀넣기전 갑가지 수상한 명령...</description>
+      <guid isPermaLink="false">https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>전공자인데 파인튜닝은 처음입니다</title>
+      <link>https://velog.io/@feynman_ai/전공자인데-파인튜닝은-처음입니다</link>
+      <description>파인튜닝을 처음 접하신다면, 이 글을 읽어보는 것도 괜찮을 것 같아요</description>
+      <guid isPermaLink="false">https://velog.io/@feynman_ai/전공자인데-파인튜닝은-처음입니다</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>개발자가 블로그도 잘 써야 하나요? 독서 후기</title>
+      <link>https://velog.io/@hongsinugget/개발자가-블로그도-잘-써야-하나요-독서-후기</link>
+      <description>개발자가 블로그도 잘 써야 하나요? 신간도서 직접 후기를 들고 와봤습니다. 책의 내용을 직접 읽고 실제 실험을 해봤고, 블로그를 막연하게 어떻게 써야되지? 고민하고 이 책이 궁금하다면? 후기를 참고해보셔도 좋아요</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/개발자가-블로그도-잘-써야-하나요-독서-후기</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
