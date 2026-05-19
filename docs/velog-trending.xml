@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 18 May 2026 17:43:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:47:39 +0000</lastBuildDate>
     <item>
       <title>바이브코딩 직무 면접 회고</title>
       <link>https://velog.io/@dbwls/바이브코딩-직무-면접-회고하기</link>
@@ -51,13 +51,6 @@
       <pubDate>Sat, 09 May 2026 17:21:01 +0000</pubDate>
     </item>
     <item>
-      <title>브라우저에서 C++를 채점한다. — NEXT JUDGE 개발기 (오픈 온라인 저지 — 안녕, 백준)</title>
-      <link>https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</link>
-      <description>크래프톤 정글에서 알고리즘을 공부하면서 백준 온라인 저지를 자주 사용했어요. 최근 서비스가 종료되면서, 문제와 테스트케이스를 보존하려고 데이터를 아카이빙해 공개 저장소에 정리했습니다.이 과정에서 커뮤니티 기반 오픈 알고리즘 저지 플랫폼까지 아이디어를 확장하게 됐어요. ...</description>
-      <guid isPermaLink="false">https://velog.io/@suinkim/브라우저에서-C를-채점한다.-NEXT-JUDGE-개발기-오픈-온라인-저지-안녕-백준</guid>
-      <pubDate>Wed, 06 May 2026 17:33:59 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자 취준생은 무엇을 공부해야 하는가? (Ep. 1)</title>
       <link>https://velog.io/@hjun-kr/개발자-취준생은-무엇을-공부해야-하는가-Ep.-1</link>
       <description>면접 피드백으로 배운, 주니어가 공부해야 하는 것은 무엇인가?</description>
@@ -79,18 +72,18 @@
       <pubDate>Fri, 08 May 2026 17:32:31 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 구글: 생성형 AI 시대를 위한 SEO및 GEO 최적화 가이드</title>
-      <link>https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</link>
-      <description>2026년 5월 15일 구글이 공개한 SEO 및 GEO(Generative Engine Optimization) 최적화를 위한 가이드를 한글로 번역했습니다</description>
-      <guid isPermaLink="false">https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
-    </item>
-    <item>
       <title>일을 사랑하는 방법</title>
       <link>https://velog.io/@kpeel5839/일을-사랑하는-방법</link>
       <description>일을 사랑하자</description>
       <guid isPermaLink="false">https://velog.io/@kpeel5839/일을-사랑하는-방법</guid>
       <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>깃허브 10만 스타를 받은 CLAUDE.md를 읽고 느낀 것</title>
+      <link>https://velog.io/@yonghyuk/깃허브-10만-스타를-받은-CLAUDE.md를-읽고-느낀-것</link>
+      <description>최근 Claude Code, Cursor, Copilot 같은 AI 코딩 도구를 단순 코드 생성기가 아니라 개발 워크플로우의 일부로 사용하는 사례가 많아지고 있다.초기에는 AI에게 자연어로 요구사항을 던지고, 그럴듯한 결과물을 빠르게 얻는 이른바 “바이브 코딩”이 주목...</description>
+      <guid isPermaLink="false">https://velog.io/@yonghyuk/깃허브-10만-스타를-받은-CLAUDE.md를-읽고-느낀-것</guid>
+      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
       <title>karpathy 4원칙을 팀에 적용을 위한 실험</title>
@@ -100,11 +93,11 @@
       <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
-      <title>깃허브 10만 스타를 받은 CLAUDE.md를 읽고 느낀 것</title>
-      <link>https://velog.io/@yonghyuk/깃허브-10만-스타를-받은-CLAUDE.md를-읽고-느낀-것</link>
-      <description>최근 Claude Code, Cursor, Copilot 같은 AI 코딩 도구를 단순 코드 생성기가 아니라 개발 워크플로우의 일부로 사용하는 사례가 많아지고 있다.초기에는 AI에게 자연어로 요구사항을 던지고, 그럴듯한 결과물을 빠르게 얻는 이른바 “바이브 코딩”이 주목...</description>
-      <guid isPermaLink="false">https://velog.io/@yonghyuk/깃허브-10만-스타를-받은-CLAUDE.md를-읽고-느낀-것</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+      <title>(번역) 구글: 생성형 AI 시대를 위한 SEO및 GEO 최적화 가이드</title>
+      <link>https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</link>
+      <description>2026년 5월 15일 구글이 공개한 SEO 및 GEO(Generative Engine Optimization) 최적화를 위한 가이드를 한글로 번역했습니다</description>
+      <guid isPermaLink="false">https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</guid>
+      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
       <title>오픈소스 기여 어떻게 시작해야 되나요 ?</title>
@@ -121,20 +114,6 @@
       <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
-      <title>(긴급!) 지금 절대로 코덱스를 다운로드 하지마세요 .</title>
-      <link>https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</link>
-      <description>이 글은 LLM과 함께 제작되었습니다맥에서 코덱스를 다운로드 하려고 하던 중 바로 사파리에 codex를 검색하여 맨 위에 있는 사이트에 접속하였다 당연히 OpenAI Codex를 다운로드하는 것처럼 보였다. 하지만... 복사하고 터미널에 붙혀넣기전 갑가지 수상한 명령...</description>
-      <guid isPermaLink="false">https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</guid>
-      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
-      <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
-      <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
-      <guid isPermaLink="false">https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
       <title>[회고록] 바이브코딩으로 만든 서비스로 첫 수익을 만들었습니다 — 1편: 이벤트 트래킹</title>
       <link>https://velog.io/@yujintak/vive-coding-revenu-1</link>
       <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
@@ -142,25 +121,11 @@
       <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
     <item>
-      <title>애니 보는 10분 동안 Claude가 코드를 다 짜버렸다</title>
-      <link>https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</link>
-      <description>Claude를 오케스트레이터로 쓰게 된 계기. 민트와하트 프로젝트 이야기.</description>
-      <guid isPermaLink="false">https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</guid>
-      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>나는 어쩌면 실패했을지도</title>
-      <link>https://velog.io/@imeureka/나는-어쩌면-실패했을지도</link>
-      <description>어느 안과 대기실에서 쓰는 회고반차를 쓰고 찾아온 안과 대기하다가 오랜만에 벨로그를 켰다. 요새 컬러렌즈를 끼고 촬영과 편집을 반복하다 보니 눈이 예전 같지 않아 안과에 왔다.. 26년 상반기 회고하기엔 아직 이르지만 잉여 시간을 활용해 회고해보려 한다.나는 한때 프론...</description>
-      <guid isPermaLink="false">https://velog.io/@imeureka/나는-어쩌면-실패했을지도</guid>
-      <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>테스트하는데 접근성까지 생각해야해?? 아 그래..?</title>
-      <link>https://velog.io/@528528abcd/테스트하는데-접근성까지-생각해야해</link>
-      <description>눈 앞에 있는데 찾질 못하니..</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/테스트하는데-접근성까지-생각해야해</guid>
-      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
+      <title>(긴급!) 지금 절대로 코덱스를 다운로드 하지마세요 .</title>
+      <link>https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</link>
+      <description>이 글은 LLM과 함께 제작되었습니다맥에서 코덱스를 다운로드 하려고 하던 중 바로 사파리에 codex를 검색하여 맨 위에 있는 사이트에 접속하였다 당연히 OpenAI Codex를 다운로드하는 것처럼 보였다. 하지만... 복사하고 터미널에 붙혀넣기전 갑가지 수상한 명령...</description>
+      <guid isPermaLink="false">https://velog.io/@m161awm/긴급-지금-절대로-코덱스를-다운로드-하지마세요</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
     <item>
       <title>야! 너두 ADHD 일 수 있어! [도파민 실험]</title>
@@ -170,6 +135,34 @@
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
+      <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
+      <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
+      <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
+      <guid isPermaLink="false">https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</guid>
+      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>애니 보는 10분 동안 Claude가 코드를 다 짜버렸다</title>
+      <link>https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</link>
+      <description>Claude를 오케스트레이터로 쓰게 된 계기. 민트와하트 프로젝트 이야기.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/애니-보는-10분-동안-Claude가-코드를-다-짜버렸다</guid>
+      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>답답해서 내가 뛴다 Next.js에서 Supabase까지</title>
+      <link>https://velog.io/@528528abcd/답답해서-내가-뛴다-Next.js에서-Supabase까지</link>
+      <description>달린다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/답답해서-내가-뛴다-Next.js에서-Supabase까지</guid>
+      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>나는 어쩌면 실패했을지도</title>
+      <link>https://velog.io/@imeureka/나는-어쩌면-실패했을지도</link>
+      <description>어느 안과 대기실에서 쓰는 회고반차를 쓰고 찾아온 안과 대기하다가 오랜만에 벨로그를 켰다. 요새 컬러렌즈를 끼고 촬영과 편집을 반복하다 보니 눈이 예전 같지 않아 안과에 왔다.. 26년 상반기 회고하기엔 아직 이르지만 잉여 시간을 활용해 회고해보려 한다.나는 한때 프론...</description>
+      <guid isPermaLink="false">https://velog.io/@imeureka/나는-어쩌면-실패했을지도</guid>
+      <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
+    </item>
+    <item>
       <title>오픈소스 첫 기여해보기</title>
       <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
       <description>Armeria에 비동기 예외처리 핸들러 추가</description>
@@ -177,17 +170,18 @@
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>전공자인데 파인튜닝은 처음입니다</title>
-      <link>https://velog.io/@feynman_ai/전공자인데-파인튜닝은-처음입니다</link>
-      <description>파인튜닝을 처음 접하신다면, 이 글을 읽어보는 것도 괜찮을 것 같아요</description>
-      <guid isPermaLink="false">https://velog.io/@feynman_ai/전공자인데-파인튜닝은-처음입니다</guid>
-      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
+      <title>IDE 플러그인 설치 및 활용</title>
+      <link>https://velog.io/@evelman2001/IDE-플러그인-설치-및-활용</link>
+      <description>1. 인텔리제이를 켜고 상단 메뉴에서 Settings(또는 Preferences) -&gt; Plugins로 이동 2. Marketplace 탭에서 Continue를 검색하여 설치(Install)하고 인텔리제이를 재시작 ...</description>
+      <guid isPermaLink="false">https://velog.io/@evelman2001/IDE-플러그인-설치-및-활용</guid>
+      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>[Spring] ApplicationRunner</title>
-      <link>https://velog.io/@jjun012/Spring-ApplicationRunner</link>
-      <guid isPermaLink="false">https://velog.io/@jjun012/Spring-ApplicationRunner</guid>
-      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
+      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
+      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
+      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
+      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
+      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
       <title>DESIGN.md 하나에 $39?! 라구요?! 직접 만들어봤습니다</title>
@@ -211,11 +205,18 @@
       <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
     </item>
     <item>
-      <title>개발자가 블로그도 잘 써야 하나요? 독서 후기</title>
-      <link>https://velog.io/@hongsinugget/개발자가-블로그도-잘-써야-하나요-독서-후기</link>
-      <description>개발자가 블로그도 잘 써야 하나요? 신간도서 직접 후기를 들고 와봤습니다. 책의 내용을 직접 읽고 실제 실험을 해봤고, 블로그를 막연하게 어떻게 써야되지? 고민하고 이 책이 궁금하다면? 후기를 참고해보셔도 좋아요</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/개발자가-블로그도-잘-써야-하나요-독서-후기</guid>
-      <pubDate>Sat, 16 May 2026 17:22:56 +0000</pubDate>
+      <title>[우테코 레벨1 회고] 우리 모두 각자만의 우테코를 하고 있으니까</title>
+      <link>https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨1-회고-우리-모두-각자만의-우테코를-하고-있으니까</link>
+      <description>우아한테크코스 8기 FE 레벨1 전체 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨1-회고-우리-모두-각자만의-우테코를-하고-있으니까</guid>
+      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>"나 바이브코딩 잘해요"를 증명하는 법? - GitHub Copilot 인증시험</title>
+      <link>https://velog.io/@yujintak/github-copilot-gh300</link>
+      <description>바이브코딩, 이제 너무 많이 들어서 질릴 정도죠.🤯 Cursor 켜두고, Copilot 쓰고, Claude한테 코드 짜달라고 하면 다들 바이브코딩이라고 합니다. 바이브코딩 한다는 사람은 정말 많습니다. 그런데 "제대로" 하는 사람은 생각보다 드뭅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yujintak/github-copilot-gh300</guid>
+      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
