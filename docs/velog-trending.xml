@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 22 May 2026 17:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 17:24:06 +0000</lastBuildDate>
     <item>
       <title>[번역] useEffect 함수에 이름 붙이기, 절대 후회 없을 선택</title>
       <link>https://velog.io/@typo/name-your-effects</link>
       <description>React 개발자라면 useEffect는 너무 익숙한 함수입니다. 하지만 useEffect 함수에 이름을 붙여 본 개발자는 얼마나 있을까요? 이 글은 effect 함수에 이름을 붙인 후 느꼈던 변화를 공유합니다.</description>
       <guid isPermaLink="false">https://velog.io/@typo/name-your-effects</guid>
       <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>토스페이먼츠 서버 개발자 합격 회고</title>
-      <link>https://velog.io/@pdy000726/토스페이먼츠-서버-개발자-합격-회고</link>
-      <description>토스페이먼츠 서버 개발자 합격 회고</description>
-      <guid isPermaLink="false">https://velog.io/@pdy000726/토스페이먼츠-서버-개발자-합격-회고</guid>
-      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
     </item>
     <item>
       <title>EP6.벨로그 어그로 1황 김태현에게 취업현황을 묻다</title>
@@ -37,13 +30,6 @@
       <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
-      <title>일을 사랑하는 방법</title>
-      <link>https://velog.io/@kpeel5839/일을-사랑하는-방법</link>
-      <description>일을 사랑하자</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/일을-사랑하는-방법</guid>
-      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Type vs Interface, "그냥 익숙해서"에서 벗어나기</title>
       <link>https://velog.io/@hying/Type-vs-Interface</link>
       <description>코드리뷰를 계기로 type과 interface를 왜 구분해서 쓰는지 다시 살펴봤다. TypeScript 공식 문서와 예시를 바탕으로 interface와 type의 차이, 그리고 내가 interface를 더 자주 사용하게 된 기준을 정리했다.</description>
@@ -51,18 +37,25 @@
       <pubDate>Tue, 12 May 2026 17:42:17 +0000</pubDate>
     </item>
     <item>
-      <title>[회고록] 바이브코딩으로 만든 서비스로 첫 수익을 만들었습니다 — 1편: 이벤트 트래킹</title>
-      <link>https://velog.io/@yujintak/vive-coding-revenu-1</link>
-      <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
-      <guid isPermaLink="false">https://velog.io/@yujintak/vive-coding-revenu-1</guid>
-      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
-    <item>
       <title>오픈소스 기여 어떻게 시작해야 되나요 ?</title>
       <link>https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</link>
       <description>프로그래머라면 누구나 한 번쯤은 오픈소스 기여라는걸 꿈꾼다. 하지만 오픈소스의 장벽은 너무 높아보인다. 오픈소스 기여.. 어떻게 시작하는 걸까 ?</description>
       <guid isPermaLink="false">https://velog.io/@antoliny0919/오픈소스-기여-어떻게-시작해야-되나요</guid>
       <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>일을 사랑하는 방법</title>
+      <link>https://velog.io/@kpeel5839/일을-사랑하는-방법</link>
+      <description>일을 사랑하자</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/일을-사랑하는-방법</guid>
+      <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고록] 바이브코딩으로 만든 서비스로 첫 수익을 만들었습니다 — 1편: 이벤트 트래킹</title>
+      <link>https://velog.io/@yujintak/vive-coding-revenu-1</link>
+      <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
+      <guid isPermaLink="false">https://velog.io/@yujintak/vive-coding-revenu-1</guid>
+      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
     </item>
     <item>
       <title>(긴급!) 지금 절대로 코덱스를 다운로드 하지마세요 .</title>
@@ -93,13 +86,6 @@
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>1. LLM의 비결정성을 제어할 수 있을까?</title>
-      <link>https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</link>
-      <description>거대 레포에서 LLM이 정말로 쓸모있어지는 아키텍처가 있을까?</description>
-      <guid isPermaLink="false">https://velog.io/@hbsps/1.-LLM의-비결정성을-제어할-수-있을까</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
-    </item>
-    <item>
       <title>나는 어쩌면 실패했을지도</title>
       <link>https://velog.io/@imeureka/나는-어쩌면-실패했을지도</link>
       <description>어느 안과 대기실에서 쓰는 회고반차를 쓰고 찾아온 안과 대기하다가 오랜만에 벨로그를 켰다. 요새 컬러렌즈를 끼고 촬영과 편집을 반복하다 보니 눈이 예전 같지 않아 안과에 왔다.. 26년 상반기 회고하기엔 아직 이르지만 잉여 시간을 활용해 회고해보려 한다.나는 한때 프론...</description>
@@ -114,18 +100,18 @@
       <pubDate>Sun, 10 May 2026 17:21:22 +0000</pubDate>
     </item>
     <item>
-      <title>회사에서 Zoom 면접보기</title>
-      <link>https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</link>
-      <description>이걸 제가 해냅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</guid>
-      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
-    </item>
-    <item>
       <title>"나 바이브코딩 잘해요"를 증명하는 법? - GitHub Copilot 인증시험</title>
       <link>https://velog.io/@yujintak/github-copilot-gh300</link>
       <description>바이브코딩, 이제 너무 많이 들어서 질릴 정도죠.🤯 Cursor 켜두고, Copilot 쓰고, Claude한테 코드 짜달라고 하면 다들 바이브코딩이라고 합니다. 바이브코딩 한다는 사람은 정말 많습니다. 그런데 "제대로" 하는 사람은 생각보다 드뭅니다.</description>
       <guid isPermaLink="false">https://velog.io/@yujintak/github-copilot-gh300</guid>
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>회사에서 Zoom 면접보기</title>
+      <link>https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</link>
+      <description>이걸 제가 해냅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</guid>
+      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
     </item>
     <item>
       <title>[행사] AWS Summit 2026 후기 -1</title>
@@ -149,6 +135,13 @@
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
+      <link>https://velog.io/@railgunofpku/claude-partner-basecamp</link>
+      <description>회사돈으로 유익한 미국출장</description>
+      <guid isPermaLink="false">https://velog.io/@railgunofpku/claude-partner-basecamp</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
       <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
       <link>https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</link>
       <description>안녕하세요, 내년 졸업을 앞둔 컴공 대학생입니다. 포트폴리오 정리 차 지금까지 학교를 다니면서 경험해왔던 것들과 앞으로 경험할 것들에 대해서 기록을 남기고자 Velog를 시작했습니다.</description>
@@ -163,20 +156,6 @@
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
-      <title>오픈소스 첫 기여해보기</title>
-      <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
-      <description>Armeria에 비동기 예외처리 핸들러 추가</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>SecretProject 기획</title>
-      <link>https://velog.io/@sgeonho/SecretProject-기획</link>
-      <description>우선 가장 간단 명료하게 말씀드리자면, 페르소나 같은 게임입니다.(위는 페르소나5, 아래는 같은 제작사의 캐서린이라는 게임)기본적으로 캐릭터들과 대화하고, 스토리 진행하고, 턴제 배틀이 있는 게임이에요. 메인스토리가 확실히 있고, 텍스트가 상당히 많은 게임입니다. 그런...</description>
-      <guid isPermaLink="false">https://velog.io/@sgeonho/SecretProject-기획</guid>
-      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Antigravity와 Claude Code로 TDD+SDD 하네스 구축하기</title>
       <link>https://velog.io/@jinhyoung9380/Antigravity와-Claude-Code로-TDDSDD-하네스-구축하기</link>
       <description>다들 온통 하네스 얘기 뿐이다. omx가 뭔지, gstack이 뭔지 들어도 모르겠다. 그러던 중 이미 구축된 skill, command만들 반복해서 부르고 있는 나를 보게 되었다. 생각해보면 똑같은 환경만 있다면 내가 아닌 다른 누군가가 해도 되는 것이다. 이에 요즘 ...</description>
@@ -184,11 +163,18 @@
       <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>쓰지 않는 행위로써 채워지는 생각들</title>
-      <link>https://velog.io/@daydreamplace/쓰지-않는-행위로써-채워지는-생각들</link>
-      <description>블로그를 안쓰게 된 이유</description>
-      <guid isPermaLink="false">https://velog.io/@daydreamplace/쓰지-않는-행위로써-채워지는-생각들</guid>
-      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
+      <title>오픈소스 첫 기여해보기</title>
+      <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
+      <description>Armeria에 비동기 예외처리 핸들러 추가</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
+      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>쉬어가는 velog md 문법 공부</title>
+      <link>https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</link>
+      <description>쉬는 것도 쉽지 않아</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
       <title>[멋사] 프론트엔드 6차시 수업</title>
@@ -198,6 +184,13 @@
       <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
     </item>
     <item>
+      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
+      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
+      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Zod를 사용하고 내 인생이 달라졌다</title>
       <link>https://velog.io/@528528abcd/Zod를-사용하고-내-인생이-달라졌</link>
       <description>미래를 바꾸는 전략🎵</description>
@@ -205,18 +198,25 @@
       <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>정보처리기사 2026년 2회 필기 후기 (합격)</title>
-      <link>https://velog.io/@seungbinyang/정보처리기사-2026년-2회-필기-후기-합격</link>
-      <description>정보처리기사 시험을 합격한 겸 잠깐 일정이 널널해져서 (금방 또 바빠질 예정..)한번 오랜만에 블로그 글을 작성해보려 합니다.개발자라면 블로그를 평소에 꾸준히 운영하면 좋다는건 알지만 귀찮은건 어쩔 수 없나봐요..아무튼 오늘 정처기 시험을 보면서 생긴 약간의 썰을 풀어...</description>
-      <guid isPermaLink="false">https://velog.io/@seungbinyang/정보처리기사-2026년-2회-필기-후기-합격</guid>
-      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Debezium schema isn't known to this connector 해결 방법</title>
       <link>https://velog.io/@dodobird1/Debezium-schema-isnt-known-to-this-connector-해결-방법</link>
       <description>운영중인 서버에 Flyway 도입했는데 갑자기 Debezium이 터져요 🎊 Debezium schema isn't known to this connector 해결방법</description>
       <guid isPermaLink="false">https://velog.io/@dodobird1/Debezium-schema-isnt-known-to-this-connector-해결-방법</guid>
       <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
+      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
+      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
+      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[코드트리 후기] 갭체크로 코딩테스트 약점 파악하고 8주 목표 세우기</title>
+      <link>https://velog.io/@gguip/코드트리-후기-갭체크로-코딩테스트-약점-파악하고-8주-목표-세우기</link>
+      <description>1주차 코드트리 청약 통장 챌린지!! 🔥🔥🔥</description>
+      <guid isPermaLink="false">https://velog.io/@gguip/코드트리-후기-갭체크로-코딩테스트-약점-파악하고-8주-목표-세우기</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
