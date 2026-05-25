@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 24 May 2026 17:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:34:05 +0000</lastBuildDate>
     <item>
       <title>[번역] useEffect 함수에 이름 붙이기, 절대 후회 없을 선택</title>
       <link>https://velog.io/@typo/name-your-effects</link>
       <description>React 개발자라면 useEffect는 너무 익숙한 함수입니다. 하지만 useEffect 함수에 이름을 붙여 본 개발자는 얼마나 있을까요? 이 글은 effect 함수에 이름을 붙인 후 느꼈던 변화를 공유합니다.</description>
       <guid isPermaLink="false">https://velog.io/@typo/name-your-effects</guid>
       <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>EP6.벨로그 어그로 1황 김태현에게 취업현황을 묻다</title>
-      <link>https://velog.io/@x0gus/EP6.벨로그-어그로-1황-김태현에게-취업현황을-묻다</link>
-      <description>김태현 그에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@x0gus/EP6.벨로그-어그로-1황-김태현에게-취업현황을-묻다</guid>
-      <pubDate>Mon, 11 May 2026 17:41:51 +0000</pubDate>
     </item>
     <item>
       <title>하루 만에 웹앱 만들기: Claude Code, Antigravity, Codex와 함께 만든 “나는 어떤 축구선수형 개발자일까?”</title>
@@ -42,13 +35,6 @@
       <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
       <guid isPermaLink="false">https://velog.io/@yujintak/vive-coding-revenu-1</guid>
       <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
-      <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
-      <description>강아지 응가 300개 줍다, 대표님 된 썰</description>
-      <guid isPermaLink="false">https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</guid>
-      <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
       <title>야! 너두 ADHD 일 수 있어! [도파민 실험]</title>
@@ -79,6 +65,13 @@
       <pubDate>Wed, 13 May 2026 17:45:50 +0000</pubDate>
     </item>
     <item>
+      <title>회사에서 Zoom 면접보기</title>
+      <link>https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</link>
+      <description>이걸 제가 해냅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</guid>
+      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
+    </item>
+    <item>
       <title>"나 바이브코딩 잘해요"를 증명하는 법? - GitHub Copilot 인증시험</title>
       <link>https://velog.io/@yujintak/github-copilot-gh300</link>
       <description>바이브코딩, 이제 너무 많이 들어서 질릴 정도죠.🤯 Cursor 켜두고, Copilot 쓰고, Claude한테 코드 짜달라고 하면 다들 바이브코딩이라고 합니다. 바이브코딩 한다는 사람은 정말 많습니다. 그런데 "제대로" 하는 사람은 생각보다 드뭅니다.</description>
@@ -86,11 +79,11 @@
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>회사에서 Zoom 면접보기</title>
-      <link>https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</link>
-      <description>이걸 제가 해냅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@cold_as_hell/회사에서-Zoom-면접보기</guid>
-      <pubDate>Mon, 18 May 2026 17:43:19 +0000</pubDate>
+      <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
+      <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
+      <description>강아지 응가 300개 줍다, 대표님 된 썰</description>
+      <guid isPermaLink="false">https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</guid>
+      <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
       <title>[행사] AWS Summit 2026 후기 -1</title>
@@ -100,12 +93,6 @@
       <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
     </item>
     <item>
-      <title>좋은 개발자는 기능을 만드는 사람이 아니라, 흐름을 설계하는 사람</title>
-      <link>https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</link>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</guid>
-      <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[우테코 레벨1 회고] 우리 모두 각자만의 우테코를 하고 있으니까</title>
       <link>https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨1-회고-우리-모두-각자만의-우테코를-하고-있으니까</link>
       <description>우아한테크코스 8기 FE 레벨1 전체 회고</description>
@@ -113,11 +100,11 @@
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>Controlled Component의 함정</title>
-      <link>https://velog.io/@kangmin01/Controlled-Component의-함정</link>
-      <description>함정에 빠진 먼작귀!</description>
-      <guid isPermaLink="false">https://velog.io/@kangmin01/Controlled-Component의-함정</guid>
-      <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
+      <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
+      <link>https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</link>
+      <description>안녕하세요, 내년 졸업을 앞둔 컴공 대학생입니다. 포트폴리오 정리 차 지금까지 학교를 다니면서 경험해왔던 것들과 앞으로 경험할 것들에 대해서 기록을 남기고자 Velog를 시작했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</guid>
+      <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
     </item>
     <item>
       <title>답답해서 내가 뛴다 Next.js에서 Supabase까지</title>
@@ -127,18 +114,11 @@
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
-      <link>https://velog.io/@railgunofpku/claude-partner-basecamp</link>
-      <description>회사돈으로 유익한 미국출장</description>
-      <guid isPermaLink="false">https://velog.io/@railgunofpku/claude-partner-basecamp</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
-      <link>https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</link>
-      <description>안녕하세요, 내년 졸업을 앞둔 컴공 대학생입니다. 포트폴리오 정리 차 지금까지 학교를 다니면서 경험해왔던 것들과 앞으로 경험할 것들에 대해서 기록을 남기고자 Velog를 시작했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</guid>
-      <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
+      <title>7주차 [멋사 14기]</title>
+      <link>https://velog.io/@csj0317/7주차-멋사-14기</link>
+      <description>안녕하세요!날이 꽤 더워진 요즘입니다.벌써 7주차, 그리고 1학기 마지막 스터디입니다.배운 것들이 정말 많은데, 그럼에도 미숙한 부분들은 경험을 통해 채워나가야 할 것 같아요.멘토님, 그리고 같이 헤매는 팀원들이 있었기에 그리 성실하지 못한 제가 나름 꾸준히 노력해본 ...</description>
+      <guid isPermaLink="false">https://velog.io/@csj0317/7주차-멋사-14기</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
     </item>
     <item>
       <title>Antigravity와 Claude Code로 TDD+SDD 하네스 구축하기</title>
@@ -155,11 +135,25 @@
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
+      <title>AWS Summit Seoul 2026 후기</title>
+      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
+      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+    </item>
+    <item>
       <title>오픈소스 첫 기여해보기</title>
       <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
       <description>Armeria에 비동기 예외처리 핸들러 추가</description>
       <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
       <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
+      <link>https://velog.io/@railgunofpku/claude-partner-basecamp</link>
+      <description>회사돈으로 유익한 미국출장</description>
+      <guid isPermaLink="false">https://velog.io/@railgunofpku/claude-partner-basecamp</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
       <title>Zod를 사용하고 내 인생이 달라졌다</title>
@@ -169,13 +163,6 @@
       <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
-      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
-      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[우테코 11~12주차: 페이먼츠 3단계 미션 &amp; useEffect 원정대] 미션이 생각보다 빡세네요.. 살려주세요</title>
       <link>https://velog.io/@gamjaismine02/우테코-1112주차-페이먼츠-3단계-미션-useEffect-원정대-미션이-생각보다-빡세네요-살려주세요</link>
       <description>시간이 너무 빠른데 내가 뭘 할 수 있을까?</description>
@@ -183,18 +170,31 @@
       <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
-      <title>[코드트리 후기] 갭체크로 코딩테스트 약점 파악하고 8주 목표 세우기</title>
-      <link>https://velog.io/@gguip/코드트리-후기-갭체크로-코딩테스트-약점-파악하고-8주-목표-세우기</link>
-      <description>1주차 코드트리 청약 통장 챌린지!! 🔥🔥🔥</description>
-      <guid isPermaLink="false">https://velog.io/@gguip/코드트리-후기-갭체크로-코딩테스트-약점-파악하고-8주-목표-세우기</guid>
+      <title>7주차 과제</title>
+      <link>https://velog.io/@kny337/7차시</link>
+      <description>kny-introduction.vercel.app</description>
+      <guid isPermaLink="false">https://velog.io/@kny337/7차시</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
+      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
+      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
       <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
-      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
-      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
-      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
+      <title>우아한테크코스 8기 프론트엔드 레벨2 절반 회고, 잘 나가는 음식점에서 산다는것..</title>
+      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</link>
+      <description>나의 한달간의 레벨2 생활은 어땠을까 ? 그리고 나의 나머지 레벨2 생활은 어떻게 될까 ?</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>좋은 개발자는 기능을 만드는 사람이 아니라, 흐름을 설계하는 사람</title>
+      <link>https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</link>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</guid>
+      <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
       <title>ADHD를 연구하다 [정부지원사업]까지 지원하게 된 이야기 [모두의 창업]</title>
@@ -204,17 +204,17 @@
       <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
-      <title>Debezium schema isn't known to this connector 해결 방법</title>
-      <link>https://velog.io/@dodobird1/Debezium-schema-isnt-known-to-this-connector-해결-방법</link>
-      <description>운영중인 서버에 Flyway 도입했는데 갑자기 Debezium이 터져요 🎊 Debezium schema isn't known to this connector 해결방법</description>
-      <guid isPermaLink="false">https://velog.io/@dodobird1/Debezium-schema-isnt-known-to-this-connector-해결-방법</guid>
-      <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
+      <title>당신의 useEffect는 적절한가요 ?</title>
+      <link>https://velog.io/@antoliny0919/당신의-useEffect는-적절한가요</link>
+      <description>React는 왜 "Effect가 필요하지 않은 경우"라는 문서를 만들었을까 ? 우리는 Effect를 소중히 다뤄야할 이유가 존재한다.</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/당신의-useEffect는-적절한가요</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
     </item>
     <item>
-      <title>쉬어가는 velog md 문법 공부</title>
-      <link>https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</link>
-      <description>쉬는 것도 쉽지 않아</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</guid>
+      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
+      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
+      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
+      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
       <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
   </channel>
