@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 27 May 2026 18:01:16 +0000</lastBuildDate>
-    <item>
-      <title>[회고록] 바이브코딩으로 만든 서비스로 첫 수익을 만들었습니다 — 1편: 이벤트 트래킹</title>
-      <link>https://velog.io/@yujintak/vive-coding-revenu-1</link>
-      <description>지난 주 배포한 바이브코딩으로 만든 서비스에 첫 결제가 들어왔습니다. 배포와 동시에 홍보를 시작했고, 불과 하루도 안 되어 결제해주신 분이 두 명 생겼습니다.그런데 정작 그 두 건은 제 트래킹 데이터 안에 자세히 잡히지 않았습니다😭이벤트 태깅을 부실하게 짜둔 탓에, ...</description>
-      <guid isPermaLink="false">https://velog.io/@yujintak/vive-coding-revenu-1</guid>
-      <pubDate>Thu, 14 May 2026 17:36:22 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 May 2026 18:02:59 +0000</lastBuildDate>
     <item>
       <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
       <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
@@ -23,11 +16,11 @@
       <pubDate>Sun, 24 May 2026 17:22:48 +0000</pubDate>
     </item>
     <item>
-      <title>야! 너두 ADHD 일 수 있어! [도파민 실험]</title>
-      <link>https://velog.io/@min_you/「도파민을-끊는-대신-이용하기로-했다」</link>
-      <description>요즘 유행하는 ‘도파민 디톡스’를 보면서 든 생각 요즘 인터넷엔 온통 이런 말뿐이다. 쇼츠 끊어라 게임 줄여라 자극을 멀리해라 도파민에 절여진 뇌를 해독해라 근데 나는 그걸 보면서 이상한 생각이 들었다. “근데… 도파민 없으면 인간 그냥 움직이지도 않는 거 아님...</description>
-      <guid isPermaLink="false">https://velog.io/@min_you/「도파민을-끊는-대신-이용하기로-했다」</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
+      <title>(번역) Tailwind에서 벗어나기, 그리고 CSS 구조화 방법 배우기</title>
+      <link>https://velog.io/@tap_kim/moving-away-from-tailwind-and-learning-to-structure-my-css-</link>
+      <description>원문: https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/안녕하세요! 8년 전, 저는 Tailwind를 발견하고 신나서 글을 썼습니다.당시 저는...</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/moving-away-from-tailwind-and-learning-to-structure-my-css-</guid>
+      <pubDate>Thu, 28 May 2026 18:02:59 +0000</pubDate>
     </item>
     <item>
       <title>AI는 딱 "당신만큼"만 훌륭합니다.</title>
@@ -51,18 +44,18 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드계의 MSA, MFE에 대해 알아보자</title>
-      <link>https://velog.io/@zerone001/MFE</link>
-      <description>마이크로프론트엔드에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/MFE</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
       <title>[우테코 레벨1 회고] 우리 모두 각자만의 우테코를 하고 있으니까</title>
       <link>https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨1-회고-우리-모두-각자만의-우테코를-하고-있으니까</link>
       <description>우아한테크코스 8기 FE 레벨1 전체 회고</description>
       <guid isPermaLink="false">https://velog.io/@vlmbuyd/우아한테크코스-8기-레벨1-회고-우리-모두-각자만의-우테코를-하고-있으니까</guid>
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>프론트엔드계의 MSA, MFE에 대해 알아보자</title>
+      <link>https://velog.io/@zerone001/MFE</link>
+      <description>마이크로프론트엔드에 대해 알아보자</description>
+      <guid isPermaLink="false">https://velog.io/@zerone001/MFE</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
       <title>(번역) 구글: 생성형 AI 시대를 위한 SEO및 GEO 최적화 가이드</title>
@@ -86,11 +79,11 @@
       <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
     </item>
     <item>
-      <title>Antigravity와 Claude Code로 TDD+SDD 하네스 구축하기</title>
-      <link>https://velog.io/@jinhyoung9380/Antigravity와-Claude-Code로-TDDSDD-하네스-구축하기</link>
-      <description>다들 온통 하네스 얘기 뿐이다. omx가 뭔지, gstack이 뭔지 들어도 모르겠다. 그러던 중 이미 구축된 skill, command만들 반복해서 부르고 있는 나를 보게 되었다. 생각해보면 똑같은 환경만 있다면 내가 아닌 다른 누군가가 해도 되는 것이다. 이에 요즘 ...</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/Antigravity와-Claude-Code로-TDDSDD-하네스-구축하기</guid>
-      <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
+      <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
+      <link>https://velog.io/@railgunofpku/claude-partner-basecamp</link>
+      <description>회사돈으로 유익한 미국출장</description>
+      <guid isPermaLink="false">https://velog.io/@railgunofpku/claude-partner-basecamp</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
       <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
@@ -107,24 +100,11 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
-      <link>https://velog.io/@railgunofpku/claude-partner-basecamp</link>
-      <description>회사돈으로 유익한 미국출장</description>
-      <guid isPermaLink="false">https://velog.io/@railgunofpku/claude-partner-basecamp</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>7차시 회고록</title>
-      <link>https://velog.io/@jiyoeo/7차시-회고록</link>
-      <guid isPermaLink="false">https://velog.io/@jiyoeo/7차시-회고록</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
-      <link>https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</link>
-      <description>1. 수정사항 2. 배포 3. 이번 1학기 스터디 동안 느낀점</description>
-      <guid isPermaLink="false">https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+      <title>어려운 건 아닌데 쓸데없이 긴 QR 스캔 페이지 제작기</title>
+      <link>https://velog.io/@528528abcd/어려운-건-아닌데-쓸데없이-긴-QR-스캔-페이지-제작기</link>
+      <description>그럼에도 찜찜한 (with.Kirby)</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/어려운-건-아닌데-쓸데없이-긴-QR-스캔-페이지-제작기</guid>
+      <pubDate>Thu, 28 May 2026 18:02:59 +0000</pubDate>
     </item>
     <item>
       <title>Zod를 사용하고 내 인생이 달라졌다</title>
@@ -134,11 +114,11 @@
       <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
     </item>
     <item>
-      <title>오픈소스 첫 기여해보기</title>
-      <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
-      <description>Armeria에 비동기 예외처리 핸들러 추가</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
+      <title>Codex CLI 한 달 사용기</title>
+      <link>https://velog.io/@junjuny0227/44</link>
+      <description>삶이 풍요롭네요</description>
+      <guid isPermaLink="false">https://velog.io/@junjuny0227/44</guid>
+      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
       <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
@@ -148,25 +128,11 @@
       <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Summit Seoul 2026 후기</title>
-      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
-      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
-      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>7주차 과제</title>
-      <link>https://velog.io/@kny337/7주차-과제</link>
-      <description>kny-introduction.vercel.app</description>
-      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[멋사] 7주차 회고록</title>
-      <link>https://velog.io/@_zn_/멋사-7주차-회고록</link>
-      <description>자기소개 페이지 배포하기</description>
-      <guid isPermaLink="false">https://velog.io/@_zn_/멋사-7주차-회고록</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+      <title>오픈소스 첫 기여해보기</title>
+      <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
+      <description>Armeria에 비동기 예외처리 핸들러 추가</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
+      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
       <title>ADHD를 연구하다 [정부지원사업]까지 지원하게 된 이야기 [모두의 창업]</title>
@@ -176,10 +142,44 @@
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
+      <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
+      <link>https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</link>
+      <description>1. 수정사항 2. 배포 3. 이번 1학기 스터디 동안 느낀점</description>
+      <guid isPermaLink="false">https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>폼에 UX 챙길수록 코드가 더러워지길래 formdraft를 만들었습니다</title>
+      <link>https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</link>
+      <description>회원가입 폼 새로고침에 20분 입력이 날아간 적 있나요? React 폼에 자동저장 + 오프라인 + 멀티탭 충돌 + 비번 reentry까지 챙기는 라이브러리 만들었습니다. 5.8 KB, 의존성 0개. npm에 올린 formdraft</description>
+      <guid isPermaLink="false">https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</guid>
+      <pubDate>Thu, 28 May 2026 18:02:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>7차시 회고록</title>
+      <link>https://velog.io/@jiyoeo/7차시-회고록</link>
+      <guid isPermaLink="false">https://velog.io/@jiyoeo/7차시-회고록</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AWS Summit Seoul 2026 후기</title>
+      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
+      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+    </item>
+    <item>
       <title>쉬어가는 velog md 문법 공부</title>
       <link>https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</link>
       <description>쉬는 것도 쉽지 않아</description>
       <guid isPermaLink="false">https://velog.io/@528528abcd/쉬어가는-velog-md-문법-공부</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>7주차 과제</title>
+      <link>https://velog.io/@kny337/7주차-과제</link>
+      <description>kny-introduction.vercel.app</description>
+      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
@@ -190,11 +190,11 @@
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>Codex CLI 한 달 사용기</title>
-      <link>https://velog.io/@junjuny0227/44</link>
-      <description>삶이 풍요롭네요</description>
-      <guid isPermaLink="false">https://velog.io/@junjuny0227/44</guid>
-      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
+      <title>[멋사] 7주차 회고록</title>
+      <link>https://velog.io/@_zn_/멋사-7주차-회고록</link>
+      <description>자기소개 페이지 배포하기</description>
+      <guid isPermaLink="false">https://velog.io/@_zn_/멋사-7주차-회고록</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
       <title>[우테코 11~12주차: 페이먼츠 3단계 미션 &amp; useEffect 원정대] 미션이 생각보다 빡세네요.. 살려주세요</title>
@@ -204,18 +204,18 @@
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>QR 스캔, 기본 앱은 재미없잖아</title>
-      <link>https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</link>
-      <description>사실 재미로 하는 건 아니고 기본 카메라 앱 켜기 귀찮을텐데 어디까지나 UX적인 측면에서 웅얼웅얼..</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
       <title>ROS2 오픈소스 기여하기 - rclpy 정정 백포트</title>
       <link>https://velog.io/@dbwls/ROS2-오픈소스-기여하기-rclpy-정정-백포트</link>
       <description>메인테이너 두 명이 리뷰한 내 PR이 사실은 아무것도 안 고쳤다고?!</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/ROS2-오픈소스-기여하기-rclpy-정정-백포트</guid>
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>우아한테크코스 8기 프론트엔드 레벨2 절반 회고, 잘 나가는 음식점에서 산다는것..</title>
+      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</link>
+      <description>나의 한달간의 레벨2 생활은 어땠을까 ? 그리고 나의 나머지 레벨2 생활은 어떻게 될까 ?</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</guid>
+      <pubDate>Thu, 28 May 2026 18:02:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
