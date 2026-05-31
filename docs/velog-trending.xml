@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 30 May 2026 17:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:25:23 +0000</lastBuildDate>
     <item>
       <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
       <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
@@ -37,13 +37,6 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>프론트엔드계의 MSA, MFE에 대해 알아보자</title>
-      <link>https://velog.io/@zerone001/MFE</link>
-      <description>마이크로프론트엔드에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/MFE</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Opus 4.8 이 그새 또 나왔다</title>
       <link>https://velog.io/@dbwls/Claude-Opus-4.8이-그새-또-나왔다</link>
       <description>4.7 나온 지 얼마 안된 것 같은데 벌써 4.8이 나왔다. 근데 이번 타이밍이 좀 묘한 게 4월에 Opus 4.7로 코딩 1등 찍은 지 일주일 만에 OpenAI가 GPT-5.5를 던졌고, 그 뒤로 "종합 점수는 GPT가 앞선다", Claude가 이제 코딩으로도 밀리...</description>
@@ -51,18 +44,18 @@
       <pubDate>Fri, 29 May 2026 18:04:43 +0000</pubDate>
     </item>
     <item>
+      <title>프론트엔드계의 MSA, MFE에 대해 알아보자</title>
+      <link>https://velog.io/@zerone001/MFE</link>
+      <description>마이크로프론트엔드에 대해 알아보자</description>
+      <guid isPermaLink="false">https://velog.io/@zerone001/MFE</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
       <title>[행사] AWS Summit 2026 후기 -1</title>
       <link>https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</link>
       <description>안녕하세요! AWS Summit 2026 참여 후기입니다.AWS Summit는 코엑스에서 매년 열리는 AWS의 대표 기술 컨퍼런스입니다.올해는 5월 20~21에 진행합니다.100개 이상의 세션이 있으며, 다양한 회사들이 자신들의 AWS를 사용한 경험과 성과를 세션을 통...</description>
       <guid isPermaLink="false">https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</guid>
       <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>(번역) 구글: 생성형 AI 시대를 위한 SEO및 GEO 최적화 가이드</title>
-      <link>https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</link>
-      <description>2026년 5월 15일 구글이 공개한 SEO 및 GEO(Generative Engine Optimization) 최적화를 위한 가이드를 한글로 번역했습니다</description>
-      <guid isPermaLink="false">https://velog.io/@parallelkim/번역-구글-생성형-AI-시대를-위한-SEO및-GEO-최적화-가이드</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
     </item>
     <item>
       <title>답답해서 내가 뛴다 Next.js에서 Supabase까지</title>
@@ -79,13 +72,6 @@
       <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>Zod를 사용하고 내 인생이 달라졌다</title>
-      <link>https://velog.io/@528528abcd/Zod를-사용하고-내-인생이-달라졌</link>
-      <description>미래를 바꾸는 전략🎵</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/Zod를-사용하고-내-인생이-달라졌</guid>
-      <pubDate>Thu, 21 May 2026 17:42:44 +0000</pubDate>
-    </item>
-    <item>
       <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
       <link>https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</link>
       <description>안녕하세요, 내년 졸업을 앞둔 컴공 대학생입니다. 포트폴리오 정리 차 지금까지 학교를 다니면서 경험해왔던 것들과 앞으로 경험할 것들에 대해서 기록을 남기고자 Velog를 시작했습니다.</description>
@@ -93,11 +79,39 @@
       <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
     </item>
     <item>
+      <title>Codex CLI 한 달 사용기</title>
+      <link>https://velog.io/@junjuny0227/44</link>
+      <description>삶이 풍요롭네요</description>
+      <guid isPermaLink="false">https://velog.io/@junjuny0227/44</guid>
+      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
+    </item>
+    <item>
       <title>🏠 출시부터가 진짜다.. 이탈률과의 싸움부터 uibowl 공모전 수상까지</title>
       <link>https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</link>
-      <description>안녕하세요, 모각작 PM 아현입니다. 지난 3월, 혼자 공부/작업할 때 집중이 잘 안 되서 '모각작' 서비스를 기획하기 시작한 순간부터 런칭하기까지의 과정을 회고했었는데요. 프로덕트는 런칭 이후부터가 시작이므로.. 출시 직후부터는 유저들의 실제 행동 패턴을 추적하...</description>
+      <description>사이드 프로젝트로 시작한 서비스.. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 수상까지</description>
       <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
+      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
+      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>포맷을 지켜줘, 허스키! 🐾</title>
+      <link>https://velog.io/@528528abcd/포맷을-지켜줘-허스키-y62txapo</link>
+      <description>lint가 아니라 prettier야</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/포맷을-지켜줘-허스키-y62txapo</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>ADHD를 연구하다 [정부지원사업]까지 지원하게 된 이야기 [모두의 창업]</title>
+      <link>https://velog.io/@min_you/ADHD를-연구하다-정부지원사업까지-지원하게-된-이야기-모두의-창업</link>
+      <description>정부지원사업 [모두의 창업] 파이널 라운드는 10억 지원 (현재 1라운드중)</description>
+      <guid isPermaLink="false">https://velog.io/@min_you/ADHD를-연구하다-정부지원사업까지-지원하게-된-이야기-모두의-창업</guid>
+      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
       <title>[최신 AI 트렌드] OpenAI, 바이오방어·의료·평가로 적용면 넓혀 (5.29)</title>
@@ -118,76 +132,17 @@
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>Codex CLI 한 달 사용기</title>
-      <link>https://velog.io/@junjuny0227/44</link>
-      <description>삶이 풍요롭네요</description>
-      <guid isPermaLink="false">https://velog.io/@junjuny0227/44</guid>
-      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>오픈소스 첫 기여해보기</title>
-      <link>https://velog.io/@chae0738/오픈소스에-기여하기</link>
-      <description>Armeria에 비동기 예외처리 핸들러 추가</description>
-      <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-기여하기</guid>
-      <pubDate>Sun, 17 May 2026 17:23:18 +0000</pubDate>
+      <title>[우테코 레벨2 회고] 날카로움이 무기가 되지 않기를</title>
+      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</link>
+      <description>우아한테크코스 8기 FE 레벨2 1-4주차 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>[AI Trends] OpenAI Moves AI From Safety to Hospitals (5.29)</title>
       <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</link>
       <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</guid>
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI 도구 업데이트] GitHub, Copilot 사용 지표에 AI 도입 단계 추가 (5.29)</title>
-      <link>https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-ko</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-ko</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>별 생각 없이 머지했던 지난 나날...</title>
-      <link>https://velog.io/@528528abcd/별-생각-없이-머지했던-지난-나날</link>
-      <description>알고 딸깍하자</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/별-생각-없이-머지했던-지난-나날</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
-      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
-      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>ADHD를 연구하다 [정부지원사업]까지 지원하게 된 이야기 [모두의 창업]</title>
-      <link>https://velog.io/@min_you/ADHD를-연구하다-정부지원사업까지-지원하게-된-이야기-모두의-창업</link>
-      <description>정부지원사업 [모두의 창업] 파이널 라운드는 10억 지원 (현재 1라운드중)</description>
-      <guid isPermaLink="false">https://velog.io/@min_you/ADHD를-연구하다-정부지원사업까지-지원하게-된-이야기-모두의-창업</guid>
-      <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI Tool Updates] OpenAI, GitHub Add Controls for AI Workflows (5.29)</title>
-      <link>https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-en</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Security News] npm Typosquats Put Cloud Secrets at Risk (5.29)</title>
-      <link>https://velog.io/@hyuckjin/cybersecurity-briefing-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/cybersecurity-briefing-2026-05-29-en</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI Trends] OpenAI Governance, AI Agents Shape May 28 (5.28)</title>
-      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS Summit Seoul 2026 후기</title>
-      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
-      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
-      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
     </item>
     <item>
       <title>쉬어가는 velog md 문법 공부</title>
@@ -197,6 +152,26 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
+      <title>AWS Summit Seoul 2026 후기</title>
+      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
+      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
+      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>일본 IT업계 분위기는 실제로 어떨까?</title>
+      <link>https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</link>
+      <description>안녕하세요. 18년 동안 일본 IT 업계에서 소프트웨어 엔지니어이자 PM으로 활동하고 있는 개발자입니다. 5년 전부터는 프리랜서로 전향해 도쿄에서 나름의 루틴을 만들며 즐겁게 일하고 있습니다.최근 일본 취업을 진지하게 고민하는 후배님들에게 제가 현장에서 직접 느끼고 경...</description>
+      <guid isPermaLink="false">https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI 도구 업데이트] GitHub, Copilot 사용 지표에 AI 도입 단계 추가 (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-ko</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-ko</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
       <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
       <link>https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</link>
       <description>1. 수정사항 2. 배포 3. 이번 1학기 스터디 동안 느낀점</description>
@@ -204,10 +179,36 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
+      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
+      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
+      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
+      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI Trends] OpenAI Governance, AI Agents Shape May 28 (5.28)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
       <title>7차시 회고록</title>
       <link>https://velog.io/@jiyoeo/7차시-회고록</link>
       <guid isPermaLink="false">https://velog.io/@jiyoeo/7차시-회고록</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>7주차 과제</title>
+      <link>https://velog.io/@kny337/7주차-과제</link>
+      <description>kny-introduction.vercel.app</description>
+      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI Tool Updates] OpenAI, GitHub Add Controls for AI Workflows (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-tool-updates-ai-2026-05-29-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
