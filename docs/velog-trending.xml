@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 01 Jun 2026 18:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:17:33 +0000</lastBuildDate>
     <item>
       <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
       <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
@@ -51,13 +51,6 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>[행사] AWS Summit 2026 후기 -1</title>
-      <link>https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</link>
-      <description>안녕하세요! AWS Summit 2026 참여 후기입니다.AWS Summit는 코엑스에서 매년 열리는 AWS의 대표 기술 컨퍼런스입니다.올해는 5월 20~21에 진행합니다.100개 이상의 세션이 있으며, 다양한 회사들이 자신들의 AWS를 사용한 경험과 성과를 세션을 통...</description>
-      <guid isPermaLink="false">https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</guid>
-      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Codex CLI 한 달 사용기</title>
       <link>https://velog.io/@junjuny0227/44</link>
       <description>삶이 풍요롭네요</description>
@@ -65,11 +58,18 @@
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>답답해서 내가 뛴다 Next.js에서 Supabase까지</title>
-      <link>https://velog.io/@528528abcd/답답해서-내가-뛴다-Next.js에서-Supabase까지</link>
-      <description>달린다ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/답답해서-내가-뛴다-Next.js에서-Supabase까지</guid>
-      <pubDate>Tue, 19 May 2026 17:47:39 +0000</pubDate>
+      <title>[행사] AWS Summit 2026 후기 -1</title>
+      <link>https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</link>
+      <description>안녕하세요! AWS Summit 2026 참여 후기입니다.AWS Summit는 코엑스에서 매년 열리는 AWS의 대표 기술 컨퍼런스입니다.올해는 5월 20~21에 진행합니다.100개 이상의 세션이 있으며, 다양한 회사들이 자신들의 AWS를 사용한 경험과 성과를 세션을 통...</description>
+      <guid isPermaLink="false">https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</guid>
+      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
+      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
+      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
+      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
       <title>Claude Partner Basecamp 참여 후기 (미국 샌프란시스코)</title>
@@ -88,23 +88,9 @@
     <item>
       <title>🏠 출시부터가 진짜다.. 이탈률과의 싸움부터 uibowl 공모전 수상까지</title>
       <link>https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</link>
-      <description>사이드 프로젝트로 시작한 서비스.. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 수상까지</description>
+      <description>혼자 공부하는 게 집중이 안 된다면? 사이드 프로젝트로 시작한 서비스 "모각작".. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 수상까지</description>
       <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
-      <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
-      <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</guid>
-      <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨2 회고] 날카로움이 무기가 되지 않기를</title>
-      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</link>
-      <description>우아한테크코스 8기 FE 레벨2 1-4주차 회고</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>일본 IT업계 분위기는 실제로 어떨까?</title>
@@ -121,6 +107,13 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
+      <title>[우테코 레벨2 회고] 날카로움이 무기가 되지 않기를</title>
+      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</link>
+      <description>우아한테크코스 8기 FE 레벨2 1-4주차 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS Summit Seoul 2026 후기</title>
       <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
       <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
@@ -128,29 +121,25 @@
       <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
     </item>
     <item>
-      <title>(벨로그에서 보기 드문 고급 지식) 3일차 - javascript GC</title>
-      <link>https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</link>
-      <description>해당 글은 프론트 개발자의 기본기 다지기의 세번째 글입니다. 오늘은 javascript 엔진중 V8의 GC가 움직이는 방법에 대해 알아볼 것이다. 메모리에 대해 배워야 하는 이유 먼저 메모리를 왜 배워야 하는가? 컴퓨터의 메모리는 제한이 있는 공간으로 당연히 효...</description>
-      <guid isPermaLink="false">https://velog.io/@iubns/벨로그에서-보기-드문-고급-지식-3일차-javascript-GC</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+      <title>폼에 UX 챙길수록 코드가 더러워지길래 formdraft를 만들었습니다</title>
+      <link>https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</link>
+      <description>회원가입 폼 새로고침에 20분 입력이 날아간 적 있나요? React 폼에 자동저장 + 오프라인 + 멀티탭 충돌 + 비번 reentry까지 챙기는 라이브러리 만들었습니다. 5.8 KB, 의존성 0개. npm에 올린 formdraft</description>
+      <guid isPermaLink="false">https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</guid>
+      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>[최신 AI 트렌드] OpenAI, 바이오방어·의료·평가로 적용면 넓혀 (5.29)</title>
-      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+      <title>군대에서 부대 셔틀버스 예약 시스템을 런칭하고 전대장 상장을 받기까지</title>
+      <link>https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</link>
+      <description>군대에서 복무를 하다 보면 생각보다 많은 일이 수기로 돌아갑니다. 누군가가 종이에 적고, 누군가가 단톡방에 공지하고, 누군가가 기억하고 있다가 다시 확인합니다. 겉으로 보기에는 큰 문제가 없어 보이지만, 실제로는 작은 비효율들이 계속 반복됩니다. 이번 글은 제가...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</guid>
+      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>[News Briefing] Major Wires Anchor Thin News File (5.29)</title>
-      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[뉴스 브리핑] 주요 통신사 기준으로 본 5월 29일 뉴스 수집 공백 (5.29)</title>
-      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+      <title>QR 스캔, 기본 앱은 재미없잖아</title>
+      <link>https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</link>
+      <description>사실 재미로 하는 건 아니고 기본 카메라 앱 켜기 귀찮을텐데 어디까지나 UX적인 측면에서 웅얼웅얼..</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</guid>
+      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
       <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
@@ -160,15 +149,22 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
+      <title>데이터베이스가 없던 시절엔 어떻게 데이터를 저장했을까?</title>
+      <link>https://velog.io/@fire_918/데이터베이스가-없던-시절엔-어떻게-데이터를-저장했을까</link>
+      <description>SQL과 데이터베이스가 없던 시절 개발자들은 데이터를 어떻게 저장하고 관리했을까요? 파일 처리 시스템부터 DBMS의 등장 배경까지 정리해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@fire_918/데이터베이스가-없던-시절엔-어떻게-데이터를-저장했을까</guid>
+      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
+    </item>
+    <item>
       <title>7차시 회고록</title>
       <link>https://velog.io/@jiyoeo/7차시-회고록</link>
       <guid isPermaLink="false">https://velog.io/@jiyoeo/7차시-회고록</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>[AI Trends] OpenAI Moves AI From Safety to Hospitals (5.29)</title>
-      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</guid>
+      <title>[최신 AI 트렌드] OpenAI, 바이오방어·의료·평가로 적용면 넓혀 (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</guid>
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
@@ -179,11 +175,29 @@
       <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>QR 스캔, 기본 앱은 재미없잖아</title>
-      <link>https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</link>
-      <description>사실 재미로 하는 건 아니고 기본 카메라 앱 켜기 귀찮을텐데 어디까지나 UX적인 측면에서 웅얼웅얼..</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</guid>
-      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
+      <title>7주차 과제</title>
+      <link>https://velog.io/@kny337/7주차-과제</link>
+      <description>kny-introduction.vercel.app</description>
+      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[뉴스 브리핑] 주요 통신사 기준으로 본 5월 29일 뉴스 수집 공백 (5.29)</title>
+      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[News Briefing] Major Wires Anchor Thin News File (5.29)</title>
+      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI Trends] OpenAI Moves AI From Safety to Hospitals (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
       <title>[AI Trends] OpenAI Governance, AI Agents Shape May 28 (5.28)</title>
@@ -192,25 +206,11 @@
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>7주차 과제</title>
-      <link>https://velog.io/@kny337/7주차-과제</link>
-      <description>kny-introduction.vercel.app</description>
-      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>폼에 UX 챙길수록 코드가 더러워지길래 formdraft를 만들었습니다</title>
-      <link>https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</link>
-      <description>회원가입 폼 새로고침에 20분 입력이 날아간 적 있나요? React 폼에 자동저장 + 오프라인 + 멀티탭 충돌 + 비번 reentry까지 챙기는 라이브러리 만들었습니다. 5.8 KB, 의존성 0개. npm에 올린 formdraft</description>
-      <guid isPermaLink="false">https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</guid>
-      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>퇴근시간 예상 CLI 툴 제작</title>
-      <link>https://velog.io/@arkady1356/traffic-cli-story</link>
-      <description>때는 어느 금요일 저녁, 적당한 퇴근 타이밍을 놓치는 바람에 도로가 꽉 막히기 시작했다.금요일은 퇴근길은 유독 막혀서, 평소보다 2-3배의 시간을 잡아먹곤 한다. 그때 문득 이런 아이디어가 떠올랐다. '터미널로 퇴근시간을 확인할 수 있다면?'</description>
-      <guid isPermaLink="false">https://velog.io/@arkady1356/traffic-cli-story</guid>
-      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
+      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (1편)</title>
+      <link>https://velog.io/@minority_report/23년-동안-망하지-않은-동네슈퍼를-데이터로-분석해보려-합니다.-1편</link>
+      <description>동네 슈퍼마켓에서 자란 내가, 장사의 현장을 데이터와 AI로 다시 읽어보려는 이유</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-망하지-않은-동네슈퍼를-데이터로-분석해보려-합니다.-1편</guid>
+      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
