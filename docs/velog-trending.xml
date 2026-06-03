@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Jun 2026 18:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:28:34 +0000</lastBuildDate>
     <item>
       <title>토스 미니앱 출시, 그리고 상금 기부까지</title>
       <link>https://velog.io/@gaeroro/토스-미니앱-출시-그리고-상금-기부까지</link>
@@ -58,13 +58,6 @@
       <pubDate>Wed, 27 May 2026 18:01:16 +0000</pubDate>
     </item>
     <item>
-      <title>[행사] AWS Summit 2026 후기 -1</title>
-      <link>https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</link>
-      <description>안녕하세요! AWS Summit 2026 참여 후기입니다.AWS Summit는 코엑스에서 매년 열리는 AWS의 대표 기술 컨퍼런스입니다.올해는 5월 20~21에 진행합니다.100개 이상의 세션이 있으며, 다양한 회사들이 자신들의 AWS를 사용한 경험과 성과를 세션을 통...</description>
-      <guid isPermaLink="false">https://velog.io/@hojun1209/행사-AWS-Summit-2026-후기</guid>
-      <pubDate>Fri, 22 May 2026 17:35:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[Flutter] 에어팟을 게임 컨트롤러처럼 쓸 수 있다고?</title>
       <link>https://velog.io/@locked/Flutter-에어팟을-게임-컨트롤러처럼-써보면-어떨까</link>
       <description>내 에어팟이 게임 컨트롤러가 될 수 있다고 한다.</description>
@@ -79,11 +72,11 @@
       <pubDate>Sat, 23 May 2026 17:24:06 +0000</pubDate>
     </item>
     <item>
-      <title>사람들이 사랑하는 제품을 만들고 싶은 개발자, 김성은입니다.</title>
-      <link>https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</link>
-      <description>안녕하세요, 내년 졸업을 앞둔 컴공 대학생입니다. 포트폴리오 정리 차 지금까지 학교를 다니면서 경험해왔던 것들과 앞으로 경험할 것들에 대해서 기록을 남기고자 Velog를 시작했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@smilechild7/사람들이-사랑하는-제품을-만들고-싶은-개발자-김성은입니다</guid>
-      <pubDate>Wed, 20 May 2026 17:58:28 +0000</pubDate>
+      <title>일본 IT업계 분위기는 실제로 어떨까?</title>
+      <link>https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</link>
+      <description>안녕하세요. 18년 동안 일본 IT 업계에서 소프트웨어 엔지니어이자 PM으로 활동하고 있는 개발자입니다. 5년 전부터는 프리랜서로 전향해 도쿄에서 나름의 루틴을 만들며 즐겁게 일하고 있습니다.최근 일본 취업을 진지하게 고민하는 후배님들에게 제가 현장에서 직접 느끼고 경...</description>
+      <guid isPermaLink="false">https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>🏠 출시부터가 진짜다.. 이탈률과의 싸움부터 uibowl 공모전 수상까지</title>
@@ -91,13 +84,6 @@
       <description>혼자 공부하는 게 집중이 안 된다면? 사이드 프로젝트로 시작한 서비스 "모각작".. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 수상까지</description>
       <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>일본 IT업계 분위기는 실제로 어떨까?</title>
-      <link>https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</link>
-      <description>안녕하세요. 18년 동안 일본 IT 업계에서 소프트웨어 엔지니어이자 PM으로 활동하고 있는 개발자입니다. 5년 전부터는 프리랜서로 전향해 도쿄에서 나름의 루틴을 만들며 즐겁게 일하고 있습니다.최근 일본 취업을 진지하게 고민하는 후배님들에게 제가 현장에서 직접 느끼고 경...</description>
-      <guid isPermaLink="false">https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>쉬어가는 velog md 문법 공부</title>
@@ -114,6 +100,13 @@
       <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
+      <title>군대에서 부대 셔틀버스 예약 시스템을 런칭하고 전대장 상장을 받기까지</title>
+      <link>https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</link>
+      <description>군대에서 복무를 하다 보면 생각보다 많은 일이 수기로 돌아갑니다. 누군가가 종이에 적고, 누군가가 단톡방에 공지하고, 누군가가 기억하고 있다가 다시 확인합니다. 겉으로 보기에는 큰 문제가 없어 보이지만, 실제로는 작은 비효율들이 계속 반복됩니다. 이번 글은 제가...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</guid>
+      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
+    </item>
+    <item>
       <title>AWS Summit Seoul 2026 후기</title>
       <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
       <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
@@ -128,11 +121,11 @@
       <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>군대에서 부대 셔틀버스 예약 시스템을 런칭하고 전대장 상장을 받기까지</title>
-      <link>https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</link>
-      <description>군대에서 복무를 하다 보면 생각보다 많은 일이 수기로 돌아갑니다. 누군가가 종이에 적고, 누군가가 단톡방에 공지하고, 누군가가 기억하고 있다가 다시 확인합니다. 겉으로 보기에는 큰 문제가 없어 보이지만, 실제로는 작은 비효율들이 계속 반복됩니다. 이번 글은 제가...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/군대에서-부대-셔틀버스-예약-시스템을-런칭하고-전대장-상장을-받기까지</guid>
-      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
+      <title>바이브 코딩으로 사이드 프로젝트 하기</title>
+      <link>https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</link>
+      <description>나는 지금 까지 사이드 프로젝트를 길게 유지 해본적이 없다뭔가 만들다가 의욕이 사라져서 그만두거나 그냥 만들고 쓰지 않고 사라지거나 하는 것 뿐이였다.AI가 발전함에 따라 사이드 프로젝트의 진행하기도 쉬워졌지만 그 이후에도 3번 정도 시도하였지만 번번히 실패하였다 그리...</description>
+      <guid isPermaLink="false">https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
     </item>
     <item>
       <title>QR 스캔, 기본 앱은 재미없잖아</title>
@@ -149,11 +142,11 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>데이터베이스가 없던 시절엔 어떻게 데이터를 저장했을까?</title>
-      <link>https://velog.io/@fire_918/데이터베이스가-없던-시절엔-어떻게-데이터를-저장했을까</link>
-      <description>SQL과 데이터베이스가 없던 시절 개발자들은 데이터를 어떻게 저장하고 관리했을까요? 파일 처리 시스템부터 DBMS의 등장 배경까지 정리해 보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@fire_918/데이터베이스가-없던-시절엔-어떻게-데이터를-저장했을까</guid>
-      <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
+      <title>7주차 과제</title>
+      <link>https://velog.io/@kny337/7주차-과제</link>
+      <description>kny-introduction.vercel.app</description>
+      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
+      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>7차시 회고록</title>
@@ -162,41 +155,28 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
+      <title>지방대 문과생이 서울대에서 충격받은 것</title>
+      <link>https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</link>
+      <description>저는 한국해양대학교에 현재 휴학 중인 23학번입니다. 저는 저희 학번이 소위 말하는 AI-native 학번에 가깝다고 생각합니다. 입학하자마자 ChatGPT가 사람들 입에 오르내리기 시작했고, Bard, Gemini, Claude 같은 서비스들이 계속 등장했습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
       <title>[최신 AI 트렌드] OpenAI, 바이오방어·의료·평가로 적용면 넓혀 (5.29)</title>
       <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</link>
       <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</guid>
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>ROS2 오픈소스 기여하기 - rclpy 정정 백포트</title>
-      <link>https://velog.io/@dbwls/ROS2-오픈소스-기여하기-rclpy-정정-백포트</link>
-      <description>메인테이너 두 명이 리뷰한 내 PR이 사실은 아무것도 안 고쳤다고?!</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/ROS2-오픈소스-기여하기-rclpy-정정-백포트</guid>
-      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>7주차 과제</title>
-      <link>https://velog.io/@kny337/7주차-과제</link>
-      <description>kny-introduction.vercel.app</description>
-      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
+      <title>좋은 개발자는 기능을 만드는 사람이 아니라, 흐름을 설계하는 사람</title>
+      <link>https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</link>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/좋은-개발자는-기능을-만드는-사람이-아니라-흐름을-설계하는-사람</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
     </item>
     <item>
       <title>[뉴스 브리핑] 주요 통신사 기준으로 본 5월 29일 뉴스 수집 공백 (5.29)</title>
       <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</link>
       <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-ko</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[News Briefing] Major Wires Anchor Thin News File (5.29)</title>
-      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</guid>
-      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI Trends] OpenAI Moves AI From Safety to Hospitals (5.29)</title>
-      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</link>
-      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</guid>
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
@@ -206,11 +186,30 @@
       <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
     <item>
+      <title>[News Briefing] Major Wires Anchor Thin News File (5.29)</title>
+      <link>https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/news-briefing-2026-05-29-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
+    </item>
+    <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (1편)</title>
       <link>https://velog.io/@minority_report/23년-동안-망하지-않은-동네슈퍼를-데이터로-분석해보려-합니다.-1편</link>
       <description>동네 슈퍼마켓에서 자란 내가, 장사의 현장을 데이터와 AI로 다시 읽어보려는 이유</description>
       <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-망하지-않은-동네슈퍼를-데이터로-분석해보려-합니다.-1편</guid>
       <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 11~12주차: 페이먼츠 3단계 미션 &amp; useEffect 원정대] 미션이 생각보다 빡세네요.. 살려주세요</title>
+      <link>https://velog.io/@gamjaismine02/우테코-1112주차-페이먼츠-3단계-미션-useEffect-원정대-미션이-생각보다-빡세네요-살려주세요</link>
+      <description>시간이 너무 빠른데 내가 뭘 할 수 있을까?</description>
+      <guid isPermaLink="false">https://velog.io/@gamjaismine02/우테코-1112주차-페이먼츠-3단계-미션-useEffect-원정대-미션이-생각보다-빡세네요-살려주세요</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI Trends] OpenAI Moves AI From Safety to Hospitals (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-en</guid>
+      <pubDate>Sat, 30 May 2026 17:25:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
