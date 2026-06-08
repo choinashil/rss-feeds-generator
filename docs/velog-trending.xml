@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 07 Jun 2026 17:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:00:39 +0000</lastBuildDate>
     <item>
       <title>(번역) Tailwind에서 벗어나기, 그리고 CSS 구조화 방법 배우기</title>
       <link>https://velog.io/@tap_kim/moving-away-from-tailwind-and-learning-to-structure-my-css-</link>
@@ -30,25 +30,11 @@
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>외부 API 검색 결과가 비어 있을 때, 백엔드에서 보완 검색하기</title>
-      <link>https://velog.io/@riverhee/외부-API-검색-결과가-비어-있을-때-백엔드에서-보완-검색하기</link>
-      <description>SQLD 시험을 앞두고 공부를 하던 중, 함께 프로젝트를 진행하고 있는 선배님께 연락이 왔다. 현재 진행 중인 프로젝트에는 선수 검색 기능이 있다.사용자가 선수 이름이나 키워드를 입력하면, 해당 키워드와 관련된 선수 목록을 외부 API를 통해 조회한 뒤 화면에 보여주는...</description>
-      <guid isPermaLink="false">https://velog.io/@riverhee/외부-API-검색-결과가-비어-있을-때-백엔드에서-보완-검색하기</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>일본 IT업계 분위기는 실제로 어떨까?</title>
-      <link>https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</link>
-      <description>안녕하세요. 18년 동안 일본 IT 업계에서 소프트웨어 엔지니어이자 PM으로 활동하고 있는 개발자입니다. 5년 전부터는 프리랜서로 전향해 도쿄에서 나름의 루틴을 만들며 즐겁게 일하고 있습니다.최근 일본 취업을 진지하게 고민하는 후배님들에게 제가 현장에서 직접 느끼고 경...</description>
-      <guid isPermaLink="false">https://velog.io/@nimbus9030/일본-IT업계-분위기는-실제로-어떨까</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>🏠 출시부터가 진짜다.. 이탈률과의 싸움부터 uibowl 공모전 1위 수상까지</title>
-      <link>https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</link>
-      <description>혼자 공부하는 게 집중이 안 된다면? 사이드 프로젝트로 시작한 서비스 "모각작".. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 1위 수상까지</description>
-      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
+      <title>우편번호 조회 서비스 만들기 대작전</title>
+      <link>https://velog.io/@yellowstarr/우편번호-조회-서비스-만들기-대작전</link>
+      <description>들어가며 처음엔 선배가 우편번호 조회 서비스를 만들면 신입 개발자로 많은 것을 경험할 수 있다고 하셔서 아무 생각없이 시작해보았다. 설계 이름은 ZipKR(Zone Improvement Plan Korea) 대충 우편번호 조회서비스 한국판이라는 뜻이다.... 주소 자동...</description>
+      <guid isPermaLink="false">https://velog.io/@yellowstarr/우편번호-조회-서비스-만들기-대작전</guid>
+      <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
     </item>
     <item>
       <title>군대에서 부대 셔틀버스 예약 시스템을 런칭하고 전대장 상장을 받기까지</title>
@@ -58,39 +44,11 @@
       <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>바이브 코딩으로 사이드 프로젝트 하기</title>
-      <link>https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</link>
-      <description>나는 지금 까지 사이드 프로젝트를 길게 유지 해본적이 없다뭔가 만들다가 의욕이 사라져서 그만두거나 그냥 만들고 쓰지 않고 사라지거나 하는 것 뿐이였다.AI가 발전함에 따라 사이드 프로젝트의 진행하기도 쉬워졌지만 그 이후에도 3번 정도 시도하였지만 번번히 실패하였다 그리...</description>
-      <guid isPermaLink="false">https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</guid>
-      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>우편번호 조회 서비스 만들기 대작전</title>
-      <link>https://velog.io/@yellowstarr/우편번호-조회-서비스-만들기-대작전</link>
-      <description>들어가며 처음엔 선배가 우편번호 조회 서비스를 만들면 신입 개발자로 많은 것을 경험할 수 있다고 하셔서 아무 생각없이 시작해보았다. 설계 이름은 ZipKR(Zone Improvement Plan Korea) 대충 우편번호 조회서비스 한국판이라는 뜻이다.... 주소 자동...</description>
-      <guid isPermaLink="false">https://velog.io/@yellowstarr/우편번호-조회-서비스-만들기-대작전</guid>
-      <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨2 회고] 날카로움이 무기가 되지 않기를</title>
-      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</link>
-      <description>우아한테크코스 8기 FE 레벨2 1-4주차 회고</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-날카로움이-무기가-되지-않기를</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>폼에 UX 챙길수록 코드가 더러워지길래 formdraft를 만들었습니다</title>
-      <link>https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</link>
-      <description>회원가입 폼 새로고침에 20분 입력이 날아간 적 있나요? React 폼에 자동저장 + 오프라인 + 멀티탭 충돌 + 비번 reentry까지 챙기는 라이브러리 만들었습니다. 5.8 KB, 의존성 0개. npm에 올린 formdraft</description>
-      <guid isPermaLink="false">https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</guid>
-      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>지방대 문과생이 서울대에서 충격받은 것</title>
-      <link>https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</link>
-      <description>저는 한국해양대학교에 현재 휴학 중인 23학번입니다. 저는 저희 학번이 소위 말하는 AI-native 학번에 가깝다고 생각합니다. 입학하자마자 ChatGPT가 사람들 입에 오르내리기 시작했고, Bard, Gemini, Claude 같은 서비스들이 계속 등장했습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</guid>
-      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
+      <title>🏠 출시부터가 진짜다.. 이탈률과의 싸움부터 uibowl 공모전 1위 수상까지</title>
+      <link>https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</link>
+      <description>혼자 공부하는 게 집중이 안 된다면? 사이드 프로젝트로 시작한 서비스 "모각작".. 출시 후 3달 동안 이탈률과의 싸움부터 uibowl 공모전 1위 수상까지</description>
+      <guid isPermaLink="false">https://velog.io/@ah_yo_ninde_yo/출시부터가-진짜다..-이탈률과의-싸움부터-uibowl-공모전-수상까지</guid>
+      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
       <title>Spring CGLIB에 기여했습니다</title>
@@ -100,6 +58,27 @@
       <pubDate>Fri, 05 Jun 2026 17:36:59 +0000</pubDate>
     </item>
     <item>
+      <title>지방대 문과생이 서울대에서 충격받은 것</title>
+      <link>https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</link>
+      <description>저는 한국해양대학교에 현재 휴학 중인 23학번입니다. 저는 저희 학번이 소위 말하는 AI-native 학번에 가깝다고 생각합니다. 입학하자마자 ChatGPT가 사람들 입에 오르내리기 시작했고, Bard, Gemini, Claude 같은 서비스들이 계속 등장했습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/지방대-문과생이-서울대에서-충격받은-것</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>바이브 코딩으로 사이드 프로젝트 하기</title>
+      <link>https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</link>
+      <description>나는 지금 까지 사이드 프로젝트를 길게 유지 해본적이 없다뭔가 만들다가 의욕이 사라져서 그만두거나 그냥 만들고 쓰지 않고 사라지거나 하는 것 뿐이였다.AI가 발전함에 따라 사이드 프로젝트의 진행하기도 쉬워졌지만 그 이후에도 3번 정도 시도하였지만 번번히 실패하였다 그리...</description>
+      <guid isPermaLink="false">https://velog.io/@kjh48001/바이브-코딩으로-사이드-프로젝트-하기</guid>
+      <pubDate>Wed, 03 Jun 2026 18:28:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>폼에 UX 챙길수록 코드가 더러워지길래 formdraft를 만들었습니다</title>
+      <link>https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</link>
+      <description>회원가입 폼 새로고침에 20분 입력이 날아간 적 있나요? React 폼에 자동저장 + 오프라인 + 멀티탭 충돌 + 비번 reentry까지 챙기는 라이브러리 만들었습니다. 5.8 KB, 의존성 0개. npm에 올린 formdraft</description>
+      <guid isPermaLink="false">https://velog.io/@mayrang/폼에-UX-챙길수록-코드가-더러워지길래-formdraft를-만들었습니다-ri4zcwgf</guid>
+      <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
+    </item>
+    <item>
       <title>QR 스캔, 기본 앱은 재미없잖아</title>
       <link>https://velog.io/@528528abcd/QR-스캔-기본-앱은-재미없잖아</link>
       <description>사실 재미로 하는 건 아니고 기본 카메라 앱 켜기 귀찮을텐데 어디까지나 UX적인 측면에서 웅얼웅얼..</description>
@@ -107,11 +86,18 @@
       <pubDate>Mon, 01 Jun 2026 18:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>AWS Summit Seoul 2026 후기</title>
-      <link>https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</link>
-      <description>5월 20~21일에 열린 AWS Summit Seoul 2026에 다녀왔습니다!! 다녀온 후기를 작성하려고 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@iamtaekjun/AWS-Summit-Seoul-2026-후기</guid>
-      <pubDate>Mon, 25 May 2026 17:34:05 +0000</pubDate>
+      <title>도망치는 건 부끄럽지만 도움이 됐다</title>
+      <link>https://velog.io/@hongsinugget/도망치는-건-부끄럽지만-도움이-됐다</link>
+      <description>6월이 되었으니 상반기 회고를 겸해.. 저에 대한 이야기를 조금 써보려고 합니다.반년 뒤에 이 글을 다시 읽게 될 제 모습도 궁금하기도 하구요. 어쩌면 스스로 흑역사를 만드는 것일 수도 있겠지만, 그런 기록도 나쁘지 않다고 생각합니다</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/도망치는-건-부끄럽지만-도움이-됐다</guid>
+      <pubDate>Fri, 05 Jun 2026 17:36:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 상반기 현대오토에버 1차 면접 합격 회고</title>
+      <link>https://velog.io/@jpy1030/2026-상반기-현대오토에버-1차-면접-합격-회고</link>
+      <description>면접 탈락 PTSD 이겨내기 🚗</description>
+      <guid isPermaLink="false">https://velog.io/@jpy1030/2026-상반기-현대오토에버-1차-면접-합격-회고</guid>
+      <pubDate>Sat, 06 Jun 2026 17:27:53 +0000</pubDate>
     </item>
     <item>
       <title>Next.js 길치</title>
@@ -128,39 +114,11 @@
       <pubDate>Tue, 02 Jun 2026 18:17:33 +0000</pubDate>
     </item>
     <item>
-      <title>딥워크</title>
-      <link>https://velog.io/@kpeel5839/딥워크</link>
-      <description>딥워크란 무엇일까</description>
-      <guid isPermaLink="false">https://velog.io/@kpeel5839/딥워크</guid>
-      <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>도망치는 건 부끄럽지만 도움이 됐다</title>
-      <link>https://velog.io/@hongsinugget/도망치는-건-부끄럽지만-도움이-됐다</link>
-      <description>6월이 되었으니 상반기 회고를 겸해.. 저에 대한 이야기를 조금 써보려고 합니다.반년 뒤에 이 글을 다시 읽게 될 제 모습도 궁금하기도 하구요. 어쩌면 스스로 흑역사를 만드는 것일 수도 있겠지만, 그런 기록도 나쁘지 않다고 생각합니다</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/도망치는-건-부끄럽지만-도움이-됐다</guid>
-      <pubDate>Fri, 05 Jun 2026 17:36:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Supabase Realtime으로 실시간 데이터 가져오는 '척'</title>
       <link>https://velog.io/@528528abcd/Supabase-Realtime으로-실시간-데이터-가져오는-척</link>
       <description>대시보드 2편</description>
       <guid isPermaLink="false">https://velog.io/@528528abcd/Supabase-Realtime으로-실시간-데이터-가져오는-척</guid>
       <pubDate>Thu, 04 Jun 2026 17:53:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 상반기 현대오토에버 1차 면접 합격 회고</title>
-      <link>https://velog.io/@jpy1030/2026-상반기-현대오토에버-1차-면접-합격-회고</link>
-      <description>면접 탈락 PTSD 이겨내기 🚗</description>
-      <guid isPermaLink="false">https://velog.io/@jpy1030/2026-상반기-현대오토에버-1차-면접-합격-회고</guid>
-      <pubDate>Sat, 06 Jun 2026 17:27:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>7주차 과제</title>
-      <link>https://velog.io/@kny337/7주차-과제</link>
-      <description>kny-introduction.vercel.app</description>
-      <guid isPermaLink="false">https://velog.io/@kny337/7주차-과제</guid>
-      <pubDate>Sun, 31 May 2026 17:25:23 +0000</pubDate>
     </item>
     <item>
       <title>React Compiler: 수동 최적화는 더 이상 필요없을까?</title>
@@ -170,13 +128,6 @@
       <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
     </item>
     <item>
-      <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
-      <link>https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</link>
-      <description>1. 수정사항 2. 배포 3. 이번 1학기 스터디 동안 느낀점</description>
-      <guid isPermaLink="false">https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</guid>
-      <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
-    </item>
-    <item>
       <title>데이터베이스가 없던 시절엔 어떻게 데이터를 저장했을까?</title>
       <link>https://velog.io/@fire_918/데이터베이스가-없던-시절엔-어떻게-데이터를-저장했을까</link>
       <description>SQL과 데이터베이스가 없던 시절 개발자들은 데이터를 어떻게 저장하고 관리했을까요? 파일 처리 시스템부터 DBMS의 등장 배경까지 정리해 보았습니다.</description>
@@ -184,30 +135,31 @@
       <pubDate>Fri, 05 Jun 2026 17:36:59 +0000</pubDate>
     </item>
     <item>
-      <title>우아한테크코스 8기 프론트엔드 레벨2 절반 회고, 잘 나가는 음식점에서 산다는것..</title>
-      <link>https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</link>
-      <description>나의 한달간의 레벨2 생활은 어땠을까 ? 그리고 나의 나머지 레벨2 생활은 어떻게 될까 ?</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/우아한테크코스-8기-프론트엔드-레벨2-절반-회고-잘-나가는-음식점에서-산다는것</guid>
-      <pubDate>Fri, 05 Jun 2026 17:36:59 +0000</pubDate>
+      <title>[FE 트러블슈팅] React Native 프로젝트를 Expo 로 마이그레이션 한 썰 풉니다</title>
+      <link>https://velog.io/@youyoy689/FE-트러블슈팅-React-Native-프로젝트를-Expo-로-마이그레이션-한-썰-풉니다</link>
+      <description>버리겠습니다 React Native를 \* 본 글은 (누가 봐도) AI 의 힘을 빌리지 않았습니다. \* 유용한 정보나 인사이트를 전달한다기보다는 개발 일지 형식의 가벼운 글임을 미리 알립니다. Expo로 마이그레이션 할 결심 재직 중인 회사에서 여러가지 프로젝트...</description>
+      <guid isPermaLink="false">https://velog.io/@youyoy689/FE-트러블슈팅-React-Native-프로젝트를-Expo-로-마이그레이션-한-썰-풉니다</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
     </item>
     <item>
-      <title>7차시 회고록</title>
-      <link>https://velog.io/@jiyoeo/7차시-회고록</link>
-      <guid isPermaLink="false">https://velog.io/@jiyoeo/7차시-회고록</guid>
+      <title>CrowdSec 야호~!</title>
+      <link>https://velog.io/@hahnwoong/CrowdSec-야호</link>
+      <description>AI때문에 점점 쉬워지는 해킹. 어떻게 방지해볼수있는 방법이 없을까?</description>
+      <guid isPermaLink="false">https://velog.io/@hahnwoong/CrowdSec-야호</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>멋사 프론트엔드 7주차(1학기 마지막 스터디) 회고록</title>
+      <link>https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</link>
+      <description>1. 수정사항 2. 배포 3. 이번 1학기 스터디 동안 느낀점</description>
+      <guid isPermaLink="false">https://velog.io/@sloth_slys/멋사-프론트엔드-7주차1학기-마지막-스터디-회고록</guid>
       <pubDate>Tue, 26 May 2026 18:01:35 +0000</pubDate>
     </item>
     <item>
-      <title>대시보드에 Lazy Fetch를 적용하며</title>
-      <link>https://velog.io/@gonasooc/대시보드에-Lazy-Fetch를-적용하며</link>
-      <description>대시보드 화면을 만들다 보면 자연스럽게 한 페이지에 많은 섹션이 모이게 된다. 최근 작업한 대시보드의 최상단에는 요약 카드가 있고, 그 밑으로 플랫폼별 매출 차트, 수익 비중 도넛 차트, 월별 추이 등 내부 요구사항에 맞춰 섹션을 하나씩 추가하다 보니 꽤 많은 섹션이 ...</description>
-      <guid isPermaLink="false">https://velog.io/@gonasooc/대시보드에-Lazy-Fetch를-적용하며</guid>
-      <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[kotlin] 수신 객체 지정 람다의 철학은?</title>
-      <link>https://velog.io/@noeyh_0j/kotlin-수신-객체-지정-람다의-철학은</link>
-      <description>코드를 뜯고 싶고 맛보고 즐기는 개발자가 되고자 하는 개발자 꿈나무 김조현입니다.이번 글에서는 수신 객체 지정 람다의 철학에 대해 알아보고자 합니다.withContext를 뜯어보는 중에 문뜩 일반 람다가 아닌 CoroutineScope.() → T를 사용한 것을 확인했...</description>
-      <guid isPermaLink="false">https://velog.io/@noeyh_0j/kotlin-수신-객체-지정-람다의-철학은</guid>
+      <title>딥워크</title>
+      <link>https://velog.io/@kpeel5839/딥워크</link>
+      <description>딥워크란 무엇일까</description>
+      <guid isPermaLink="false">https://velog.io/@kpeel5839/딥워크</guid>
       <pubDate>Sun, 07 Jun 2026 17:31:05 +0000</pubDate>
     </item>
     <item>
@@ -216,6 +168,53 @@
       <description>혼자 AWS Summit Seoul 2026 갔다온 썰</description>
       <guid isPermaLink="false">https://velog.io/@d159123/AWS-Summit-Seoul-2026-후기</guid>
       <pubDate>Sat, 06 Jun 2026 17:27:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>생각을 하세요</title>
+      <link>https://velog.io/@himprover/생각을-하세요</link>
+      <description>일단 나부터</description>
+      <guid isPermaLink="false">https://velog.io/@himprover/생각을-하세요</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>학생회 단톡방에 AI 봇 도입하기 (2024)</title>
+      <link>https://velog.io/@minority_report/학생회-단톡방에-AI-봇-도입하기-2024</link>
+      <description>2024년, 저는 조직 단톡방에 AI를 붙여보고 싶었습니다.요즘 말로 하면 AI-native 조직을 만들어보고 싶었다고 할 수도 있겠지만,당시에는 그렇게 거창하게 생각한 것은 아니었습니다.그냥 사람들이 이미 쓰고 있는 카카오톡 단톡방 안에서, 필요한 정보를 바로 가져오...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/학생회-단톡방에-AI-봇-도입하기-2024</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI Trends] OpenAI Governance, AI Agents Shape May 28 (5.28)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-28-en</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 에이전트가 맨날 같은 실수를 반복하는 이유 — 하네스 엔지니어링 입문</title>
+      <link>https://velog.io/@ssafy_elonmusk/하네스-엔지니어링-Harness-Engineering-이란</link>
+      <description>코딩 에이전트를 쓰다 보면 자연스럽게 드는 의문이 있다."왜 이 에이전트는 맨날 같은 실수를 반복하지?"세션이 바뀌면 에이전트는 리셋된다. 어제 고쳐준 것도, 아키텍처 규칙도, "이건 하지 마"라고 했던 것도 전부 사라진다. 그래서 사람들은 프롬프트를 더 정교하게 쓰려...</description>
+      <guid isPermaLink="false">https://velog.io/@ssafy_elonmusk/하네스-엔지니어링-Harness-Engineering-이란</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[최신 AI 트렌드] OpenAI, 바이오방어·의료·평가로 적용면 넓혀 (5.29)</title>
+      <link>https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</link>
+      <guid isPermaLink="false">https://velog.io/@hyuckjin/ai-trends-ai-2026-05-29-ko</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>NestJS 소셜 로그인 3사 구현</title>
+      <link>https://velog.io/@jinhjlog/NestJS-소셜-로그인-3사-구현</link>
+      <description>구글·카카오·네이버 소셜 로그인을 구현한 과정을 정리한다.이전 외주사의 OAuth 앱 키 문제, 레거시 유저 매칭 전략, 그리고 OAuth 키 없이 프론트 협업을 위해 Mock Provider를 만든 이야기까지.</description>
+      <guid isPermaLink="false">https://velog.io/@jinhjlog/NestJS-소셜-로그인-3사-구현</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>포켓몬 카드 한 팩에 5만 원? 내가 왜 그걸 샀는지 이제 알겠어요</title>
+      <link>https://velog.io/@cosmic_hustle/포켓몬-카드-한-팩에-5만-원-내가-왜-그걸-샀는지-이제-알겠어요</link>
+      <description>편의점 앞에서 포켓몬 카드 팩을 뜯는 어른들, 요즘 심심찮게 보이지 않나요? 그것도 한 팩이 아니라 열 팩씩. 유튜브엔 "포켓몬 카드 박스 개봉" 영상이 수백만 뷰를 찍고 있고, 중고 거래 앱엔 카드 한 장이 수십만 원에 올라옵니다.</description>
+      <guid isPermaLink="false">https://velog.io/@cosmic_hustle/포켓몬-카드-한-팩에-5만-원-내가-왜-그걸-샀는지-이제-알겠어요</guid>
+      <pubDate>Mon, 08 Jun 2026 18:00:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
