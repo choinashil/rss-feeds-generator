@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:35:35 +0000</lastBuildDate>
     <item>
       <title>더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?</title>
       <link>https://velog.io/@teo/ai-era-developer-role</link>
@@ -44,6 +44,13 @@
       <pubDate>Wed, 17 Jun 2026 17:54:14 +0000</pubDate>
     </item>
     <item>
+      <title>2026 상반기 현대오토에버 2차 면접 합격 회고(feat. 최종 합격)</title>
+      <link>https://velog.io/@jpy1030/2026-상반기-현대오토에버-2차-면접-합격-회고feat.-최종-합격</link>
+      <description>최종 합격 후기 가져왔습니다 🍀</description>
+      <guid isPermaLink="false">https://velog.io/@jpy1030/2026-상반기-현대오토에버-2차-면접-합격-회고feat.-최종-합격</guid>
+      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+    </item>
+    <item>
       <title>2026년 React를 사용하면서 중요하게 느낀 설계 원칙</title>
       <link>https://velog.io/@jin566/2026년-React를-사용하면서-중요하게-느낀-설계-원칙</link>
       <description>리액트를 계속 사용해보면서 느끼는건, 좋은 리액트 앱은 컴포넌트를 많이 만드는 것이 아니라 "상태"를 어디에 둘지 결정하는 것에 가깝다는 점입니다.초기 리액트로 개발할때는 컴포넌트를 잘게 나누고, 공통 컴포넌트 잘 만들고, 전역 상태 구조 잘 설계하는 것을 리액트 개...</description>
@@ -63,13 +70,6 @@
       <description>(출처; 민형규님, PhD Biostatistics, UNC, https://hgmin1159.github.io/quantum/quantum2/) 개발자라면 파이썬(Python)으로 코딩을 할 때 위에서 아래로 흐르는 텍스트 형태의 논리 구조(조건문, 반복문 ...</description>
       <guid isPermaLink="false">https://velog.io/@hyunide/day3.1</guid>
       <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 상반기 현대오토에버 2차 면접 합격 회고(feat. 최종 합격)</title>
-      <link>https://velog.io/@jpy1030/2026-상반기-현대오토에버-2차-면접-합격-회고feat.-최종-합격</link>
-      <description>최종 합격 후기 가져왔습니다 🍀</description>
-      <guid isPermaLink="false">https://velog.io/@jpy1030/2026-상반기-현대오토에버-2차-면접-합격-회고feat.-최종-합격</guid>
-      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
       <title>무중단 배포 톺아보기</title>
@@ -107,13 +107,6 @@
       <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
     </item>
     <item>
-      <title>구글 콜랩(Colab)에서 5분 만에 Qiskit 1.x 세팅하기</title>
-      <link>https://velog.io/@hyunide/day2.2</link>
-      <description>(사진, 양자 컴퓨터 하드웨어를 움직이고 알고리즘을 설계하기 위한 언어와 도구(SDK)는 여러 종류가 있습니다. 하지만 베네타리저브팀이 선택하고 제가 공부하고 있는 도구는 단연 IBM의 키스킷(Qiskit)입니다.이유는 명확합니다. 글로벌 양자 생태계에서 가장 압도적인...</description>
-      <guid isPermaLink="false">https://velog.io/@hyunide/day2.2</guid>
-      <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
-    </item>
-    <item>
       <title>Vercel은 이제 그만</title>
       <link>https://velog.io/@dev_102/Vercel은-이제-그만</link>
       <description>프론트엔드를 공부하며 프로젝트를 진행하다 보면 대부분 Vercel을 통해 배포를 경험하게 된다. 하지만 한 단계 더 성장하고 싶다면 Vercel에만 머무르지 말고 다양한 배포 환경에도 도전해보는 것은 어떨까?</description>
@@ -121,24 +114,11 @@
       <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>900만건 검색 결과가 JVM을 죽인 이유 - OOM 장애분석기</title>
-      <link>https://velog.io/@hana0627/900만건-검색-결과가-JVM을-죽인-이유-OOM-장애분석기</link>
-      <description>@긴급 모든 페이지 작동이 안됩니다.</description>
-      <guid isPermaLink="false">https://velog.io/@hana0627/900만건-검색-결과가-JVM을-죽인-이유-OOM-장애분석기</guid>
-      <pubDate>Wed, 17 Jun 2026 17:54:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자가 한 달 동안 카페 알바를 하며 느낀 점</title>
-      <link>https://velog.io/@theemptypott/개발자가-한-달-동안-카페-알바를-하며-느낀-점</link>
-      <guid isPermaLink="false">https://velog.io/@theemptypott/개발자가-한-달-동안-카페-알바를-하며-느낀-점</guid>
+      <title>구글 콜랩(Colab)에서 5분 만에 Qiskit 1.x 세팅하기</title>
+      <link>https://velog.io/@hyunide/day2.2</link>
+      <description>(사진, 양자 컴퓨터 하드웨어를 움직이고 알고리즘을 설계하기 위한 언어와 도구(SDK)는 여러 종류가 있습니다. 하지만 베네타리저브팀이 선택하고 제가 공부하고 있는 도구는 단연 IBM의 키스킷(Qiskit)입니다.이유는 명확합니다. 글로벌 양자 생태계에서 가장 압도적인...</description>
+      <guid isPermaLink="false">https://velog.io/@hyunide/day2.2</guid>
       <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>성실하던 동료들이 AI 앞에서 먼저 번아웃이 왔다</title>
-      <link>https://velog.io/@bumkyu98/developer-ai-burnout</link>
-      <description>AI가 나오자 시키는 것만 하던 나는 불이 붙었고, 갓생 살던 동료들은 번아웃이 왔다. 성실한 개발자일수록 AI 앞에서 먼저 식는 이유와, 거기서 내가 본 것.</description>
-      <guid isPermaLink="false">https://velog.io/@bumkyu98/developer-ai-burnout</guid>
-      <pubDate>Tue, 16 Jun 2026 18:30:55 +0000</pubDate>
     </item>
     <item>
       <title>나는 AI로 개발하지 않기로 했다.</title>
@@ -148,18 +128,31 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
+      <title>개발자가 한 달 동안 카페 알바를 하며 느낀 점</title>
+      <link>https://velog.io/@theemptypott/개발자가-한-달-동안-카페-알바를-하며-느낀-점</link>
+      <guid isPermaLink="false">https://velog.io/@theemptypott/개발자가-한-달-동안-카페-알바를-하며-느낀-점</guid>
+      <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>900만건 검색 결과가 JVM을 죽인 이유 - OOM 장애분석기</title>
+      <link>https://velog.io/@hana0627/900만건-검색-결과가-JVM을-죽인-이유-OOM-장애분석기</link>
+      <description>@긴급 모든 페이지 작동이 안됩니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hana0627/900만건-검색-결과가-JVM을-죽인-이유-OOM-장애분석기</guid>
+      <pubDate>Wed, 17 Jun 2026 17:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>성실하던 동료들이 AI 앞에서 먼저 번아웃이 왔다</title>
+      <link>https://velog.io/@bumkyu98/developer-ai-burnout</link>
+      <description>AI가 나오자 시키는 것만 하던 나는 불이 붙었고, 갓생 살던 동료들은 번아웃이 왔다. 성실한 개발자일수록 AI 앞에서 먼저 식는 이유와, 거기서 내가 본 것.</description>
+      <guid isPermaLink="false">https://velog.io/@bumkyu98/developer-ai-burnout</guid>
+      <pubDate>Tue, 16 Jun 2026 18:30:55 +0000</pubDate>
+    </item>
+    <item>
       <title>하네스엔지니어링으로 죽은 프로젝트 되살리기</title>
       <link>https://velog.io/@jodheeee/버려진-프로젝트를-AI와-함께-살려낸-기록</link>
       <description>버려진 프로젝트를 하네스 엔지니어링으로 소생시키기</description>
       <guid isPermaLink="false">https://velog.io/@jodheeee/버려진-프로젝트를-AI와-함께-살려낸-기록</guid>
       <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI는 현시점 어디쯤 흘러가는걸까?</title>
-      <link>https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</link>
-      <description>요즘 에이전트가 어떤 식으로 흘러가고 있는지 살펴봐요</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</guid>
-      <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
       <title>[퀀텀 컴퓨팅] 파인만의 '빛 반사 실험'으로 단숨에 이해하는 양자 연산의 진짜 원리</title>
@@ -169,6 +162,13 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
+      <title>AI는 현시점 어디쯤 흘러가는걸까?</title>
+      <link>https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</link>
+      <description>요즘 에이전트가 어떤 식으로 흘러가고 있는지 살펴봐요</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</guid>
+      <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
+    </item>
+    <item>
       <title>컴공 5대과목 후기</title>
       <link>https://velog.io/@oyc0401/컴공-5대과목-후기</link>
       <description>이번 학기에 운영체제, 데이터베이스, 컴퓨터구조론, 알고리즘, 네트워크를 한꺼번에 들으며 겪은 내용을 담은 좌충우돌 스토리</description>
@@ -176,25 +176,18 @@
       <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code에서 디폴트로 Auto Mode 사용하기 (Windows·Linux)</title>
-      <link>https://velog.io/@euisuk-chung/Claude-Code에서-디폴트로-Auto-Mode-사용하기</link>
-      <description>요즘은 AI Agent에게 작업 대부분을 맡기는 시대입니다. 코드를 읽고 고치는 일은 물론이고, 셸 명령을 실행하고 환경을 정리하는 일까지 Agent에게 위임하는 흐름이 점점 자연스러워지고 있습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@euisuk-chung/Claude-Code에서-디폴트로-Auto-Mode-사용하기</guid>
-      <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SSAFY] 16기 1차 합격 후기 전공자</title>
-      <link>https://velog.io/@samdaeoback/SSAFY-16기-지원-후기전공자</link>
-      <description>싸피 16기 인터뷰 대상자 합격 후기 입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@samdaeoback/SSAFY-16기-지원-후기전공자</guid>
-      <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자에서 공기업으로</title>
       <link>https://velog.io/@minbo/개발자에서-공기업으로</link>
       <description>안녕하세요.저는 대학교 3학년 때 프론트엔드 개발자가 되겠다는 목표를 가지고 휴학을 했습니다. 부트캠프에 참여하며 본격적으로 개발자의 길에 들어섰고, 복학 후에는 학교 개발 동아리에서 실제 사용자를 대상으로 하는 프로젝트를 진행하며 전문성을 쌓아갔습니다.졸업이 가까워질...</description>
       <guid isPermaLink="false">https://velog.io/@minbo/개발자에서-공기업으로</guid>
       <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code에서 디폴트로 Auto Mode 사용하기 (Windows·Linux)</title>
+      <link>https://velog.io/@euisuk-chung/Claude-Code에서-디폴트로-Auto-Mode-사용하기</link>
+      <description>요즘은 AI Agent에게 작업 대부분을 맡기는 시대입니다. 코드를 읽고 고치는 일은 물론이고, 셸 명령을 실행하고 환경을 정리하는 일까지 Agent에게 위임하는 흐름이 점점 자연스러워지고 있습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@euisuk-chung/Claude-Code에서-디폴트로-Auto-Mode-사용하기</guid>
+      <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
     </item>
     <item>
       <title>성급한 추상화를 매우 싫어하는 사람의 Layout Component</title>
@@ -211,11 +204,18 @@
       <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
     </item>
     <item>
-      <title>2026 상반기 회고: 신입 백엔드 개발자 4개월 차의 기록</title>
-      <link>https://velog.io/@dob-by/2026-상반기-회고-신입-개발자-4개월-차의-기록</link>
-      <description>조금 늦었을 뿐이고, 잠시 우선순위를 조정했을 뿐이다.2026년 상반기는 개발자로서의 첫 적응기였다.새로운 환경에서 업무를 배우고, 내가 할 수 있는 것과 할 수 없는 것을 인정하는 방법을 배웠다. 계획했던 것들을 모두 이루지는 못했지만 그 과정에서 우선순위를 정하는 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dob-by/2026-상반기-회고-신입-개발자-4개월-차의-기록</guid>
-      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+      <title>이제 누가 로딩 처리해주냐</title>
+      <link>https://velog.io/@gs0428/이제-누가-로딩-처리해주냐</link>
+      <description>에러는? 로딩은? 누가 처리할래?</description>
+      <guid isPermaLink="false">https://velog.io/@gs0428/이제-누가-로딩-처리해주냐</guid>
+      <pubDate>Fri, 26 Jun 2026 17:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>당신의 컴포넌트는 안녕하신가요? (feat. React Component)</title>
+      <link>https://velog.io/@dev_102/당신의-컴포넌트는-안녕하신가요</link>
+      <description>Props가 많아질수록, 재사용은 멀어집니다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev_102/당신의-컴포넌트는-안녕하신가요</guid>
+      <pubDate>Fri, 26 Jun 2026 17:35:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
