@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:36:52 +0000</lastBuildDate>
     <item>
       <title>더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?</title>
       <link>https://velog.io/@teo/ai-era-developer-role</link>
@@ -30,13 +30,6 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 브레이크포인트 없이 UI 만들기</title>
-      <link>https://velog.io/@tap_kim/building-a-ui-without-breakpoints</link>
-      <description>이 글은 더 현대적인 웹에 잘 맞는 접근 방식을 제안합니다. 기본적으로 적응하는 유동적이고 내재적인(intrinsic) 컴포넌트를 만들고, 조건부 규칙은 지역적이고 의도적인 예외로 취급하는 것입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/building-a-ui-without-breakpoints</guid>
-      <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
-    </item>
-    <item>
       <title>앱인토스 찍먹해보기</title>
       <link>https://velog.io/@dbwls/앱인토스-찍먹해보기</link>
       <description>토스 앱 안에 내 서비스를 미니앱으로 넣을 수 있다는 걸 알게 됐다. 토스 사용자가 3천만 명이라는데, 그 안에 내가 만든 걸 슬쩍 끼워 넣을 수 있다니 안 해볼 이유가 없었다.그래서 하나만 만들려다가, 어쩌다 보니 네 개를 만들었다.</description>
@@ -44,11 +37,11 @@
       <pubDate>Wed, 17 Jun 2026 17:54:14 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 React를 사용하면서 중요하게 느낀 설계 원칙</title>
-      <link>https://velog.io/@jin566/2026년-React를-사용하면서-중요하게-느낀-설계-원칙</link>
-      <description>리액트를 계속 사용해보면서 느끼는건, 좋은 리액트 앱은 컴포넌트를 많이 만드는 것이 아니라 "상태"를 어디에 둘지 결정하는 것에 가깝다는 점입니다.초기 리액트로 개발할때는 컴포넌트를 잘게 나누고, 공통 컴포넌트 잘 만들고, 전역 상태 구조 잘 설계하는 것을 리액트 개...</description>
-      <guid isPermaLink="false">https://velog.io/@jin566/2026년-React를-사용하면서-중요하게-느낀-설계-원칙</guid>
-      <pubDate>Tue, 16 Jun 2026 18:30:55 +0000</pubDate>
+      <title>설치 없이 SQL을 연습할 수 있는 웹 서비스, NULL지마 개발기</title>
+      <link>https://velog.io/@donghyuk65/설치-없이-SQL을-연습할-수-있는-웹-서비스-NULL지마-개발기</link>
+      <description>“SQL 공부는 하고 싶은데, 마땅한 데이터셋도 없고 DB 설치부터 너무 막막해요…”대학 시절 SQL을 처음 배울 때 제가 느꼈던 가장 큰 벽이었습니다.책에 나오는 SQL 이론과 문법은 어느 정도 이해할 수 있었습니다.하지만 막상 직접 실행해보려고 하면 생각보다 많은 ...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/설치-없이-SQL을-연습할-수-있는-웹-서비스-NULL지마-개발기</guid>
+      <pubDate>Sun, 21 Jun 2026 17:32:53 +0000</pubDate>
     </item>
     <item>
       <title>첫 시작은 벨 부등식과 양자역학!</title>
@@ -65,11 +58,18 @@
       <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>설치 없이 SQL을 연습할 수 있는 웹 서비스, NULL지마 개발기</title>
-      <link>https://velog.io/@donghyuk65/설치-없이-SQL을-연습할-수-있는-웹-서비스-NULL지마-개발기</link>
-      <description>“SQL 공부는 하고 싶은데, 마땅한 데이터셋도 없고 DB 설치부터 너무 막막해요…”대학 시절 SQL을 처음 배울 때 제가 느꼈던 가장 큰 벽이었습니다.책에 나오는 SQL 이론과 문법은 어느 정도 이해할 수 있었습니다.하지만 막상 직접 실행해보려고 하면 생각보다 많은 ...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/설치-없이-SQL을-연습할-수-있는-웹-서비스-NULL지마-개발기</guid>
-      <pubDate>Sun, 21 Jun 2026 17:32:53 +0000</pubDate>
+      <title>나는 AI로 개발하지 않기로 했다.</title>
+      <link>https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</link>
+      <description>안녕하세요 홍시너겟입니다.최근 벨로그가 좀 많이 불안정해서 옮길까 차원에 고민을 했는데 일단 올해는 옮기지 않기로 결정했어요.이 말을 한 이유는.. 본격적으로 시작할 내용의 이야기기 때문에 적어봅니다..</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</guid>
+      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>팀원 개인 블로그 DB 날린 썰</title>
+      <link>https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</link>
+      <description>3시간 동안 레전드 정병 멘헤라가 되다</description>
+      <guid isPermaLink="false">https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</guid>
+      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
     </item>
     <item>
       <title>Qiskit 1.x로 벨 부등식 깨부수기</title>
@@ -79,11 +79,11 @@
       <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
     </item>
     <item>
-      <title>나는 AI로 개발하지 않기로 했다.</title>
-      <link>https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</link>
-      <description>안녕하세요 홍시너겟입니다.최근 벨로그가 좀 많이 불안정해서 옮길까 차원에 고민을 했는데 일단 올해는 옮기지 않기로 결정했어요.이 말을 한 이유는.. 본격적으로 시작할 내용의 이야기기 때문에 적어봅니다..</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</guid>
-      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+      <title>Vercel은 이제 그만</title>
+      <link>https://velog.io/@dev_102/Vercel은-이제-그만</link>
+      <description>프론트엔드를 공부하며 프로젝트를 진행하다 보면 대부분 Vercel을 통해 배포를 경험하게 된다. 하지만 한 단계 더 성장하고 싶다면 Vercel에만 머무르지 말고 다양한 배포 환경에도 도전해보는 것은 어떨까?</description>
+      <guid isPermaLink="false">https://velog.io/@dev_102/Vercel은-이제-그만</guid>
+      <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
     </item>
     <item>
       <title>2026 상반기 회고 - 마침표를 찍으며</title>
@@ -91,13 +91,6 @@
       <description>벌써 한 해의 절반이 지났다.</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/2026-상반기-회고-마침표를-찍으며</guid>
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vercel은 이제 그만</title>
-      <link>https://velog.io/@dev_102/Vercel은-이제-그만</link>
-      <description>프론트엔드를 공부하며 프로젝트를 진행하다 보면 대부분 Vercel을 통해 배포를 경험하게 된다. 하지만 한 단계 더 성장하고 싶다면 Vercel에만 머무르지 말고 다양한 배포 환경에도 도전해보는 것은 어떨까?</description>
-      <guid isPermaLink="false">https://velog.io/@dev_102/Vercel은-이제-그만</guid>
-      <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
     </item>
     <item>
       <title>구글 콜랩(Colab)에서 5분 만에 Qiskit 1.x 세팅하기</title>
@@ -121,25 +114,11 @@
       <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
     </item>
     <item>
-      <title>팀원 개인 블로그 DB 날린 썰</title>
-      <link>https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</link>
-      <description>3시간 동안 레전드 정병 멘헤라가 되다</description>
-      <guid isPermaLink="false">https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</guid>
+      <title>채용 한파 속 2026 상반기 개발자 회고</title>
+      <link>https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</link>
+      <description>SI를 떠나 처음으로 성능과 동시성을 고민했고, 앱을 출시했다. 하지만 한계가 면접에서 드러났다. AI를 빠르게 쓰는 동안, 정작 엔지니어가 천천히 쌓아야 할 기본기는 비어 있었다. 텅 빈 얼음 같았던 2026년 상반기. 그래도 그 과정이 행복했던 회고</description>
+      <guid isPermaLink="false">https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</guid>
       <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>어릴 때 좋아했던 대항해시대2의 감각을 브라우저에 다시 만들어봤다</title>
-      <link>https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</link>
-      <description>완벽한 게임은 아니다.그래도 어릴 때 느꼈던 “작은 배 한 척으로 항구를 떠나는 기분”을 다시 만져보고 싶었다.어릴 때 대항해시대2를 정말 좋아했다.지금 와서 생각해보면 그 게임에서 오래 남은 건 특정 수치나 공략법보다 분위기였다. 낡은 지도 위에 찍힌 항구 이름, 작...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[퀀텀 컴퓨팅] 파인만의 '빛 반사 실험'으로 단숨에 이해하는 양자 연산의 진짜 원리</title>
-      <link>https://velog.io/@hyunide/day4.1</link>
-      <description>(빛은 단일한 하나의 경로로 가지 않는다. 영상 캡처 출처는 아래 클의 유튜브 링크 참고)안녕하세요. 베네타리저브(VENETA Reserve)의 이현주입니다.작년 여름 때쯤, 저는 우연히 리처드 파인만(Richard Feynman)의 양자 전기역학(QED) 강의를 다룬...</description>
-      <guid isPermaLink="false">https://velog.io/@hyunide/day4.1</guid>
-      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
       <title>개발자에서 공기업으로</title>
@@ -156,11 +135,25 @@
       <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
+      <title>[퀀텀 컴퓨팅] 파인만의 '빛 반사 실험'으로 단숨에 이해하는 양자 연산의 진짜 원리</title>
+      <link>https://velog.io/@hyunide/day4.1</link>
+      <description>(빛은 단일한 하나의 경로로 가지 않는다. 영상 캡처 출처는 아래 클의 유튜브 링크 참고)안녕하세요. 베네타리저브(VENETA Reserve)의 이현주입니다.작년 여름 때쯤, 저는 우연히 리처드 파인만(Richard Feynman)의 양자 전기역학(QED) 강의를 다룬...</description>
+      <guid isPermaLink="false">https://velog.io/@hyunide/day4.1</guid>
+      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+    </item>
+    <item>
       <title>성급한 추상화를 매우 싫어하는 사람의 Layout Component</title>
       <link>https://velog.io/@jhje5595/성급한-추상화AHA를-매우-싫어하는-사람의-Layout-Component</link>
       <description>운좋게 우테코 크루들과 컴포넌트에 대해서 토론 할 수 있는 기회가 생겼다.토론은 당일날 진행했던 수업 내용과 관련된 것이었다.수업에서는 아래 사진처럼 사람 프로필 / 그룹 프로필이 함께 렌더링될 때 컴포넌트를 어떻게 분리해볼지에 대해 이야기하는 것이었다.결론만 간략히 ...</description>
       <guid isPermaLink="false">https://velog.io/@jhje5595/성급한-추상화AHA를-매우-싫어하는-사람의-Layout-Component</guid>
       <pubDate>Sun, 21 Jun 2026 17:32:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>어릴 때 좋아했던 대항해시대2의 감각을 브라우저에 다시 만들어봤다</title>
+      <link>https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</link>
+      <description>완벽한 게임은 아니다.그래도 어릴 때 느꼈던 “작은 배 한 척으로 항구를 떠나는 기분”을 다시 만져보고 싶었다.어릴 때 대항해시대2를 정말 좋아했다.지금 와서 생각해보면 그 게임에서 오래 남은 건 특정 수치나 공략법보다 분위기였다. 낡은 지도 위에 찍힌 항구 이름, 작...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</guid>
+      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code에서 디폴트로 Auto Mode 사용하기 (Windows·Linux)</title>
@@ -170,18 +163,11 @@
       <pubDate>Thu, 18 Jun 2026 18:04:56 +0000</pubDate>
     </item>
     <item>
-      <title>AI는 현시점 어디쯤 흘러가는걸까?</title>
-      <link>https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</link>
-      <description>요즘 에이전트가 어떤 식으로 흘러가고 있는지 살펴봐요</description>
-      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</guid>
-      <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>텅 빈 얼음, 채용 한파 속 상반기 개발자 회고</title>
-      <link>https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</link>
-      <description>SI를 떠나 처음으로 성능과 동시성을 고민했고, 앱을 출시했다. 하지만 한계가 면접에서 드러났다. AI를 빠르게 쓰는 동안, 정작 엔지니어가 천천히 쌓아야 할 기본기는 비어 있었다. 텅 빈 얼음 같았던 2026년 상반기. 그래도 그 과정이 행복했던 회고</description>
-      <guid isPermaLink="false">https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+      <title>블랙툰 Blacktoon 접속 바로가기(2026)</title>
+      <link>https://velog.io/@tvwiki/Blacktoon</link>
+      <description>블랙툰은 무료 웹툰을 찾는 이용자들 사이에서 자주 검색되는 사이트 중 하나입니다. 최근에는 블랙툰 최신주소, 블랙툰 바로가기, 블랙툰 대체 사이트 등의 검색량도 꾸준히 증가하고 있습니다. 이번 글에서는 블랙툰의 특징과 이용 시 주의사항, 그리고 합법적으로 웹툰을 즐...</description>
+      <guid isPermaLink="false">https://velog.io/@tvwiki/Blacktoon</guid>
+      <pubDate>Tue, 30 Jun 2026 17:36:52 +0000</pubDate>
     </item>
     <item>
       <title>2026 상반기 회고: 신입 백엔드 개발자 4개월 차의 기록</title>
@@ -191,18 +177,11 @@
       <pubDate>Sat, 27 Jun 2026 17:26:03 +0000</pubDate>
     </item>
     <item>
-      <title>AI 코딩 시대에 사람이 필요할까?</title>
-      <link>https://velog.io/@dev_102/AI-코딩-시대에-사람이-필요할까</link>
-      <description>개발자로 살아남기</description>
-      <guid isPermaLink="false">https://velog.io/@dev_102/AI-코딩-시대에-사람이-필요할까</guid>
-      <pubDate>Sat, 27 Jun 2026 17:26:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>테스트 하네스란? (Test Harness)</title>
-      <link>https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</link>
-      <description>테스트 하네스에 대해 정리해보고자 한다. 테스트 하네스(Test Harness)? 테스트 하네스느 테스트를 수행하기 위해 필요한 테스트 코드 , 테스트 데이터 , Stub(스텁) , Driver(드라이버) , MOCK , JUnite 과 같은 테스트 실행 도구를 포함...</description>
-      <guid isPermaLink="false">https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</guid>
-      <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
+      <title>AI는 현시점 어디쯤 흘러가는걸까?</title>
+      <link>https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</link>
+      <description>요즘 에이전트가 어떤 식으로 흘러가고 있는지 살펴봐요</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/AI는-현시점-어디쯤-흘러가는걸까</guid>
+      <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
       <title># ⚗️ 오늘도 뒷목 잡은 당신을 위한 스트레스 해소제, '분노연구소' 개발 및 리뷰 (feat. 홍명보 감독님 찰싹기)</title>
@@ -212,11 +191,31 @@
       <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
     </item>
     <item>
+      <title>테스트 하네스란? (Test Harness)</title>
+      <link>https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</link>
+      <description>테스트 하네스에 대해 정리해보고자 한다. 테스트 하네스(Test Harness)? 테스트 하네스느 테스트를 수행하기 위해 필요한 테스트 코드 , 테스트 데이터 , Stub(스텁) , Driver(드라이버) , MOCK , JUnite 과 같은 테스트 실행 도구를 포함...</description>
+      <guid isPermaLink="false">https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</guid>
+      <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
+    </item>
+    <item>
       <title>일본에서 개발자에게 필요한 일본어는 무엇일까?</title>
       <link>https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</link>
       <description>일본에서 개발자로 일하다 보면 생각보다 이런 질문을 많이 하게 된다.“개발자는 코드만 잘 치면 되는 거 아닌가?”“JLPT N2, N1 있으면 충분한가?”“기술 일본어만 알면 되는 거 아닌가?”결론부터 말하면, 개발자에게 필요한 일본어는 단순히 문법이나 단어 시험 점수...</description>
       <guid isPermaLink="false">https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</guid>
       <pubDate>Sun, 28 Jun 2026 17:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>벡터 DB와 RAG</title>
+      <link>https://velog.io/@ignatius/벡터-DB와-RAG</link>
+      <guid isPermaLink="false">https://velog.io/@ignatius/벡터-DB와-RAG</guid>
+      <pubDate>Tue, 30 Jun 2026 17:36:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 레벨2 회고(하)] 자유를 유영하라</title>
+      <link>https://velog.io/@antoliny0919/우테코-레벨2-회고하-자유를-유영하라</link>
+      <description>너무나도 힘들었던 레벨2가 끝났다. 힘들었기에 기억에 남는 순간도 많다. "우테코를 그만둘까?" 가 머릿속에 가득찼고 "개발이 나에게 맞는걸까" 라는 생각을 가진것과 동시에 "겨울이 지나 새싹이 돋은" 나의 모습을 볼 수 있었다.</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우테코-레벨2-회고하-자유를-유영하라</guid>
+      <pubDate>Tue, 30 Jun 2026 17:36:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
