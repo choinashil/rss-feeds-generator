@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 18:10:50 +0000</lastBuildDate>
     <item>
       <title>더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?</title>
       <link>https://velog.io/@teo/ai-era-developer-role</link>
@@ -30,18 +30,18 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
-      <title>[번역] 우리는 왜 서비스 워커를 사용하지 않을까요?</title>
-      <link>https://velog.io/@superlipbalm/why-are-we-not-using-service-workers</link>
-      <description>서비스 워커가 무엇인지, 여러분의 비즈니스에 어떤 이점을 주는지, 그리고 다른 대기업들은 프로덕션 환경에서 이를 어떻게 활용하고 있는지 함께 살펴보겠습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@superlipbalm/why-are-we-not-using-service-workers</guid>
-      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
-    </item>
-    <item>
       <title>팀원 개인 블로그 DB 날린 썰</title>
       <link>https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</link>
       <description>3시간 동안 레전드 정병 멘헤라가 되다</description>
       <guid isPermaLink="false">https://velog.io/@yereumi/팀원-개인-블로그-DB-날린-썰</guid>
       <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[번역] 우리는 왜 서비스 워커를 사용하지 않을까요?</title>
+      <link>https://velog.io/@superlipbalm/why-are-we-not-using-service-workers</link>
+      <description>서비스 워커가 무엇인지, 여러분의 비즈니스에 어떤 이점을 주는지, 그리고 다른 대기업들은 프로덕션 환경에서 이를 어떻게 활용하고 있는지 함께 살펴보겠습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@superlipbalm/why-are-we-not-using-service-workers</guid>
+      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
       <title>설치 없이 SQL을 연습할 수 있는 웹 서비스, NULL지마 개발기</title>
@@ -51,11 +51,11 @@
       <pubDate>Sun, 21 Jun 2026 17:32:53 +0000</pubDate>
     </item>
     <item>
-      <title>나는 AI로 개발하지 않기로 했다.</title>
-      <link>https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</link>
-      <description>안녕하세요 홍시너겟입니다.최근 벨로그가 좀 많이 불안정해서 옮길까 차원에 고민을 했는데 일단 올해는 옮기지 않기로 결정했어요.이 말을 한 이유는.. 본격적으로 시작할 내용의 이야기기 때문에 적어봅니다..</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/나는-AI로-개발하지-않기로-했다</guid>
-      <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
+      <title>코드의 1급 시민</title>
+      <link>https://velog.io/@480/코드의-1급-시민</link>
+      <description>AI로 코드를 짜는 시대가 되면서, 코드를 많이 만드는 일은 쉬워졌습니다.그런데 좋은 코드를 만드는 일은 여전히 어렵습니다.AI에게 “사이트가 만료되면 막아줘”라고 말하면, AI는 금방 코드를 만들어줍니다.틀린 코드는 아닙니다.하지만 이런 코드가 여기저기 생기기 시작하...</description>
+      <guid isPermaLink="false">https://velog.io/@480/코드의-1급-시민</guid>
+      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
     </item>
     <item>
       <title>양자 코딩을 하는데 왜 코드가 아니라 '회로(Circuit)'를 그릴까?</title>
@@ -65,11 +65,11 @@
       <pubDate>Mon, 22 Jun 2026 18:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>코드의 1급 시민</title>
-      <link>https://velog.io/@480/코드의-1급-시민</link>
-      <description>AI로 코드를 짜는 시대가 되면서, 코드를 많이 만드는 일은 쉬워졌습니다.그런데 좋은 코드를 만드는 일은 여전히 어렵습니다.AI에게 “사이트가 만료되면 막아줘”라고 말하면, AI는 금방 코드를 만들어줍니다.틀린 코드는 아닙니다.하지만 이런 코드가 여기저기 생기기 시작하...</description>
-      <guid isPermaLink="false">https://velog.io/@480/코드의-1급-시민</guid>
-      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
+      <title>채용 한파 속 2026 상반기 개발자 회고</title>
+      <link>https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</link>
+      <description>SI를 떠나 처음으로 성능과 동시성을 고민했고, 앱을 출시했다. 하지만 한계가 면접에서 드러났다. AI를 빠르게 쓰는 동안, 정작 엔지니어가 천천히 쌓아야 할 기본기는 비어 있었다. 텅 빈 얼음 같았던 2026년 상반기. 그래도 그 과정이 행복했던 회고</description>
+      <guid isPermaLink="false">https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</guid>
+      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
     </item>
     <item>
       <title>Vercel은 이제 그만</title>
@@ -86,25 +86,18 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
-      <title>채용 한파 속 2026 상반기 개발자 회고</title>
-      <link>https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</link>
-      <description>SI를 떠나 처음으로 성능과 동시성을 고민했고, 앱을 출시했다. 하지만 한계가 면접에서 드러났다. AI를 빠르게 쓰는 동안, 정작 엔지니어가 천천히 쌓아야 할 기본기는 비어 있었다. 텅 빈 얼음 같았던 2026년 상반기. 그래도 그 과정이 행복했던 회고</description>
-      <guid isPermaLink="false">https://velog.io/@devjiji/텅-빈-얼음-2026년-상반기-개발자-회고</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+      <title>대통령 이재명 탄핵 청원 링크 사이트 바로</title>
+      <link>https://velog.io/@freeee/대통령-이재명-탄핵-청원-링크-사이트-바로</link>
+      <description>👉🏻 이재명 탄핵 청원하기 사이트 링크👉🏻 이재명 탄핵 청원하기 사이트 링크이재명 대통령 탄핵 청원 21만 돌파, 안규백 장관 청원까지 국회 게시판 뜨거운 현재 상황최근 이재명 탄핵 청원과 청원하기 방법을 찾는 분들이 크게 늘었습니다. 국회 국민동의청원 사이트에...</description>
+      <guid isPermaLink="false">https://velog.io/@freeee/대통령-이재명-탄핵-청원-링크-사이트-바로</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
-      <title>구글 콜랩(Colab)에서 5분 만에 Qiskit 1.x 세팅하기</title>
-      <link>https://velog.io/@hyunide/day2.2</link>
-      <description>(사진, 양자 컴퓨터 하드웨어를 움직이고 알고리즘을 설계하기 위한 언어와 도구(SDK)는 여러 종류가 있습니다. 하지만 베네타리저브팀이 선택하고 제가 공부하고 있는 도구는 단연 IBM의 키스킷(Qiskit)입니다.이유는 명확합니다. 글로벌 양자 생태계에서 가장 압도적인...</description>
-      <guid isPermaLink="false">https://velog.io/@hyunide/day2.2</guid>
-      <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>고전 컴퓨터와 양자 컴퓨터? (비트 vs 큐비트, 2 vs 2.828를 비교해보자)</title>
-      <link>https://velog.io/@hyunide/day2.1</link>
-      <description>여러분은 2와 2.828의 차이를 보고 고작 '0.828'이라는 작은 소수점 차이 아니냐고 묻고 싶을거에요. 하지만 퀀텀 연산과 정보 과학의 관점에서 이 차이는 "불가능을 가능으로 바꾸는, 차원이 다른 거대한 갭"이라고 할 수 있어요.우리가 흔히 고전 컴퓨터(Class...</description>
-      <guid isPermaLink="false">https://velog.io/@hyunide/day2.1</guid>
-      <pubDate>Fri, 19 Jun 2026 17:38:13 +0000</pubDate>
+      <title>현재 AI는 어떤 방향으로 발전하고 있을까?</title>
+      <link>https://velog.io/@bready/ai-development-direction</link>
+      <description>AI의 발전 방향을 Model, Context, Architecture, Infra 관점에서 정리하고, AI 시대 개발자에게 왜 평가 기준과 구조 설계 능력이 중요해지는지 생각해보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@bready/ai-development-direction</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>컴공 5대과목 후기</title>
@@ -114,18 +107,18 @@
       <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
-      <title>웹 보안</title>
-      <link>https://velog.io/@yeondon/웹-보안</link>
-      <description>XSS, CSRF, SQL Injection공격방식 탐구</description>
-      <guid isPermaLink="false">https://velog.io/@yeondon/웹-보안</guid>
-      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
-    </item>
-    <item>
       <title>2026 상반기 회고: 신입 백엔드 개발자 4개월 차의 기록</title>
       <link>https://velog.io/@dob-by/2026-상반기-회고-신입-개발자-4개월-차의-기록</link>
       <description>조금 늦었을 뿐이고, 잠시 우선순위를 조정했을 뿐이다.2026년 상반기는 개발자로서의 첫 적응기였다.새로운 환경에서 업무를 배우고, 내가 할 수 있는 것과 할 수 없는 것을 인정하는 방법을 배웠다. 계획했던 것들을 모두 이루지는 못했지만 그 과정에서 우선순위를 정하는 ...</description>
       <guid isPermaLink="false">https://velog.io/@dob-by/2026-상반기-회고-신입-개발자-4개월-차의-기록</guid>
       <pubDate>Sat, 27 Jun 2026 17:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>국방부장관 안규백 탄핵 청원 링크 사이트 바로</title>
+      <link>https://velog.io/@freeee/국방부장관-안규백-탄핵-청원-링크-사이트-바로</link>
+      <description>👉🏻 안규백 탄핵 청원하기안규백 탄핵 청원이 국회 국민동의청원 게시판에서 빠르게 확산되면서 청원 링크와 사이트, 청원하기 방법을 찾는 분들도 많아졌습니다. 다만 많은 동의가 곧바로 국방부장관 탄핵으로 이어지는 것은 아니어서, 청원 내용과 실제 국회 절차를 나눠서 볼...</description>
+      <guid isPermaLink="false">https://velog.io/@freeee/국방부장관-안규백-탄핵-청원-링크-사이트-바로</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>[퀀텀 컴퓨팅] 파인만의 '빛 반사 실험'으로 단숨에 이해하는 양자 연산의 진짜 원리</title>
@@ -135,18 +128,18 @@
       <pubDate>Tue, 23 Jun 2026 17:36:53 +0000</pubDate>
     </item>
     <item>
+      <title>웹 보안</title>
+      <link>https://velog.io/@yeondon/웹-보안</link>
+      <description>XSS, CSRF, SQL Injection공격방식 탐구</description>
+      <guid isPermaLink="false">https://velog.io/@yeondon/웹-보안</guid>
+      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
+    </item>
+    <item>
       <title>[2026] 6월회고: 폐관수련의 시작</title>
       <link>https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</link>
       <description>안녕하세요 홍시너겟입니다.벌써 1년 절반이 지나갔네요..이번달은 무엇을 했다기보단 제 공부 여정을 한번 공개해봅니다~</description>
       <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</guid>
       <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>일본에서 개발자에게 필요한 일본어는 무엇일까?</title>
-      <link>https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</link>
-      <description>일본에서 개발자로 일하다 보면 생각보다 이런 질문을 많이 하게 된다.“개발자는 코드만 잘 치면 되는 거 아닌가?”“JLPT N2, N1 있으면 충분한가?”“기술 일본어만 알면 되는 거 아닌가?”결론부터 말하면, 개발자에게 필요한 일본어는 단순히 문법이나 단어 시험 점수...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</guid>
-      <pubDate>Sun, 28 Jun 2026 17:28:04 +0000</pubDate>
     </item>
     <item>
       <title>AI는 현시점 어디쯤 흘러가는걸까?</title>
@@ -156,25 +149,18 @@
       <pubDate>Thu, 25 Jun 2026 17:44:46 +0000</pubDate>
     </item>
     <item>
-      <title>어릴 때 좋아했던 대항해시대2의 감각을 브라우저에 다시 만들어봤다</title>
-      <link>https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</link>
-      <description>완벽한 게임은 아니다.그래도 어릴 때 느꼈던 “작은 배 한 척으로 항구를 떠나는 기분”을 다시 만져보고 싶었다.어릴 때 대항해시대2를 정말 좋아했다.지금 와서 생각해보면 그 게임에서 오래 남은 건 특정 수치나 공략법보다 분위기였다. 낡은 지도 위에 찍힌 항구 이름, 작...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+      <title>일본에서 개발자에게 필요한 일본어는 무엇일까?</title>
+      <link>https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</link>
+      <description>일본에서 개발자로 일하다 보면 생각보다 이런 질문을 많이 하게 된다.“개발자는 코드만 잘 치면 되는 거 아닌가?”“JLPT N2, N1 있으면 충분한가?”“기술 일본어만 알면 되는 거 아닌가?”결론부터 말하면, 개발자에게 필요한 일본어는 단순히 문법이나 단어 시험 점수...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/일본에서-개발자에게-필요한-일본어는-무엇일까</guid>
+      <pubDate>Sun, 28 Jun 2026 17:28:04 +0000</pubDate>
     </item>
     <item>
-      <title># ⚗️ 오늘도 뒷목 잡은 당신을 위한 스트레스 해소제, '분노연구소' 개발 및 리뷰 (feat. 홍명보 감독님 찰싹기)</title>
-      <link>https://velog.io/@donghyuk65/오늘도-뒷목-잡은-당신을-위한-스트레스-해소제-분노연구소-개발-및-리뷰-feat.-홍명보-감독님-찰싹기</link>
-      <description>회의 시간마다 황당한 피드백을 주는 부장님, 카톡 읽씹하는 썸남/썸녀, 그리고 매주 찾아오는 공포의 월요일... 현대인의 삶은 그야말로 스트레스의 연속입니다. "아, 진짜 시원하게 한 대 쥐어박고(?) 싶다."누구나 한 번쯤 머릿속으로 상상해봤을 법한 이 발칙한 분노를...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/오늘도-뒷목-잡은-당신을-위한-스트레스-해소제-분노연구소-개발-및-리뷰-feat.-홍명보-감독님-찰싹기</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>3d 스캐너 야-호~</title>
-      <link>https://velog.io/@imcute0703123/3d-스캐너-야-호</link>
-      <description>3D 스캐너란? 3D 스캐너란 실제 물체나 공간을 디지털 3차원 모델로 변환하는 장치이다. 스캐너를 통해 물체 표면의 형태, 크기, 위치를 수치로 기록하고, 컴퓨터에서 다룰 수 있는 3D 파일을 만들 수 있다. 초소형부터 대형까지 다양하게 스캔할 수 있다.</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/3d-스캐너-야-호</guid>
-      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
+      <title>티비몬 TVMON 최신 바로가기 주소(2026)</title>
+      <link>https://velog.io/@tvwiki/티비몬</link>
+      <description>티비몬 최신주소를 빠르게 알려주는 글입니다. 최신영화 드라마를 무료 스트리밍으로 시청 할 수 있는 빠른 사이트입니다. 최신 주소가 계속 변경되는데 이 사이트를 즐겨찾기 하시면 바로 티비몬 접속이 가능합니다. 유사 사이트와 불법 여부도 알려드립니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tvwiki/티비몬</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>[회고] 다사다난 취준생의 상반기 회고록</title>
@@ -184,11 +170,39 @@
       <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
+      <title>App Router에서 '서버가 부르는 API'가 Network 탭에 안 보여서, DevTools 확장을 만들었다</title>
+      <link>https://velog.io/@yeo11200/App-Router에서-서버가-부르는-API가-Network-탭에-안-보여서-DevTools-확장을-만들었다</link>
+      <description>TL;DRNext.js App Router는 데이터를 서버에서 패칭한다. 그래서 그 API 호출은 브라우저 Network 탭에 안 보인다. 그걸 DevTools 패널에서 보려고 직접 만들었다.📦 @shinjinseop/next-api-capture · 💻 GitHu...</description>
+      <guid isPermaLink="false">https://velog.io/@yeo11200/App-Router에서-서버가-부르는-API가-Network-탭에-안-보여서-DevTools-확장을-만들었다</guid>
+      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title># ⚗️ 오늘도 뒷목 잡은 당신을 위한 스트레스 해소제, '분노연구소' 개발 및 리뷰 (feat. 홍명보 감독님 찰싹기)</title>
+      <link>https://velog.io/@donghyuk65/오늘도-뒷목-잡은-당신을-위한-스트레스-해소제-분노연구소-개발-및-리뷰-feat.-홍명보-감독님-찰싹기</link>
+      <description>회의 시간마다 황당한 피드백을 주는 부장님, 카톡 읽씹하는 썸남/썸녀, 그리고 매주 찾아오는 공포의 월요일... 현대인의 삶은 그야말로 스트레스의 연속입니다. "아, 진짜 시원하게 한 대 쥐어박고(?) 싶다."누구나 한 번쯤 머릿속으로 상상해봤을 법한 이 발칙한 분노를...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/오늘도-뒷목-잡은-당신을-위한-스트레스-해소제-분노연구소-개발-및-리뷰-feat.-홍명보-감독님-찰싹기</guid>
+      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>어릴 때 좋아했던 대항해시대2의 감각을 브라우저에 다시 만들어봤다</title>
+      <link>https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</link>
+      <description>완벽한 게임은 아니다.그래도 어릴 때 느꼈던 “작은 배 한 척으로 항구를 떠나는 기분”을 다시 만져보고 싶었다.어릴 때 대항해시대2를 정말 좋아했다.지금 와서 생각해보면 그 게임에서 오래 남은 건 특정 수치나 공략법보다 분위기였다. 낡은 지도 위에 찍힌 항구 이름, 작...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</guid>
+      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+    </item>
+    <item>
       <title>테스트 하네스란? (Test Harness)</title>
       <link>https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</link>
       <description>테스트 하네스에 대해 정리해보고자 한다. 테스트 하네스(Test Harness)? 테스트 하네스느 테스트를 수행하기 위해 필요한 테스트 코드 , 테스트 데이터 , Stub(스텁) , Driver(드라이버) , MOCK , JUnite 과 같은 테스트 실행 도구를 포함...</description>
       <guid isPermaLink="false">https://velog.io/@daehyun_lee/5분-CS-테스트-하네스란-Test-Harness</guid>
       <pubDate>Wed, 24 Jun 2026 17:38:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>왜 생성형 AI의 대부분은 채팅 형태일까</title>
+      <link>https://velog.io/@528528abcd/왜-생성형-AI의-대부분은-채팅-형태일까</link>
+      <description>Phi 디자인 스쿨을 아는가 이거 나오자마자 관심을 좀 가졌었는데 자신은 없지만 평소에 디자인 쪽에 너무 취약하단 생각을 하고 있어서 계속 보고 있다. 1기 기간이 딱 부트캠프랑 겹쳐서 진짜 고민 많이 하다가 미루...</description>
+      <guid isPermaLink="false">https://velog.io/@528528abcd/왜-생성형-AI의-대부분은-채팅-형태일까</guid>
+      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
       <title>벡터 DB와 RAG</title>
@@ -197,24 +211,11 @@
       <pubDate>Tue, 30 Jun 2026 17:36:52 +0000</pubDate>
     </item>
     <item>
-      <title>App Router에서 '서버가 부르는 API'가 Network 탭에 안 보여서, DevTools 확장을 만들었다</title>
-      <link>https://velog.io/@yeo11200/App-Router에서-서버가-부르는-API가-Network-탭에-안-보여서-DevTools-확장을-만들었다</link>
-      <description>TL;DRNext.js App Router는 데이터를 서버에서 패칭한다. 그래서 그 API 호출은 브라우저 Network 탭에 안 보인다. 그걸 DevTools 패널에서 보려고 직접 만들었다.📦 @shinjinseop/next-api-capture · 💻 GitHu...</description>
-      <guid isPermaLink="false">https://velog.io/@yeo11200/App-Router에서-서버가-부르는-API가-Network-탭에-안-보여서-DevTools-확장을-만들었다</guid>
-      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>블랙툰 Blacktoon 접속 바로가기(2026)</title>
-      <link>https://velog.io/@tvwiki/Blacktoon</link>
-      <description>블랙툰은 무료 웹툰을 찾는 이용자들 사이에서 자주 검색되는 사이트 중 하나입니다. 최근에는 블랙툰 최신주소, 블랙툰 바로가기, 블랙툰 대체 사이트 등의 검색량도 꾸준히 증가하고 있습니다. 이번 글에서는 블랙툰의 특징과 이용 시 주의사항, 그리고 합법적으로 웹툰을 즐...</description>
-      <guid isPermaLink="false">https://velog.io/@tvwiki/Blacktoon</guid>
-      <pubDate>Tue, 30 Jun 2026 17:36:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>pnpm의 동작 원리 이해하기</title>
-      <link>https://velog.io/@minjaekimm/pnpm의-동작-원리-이해하기</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/pnpm의-동작-원리-이해하기</guid>
-      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
+      <title>3d 스캐너 야-호~</title>
+      <link>https://velog.io/@imcute0703123/3d-스캐너-야-호</link>
+      <description>3D 스캐너란? 3D 스캐너란 실제 물체나 공간을 디지털 3차원 모델로 변환하는 장치이다. 스캐너를 통해 물체 표면의 형태, 크기, 위치를 수치로 기록하고, 컴퓨터에서 다룰 수 있는 3D 파일을 만들 수 있다. 초소형부터 대형까지 다양하게 스캔할 수 있다.</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/3d-스캐너-야-호</guid>
+      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
