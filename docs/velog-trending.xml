@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 18:21:17 +0000</lastBuildDate>
     <item>
       <title>이력서를 부풀려서 쓸 필요가 없는 이유</title>
       <link>https://velog.io/@yunsungyang-omc/이력서를-부풀려서-쓸-필요가-없는-이유</link>
@@ -30,18 +30,18 @@
       <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
-      <title>코드의 1급 시민</title>
-      <link>https://velog.io/@480/코드의-1급-시민</link>
-      <description>AI로 코드를 짜는 시대가 되면서, 코드를 많이 만드는 일은 쉬워졌습니다.그런데 좋은 코드를 만드는 일은 여전히 어렵습니다.AI에게 “사이트가 만료되면 막아줘”라고 말하면, AI는 금방 코드를 만들어줍니다.틀린 코드는 아닙니다.하지만 이런 코드가 여기저기 생기기 시작하...</description>
-      <guid isPermaLink="false">https://velog.io/@480/코드의-1급-시민</guid>
-      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
-    </item>
-    <item>
       <title>38살, 200곳 지원과 최종합격 - 3탄, 두 달의 취업 전쟁</title>
       <link>https://velog.io/@heinkang/38살-200곳-지원과-최종합격-3탄-두-달의-취업-전쟁</link>
       <description>경력은 짧고 공백도 많은데 왜 나이만 먹는건지 아악!!!사실 가장 무서웠던 건 이거였다."또 공백이 생긴다"</description>
       <guid isPermaLink="false">https://velog.io/@heinkang/38살-200곳-지원과-최종합격-3탄-두-달의-취업-전쟁</guid>
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>코드의 1급 시민</title>
+      <link>https://velog.io/@480/코드의-1급-시민</link>
+      <description>AI로 코드를 짜는 시대가 되면서, 코드를 많이 만드는 일은 쉬워졌습니다.그런데 좋은 코드를 만드는 일은 여전히 어렵습니다.AI에게 “사이트가 만료되면 막아줘”라고 말하면, AI는 금방 코드를 만들어줍니다.틀린 코드는 아닙니다.하지만 이런 코드가 여기저기 생기기 시작하...</description>
+      <guid isPermaLink="false">https://velog.io/@480/코드의-1급-시민</guid>
+      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
     </item>
     <item>
       <title>토스증권에서 FE Ops로 6개월을 일하며 느낀 것</title>
@@ -79,18 +79,18 @@
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>[2026] 6월회고: 폐관수련의 시작</title>
-      <link>https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</link>
-      <description>안녕하세요 홍시너겟입니다.벌써 1년 절반이 지나갔네요..이번달은 무엇을 했다기보단 제 공부 여정을 한번 공개해봅니다~</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</guid>
-      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
-    </item>
-    <item>
       <title>네가 만든 걸 누가 써?</title>
       <link>https://velog.io/@goinggithub/who-would-use-that</link>
       <description>15년차 경력으로 직접 프로그램을 만들었더니 한 소리 들었다</description>
       <guid isPermaLink="false">https://velog.io/@goinggithub/who-would-use-that</guid>
       <pubDate>Mon, 06 Jul 2026 18:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[2026] 6월회고: 폐관수련의 시작</title>
+      <link>https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</link>
+      <description>안녕하세요 홍시너겟입니다.벌써 1년 절반이 지나갔네요..이번달은 무엇을 했다기보단 제 공부 여정을 한번 공개해봅니다~</description>
+      <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-6월회고-폐관수련의-시작</guid>
+      <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
     </item>
     <item>
       <title>실패한 요청인데 트랜잭션은 커밋되었다. - 고객문의 14000건이 쌓인 이야기</title>
@@ -100,6 +100,13 @@
       <pubDate>Mon, 06 Jul 2026 18:53:19 +0000</pubDate>
     </item>
     <item>
+      <title>귀찮은 방송부일을 원격 조종 해보자, ONAIR</title>
+      <link>https://velog.io/@zerone001/onair</link>
+      <description>방송 장비 원격 컨트롤 서비스, ONAIR 회고록</description>
+      <guid isPermaLink="false">https://velog.io/@zerone001/onair</guid>
+      <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
+    </item>
+    <item>
       <title>웹 보안</title>
       <link>https://velog.io/@yeondon/웹-보안</link>
       <description>XSS, CSRF, SQL Injection공격방식 탐구</description>
@@ -107,17 +114,17 @@
       <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
-      <title>회사 공용 문서관리 시스템 구축</title>
-      <link>https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</link>
-      <description>우당탕탕 회사생활 3</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
       <title>양자 내성 암호에 대해</title>
       <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
       <description>이제 이 암호는 제 겁니다</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>회사 공용 문서관리 시스템 구축</title>
+      <link>https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</link>
+      <description>우당탕탕 회사생활 3</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</guid>
       <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
@@ -135,13 +142,6 @@
       <pubDate>Sat, 04 Jul 2026 18:00:12 +0000</pubDate>
     </item>
     <item>
-      <title>이재명 탄핵 청원 참여 방법 링크 사이트 바로가기</title>
-      <link>https://velog.io/@scjin79/이재명-탄핵-청원-참여-방법-링크-사이트-바로가기</link>
-      <description>최근 이재명 탄핵 청원 참여 방법, 이재명 탄핵 청원 링크, 이재명 탄핵 청원 사이트, 국민동의청원 바로가기를 찾는 분들이 많아지고 있습니다. 국회 국민동의청원에 올라온 ‘이재명 대통령 탄핵에 관한 청원’이 많은 동의를 얻으면서, 어디서 참여하는지와 본인인증은 어떻게 ...</description>
-      <guid isPermaLink="false">https://velog.io/@scjin79/이재명-탄핵-청원-참여-방법-링크-사이트-바로가기</guid>
-      <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
-    </item>
-    <item>
       <title>[스프링] 이미지 업로드 비동기 병렬 처리</title>
       <link>https://velog.io/@keumsiun0503/스프링-이미지-업로드-비동기-병렬-처리</link>
       <description>백엔드 개발을 하다보면... 백엔드 개발을 하다보면 긴 시간이 걸리는 네트워크 I/O 작업을 필요로 할 때가 있다. (이미지 업로드, LLM 호출, 외부 API 등) 이러한 작업은 내가 호출하는 서비스의 상태에 따라서 짧은 시간 내로 응답이 올 수 있지만, 최악의 상황...</description>
@@ -149,11 +149,11 @@
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>귀찮은 방송부일을 원격 조종 해보자, ONAIR</title>
-      <link>https://velog.io/@zerone001/onair</link>
-      <description>방송 장비 원격 컨트롤 서비스, ONAIR 회고록</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/onair</guid>
-      <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
+      <title>취준생의 AWS Student Community Day 회고</title>
+      <link>https://velog.io/@dotsi0/AWS-Student-Community-Day-회고</link>
+      <description>Career Track 위주!</description>
+      <guid isPermaLink="false">https://velog.io/@dotsi0/AWS-Student-Community-Day-회고</guid>
+      <pubDate>Fri, 10 Jul 2026 18:21:17 +0000</pubDate>
     </item>
     <item>
       <title>사내 텍스트 도구를 직접 만들어 팀에 뿌린 이야기</title>
@@ -163,24 +163,24 @@
       <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
-      <title>어텐션 이스 올 유 니드</title>
-      <link>https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</link>
-      <description>우당탕탕 회사공부 4</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</guid>
+      <title>[합격후기] FE 개발자의 AWS SAA-C03 독학 합격 가이드 (준비 기간, 공부법 총정리)</title>
+      <link>https://velog.io/@yeonbot/합격후기-FE-개발자의-AWS-SAA-C03-독학-합격-가이드-준비-기간-공부법-총정리</link>
+      <description>최근 AI 기술의 발전 속도를 보면 한편으로는 "프론트엔드 개발자로서 나의 경쟁력은 앞으로 어떻게 될까?" 하는 막연한 불안감이 엄습하곤 했습니다. 이제는 단순 화면 구현을 넘어 시스템 아키텍처를 이해하는 개발자가 되어야겠다는 생각이 들었고, DevOps 영역과 클라우...</description>
+      <guid isPermaLink="false">https://velog.io/@yeonbot/합격후기-FE-개발자의-AWS-SAA-C03-독학-합격-가이드-준비-기간-공부법-총정리</guid>
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 코딩, 오래 가려면?</title>
+      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
+      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
+      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
       <title>스쿠나가 되어보자</title>
       <link>https://velog.io/@mgang0_0/스쿠나가-되보자</link>
       <description>시작하며 최근에 숏폼에서 고죠사토루로 손인식을해서 기술을 날리는 영상을 보고 저도 뭔가 재밌을 것 같기도 하고 바이브 코딩으로 재밌는 프로젝트랑 기술들 써보고 싶어서 하게 되었습니다. 캐릭터는 똑같은걸로 하긴 좀 그래서 고죠사토루와 같은 주술회전에 나오는 캐릭터인 ...</description>
       <guid isPermaLink="false">https://velog.io/@mgang0_0/스쿠나가-되보자</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[합격후기] FE 개발자의 AWS SAA-C03 독학 합격 가이드 (준비 기간, 공부법 총정리)</title>
-      <link>https://velog.io/@yeonbot/합격후기-FE-개발자의-AWS-SAA-C03-독학-합격-가이드-준비-기간-공부법-총정리</link>
-      <description>최근 AI 기술의 발전 속도를 보면 한편으로는 "프론트엔드 개발자로서 나의 경쟁력은 앞으로 어떻게 될까?" 하는 막연한 불안감이 엄습하곤 했습니다. 이제는 단순 화면 구현을 넘어 시스템 아키텍처를 이해하는 개발자가 되어야겠다는 생각이 들었고, DevOps 영역과 클라우...</description>
-      <guid isPermaLink="false">https://velog.io/@yeonbot/합격후기-FE-개발자의-AWS-SAA-C03-독학-합격-가이드-준비-기간-공부법-총정리</guid>
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
@@ -191,11 +191,11 @@
       <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
     </item>
     <item>
-      <title>AI 코딩, 오래 가려면?</title>
-      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
-      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
-      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+      <title>어텐션 이스 올 유 니드</title>
+      <link>https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</link>
+      <description>우당탕탕 회사공부 4</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</guid>
+      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
       <title>3d 스캐너 야-호~</title>
@@ -205,18 +205,18 @@
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>꼭 네가 오면 해결되더라?</title>
-      <link>https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</link>
-      <description>“이상하게 너만 오면 해결되더라?” 분석</description>
-      <guid isPermaLink="false">https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
       <title>[스프링] 축제 페이지 번역 기능 도입기(1)</title>
       <link>https://velog.io/@keumsiun0503/스프링-축제-페이지-번역-기능-도입기1</link>
       <description>무엇이 문제였는가? 이번 2026 서경대학교 대동제 축제서비스를 개발하고 운영하면서 한가지 문제점을 겪었다. 축제 시즌에는 학과별로 부스를 운영하고 메뉴를 판매한다. 문제는 부스에서 메뉴 추가 및 변경 요청이 매우 빈번하다는 점이었다. ( [빈번한 요청 문제](ht...</description>
       <guid isPermaLink="false">https://velog.io/@keumsiun0503/스프링-축제-페이지-번역-기능-도입기1</guid>
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 레벨2 회고(하)] 자유를 유영하라</title>
+      <link>https://velog.io/@antoliny0919/우테코-레벨2-회고하-자유를-유영하라</link>
+      <description>너무나도 힘들었던 레벨2가 끝났다. 힘들었기에 기억에 남는 순간도 많다. "우테코를 그만둘까?" 가 머릿속에 가득찼고 "개발이 나에게 맞는걸까" 라는 생각을 가진것과 동시에 "겨울이 지나 새싹이 돋은" 나의 모습을 볼 수 있었다.</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/우테코-레벨2-회고하-자유를-유영하라</guid>
+      <pubDate>Fri, 10 Jul 2026 18:21:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
