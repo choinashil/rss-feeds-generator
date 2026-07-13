@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 12 Jul 2026 17:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:41:34 +0000</lastBuildDate>
     <item>
       <title>이력서를 부풀려서 쓸 필요가 없는 이유</title>
       <link>https://velog.io/@yunsungyang-omc/이력서를-부풀려서-쓸-필요가-없는-이유</link>
@@ -51,6 +51,12 @@
       <pubDate>Wed, 01 Jul 2026 17:38:02 +0000</pubDate>
     </item>
     <item>
+      <title>2026년 2분기 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</guid>
+      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
+    </item>
+    <item>
       <title>[회고] 다사다난 취준생의 상반기 회고록</title>
       <link>https://velog.io/@jayaione_ele/회고-다사다난-취준생의-상반기-회고록</link>
       <description>상반기 시간이 너무 빨리 흘러간 것 같기도 하고 .. 이래저래 많은 일이 있었어서 상반기 회고록을 작성했다.!가장 큰 사건 위주로 보면UMC 9기 수료 및 데모데이 새로운 프로젝트 백엔드 합류, 8월 런칭 예정UMC 스프링 파트장, 안드로이드 챌린저로 스터디 진행개발동...</description>
@@ -70,6 +76,13 @@
       <description>15년차 경력으로 직접 프로그램을 만들었더니 한 소리 들었다</description>
       <guid isPermaLink="false">https://velog.io/@goinggithub/who-would-use-that</guid>
       <pubDate>Mon, 06 Jul 2026 18:53:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>에이전트 함대의 해부 — AI 180개로 하루에 버그 55개를 잡은 검증 파이프라인</title>
+      <link>https://velog.io/@soungjunban/에이전트-함대의-해부-AI-180개로-하루에-버그-55개를-잡은-검증-파이프라인</link>
+      <description>LLM 에이전트 180개를 파인더-검증자 투표 구조로 묶어 하루에 버그 55개를 확정했다. 오탐 0을 만든 적대 검증 파이프라인의 설계와 한계.</description>
+      <guid isPermaLink="false">https://velog.io/@soungjunban/에이전트-함대의-해부-AI-180개로-하루에-버그-55개를-잡은-검증-파이프라인</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
       <title>[2026] 6월회고: 폐관수련의 시작</title>
@@ -93,6 +106,13 @@
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
     </item>
     <item>
+      <title>반드시 알아야 하는 엔지니어링</title>
+      <link>https://velog.io/@playername_ltt/반드시-알아야-하는-엔지니어링</link>
+      <description>바이브 코딩 그 너머의 영역. 주니어가 반드시 알아야 되는 '개발'이 아닌 '엔지니어링'하는 방법.</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/반드시-알아야-하는-엔지니어링</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
       <title>웹 보안</title>
       <link>https://velog.io/@yeondon/웹-보안</link>
       <description>XSS, CSRF, SQL Injection공격방식 탐구</description>
@@ -114,10 +134,17 @@
       <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
     </item>
     <item>
-      <title>양자 내성 암호에 대해</title>
-      <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
-      <description>이제 이 암호는 제 겁니다</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
+      <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
+      <link>https://velog.io/@k-svelte-master/shared-element-transition</link>
+      <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/shared-element-transition</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>사내 텍스트 도구를 직접 만들어 팀에 뿌린 이야기</title>
+      <link>https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</link>
+      <description>프레임워크 없이 파일 2개 + 내 Claude 구독(claude -p)으로, 팀이 매일 쓰는 사내 웹 도구를 만든 과정</description>
+      <guid isPermaLink="false">https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</guid>
       <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
@@ -128,20 +155,6 @@
       <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
-      <title>사내 텍스트 도구를 직접 만들어 팀에 뿌린 이야기</title>
-      <link>https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</link>
-      <description>프레임워크 없이 파일 2개 + 내 Claude 구독(claude -p)으로, 팀이 매일 쓰는 사내 웹 도구를 만든 과정</description>
-      <guid isPermaLink="false">https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 코딩, 오래 가려면?</title>
-      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
-      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
-      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
       <title>2026년 상반기 돌아보기</title>
       <link>https://velog.io/@8804who/2026년-상반기-돌아보기</link>
       <description>2026년 상반기를 돌아보았는데... 하반기에는 열심히... 살아야지...</description>
@@ -149,18 +162,11 @@
       <pubDate>Sat, 11 Jul 2026 17:52:57 +0000</pubDate>
     </item>
     <item>
-      <title>스쿠나가 되어보자</title>
-      <link>https://velog.io/@mgang0_0/스쿠나가-되보자</link>
-      <description>시작하며 최근에 숏폼에서 고죠사토루로 손인식을해서 기술을 날리는 영상을 보고 저도 뭔가 재밌을 것 같기도 하고 바이브 코딩으로 재밌는 프로젝트랑 기술들 써보고 싶어서 하게 되었습니다. 캐릭터는 똑같은걸로 하긴 좀 그래서 고죠사토루와 같은 주술회전에 나오는 캐릭터인 ...</description>
-      <guid isPermaLink="false">https://velog.io/@mgang0_0/스쿠나가-되보자</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>어릴 때 좋아했던 대항해시대2의 감각을 브라우저에 다시 만들어봤다</title>
-      <link>https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</link>
-      <description>완벽한 게임은 아니다.그래도 어릴 때 느꼈던 “작은 배 한 척으로 항구를 떠나는 기분”을 다시 만져보고 싶었다.어릴 때 대항해시대2를 정말 좋아했다.지금 와서 생각해보면 그 게임에서 오래 남은 건 특정 수치나 공략법보다 분위기였다. 낡은 지도 위에 찍힌 항구 이름, 작...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/어릴-때-좋아했던-대항해시대2의-감각을-브라우저에-다시-만들어봤다</guid>
-      <pubDate>Mon, 29 Jun 2026 17:51:33 +0000</pubDate>
+      <title>양자 내성 암호에 대해</title>
+      <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
+      <description>이제 이 암호는 제 겁니다</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
       <title>국방부장관 안규백 탄핵 청원 링크 사이트 바로</title>
@@ -170,17 +176,32 @@
       <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 2분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</guid>
-      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
+      <title>AI 코딩, 오래 가려면?</title>
+      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
+      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
+      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
-      <title>DNS와 구조</title>
-      <link>https://velog.io/@hi2li/DNS와-구조</link>
-      <description>1. 개요 우리는 매일 인터넷을 사용하면서 수많은 웹사이트에 접속한다. 브라우저 주소창에 google.com, naver.com, velog.io처럼 도메인 이름만 입력하면 몇 초도 되지 않아 원하는 웹사이트가 열린다. 하지만 컴퓨터는 사람이 사용하는 도메인 이름...</description>
-      <guid isPermaLink="false">https://velog.io/@hi2li/DNS와-구조</guid>
-      <pubDate>Sat, 11 Jul 2026 17:52:57 +0000</pubDate>
+      <title>스쿠나가 되어보자</title>
+      <link>https://velog.io/@mgang0_0/스쿠나가-되보자</link>
+      <description>시작하며 최근에 숏폼에서 고죠사토루로 손인식을해서 기술을 날리는 영상을 보고 저도 뭔가 재밌을 것 같기도 하고 바이브 코딩으로 재밌는 프로젝트랑 기술들 써보고 싶어서 하게 되었습니다. 캐릭터는 똑같은걸로 하긴 좀 그래서 고죠사토루와 같은 주술회전에 나오는 캐릭터인 ...</description>
+      <guid isPermaLink="false">https://velog.io/@mgang0_0/스쿠나가-되보자</guid>
+      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026년 상반기 회고 키워드는 루틴</title>
+      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
+      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>내가 왜 1년차 개발자?</title>
+      <link>https://velog.io/@lgwk0642/내가-왜-1년차-개발자</link>
+      <description>ㅇㄱㅈㅉㅇㅇ?</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-왜-1년차-개발자</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
       <title>어텐션 이스 올 유 니드</title>
@@ -195,27 +216,6 @@
       <description>우당탕탕 회사공부 1</description>
       <guid isPermaLink="false">https://velog.io/@imcute0703123/3d-스캐너-야-호</guid>
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>전화번호 텍스트 하나 때문에, Safari에서만 터지던 Hydration Error 36건 추적기</title>
-      <link>https://velog.io/@kdy9883/react-hydration-error-safari-format-detection</link>
-      <description>실서비스 모든 페이지에서 Safari 사용자에게만 한 달 넘게 뜨던 React Hydration Error. 범인은 코드가 아니라 Safari의 전화번호 자동 감지였다. Sentry diff에 속지 않고 format-detection 한 줄로 잡기까지의 실전 추적기</description>
-      <guid isPermaLink="false">https://velog.io/@kdy9883/react-hydration-error-safari-format-detection</guid>
-      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KDT, 900H] Intel 과정을 마치며</title>
-      <link>https://velog.io/@mommers/Intel9th</link>
-      <description>굿바이 Intel 9기.</description>
-      <guid isPermaLink="false">https://velog.io/@mommers/Intel9th</guid>
-      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>취준생의 AWS Student Community Day 회고</title>
-      <link>https://velog.io/@dotsi0/AWS-Student-Community-Day-회고</link>
-      <description>Career Track 위주!</description>
-      <guid isPermaLink="false">https://velog.io/@dotsi0/AWS-Student-Community-Day-회고</guid>
-      <pubDate>Fri, 10 Jul 2026 18:21:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
