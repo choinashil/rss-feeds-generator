@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:03:18 +0000</lastBuildDate>
     <item>
       <title>이력서를 부풀려서 쓸 필요가 없는 이유</title>
       <link>https://velog.io/@yunsungyang-omc/이력서를-부풀려서-쓸-필요가-없는-이유</link>
       <description>최근 이력서를 가다듬고 있다면, 한 번은 스스로를 돌아보기</description>
       <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/이력서를-부풀려서-쓸-필요가-없는-이유</guid>
       <pubDate>Tue, 07 Jul 2026 18:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>토스증권에서 FE Ops로 6개월을 일하며 느낀 것</title>
-      <link>https://velog.io/@hyonun/토스증권에서-FE-Ops로-6개월을-일하며-느낀-것</link>
-      <description>데이터 인프라팀에서 Frontend Developer로 살아 남는다면?</description>
-      <guid isPermaLink="false">https://velog.io/@hyonun/토스증권에서-FE-Ops로-6개월을-일하며-느낀-것</guid>
-      <pubDate>Sat, 04 Jul 2026 18:00:12 +0000</pubDate>
     </item>
     <item>
       <title>velog에서 tistory로 블로그 이전 자동화 하기 (+ 코드 공유)</title>
@@ -43,18 +36,18 @@
       <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 취향은 새로운 해자(Moat)이며, 어떤 스타트업이 살아남을지는 디자인이 결정합니다</title>
-      <link>https://velog.io/@sehyunny/why-taste-is-the-new-moast</link>
-      <description>해자(moat)라는 말을 들어보셨나요?</description>
-      <guid isPermaLink="false">https://velog.io/@sehyunny/why-taste-is-the-new-moast</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
       <title>내가 왜 1년차 개발자?</title>
       <link>https://velog.io/@lgwk0642/내가-왜-1년차-개발자</link>
       <description>ㅇㄱㅈㅉㅇㅇ?</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-왜-1년차-개발자</guid>
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>(번역) 취향은 새로운 해자(Moat)이며, 어떤 스타트업이 살아남을지는 디자인이 결정합니다</title>
+      <link>https://velog.io/@sehyunny/why-taste-is-the-new-moast</link>
+      <description>해자(moat)라는 말을 들어보셨나요?</description>
+      <guid isPermaLink="false">https://velog.io/@sehyunny/why-taste-is-the-new-moast</guid>
+      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
       <title>반드시 알아야 하는 엔지니어링</title>
@@ -78,32 +71,11 @@
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
-      <link>https://velog.io/@k-svelte-master/shared-element-transition</link>
-      <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/shared-element-transition</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
       <title>사내 텍스트 도구를 직접 만들어 팀에 뿌린 이야기</title>
       <link>https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</link>
       <description>프레임워크 없이 파일 2개 + 내 Claude 구독(claude -p)으로, 팀이 매일 쓰는 사내 웹 도구를 만든 과정</description>
       <guid isPermaLink="false">https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</guid>
       <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
-      <link>https://velog.io/@x0gus/프로젝트-하나로-얼마나-우려먹을-수-있음</link>
-      <description>제가 한번 해봤습니다 프로젝트 헤일로 회고록</description>
-      <guid isPermaLink="false">https://velog.io/@x0gus/프로젝트-하나로-얼마나-우려먹을-수-있음</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>웹 보안</title>
-      <link>https://velog.io/@yeondon/웹-보안</link>
-      <description>XSS, CSRF, SQL Injection공격방식 탐구</description>
-      <guid isPermaLink="false">https://velog.io/@yeondon/웹-보안</guid>
-      <pubDate>Thu, 02 Jul 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
       <title>2026년 상반기 회고 키워드는 루틴</title>
@@ -113,39 +85,25 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
+      <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
+      <link>https://velog.io/@k-svelte-master/shared-element-transition</link>
+      <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/shared-element-transition</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
+      <link>https://velog.io/@x0gus/프로젝트-하나로-얼마나-우려먹을-수-있음</link>
+      <description>제가 한번 해봤습니다 프로젝트 헤일로 회고록</description>
+      <guid isPermaLink="false">https://velog.io/@x0gus/프로젝트-하나로-얼마나-우려먹을-수-있음</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+    </item>
+    <item>
       <title>[퀀텀 컴퓨터로 RSA 암호를 깨보자(1)] 8비트 RSA 해독에 2시간 반이 걸린 이유</title>
       <link>https://velog.io/@hyunide/6.1</link>
       <description>안녕하세요. 베네타리저브(VENETA Reserve)의 이현주입니다.지난 에세이에서 리처드 파인만이 남긴 "자연은 고전적이지 않다"는 경고와 함께, 고전 컴퓨터가 양자역학을 흉내 낼 때 발생하는 논리적 모순('음의 확률')을 다뤘습니다. 하지만 엔지니어에게 가장 확실한...</description>
       <guid isPermaLink="false">https://velog.io/@hyunide/6.1</guid>
       <pubDate>Sat, 04 Jul 2026 18:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>회사 공용 문서관리 시스템 구축</title>
-      <link>https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</link>
-      <description>우당탕탕 회사생활 3</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>왜 생성형 AI의 대부분은 채팅 형태일까</title>
-      <link>https://velog.io/@528528abcd/왜-생성형-AI의-대부분은-채팅-형태일까</link>
-      <description>Phi 디자인 스쿨을 아는가 이거 나오자마자 관심을 좀 가졌었는데 자신은 없지만 평소에 디자인 쪽에 너무 취약하단 생각을 하고 있어서 계속 보고 있다. 1기 기간이 딱 부트캠프랑 겹쳐서 진짜 고민 많이 하다가 미루...</description>
-      <guid isPermaLink="false">https://velog.io/@528528abcd/왜-생성형-AI의-대부분은-채팅-형태일까</guid>
-      <pubDate>Fri, 03 Jul 2026 18:10:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 상반기 돌아보기</title>
-      <link>https://velog.io/@8804who/2026년-상반기-돌아보기</link>
-      <description>2026년 상반기를 돌아보았는데... 하반기에는 열심히... 살아야지...</description>
-      <guid isPermaLink="false">https://velog.io/@8804who/2026년-상반기-돌아보기</guid>
-      <pubDate>Sat, 11 Jul 2026 17:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS 대신 알리익스프레스에서 반려 홈서버 입양하기</title>
-      <link>https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</link>
-      <description>다들 반려 서버 하나씩은 키우고 있잖아요. 그렇죠?</description>
-      <guid isPermaLink="false">https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
@@ -155,25 +113,18 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>양자 내성 암호에 대해</title>
-      <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
-      <description>이제 이 암호는 제 겁니다</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+      <title>AWS 대신 알리익스프레스에서 반려 홈서버 입양하기</title>
+      <link>https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</link>
+      <description>다들 반려 서버 하나씩은 키우고 있잖아요. 그렇죠?</description>
+      <guid isPermaLink="false">https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>스쿠나가 되어보자</title>
-      <link>https://velog.io/@mgang0_0/스쿠나가-되보자</link>
-      <description>시작하며 최근에 숏폼에서 고죠사토루로 손인식을해서 기술을 날리는 영상을 보고 저도 뭔가 재밌을 것 같기도 하고 바이브 코딩으로 재밌는 프로젝트랑 기술들 써보고 싶어서 하게 되었습니다. 캐릭터는 똑같은걸로 하긴 좀 그래서 고죠사토루와 같은 주술회전에 나오는 캐릭터인 ...</description>
-      <guid isPermaLink="false">https://velog.io/@mgang0_0/스쿠나가-되보자</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 코딩, 오래 가려면?</title>
-      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
-      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
-      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+      <title>친구야 생일 축하한다</title>
+      <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
+      <description>생일이 지났지만 생일 축하해~~~~</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
+      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
       <title>계단을 오를 수 있는 로봇이 계단 앞에서 멈춘다 - 사족보행로봇의 Nav2</title>
@@ -183,24 +134,38 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
-      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
-      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
-      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+      <title>회사 공용 문서관리 시스템 구축</title>
+      <link>https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</link>
+      <description>우당탕탕 회사생활 3</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026년 상반기 돌아보기</title>
+      <link>https://velog.io/@8804who/2026년-상반기-돌아보기</link>
+      <description>2026년 상반기를 돌아보았는데... 하반기에는 열심히... 살아야지...</description>
+      <guid isPermaLink="false">https://velog.io/@8804who/2026년-상반기-돌아보기</guid>
+      <pubDate>Sat, 11 Jul 2026 17:52:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>양자 내성 암호에 대해</title>
+      <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
+      <description>이제 이 암호는 제 겁니다</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 코딩, 오래 가려면?</title>
+      <link>https://velog.io/@480/AI-코딩-오래-가려면</link>
+      <description>요즘 AI 코딩을 하면서 계속 드는 생각이 있어요.너무 좋고 편하고 빠른데 말입니다.예전에는 AI가 없어도 개발을 하고, 있으면 조금 더 빨라지는 정도였다면,이제는 AI가 있을 때와 없을 때의 생산성 차이가 너무 커졌습니다.특히 큰 리팩토링, 반복 작업, 테스트, 구조...</description>
+      <guid isPermaLink="false">https://velog.io/@480/AI-코딩-오래-가려면</guid>
+      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
     </item>
     <item>
       <title>놀러와 마이홈 글로벌 서버 하는 법 (2026.07 기준)</title>
       <link>https://velog.io/@cyerin138/놀러와-마이홈-글로벌-서버-하는-법-2026.07-기준</link>
       <description>안녕하세요. 마이홈이 너무 좋은 인간입니다. 놀러와 마이홈이 서비스 종료를 한지 꽤 됐네요.대체 게임을 찾고 해봐도 그 마이홈 느낌이 안 나니 맛이 없더라구요.근데 네이버 카페가 운영중이라 보니 다들 영국서버에서 다시 플레이 하시더군요.따로 블로그나 정보로 정리되어있지...</description>
       <guid isPermaLink="false">https://velog.io/@cyerin138/놀러와-마이홈-글로벌-서버-하는-법-2026.07-기준</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[KDT, 900H] Intel 과정을 마치며</title>
-      <link>https://velog.io/@mommers/Intel9th</link>
-      <description>굿바이 Intel 9기.</description>
-      <guid isPermaLink="false">https://velog.io/@mommers/Intel9th</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
@@ -211,11 +176,46 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>친구야 생일 축하한다</title>
-      <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
-      <description>생일이 지났지만 생일 축하해~~~~</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
+      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
+      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
+      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
+      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KDT, 900H] Intel 과정을 마치며</title>
+      <link>https://velog.io/@mommers/Intel9th</link>
+      <description>굿바이 Intel 9기.</description>
+      <guid isPermaLink="false">https://velog.io/@mommers/Intel9th</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>좋은 커뮤니케이션이란 무엇일까?</title>
+      <link>https://velog.io/@kyoung0161/좋은</link>
+      <description>좋은 커뮤니케이션 오이데~ 마떼루용</description>
+      <guid isPermaLink="false">https://velog.io/@kyoung0161/좋은</guid>
+      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>이상하게 너만 오면 해결되더라?</title>
+      <link>https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</link>
+      <description>“이상하게 너만 오면 해결되더라?” 분석</description>
+      <guid isPermaLink="false">https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</guid>
+      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>전화번호 텍스트 하나 때문에, Safari에서만 터지던 Hydration Error 36건 추적기</title>
+      <link>https://velog.io/@kdy9883/react-hydration-error-safari-format-detection</link>
+      <description>실서비스 모든 페이지에서 Safari 사용자에게만 한 달 넘게 뜨던 React Hydration Error. 범인은 코드가 아니라 Safari의 전화번호 자동 감지였다. Sentry diff에 속지 않고 format-detection 한 줄로 잡기까지의 실전 추적기</description>
+      <guid isPermaLink="false">https://velog.io/@kdy9883/react-hydration-error-safari-format-detection</guid>
+      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DNS와 구조</title>
+      <link>https://velog.io/@hi2li/DNS와-구조</link>
+      <description>1. 개요 우리는 매일 인터넷을 사용하면서 수많은 웹사이트에 접속한다. 브라우저 주소창에 google.com, naver.com, velog.io처럼 도메인 이름만 입력하면 몇 초도 되지 않아 원하는 웹사이트가 열린다. 하지만 컴퓨터는 사람이 사용하는 도메인 이름...</description>
+      <guid isPermaLink="false">https://velog.io/@hi2li/DNS와-구조</guid>
+      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
