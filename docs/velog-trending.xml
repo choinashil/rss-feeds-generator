@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 17 Jul 2026 18:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:54:15 +0000</lastBuildDate>
     <item>
       <title>이력서를 부풀려서 쓸 필요가 없는 이유</title>
       <link>https://velog.io/@yunsungyang-omc/이력서를-부풀려서-쓸-필요가-없는-이유</link>
@@ -23,17 +23,17 @@
       <pubDate>Sun, 05 Jul 2026 17:59:54 +0000</pubDate>
     </item>
     <item>
+      <title>2026년 2분기 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</guid>
+      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
+    </item>
+    <item>
       <title>에이전트 함대의 해부 — AI 180개로 하루에 버그 55개를 잡은 검증 파이프라인</title>
       <link>https://velog.io/@soungjunban/에이전트-함대의-해부-AI-180개로-하루에-버그-55개를-잡은-검증-파이프라인</link>
       <description>LLM 에이전트 180개를 파인더-검증자 투표 구조로 묶어 하루에 버그 55개를 확정했다. 오탐 0을 만든 적대 검증 파이프라인의 설계와 한계.</description>
       <guid isPermaLink="false">https://velog.io/@soungjunban/에이전트-함대의-해부-AI-180개로-하루에-버그-55개를-잡은-검증-파이프라인</guid>
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 2분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</guid>
-      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
     </item>
     <item>
       <title>내가 왜 1년차 개발자?</title>
@@ -57,6 +57,13 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
+      <title>2026년 상반기 회고 키워드는 루틴</title>
+      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
+      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
       <title>사내 텍스트 도구를 직접 만들어 팀에 뿌린 이야기</title>
       <link>https://velog.io/@hoxjeong/사내-텍스트-도구를-직접-만들어-팀에-뿌린-이야기</link>
       <description>프레임워크 없이 파일 2개 + 내 Claude 구독(claude -p)으로, 팀이 매일 쓰는 사내 웹 도구를 만든 과정</description>
@@ -71,11 +78,11 @@
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 상반기 회고 키워드는 루틴</title>
-      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
-      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
-      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+      <title>AWS 대신 알리익스프레스에서 반려 홈서버 입양하기</title>
+      <link>https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</link>
+      <description>다들 반려 서버 하나씩은 키우고 있잖아요. 그렇죠?</description>
+      <guid isPermaLink="false">https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
       <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
@@ -83,13 +90,6 @@
       <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
       <guid isPermaLink="false">https://velog.io/@k-svelte-master/shared-element-transition</guid>
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>AWS 대신 알리익스프레스에서 반려 홈서버 입양하기</title>
-      <link>https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</link>
-      <description>다들 반려 서버 하나씩은 키우고 있잖아요. 그렇죠?</description>
-      <guid isPermaLink="false">https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
       <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
@@ -113,11 +113,11 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 상반기 돌아보기</title>
-      <link>https://velog.io/@8804who/2026년-상반기-돌아보기</link>
-      <description>2026년 상반기를 돌아보았는데... 하반기에는 열심히... 살아야지...</description>
-      <guid isPermaLink="false">https://velog.io/@8804who/2026년-상반기-돌아보기</guid>
-      <pubDate>Sat, 11 Jul 2026 17:52:57 +0000</pubDate>
+      <title>서류 합격률 0% 인간의 상반기 회고</title>
+      <link>https://velog.io/@cconac/상반기-회고</link>
+      <description>마음이 너무 힘들다</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/상반기-회고</guid>
+      <pubDate>Fri, 17 Jul 2026 18:02:47 +0000</pubDate>
     </item>
     <item>
       <title>친구야 생일 축하한다</title>
@@ -169,13 +169,6 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
-      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
-      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
-      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
-    </item>
-    <item>
       <title>좋은 커뮤니케이션이란 무엇일까?</title>
       <link>https://velog.io/@kyoung0161/좋은</link>
       <description>좋은 커뮤니케이션 오이데~ 마떼루용</description>
@@ -190,10 +183,24 @@
       <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
     </item>
     <item>
-      <title>서류 합격율 0% 인간의 상반기 회고</title>
-      <link>https://velog.io/@cconac/상반기-회고</link>
-      <description>마음이 너무 힘들다</description>
-      <guid isPermaLink="false">https://velog.io/@cconac/상반기-회고</guid>
+      <title>[우테코 8기] 조디악의 3레벨 1주차 회고: 만들기 전에 먼저 부딪혀보기</title>
+      <link>https://velog.io/@chohs4164/우테코-8기-조디악의-3레벨-1주차-회고-만들기-전에-먼저-부딪혀보기</link>
+      <description>2주간의 방학이 끝나고 레벨 3가 시작되었다. 레벨 1과 레벨 2가 주로 모바일 안드로이드 교육 분야의 미션을 중심으로 진행되었다면, 레벨 3는 조금 다른 방식으로 시작되었다. 이번 레벨의 핵심은 단순히 기능을 구현하는 것이 아니라, 유저가 있는 서비스를 만드는 것이...</description>
+      <guid isPermaLink="false">https://velog.io/@chohs4164/우테코-8기-조디악의-3레벨-1주차-회고-만들기-전에-먼저-부딪혀보기</guid>
+      <pubDate>Sat, 18 Jul 2026 17:54:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
+      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
+      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
+      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>jwt 기반 인증을 할때 보안을 지키기 위한 최선의 방법은 무엇일까?</title>
+      <link>https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</link>
+      <description>지금까지 여러 프로젝트를 해오면서 이 주제에 대해 고민을 많이 했고, 그만큼 여러 방법을 써봤어요. 고민 끝에 나름대로 결론을 내봤는데, 괜찮은 것 같나요?</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</guid>
       <pubDate>Fri, 17 Jul 2026 18:02:47 +0000</pubDate>
     </item>
     <item>
@@ -204,18 +211,11 @@
       <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
     </item>
     <item>
-      <title>jwt 기반 인증을 할때 보안을 지키기 위한 최선의 방법은 무엇일까?</title>
-      <link>https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</link>
-      <description>지금까지 여러 프로젝트를 해오면서 이 주제에 대해 고민을 많이 했고, 그만큼 여러 방법을 써봤어요. 고민 끝에 나름대로 결론을 내봤는데, 괜찮은 것 같나요?</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</guid>
-      <pubDate>Fri, 17 Jul 2026 18:02:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[몽골 여행] 시대의 흐름을 거부하다</title>
-      <link>https://velog.io/@antoliny0919/몽골-여행-시대의-흐름을-거부하다</link>
-      <description>징기스칸 공항에 도착했을때 몽골 여행에서 꿈꿔왔던 광할한 평야의 일부를 마주했다. "아 내가 진짜 몽골에 왔구나..." 바람막이를 입기에는 살짝 더운 따스함이 나를 감쌌고 이색적인 풍경에 사로잡힌채 숙소로 향했다 ...</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/몽골-여행-시대의-흐름을-거부하다</guid>
-      <pubDate>Fri, 17 Jul 2026 18:02:47 +0000</pubDate>
+      <title>[AWS] 네? 2,273조를 내라고요?</title>
+      <link>https://velog.io/@whanci/aws-billing-error</link>
+      <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
+      <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
+      <pubDate>Sat, 18 Jul 2026 17:54:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
