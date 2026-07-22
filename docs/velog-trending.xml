@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 21 Jul 2026 18:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:05:54 +0000</lastBuildDate>
     <item>
       <title>내가 왜 1년차 개발자?</title>
       <link>https://velog.io/@lgwk0642/내가-왜-1년차-개발자</link>
@@ -36,18 +36,11 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>AWS 대신 알리익스프레스에서 반려 홈서버 입양하기</title>
-      <link>https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</link>
-      <description>다들 반려 서버 하나씩은 키우고 있잖아요. 그렇죠?</description>
-      <guid isPermaLink="false">https://velog.io/@jongmine_c/AWS-대신-알리익스프레스에서-반려서버-입양하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>(번역) 취향은 새로운 해자(Moat)이며, 어떤 스타트업이 살아남을지는 디자인이 결정합니다</title>
-      <link>https://velog.io/@sehyunny/why-taste-is-the-new-moast</link>
-      <description>해자(moat)라는 말을 들어보셨나요?</description>
-      <guid isPermaLink="false">https://velog.io/@sehyunny/why-taste-is-the-new-moast</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
+      <title>메이플 경매장 MCP 개발기</title>
+      <link>https://velog.io/@oyc0401/메이플-경매장-MCP-개발기</link>
+      <description>화제의 메이플 경매장 MCP 개발기! 딸깍으로 아이템 검색이 된다고??</description>
+      <guid isPermaLink="false">https://velog.io/@oyc0401/메이플-경매장-MCP-개발기</guid>
+      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
       <title>반드시 알아야 하는 엔지니어링</title>
@@ -57,18 +50,18 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>메이플 경매장 MCP 개발기</title>
-      <link>https://velog.io/@oyc0401/메이플-경매장-MCP-개발기</link>
-      <description>화제의 메이플 경매장 MCP 개발기! 딸깍으로 아이템 검색이 된다고??</description>
-      <guid isPermaLink="false">https://velog.io/@oyc0401/메이플-경매장-MCP-개발기</guid>
-      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
-    </item>
-    <item>
       <title>2026년 상반기 회고 키워드는 루틴</title>
       <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
       <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
       <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>평범한 주니어가 django팀에 합류하기까지</title>
+      <link>https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</link>
+      <description>어쩌다 보니 이번 2026 PyCon에서 발표하게 되었다. 아주 평범한 주니어인 난 어떻게 django에서 인정받고 팀에 합류하게 되었을까? django팀에 합류하기 까지 어떤 경험을 했고 배웠을까 ?</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</guid>
+      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
       <title>왜 아직도 돈벌긴 어려울까</title>
@@ -78,13 +71,6 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
-      <title>테오의 스프린트 후기</title>
-      <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
-      <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
-      <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
       <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
       <link>https://velog.io/@k-svelte-master/shared-element-transition</link>
       <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
@@ -92,11 +78,11 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>평범한 주니어가 django팀에 합류하기까지</title>
-      <link>https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</link>
-      <description>어쩌다 보니 이번 2026 PyCon에서 발표하게 되었다. 아주 평범한 주니어인 난 어떻게 django에서 인정받고 팀에 합류하게 되었을까? django팀에 합류하기 까지 어떤 경험을 했고 배웠을까 ?</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</guid>
-      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
+      <title>테오의 스프린트 후기</title>
+      <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
+      <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
+      <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
@@ -113,18 +99,18 @@
       <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
     </item>
     <item>
-      <title>회사 공용 문서관리 시스템 구축</title>
-      <link>https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</link>
-      <description>우당탕탕 회사생활 3</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/회사-공용-문서관리-시스템-구축</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
-    </item>
-    <item>
       <title>친구야 생일 축하한다</title>
       <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
       <description>생일이 지났지만 생일 축하해~~~~</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
+      <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
+      <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
@@ -134,11 +120,11 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>양자 내성 암호에 대해</title>
-      <link>https://velog.io/@lgwk0642/양자-내성-암호에-대해</link>
-      <description>이제 이 암호는 제 겁니다</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/양자-내성-암호에-대해</guid>
-      <pubDate>Wed, 08 Jul 2026 18:15:35 +0000</pubDate>
+      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
+      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
+      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
       <title>[KDT, 900H] Intel 과정을 마치며</title>
@@ -148,17 +134,17 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
-      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
-      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
       <title>이상하게 너만 오면 해결되더라?</title>
       <link>https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</link>
       <description>“이상하게 너만 오면 해결되더라?” 분석</description>
       <guid isPermaLink="false">https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</guid>
+      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DNS와 구조</title>
+      <link>https://velog.io/@hi2li/DNS와-구조</link>
+      <description>1. 개요 우리는 매일 인터넷을 사용하면서 수많은 웹사이트에 접속한다. 브라우저 주소창에 google.com, naver.com, velog.io처럼 도메인 이름만 입력하면 몇 초도 되지 않아 원하는 웹사이트가 열린다. 하지만 컴퓨터는 사람이 사용하는 도메인 이름...</description>
+      <guid isPermaLink="false">https://velog.io/@hi2li/DNS와-구조</guid>
       <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
     </item>
     <item>
@@ -169,11 +155,11 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>DNS와 구조</title>
-      <link>https://velog.io/@hi2li/DNS와-구조</link>
-      <description>1. 개요 우리는 매일 인터넷을 사용하면서 수많은 웹사이트에 접속한다. 브라우저 주소창에 google.com, naver.com, velog.io처럼 도메인 이름만 입력하면 몇 초도 되지 않아 원하는 웹사이트가 열린다. 하지만 컴퓨터는 사람이 사용하는 도메인 이름...</description>
-      <guid isPermaLink="false">https://velog.io/@hi2li/DNS와-구조</guid>
-      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+      <title>어텐션 이스 올 유 니드</title>
+      <link>https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</link>
+      <description>우당탕탕 회사공부 4</description>
+      <guid isPermaLink="false">https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</guid>
+      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
       <title>계단을 오를 수 있는 로봇이 계단 앞에서 멈춘다 - 사족보행로봇의 Nav2</title>
@@ -183,11 +169,11 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>어텐션 이스 올 유 니드</title>
-      <link>https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</link>
-      <description>우당탕탕 회사공부 4</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+      <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
+      <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
+      <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
+      <guid isPermaLink="false">https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>AX 인재전쟁 본선에 갑니다.</title>
@@ -195,6 +181,26 @@
       <description>저는 PWC 삼일회계법인 전형으로 예선을 지원했고, 붙을거란 기대는 전혀 하지 않고 있었는데 붙어서 어안이 벙벙할 따름입니다. 아무튼 내일 다녀와서 후기도 빠른 시일 내에 블로그에 남기겠습니다.</description>
       <guid isPermaLink="false">https://velog.io/@minority_report/AX-인재전쟁-본선에-갑니다</guid>
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
+      <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
+      <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
+      <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>그게 진짜 AX가 맞나요?</title>
+      <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
+      <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 상반기 회고</title>
+      <link>https://velog.io/@kjh48001/2026-상반기-회고</link>
+      <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
+      <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>jwt 기반 인증을 할때 보안을 지키기 위한 최선의 방법은 무엇일까?</title>
@@ -208,13 +214,6 @@
       <link>https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</link>
       <description>API 테스트는 Swagger로 끝냈는데, 문서는 왜 노션에 또 써야 할까요? 그 불편함으로 만든 자동화 도구, MVP 검증 중입니다.</description>
       <guid isPermaLink="false">https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</guid>
-      <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 8기] 조디악의 3레벨 1주차 회고: 만들기 전에 먼저 부딪혀보기</title>
-      <link>https://velog.io/@chohs4164/우테코-8기-조디악의-3레벨-1주차-회고-만들기-전에-먼저-부딪혀보기</link>
-      <description>2주간의 방학이 끝나고 레벨 3가 시작되었다. 레벨 1과 레벨 2가 주로 모바일 안드로이드 교육 분야의 미션을 중심으로 진행되었다면, 레벨 3는 조금 다른 방식으로 시작되었다. 이번 레벨의 핵심은 단순히 기능을 구현하는 것이 아니라, 유저가 있는 서비스를 만드는 것이...</description>
-      <guid isPermaLink="false">https://velog.io/@chohs4164/우테코-8기-조디악의-3레벨-1주차-회고-만들기-전에-먼저-부딪혀보기</guid>
       <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
     </item>
   </channel>
