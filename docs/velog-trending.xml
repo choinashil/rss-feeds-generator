@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:05:54 +0000</lastBuildDate>
-    <item>
-      <title>내가 왜 1년차 개발자?</title>
-      <link>https://velog.io/@lgwk0642/내가-왜-1년차-개발자</link>
-      <description>ㅇㄱㅈㅉㅇㅇ?</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-왜-1년차-개발자</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 18:10:24 +0000</lastBuildDate>
     <item>
       <title>서류 합격률 0% 인간의 상반기 회고</title>
       <link>https://velog.io/@cconac/상반기-회고</link>
       <description>마음이 너무 힘들다</description>
       <guid isPermaLink="false">https://velog.io/@cconac/상반기-회고</guid>
       <pubDate>Fri, 17 Jul 2026 18:02:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>내가 왜 1년차 개발자?</title>
+      <link>https://velog.io/@lgwk0642/내가-왜-1년차-개발자</link>
+      <description>ㅇㄱㅈㅉㅇㅇ?</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-왜-1년차-개발자</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
       <title>2026년 2분기 회고</title>
@@ -50,13 +50,6 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 상반기 회고 키워드는 루틴</title>
-      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
-      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
-      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
       <title>평범한 주니어가 django팀에 합류하기까지</title>
       <link>https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</link>
       <description>어쩌다 보니 이번 2026 PyCon에서 발표하게 되었다. 아주 평범한 주니어인 난 어떻게 django에서 인정받고 팀에 합류하게 되었을까? django팀에 합류하기 까지 어떤 경험을 했고 배웠을까 ?</description>
@@ -64,11 +57,25 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
+      <title>2026년 상반기 회고 키워드는 루틴</title>
+      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
+      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
+      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
+    </item>
+    <item>
       <title>왜 아직도 돈벌긴 어려울까</title>
       <link>https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</link>
       <description>서비스를 만들 때, AI만으론 아직 귀찮음이 해결되지 않는 모든분들께</description>
       <guid isPermaLink="false">https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</guid>
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
+      <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</link>
+      <description>한동안 블로그에 글을 올리지 못했습니다. 현재 저는 군에서 복무하고 있습니다. 전역한 뒤에는 가능한 한 빨리 PM, PO, AI-native, AX와 관련된 현업에 들어가 실제 제품을 만들고, 조직이 일하는 방식을 경험해보고 싶습니다. 그 마음이 생각보다 꽤 간절해...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</guid>
+      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
       <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
@@ -85,32 +92,11 @@
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
-      <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</link>
-      <description>한동안 블로그에 글을 올리지 못했습니다. 현재 저는 군에서 복무하고 있습니다. 전역한 뒤에는 가능한 한 빨리 PM, PO, AI-native, AX와 관련된 현업에 들어가 실제 제품을 만들고, 조직이 일하는 방식을 경험해보고 싶습니다. 그 마음이 생각보다 꽤 간절해...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>죽은 단축링크의 해부 — Firebase Dynamic Links 없이 유니버설 링크·디퍼드 딥링크·카톡 공유를 자체 인프라로 되살리기</title>
-      <link>https://velog.io/@soungjunban/죽은-단축링크의-해부-Firebase-Dynamic-Links-없이-유니버설-링크디퍼드-딥링크카톡-공유를-자체-인프라로-되살리기</link>
-      <description>FDL EOL로 QR·카톡·문자 공유가 전부 죽었다. AASA·유니버설 링크·continueUserActivity 내부 동작과 카톡 executionParams로 공유 경로를 되살린 기록.</description>
-      <guid isPermaLink="false">https://velog.io/@soungjunban/죽은-단축링크의-해부-Firebase-Dynamic-Links-없이-유니버설-링크디퍼드-딥링크카톡-공유를-자체-인프라로-되살리기</guid>
-      <pubDate>Thu, 09 Jul 2026 18:47:57 +0000</pubDate>
-    </item>
-    <item>
       <title>친구야 생일 축하한다</title>
       <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
       <description>생일이 지났지만 생일 축하해~~~~</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
-      <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
-      <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
@@ -120,11 +106,11 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
-      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
-      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
+      <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
+      <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
+      <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>[KDT, 900H] Intel 과정을 마치며</title>
@@ -134,11 +120,11 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>이상하게 너만 오면 해결되더라?</title>
-      <link>https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</link>
-      <description>“이상하게 너만 오면 해결되더라?” 분석</description>
-      <guid isPermaLink="false">https://velog.io/@jodheeee/꼭-네가-오면-해결되더라</guid>
-      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
+      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
+      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
+      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
       <title>DNS와 구조</title>
@@ -155,25 +141,11 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>어텐션 이스 올 유 니드</title>
-      <link>https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</link>
-      <description>우당탕탕 회사공부 4</description>
-      <guid isPermaLink="false">https://velog.io/@imcute0703123/어텐션-이스-올-유-니드</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
-    </item>
-    <item>
       <title>계단을 오를 수 있는 로봇이 계단 앞에서 멈춘다 - 사족보행로봇의 Nav2</title>
       <link>https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</link>
       <description>Unitree Go2는 15cm 계단을 오를 수 있다. 그런데 TurtleBot에서 잘 돌던 Nav2를 그대로 얹으면, Go2는 그 계단 앞에서 멈춰버린다.</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
-      <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
-      <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
-      <guid isPermaLink="false">https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>AX 인재전쟁 본선에 갑니다.</title>
@@ -183,10 +155,30 @@
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
+      <title>2026 Nexon Young Programmers Cup Rookie Track Qualification Round 후기</title>
+      <link>https://velog.io/@necu1029/nypc-2026-qr</link>
+      <guid isPermaLink="false">https://velog.io/@necu1029/nypc-2026-qr</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swagger로 테스트하고, 노션에 또 적는 작업이 너무 싫어서 만들었습니다</title>
+      <link>https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</link>
+      <description>API 테스트는 Swagger로 끝냈는데, 문서는 왜 노션에 또 써야 할까요? 그 불편함으로 만든 자동화 도구, MVP 검증 중입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</guid>
+      <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
       <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
       <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
       <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
+      <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
+      <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
+      <guid isPermaLink="false">https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
@@ -196,25 +188,32 @@
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
+      <title>[AWS] 네? 2,273조를 내라고요?</title>
+      <link>https://velog.io/@whanci/aws-billing-error</link>
+      <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
+      <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>긴축 재정, 어디까지 해봤나?</title>
+      <link>https://velog.io/@genyf/긴축-재정-어디까지-해봤나</link>
+      <description>요즘 돈이 없다. 정확히는 돈이 없다기 보다는, 현금 유동성이 극단적으로 낮아졌다는 것에 가까운 것 같다. 주식은 물렸고, 대부분의 자산은 적금에 있다. 평소 2-300만원 정도는 파킹 통장에 유지해두며, 생활비로 사용하였다. 그러나 전역 후 "빈번한 사회적 만남 + ...</description>
+      <guid isPermaLink="false">https://velog.io/@genyf/긴축-재정-어디까지-해봤나</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 레벨2 회고] 5-7주차: 벽을 눕히면 다리가 된다</title>
+      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</link>
+      <description>우아한테크코스 8기 FE 레벨2 5-7주차 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
       <title>2026 상반기 회고</title>
       <link>https://velog.io/@kjh48001/2026-상반기-회고</link>
       <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
       <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>jwt 기반 인증을 할때 보안을 지키기 위한 최선의 방법은 무엇일까?</title>
-      <link>https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</link>
-      <description>지금까지 여러 프로젝트를 해오면서 이 주제에 대해 고민을 많이 했고, 그만큼 여러 방법을 써봤어요. 고민 끝에 나름대로 결론을 내봤는데, 괜찮은 것 같나요?</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/jwt-기반-인증을-할때-보안을-지키기-위한-최선의-방법은-무엇일까</guid>
-      <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swagger로 테스트하고, 노션에 또 적는 작업이 너무 싫어서 만들었습니다</title>
-      <link>https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</link>
-      <description>API 테스트는 Swagger로 끝냈는데, 문서는 왜 노션에 또 써야 할까요? 그 불편함으로 만든 자동화 도구, MVP 검증 중입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</guid>
-      <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
