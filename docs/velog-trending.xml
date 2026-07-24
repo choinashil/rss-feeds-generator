@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 18:15:48 +0000</lastBuildDate>
     <item>
       <title>서류 합격률 0% 인간의 상반기 회고</title>
       <link>https://velog.io/@cconac/상반기-회고</link>
@@ -57,24 +57,17 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 상반기 회고 키워드는 루틴</title>
-      <link>https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</link>
-      <description>쉬는 대신 루틴을 만든 상반기. 그래도 조금은 작년보다 단단해졌다.</description>
-      <guid isPermaLink="false">https://velog.io/@hying/2026년-상반기-회고-키워드는-루틴</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>왜 아직도 돈벌긴 어려울까</title>
-      <link>https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</link>
-      <description>서비스를 만들 때, AI만으론 아직 귀찮음이 해결되지 않는 모든분들께</description>
-      <guid isPermaLink="false">https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</guid>
-      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
-    </item>
-    <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
       <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</link>
       <description>한동안 블로그에 글을 올리지 못했습니다. 현재 저는 군에서 복무하고 있습니다. 전역한 뒤에는 가능한 한 빨리 PM, PO, AI-native, AX와 관련된 현업에 들어가 실제 제품을 만들고, 조직이 일하는 방식을 경험해보고 싶습니다. 그 마음이 생각보다 꽤 간절해...</description>
       <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</guid>
+      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>친구야 생일 축하한다</title>
+      <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
+      <description>생일이 지났지만 생일 축하해~~~~</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
@@ -85,18 +78,18 @@
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
     </item>
     <item>
+      <title>왜 아직도 돈벌긴 어려울까</title>
+      <link>https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</link>
+      <description>서비스를 만들 때, AI만으론 아직 귀찮음이 해결되지 않는 모든분들께</description>
+      <guid isPermaLink="false">https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</guid>
+      <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
+    </item>
+    <item>
       <title>테오의 스프린트 후기</title>
       <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
       <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
       <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>친구야 생일 축하한다</title>
-      <link>https://velog.io/@qtaghdi/친구야-생일-축하한다</link>
-      <description>생일이 지났지만 생일 축하해~~~~</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/친구야-생일-축하한다</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
       <title>?? : 프로젝트 하나로 얼마나 우려먹을 수 있음?</title>
@@ -127,13 +120,6 @@
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>DNS와 구조</title>
-      <link>https://velog.io/@hi2li/DNS와-구조</link>
-      <description>1. 개요 우리는 매일 인터넷을 사용하면서 수많은 웹사이트에 접속한다. 브라우저 주소창에 google.com, naver.com, velog.io처럼 도메인 이름만 입력하면 몇 초도 되지 않아 원하는 웹사이트가 열린다. 하지만 컴퓨터는 사람이 사용하는 도메인 이름...</description>
-      <guid isPermaLink="false">https://velog.io/@hi2li/DNS와-구조</guid>
-      <pubDate>Thu, 16 Jul 2026 18:03:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
       <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
       <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
@@ -141,24 +127,18 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>계단을 오를 수 있는 로봇이 계단 앞에서 멈춘다 - 사족보행로봇의 Nav2</title>
-      <link>https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</link>
-      <description>Unitree Go2는 15cm 계단을 오를 수 있다. 그런데 TurtleBot에서 잘 돌던 Nav2를 그대로 얹으면, Go2는 그 계단 앞에서 멈춰버린다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+      <title>+658K −773K. 군대에서 코딩하기</title>
+      <link>https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</link>
+      <description>2025년 1월 20일 입대 ~ 2026년 7월 19일 전역546일 동안 마우스도, 키보드도, 모니터도, 개발 환경도 없었습니다. 아이폰 하나로 2만명이 사용하는 서비스를 운영했습니다. 극악의 환경에서 기존 개발 방식을 벗어나, AI Native한 개발을 진행했습니다....</description>
+      <guid isPermaLink="false">https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
-      <title>AX 인재전쟁 본선에 갑니다.</title>
-      <link>https://velog.io/@minority_report/AX-인재전쟁-본선에-갑니다</link>
-      <description>저는 PWC 삼일회계법인 전형으로 예선을 지원했고, 붙을거란 기대는 전혀 하지 않고 있었는데 붙어서 어안이 벙벙할 따름입니다. 아무튼 내일 다녀와서 후기도 빠른 시일 내에 블로그에 남기겠습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/AX-인재전쟁-본선에-갑니다</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 Nexon Young Programmers Cup Rookie Track Qualification Round 후기</title>
-      <link>https://velog.io/@necu1029/nypc-2026-qr</link>
-      <guid isPermaLink="false">https://velog.io/@necu1029/nypc-2026-qr</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+      <title>2026 상반기 취준 회고 이모저모</title>
+      <link>https://velog.io/@sujeongmoon/2026-상반기-취준-회고</link>
+      <description>2026 상반기 취준 회고 이모저모</description>
+      <guid isPermaLink="false">https://velog.io/@sujeongmoon/2026-상반기-취준-회고</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>Swagger로 테스트하고, 노션에 또 적는 작업이 너무 싫어서 만들었습니다</title>
@@ -175,6 +155,27 @@
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
+      <title>AX 인재전쟁 본선에 갑니다.</title>
+      <link>https://velog.io/@minority_report/AX-인재전쟁-본선에-갑니다</link>
+      <description>저는 PWC 삼일회계법인 전형으로 예선을 지원했고, 붙을거란 기대는 전혀 하지 않고 있었는데 붙어서 어안이 벙벙할 따름입니다. 아무튼 내일 다녀와서 후기도 빠른 시일 내에 블로그에 남기겠습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/AX-인재전쟁-본선에-갑니다</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>계단을 오를 수 있는 로봇이 계단 앞에서 멈춘다 - 사족보행로봇의 Nav2</title>
+      <link>https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</link>
+      <description>Unitree Go2는 15cm 계단을 오를 수 있다. 그런데 TurtleBot에서 잘 돌던 Nav2를 그대로 얹으면, Go2는 그 계단 앞에서 멈춰버린다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/계단을-오를-수-있는-로봇이-계단-앞에서-멈춘다-사족보행로봇의-Nav2</guid>
+      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AWS] 네? 2,273조를 내라고요?</title>
+      <link>https://velog.io/@whanci/aws-billing-error</link>
+      <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
+      <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
       <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
       <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
       <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
@@ -188,18 +189,18 @@
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
-      <title>[AWS] 네? 2,273조를 내라고요?</title>
-      <link>https://velog.io/@whanci/aws-billing-error</link>
-      <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
-      <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
-    </item>
-    <item>
       <title>긴축 재정, 어디까지 해봤나?</title>
       <link>https://velog.io/@genyf/긴축-재정-어디까지-해봤나</link>
       <description>요즘 돈이 없다. 정확히는 돈이 없다기 보다는, 현금 유동성이 극단적으로 낮아졌다는 것에 가까운 것 같다. 주식은 물렸고, 대부분의 자산은 적금에 있다. 평소 2-300만원 정도는 파킹 통장에 유지해두며, 생활비로 사용하였다. 그러나 전역 후 "빈번한 사회적 만남 + ...</description>
       <guid isPermaLink="false">https://velog.io/@genyf/긴축-재정-어디까지-해봤나</guid>
       <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DB] 락의 모든 것 (feat. MySQL)</title>
+      <link>https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</link>
+      <description>❗포스팅에 담겨있는 내용이 많기 때문에 필요한 부분만 쪼개서 읽는 것도 좋습니다. 락이란 우리(또는 어플리케이션)는 데이터베이스에 접근해서 읽기, 쓰기와 같은 일련의 작업을 수행할 수 있다. 그리고 이러한 일련의 작업 묶음을 각각 트랜잭션이라고 한다. 통장 송금을...</description>
+      <guid isPermaLink="false">https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>[우테코 레벨2 회고] 5-7주차: 벽을 눕히면 다리가 된다</title>
@@ -209,11 +210,11 @@
       <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>2026 상반기 회고</title>
-      <link>https://velog.io/@kjh48001/2026-상반기-회고</link>
-      <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
-      <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+      <title>LLM Inference (9) - Continuous Batching</title>
+      <link>https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching</link>
+      <description>좋은 아침입니다.PagedAttention은 필요한 만큼의 Physical Block만 할당하여 KV Cache의 메모리 낭비를 줄이는 방법이었습니다.하지만 GPU 메모리를 효율적으로 사용하더라도 여러 사용자의 요청을 어떤 방식으로 묶어서 처리할 것인지에 따라 GPU의...</description>
+      <guid isPermaLink="false">https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
