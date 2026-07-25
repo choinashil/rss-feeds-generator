@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Jul 2026 18:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:56:18 +0000</lastBuildDate>
     <item>
       <title>서류 합격률 0% 인간의 상반기 회고</title>
       <link>https://velog.io/@cconac/상반기-회고</link>
@@ -99,13 +99,6 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
-      <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
-      <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
-    </item>
-    <item>
       <title>[KDT, 900H] Intel 과정을 마치며</title>
       <link>https://velog.io/@mommers/Intel9th</link>
       <description>굿바이 Intel 9기.</description>
@@ -113,18 +106,11 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
-      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
-      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
-      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
-      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
-      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
-      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+      <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
+      <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
+      <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>+658K −773K. 군대에서 코딩하기</title>
@@ -134,25 +120,32 @@
       <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
+      <link>https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</link>
+      <description>요구→구현→전달까지, AI로 기획·프론트와 핑퐁이 많은 기능 개발한 회고</description>
+      <guid isPermaLink="false">https://velog.io/@hoxjeong/Claude-Code로-기획개발을-릴레이하며-기능-개발하기</guid>
+      <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
+      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
+      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>2편. B+Tree를 모르면 개발자라 말하지 마라</title>
+      <link>https://velog.io/@gusdudco6/qps</link>
+      <description>b+tree</description>
+      <guid isPermaLink="false">https://velog.io/@gusdudco6/qps</guid>
+      <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
+    </item>
+    <item>
       <title>2026 상반기 취준 회고 이모저모</title>
       <link>https://velog.io/@sujeongmoon/2026-상반기-취준-회고</link>
       <description>2026 상반기 취준 회고 이모저모</description>
       <guid isPermaLink="false">https://velog.io/@sujeongmoon/2026-상반기-취준-회고</guid>
       <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Swagger로 테스트하고, 노션에 또 적는 작업이 너무 싫어서 만들었습니다</title>
-      <link>https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</link>
-      <description>API 테스트는 Swagger로 끝냈는데, 문서는 왜 노션에 또 써야 할까요? 그 불편함으로 만든 자동화 도구, MVP 검증 중입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@dkslasdud/Swagger로-테스트하고-노션에-또-적는-작업이-너무-싫어서-만들었습니다</guid>
-      <pubDate>Tue, 21 Jul 2026 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
-      <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
-      <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
-      <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
       <title>AX 인재전쟁 본선에 갑니다.</title>
@@ -169,10 +162,38 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
+      <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
+      <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
+      <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
       <title>[AWS] 네? 2,273조를 내라고요?</title>
       <link>https://velog.io/@whanci/aws-billing-error</link>
       <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
       <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 상반기 회고</title>
+      <link>https://velog.io/@kjh48001/2026-상반기-회고</link>
+      <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
+      <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
+      <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DB] 락의 모든 것 (feat. MySQL)</title>
+      <link>https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</link>
+      <description>❗포스팅에 담겨있는 내용이 많기 때문에 필요한 부분만 쪼개서 읽는 것도 좋습니다. 락이란 우리(또는 어플리케이션)는 데이터베이스에 접근해서 읽기, 쓰기와 같은 일련의 작업을 수행할 수 있다. 그리고 이러한 일련의 작업 묶음을 각각 트랜잭션이라고 한다. 통장 송금을...</description>
+      <guid isPermaLink="false">https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>긴축 재정, 어디까지 해봤나?</title>
+      <link>https://velog.io/@genyf/긴축-재정-어디까지-해봤나</link>
+      <description>요즘 돈이 없다. 정확히는 돈이 없다기 보다는, 현금 유동성이 극단적으로 낮아졌다는 것에 가까운 것 같다. 주식은 물렸고, 대부분의 자산은 적금에 있다. 평소 2-300만원 정도는 파킹 통장에 유지해두며, 생활비로 사용하였다. 그러나 전역 후 "빈번한 사회적 만남 + ...</description>
+      <guid isPermaLink="false">https://velog.io/@genyf/긴축-재정-어디까지-해봤나</guid>
       <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
@@ -183,26 +204,6 @@
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
-      <title>그게 진짜 AX가 맞나요?</title>
-      <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
-      <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>긴축 재정, 어디까지 해봤나?</title>
-      <link>https://velog.io/@genyf/긴축-재정-어디까지-해봤나</link>
-      <description>요즘 돈이 없다. 정확히는 돈이 없다기 보다는, 현금 유동성이 극단적으로 낮아졌다는 것에 가까운 것 같다. 주식은 물렸고, 대부분의 자산은 적금에 있다. 평소 2-300만원 정도는 파킹 통장에 유지해두며, 생활비로 사용하였다. 그러나 전역 후 "빈번한 사회적 만남 + ...</description>
-      <guid isPermaLink="false">https://velog.io/@genyf/긴축-재정-어디까지-해봤나</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[DB] 락의 모든 것 (feat. MySQL)</title>
-      <link>https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</link>
-      <description>❗포스팅에 담겨있는 내용이 많기 때문에 필요한 부분만 쪼개서 읽는 것도 좋습니다. 락이란 우리(또는 어플리케이션)는 데이터베이스에 접근해서 읽기, 쓰기와 같은 일련의 작업을 수행할 수 있다. 그리고 이러한 일련의 작업 묶음을 각각 트랜잭션이라고 한다. 통장 송금을...</description>
-      <guid isPermaLink="false">https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</guid>
-      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[우테코 레벨2 회고] 5-7주차: 벽을 눕히면 다리가 된다</title>
       <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</link>
       <description>우아한테크코스 8기 FE 레벨2 5-7주차 회고</description>
@@ -210,11 +211,10 @@
       <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>LLM Inference (9) - Continuous Batching</title>
-      <link>https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching</link>
-      <description>좋은 아침입니다.PagedAttention은 필요한 만큼의 Physical Block만 할당하여 KV Cache의 메모리 낭비를 줄이는 방법이었습니다.하지만 GPU 메모리를 효율적으로 사용하더라도 여러 사용자의 요청을 어떤 방식으로 묶어서 처리할 것인지에 따라 GPU의...</description>
-      <guid isPermaLink="false">https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching</guid>
-      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
+      <title>그게 진짜 AX가 맞나요?</title>
+      <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
+      <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
