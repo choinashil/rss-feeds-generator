@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:59:18 +0000</lastBuildDate>
     <item>
       <title>서류 합격률 0% 인간의 상반기 회고</title>
       <link>https://velog.io/@cconac/상반기-회고</link>
@@ -21,12 +21,6 @@
       <description>ㅇㄱㅈㅉㅇㅇ?</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-왜-1년차-개발자</guid>
       <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 2분기 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-2분기-회고-hhxaf755</guid>
-      <pubDate>Sun, 12 Jul 2026 17:57:21 +0000</pubDate>
     </item>
     <item>
       <title>에이전트 함대의 해부 — AI 180개로 하루에 버그 55개를 잡은 검증 파이프라인</title>
@@ -57,11 +51,11 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
-      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)</title>
-      <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</link>
-      <description>한동안 블로그에 글을 올리지 못했습니다. 현재 저는 군에서 복무하고 있습니다. 전역한 뒤에는 가능한 한 빨리 PM, PO, AI-native, AX와 관련된 현업에 들어가 실제 제품을 만들고, 조직이 일하는 방식을 경험해보고 싶습니다. 그 마음이 생각보다 꽤 간절해...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-2편</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+      <title>코헤처럼 되고 싶나?</title>
+      <link>https://velog.io/@gusdudco6/doYouWantToBeCohe</link>
+      <description>이번 글은 엉덩이 때리라고 하지 않아요</description>
+      <guid isPermaLink="false">https://velog.io/@gusdudco6/doYouWantToBeCohe</guid>
+      <pubDate>Sun, 26 Jul 2026 17:59:18 +0000</pubDate>
     </item>
     <item>
       <title>친구야 생일 축하한다</title>
@@ -71,18 +65,18 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
-      <title>리액트 너머, 공유 요소 트랜지션을 직접 구현해봤습니다</title>
-      <link>https://velog.io/@k-svelte-master/shared-element-transition</link>
-      <description>인스타그램이나 구글 포토에서 사진을 누르면, 방금 누른 이미지가 다음 화면까지 이어집니다. 예전에는 앱에서 주로 보던 움직임인데 요즘은 웹에서도 어렵지 않게 만날 수 있습니다. Airbnb 웹에서 숙소 카드를 누를 때도 목록의 사진이 상세 화면까지 자연스럽게 이어집니다...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/shared-element-transition</guid>
-      <pubDate>Mon, 13 Jul 2026 18:41:34 +0000</pubDate>
-    </item>
-    <item>
       <title>왜 아직도 돈벌긴 어려울까</title>
       <link>https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</link>
       <description>서비스를 만들 때, AI만으론 아직 귀찮음이 해결되지 않는 모든분들께</description>
       <guid isPermaLink="false">https://velog.io/@xylopeofficial/왜-아직도-돈벌긴-어려울까</guid>
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>+658K −773K. 군대에서 코딩하기</title>
+      <link>https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</link>
+      <description>2025년 1월 20일 입대 ~ 2026년 7월 19일 전역546일 동안 마우스도, 키보드도, 모니터도, 개발 환경도 없었습니다. 아이폰 하나로 2만명이 사용하는 서비스를 운영했습니다. 극악의 환경에서 기존 개발 방식을 벗어나, AI Native한 개발을 진행했습니다....</description>
+      <guid isPermaLink="false">https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>테오의 스프린트 후기</title>
@@ -99,11 +93,18 @@
       <pubDate>Tue, 14 Jul 2026 17:58:51 +0000</pubDate>
     </item>
     <item>
-      <title>[KDT, 900H] Intel 과정을 마치며</title>
-      <link>https://velog.io/@mommers/Intel9th</link>
-      <description>굿바이 Intel 9기.</description>
-      <guid isPermaLink="false">https://velog.io/@mommers/Intel9th</guid>
-      <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
+      <title>2편. B+Tree를 모르면 개발자라 말하지 마라</title>
+      <link>https://velog.io/@gusdudco6/qps</link>
+      <description>b+tree</description>
+      <guid isPermaLink="false">https://velog.io/@gusdudco6/qps</guid>
+      <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 상반기 취준 회고 이모저모</title>
+      <link>https://velog.io/@sujeongmoon/2026-상반기-취준-회고</link>
+      <description>2026 상반기 취준 회고 이모저모</description>
+      <guid isPermaLink="false">https://velog.io/@sujeongmoon/2026-상반기-취준-회고</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
@@ -111,13 +112,6 @@
       <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>+658K −773K. 군대에서 코딩하기</title>
-      <link>https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</link>
-      <description>2025년 1월 20일 입대 ~ 2026년 7월 19일 전역546일 동안 마우스도, 키보드도, 모니터도, 개발 환경도 없었습니다. 아이폰 하나로 2만명이 사용하는 서비스를 운영했습니다. 극악의 환경에서 기존 개발 방식을 벗어나, AI Native한 개발을 진행했습니다....</description>
-      <guid isPermaLink="false">https://velog.io/@spencer0124/658K-773K.-군대에서-코딩하기</guid>
-      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>Claude Code로 기획↔개발을 릴레이하며 기능 개발하기</title>
@@ -134,18 +128,11 @@
       <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
-      <title>2편. B+Tree를 모르면 개발자라 말하지 마라</title>
-      <link>https://velog.io/@gusdudco6/qps</link>
-      <description>b+tree</description>
-      <guid isPermaLink="false">https://velog.io/@gusdudco6/qps</guid>
-      <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 상반기 취준 회고 이모저모</title>
-      <link>https://velog.io/@sujeongmoon/2026-상반기-취준-회고</link>
-      <description>2026 상반기 취준 회고 이모저모</description>
-      <guid isPermaLink="false">https://velog.io/@sujeongmoon/2026-상반기-취준-회고</guid>
-      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
+      <title>Claude 자격증 올클리어 후기</title>
+      <link>https://velog.io/@railgunofpku/claudeCertAllClear</link>
+      <description>아마도 Velog 최초!</description>
+      <guid isPermaLink="false">https://velog.io/@railgunofpku/claudeCertAllClear</guid>
+      <pubDate>Sun, 26 Jul 2026 17:59:18 +0000</pubDate>
     </item>
     <item>
       <title>AX 인재전쟁 본선에 갑니다.</title>
@@ -162,11 +149,25 @@
       <pubDate>Wed, 15 Jul 2026 18:03:16 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Opus 5 드디어 출시</title>
+      <link>https://velog.io/@dbwls/Claude-Opus-5-출시-가격-그대로</link>
+      <description>지난 Gemini 글 마지막에 "소문대로면 곧 Opus 5도 나온다"고 썼는데, 7월 24일, 진짜 나오게 됐다. 한 줄로 요약하면 Fable 5에 근접한 지능을 절반 가격에 라는 것이다. (사실 원래 Opus의 두 배 가격이니 Opus가 업그레이드됐다는 말이랑 똑같...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-Opus-5-출시-가격-그대로</guid>
+      <pubDate>Sun, 26 Jul 2026 17:59:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
       <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
       <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
       <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[DB] 락의 모든 것 (feat. MySQL)</title>
+      <link>https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</link>
+      <description>❗포스팅에 담겨있는 내용이 많기 때문에 필요한 부분만 쪼개서 읽는 것도 좋습니다. 락이란 우리(또는 어플리케이션)는 데이터베이스에 접근해서 읽기, 쓰기와 같은 일련의 작업을 수행할 수 있다. 그리고 이러한 일련의 작업 묶음을 각각 트랜잭션이라고 한다. 통장 송금을...</description>
+      <guid isPermaLink="false">https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</guid>
+      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
       <title>[AWS] 네? 2,273조를 내라고요?</title>
@@ -183,11 +184,11 @@
       <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
     </item>
     <item>
-      <title>[DB] 락의 모든 것 (feat. MySQL)</title>
-      <link>https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</link>
-      <description>❗포스팅에 담겨있는 내용이 많기 때문에 필요한 부분만 쪼개서 읽는 것도 좋습니다. 락이란 우리(또는 어플리케이션)는 데이터베이스에 접근해서 읽기, 쓰기와 같은 일련의 작업을 수행할 수 있다. 그리고 이러한 일련의 작업 묶음을 각각 트랜잭션이라고 한다. 통장 송금을...</description>
-      <guid isPermaLink="false">https://velog.io/@keumsiun0503/DB-락의-모든-것-feat.-MySQL</guid>
-      <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
+      <title>[우테코 레벨2 회고] 5-7주차: 벽을 눕히면 다리가 된다</title>
+      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</link>
+      <description>우아한테크코스 8기 FE 레벨2 5-7주차 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</guid>
+      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
       <title>긴축 재정, 어디까지 해봤나?</title>
@@ -197,23 +198,22 @@
       <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
     </item>
     <item>
-      <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
-      <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
-      <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
-      <guid isPermaLink="false">https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨2 회고] 5-7주차: 벽을 눕히면 다리가 된다</title>
-      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</link>
-      <description>우아한테크코스 8기 FE 레벨2 5-7주차 회고</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-벽을-눕히면-다리가-된다</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+      <title>2026 Nexon Young Programmers Cup Rookie Track Qualification Round 후기</title>
+      <link>https://velog.io/@necu1029/nypc-2026-qr</link>
+      <guid isPermaLink="false">https://velog.io/@necu1029/nypc-2026-qr</guid>
+      <pubDate>Sun, 26 Jul 2026 17:59:18 +0000</pubDate>
     </item>
     <item>
       <title>그게 진짜 AX가 맞나요?</title>
       <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
       <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
+      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>설정 토글 하나가 분산 시스템이 되는 순간 — 오프라인 off와 스테일 on의 해부</title>
+      <link>https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</link>
+      <description>"스위치 하나 추가"는 UI 작업처럼 들리지만, 서버가 진실이고 기기가 여러 대인 순간 그것은 분산 상태 동기화 문제다. 스위치의 품질은 켜고 끄는 코드가 아니라, 꺼진 상태가 부활하는 모든 경로를 열거하고 봉쇄했는가가 결정한다.이 글의 사례는 iOS 앱의 기능 마스터...</description>
+      <guid isPermaLink="false">https://velog.io/@soungjunban/설정-토글-하나가-분산-시스템이-되는-순간-오프라인-off와-스테일-on의-해부</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
   </channel>
