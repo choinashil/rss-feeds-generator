@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 31 Jul 2026 18:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:57:27 +0000</lastBuildDate>
     <item>
       <title>코헤처럼 되고 싶나?</title>
       <link>https://velog.io/@gusdudco6/doYouWantToBeCohe</link>
@@ -58,13 +58,6 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
-      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
-      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
-      <description>똥겜을 만들어보자</description>
-      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
-    </item>
-    <item>
       <title>평범한 주니어가 django팀에 합류하기까지</title>
       <link>https://velog.io/@antoliny0919/평범한-주니어가-django팀에-합류하기까지</link>
       <description>어쩌다 보니 이번 2026 PyCon에서 발표하게 되었다. 아주 평범한 주니어인 난 어떻게 django에서 인정받고 팀에 합류하게 되었을까? django팀에 합류하기 까지 어떤 경험을 했고 배웠을까 ?</description>
@@ -77,6 +70,13 @@
       <description>2026 상반기 취준 회고 이모저모</description>
       <guid isPermaLink="false">https://velog.io/@sujeongmoon/2026-상반기-취준-회고</guid>
       <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
+      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
+      <description>똥겜을 만들어보자</description>
+      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>Claude 5 버전 신규 프롬프트 가이드: 'Context Engineering' 기법</title>
@@ -107,18 +107,18 @@
       <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
     </item>
     <item>
-      <title>테오의 스프린트 후기</title>
-      <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
-      <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
-      <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
       <title>SSAFY 16기를 시작하다</title>
       <link>https://velog.io/@yereumi/SSAFY-16기를-시작하다</link>
       <description>개인 기록용</description>
       <guid isPermaLink="false">https://velog.io/@yereumi/SSAFY-16기를-시작하다</guid>
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>테오의 스프린트 후기</title>
+      <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
+      <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
+      <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
+      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
       <title>긴축 재정, 어디까지 해봤나?</title>
@@ -170,13 +170,6 @@
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
     </item>
     <item>
-      <title>[AWS] 네? 2,273조를 내라고요?</title>
-      <link>https://velog.io/@whanci/aws-billing-error</link>
-      <description>I owe $7 trillion, what now?"7조 달러를 빚졌어. 이제 어떡하지?"— 익명의 레딧 유저농담처럼 보이는 이 문장은 2026년 7월, AWS 장애 당시 실제로 레딧에 올라온 글입니다.AWS Billing 시스템의 오류로 인해 일부 고객의 예상 사용 ...</description>
-      <guid isPermaLink="false">https://velog.io/@whanci/aws-billing-error</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Proxy vs Reverse Proxy 완전 정리</title>
       <link>https://velog.io/@gitit-sehyeon/Proxy-vs-Reverse-Proxy-완전-정리</link>
       <description>업로드중..백엔드 개발자 관점에서 정리한 문서. 개념 → 동작 → 설정 → 트러블슈팅 → 면접 순서.핵심 구분법: "이 프록시는 누구 편이고, 누가 돈 내고 설치했는가?"클라이언트 편이면 forward, 서버 편이면 reverse. 끝.proxy 라는 단어 자체가 "대...</description>
@@ -189,13 +182,6 @@
       <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
       <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
       <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>리액트로 영상 편집을 할 수 있다고?</title>
-      <link>https://velog.io/@zerone001/remotion</link>
-      <description>영상을 프로그래밍 방식으로 제작하고 렌더링하는 Remotion에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/remotion</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>4천 명 규모의 오버워치 내전을 관리해보며</title>
@@ -212,11 +198,23 @@
       <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
-      <title>4년 동안 함께했던 첫 직장을 떠나며: 4년차 개발자의 회고</title>
-      <link>https://velog.io/@white-jang/4년-동안-함께했던-첫-직장을-떠나며-4년차-개발자의-회고</link>
-      <description>4년 정도 다녔던 회사를 그만두고 이직을 준비하고 있다. 퇴사 후 한 달이 조금 지난 지금, 퇴사를 결심했을 당시의 고민들과 앞으로의 다짐을 정리해보려고 한다.입사 3년 차부터 팀 내 사수가 없어졌고, 자연스럽게 팀장 바로 아래로 가장 연차가 높은 직원이 됐다. 이후에...</description>
-      <guid isPermaLink="false">https://velog.io/@white-jang/4년-동안-함께했던-첫-직장을-떠나며-4년차-개발자의-회고</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
+      <title>아무도 오지 않는 기술 블로그를 만들고 있습니다</title>
+      <link>https://velog.io/@viva_kby/아무도-오지-않는-기술-블로그를-만들고-있습니다</link>
+      <description>7개월 동안 만들고, 혼자 기록하고 있어요</description>
+      <guid isPermaLink="false">https://velog.io/@viva_kby/아무도-오지-않는-기술-블로그를-만들고-있습니다</guid>
+      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>그게 진짜 AX가 맞나요?</title>
+      <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
+      <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
+      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Nexon Young Programmers Cup Rookie Track Qualification Round 후기</title>
+      <link>https://velog.io/@necu1029/nypc-2026-qr</link>
+      <guid isPermaLink="false">https://velog.io/@necu1029/nypc-2026-qr</guid>
+      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
