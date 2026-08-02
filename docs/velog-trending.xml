@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:59:08 +0000</lastBuildDate>
     <item>
       <title>코헤처럼 되고 싶나?</title>
       <link>https://velog.io/@gusdudco6/doYouWantToBeCohe</link>
@@ -72,11 +72,11 @@
       <pubDate>Fri, 24 Jul 2026 18:15:48 +0000</pubDate>
     </item>
     <item>
-      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
-      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
-      <description>똥겜을 만들어보자</description>
-      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
+      <title>🌪️ 폭풍전야, 2026 상반기 회고</title>
+      <link>https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</link>
+      <description>주식으로 돈도 벌고 개발도 순조로운 줄 알았습니다. 6월 전까지는요. 버튼 하나 뒤에 엔진·서버·외주·고객사까지 줄줄이 따라온 개발자 2년 차의 생존형 상반기 회고록.....</description>
+      <guid isPermaLink="false">https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</guid>
+      <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
     </item>
     <item>
       <title>Claude 5 버전 신규 프롬프트 가이드: 'Context Engineering' 기법</title>
@@ -84,6 +84,13 @@
       <description>2026년 7월 24일,Anthropic이 Claude 5 세대 모델용 컨텍스트 엔지니어링 가이드를 올렸다.꽤나 많은 변화가 있는듯하여 일단 정리해봤다. Opus 5, Fable 5 대상으로</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Claude-5-버전용-신규-프롬프트-가이드-Context-Engineering-기법</guid>
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
+      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
+      <description>똥겜을 만들어보자</description>
+      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>크래프톤 정글 13기 합격후기</title>
@@ -100,25 +107,11 @@
       <pubDate>Mon, 20 Jul 2026 18:50:50 +0000</pubDate>
     </item>
     <item>
-      <title>🌪️ 폭풍전야, 2026 상반기 회고</title>
-      <link>https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</link>
-      <description>주식으로 돈도 벌고 개발도 순조로운 줄 알았습니다. 6월 전까지는요. 버튼 하나 뒤에 엔진·서버·외주·고객사까지 줄줄이 따라온 개발자 2년 차의 생존형 상반기 회고록.....</description>
-      <guid isPermaLink="false">https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</guid>
-      <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
-    </item>
-    <item>
       <title>SSAFY 16기를 시작하다</title>
       <link>https://velog.io/@yereumi/SSAFY-16기를-시작하다</link>
       <description>개인 기록용</description>
       <guid isPermaLink="false">https://velog.io/@yereumi/SSAFY-16기를-시작하다</guid>
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>테오의 스프린트 후기</title>
-      <link>https://velog.io/@qqbck123/테오의-스프린트-후기</link>
-      <description>최근 테오의 스프린트에 참여 했습니다. 편하게 하다보니 약간 반말로 해버렸습니다. 죄송하지만 편하게 봐주십쇼</description>
-      <guid isPermaLink="false">https://velog.io/@qqbck123/테오의-스프린트-후기</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
     </item>
     <item>
       <title>긴축 재정, 어디까지 해봤나?</title>
@@ -135,13 +128,6 @@
       <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
     </item>
     <item>
-      <title>바람이 불고, 물이 흐르는 작은 마을 만들기 — 힐링 온라인 게임 제작기 1탄</title>
-      <link>https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</link>
-      <description>걷기만 해도 잠깐 숨을 고를 수 있는 공간을 만들고 싶었다.그래서 작은 풍차와 개울, 흔들리는 풀, 느긋하게 산책하는 주민이 있는 바람샘 마을을 만들었다.이번 프로젝트의 목표는 거창한 전투나 경쟁이 아니었다. 화면을 켜고 마을을 한 바퀴 걷는 것만으로도 기분이 조금 부...</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/바람이-불고-물이-흐르는-작은-마을-만들기-힐링-온라인-게임-제작기-1탄</guid>
-      <pubDate>Sun, 19 Jul 2026 17:56:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
       <link>https://velog.io/@dbwls/Gemini-Flash-3.6-갑자기-출시Gemini-4-예고</link>
       <description>어제 구글이 Gemini 새 모델을 냈는데, 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber로 한 번에 세 개가 출시됐다. 근데 다 Flash고, Pro는 없다. 왜 Pro는 업데이트 안 하는지 모르겠다. (아직도 3.1임) 이게 이번 ...</description>
@@ -156,18 +142,18 @@
       <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
     </item>
     <item>
-      <title>알고리즘 풀 때 꼭 알아야 하는 Java 문법</title>
-      <link>https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</link>
-      <description>②④시간♥무♥료♥열♥람♥가능♬ $$$조 건 없 이 즉 시 제 공$$$ 지★금★바★로★확★인★하★기☞☞</description>
-      <guid isPermaLink="false">https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</guid>
-      <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
       <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
       <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
       <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
       <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>알고리즘 풀 때 꼭 알아야 하는 Java 문법</title>
+      <link>https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</link>
+      <description>②④시간♥무♥료♥열♥람♥가능♬ $$$조 건 없 이 즉 시 제 공$$$ 지★금★바★로★확★인★하★기☞☞</description>
+      <guid isPermaLink="false">https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</guid>
+      <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
     </item>
     <item>
       <title>Proxy vs Reverse Proxy 완전 정리</title>
@@ -177,18 +163,25 @@
       <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
     </item>
     <item>
-      <title>2026 상반기 회고</title>
-      <link>https://velog.io/@kjh48001/2026-상반기-회고</link>
-      <description>벌써 반기가 지나고도 3주일이넘게 지났다...거의 한달이 다지나가는 중이다연말은 어찌저찌 연휴나 업무도 여유가 있으나 요즘은 여름이라 그런지 업무도 바쁘고 정신이 없다...하지만 이러다 1년을 미뤄버리면 답이 없으므로 한숨 돌릴시간이 약간 생겨서 정리하고 회고해보는 시...</description>
-      <guid isPermaLink="false">https://velog.io/@kjh48001/2026-상반기-회고</guid>
-      <pubDate>Sat, 25 Jul 2026 17:56:18 +0000</pubDate>
-    </item>
-    <item>
       <title>4천 명 규모의 오버워치 내전을 관리해보며</title>
       <link>https://velog.io/@qtaghdi/4천-명-규모의-오버워치-내전을-관리해보며</link>
       <description>세상은 우리가 필요합니다. 지금 당장! 함께 하실 거죠?</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/4천-명-규모의-오버워치-내전을-관리해보며</guid>
       <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
+      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
+      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
+      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>블루리본 고소 사건; AI 시대 데이터 활용의 경계</title>
+      <link>https://velog.io/@dkqk0124/블루리본-고소-사건</link>
+      <description>블루리본의 K-Skill 개발자의 고소 사건을 보고, AI 시대에서 다시금 중요하게 생각해야 할 데이터와 개발 윤리에 대해서 생각해보는 글을 작성했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@dkqk0124/블루리본-고소-사건</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
       <title>하네스 논쟁 : 만능 하네스는 없다</title>
@@ -198,6 +191,12 @@
       <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
+      <title>한 장으로 정리하는 오브젝트 01 객체, 설계</title>
+      <link>https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</link>
+      <guid isPermaLink="false">https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>아무도 오지 않는 기술 블로그를 만들고 있습니다</title>
       <link>https://velog.io/@viva_kby/아무도-오지-않는-기술-블로그를-만들고-있습니다</link>
       <description>7개월 동안 만들고, 혼자 기록하고 있어요</description>
@@ -205,15 +204,16 @@
       <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
     </item>
     <item>
+      <title>2026 상반기 회고</title>
+      <link>https://velog.io/@junjuny0227/46</link>
+      <description>얘야, 인생이란 원래 자기 생각대로 되지 않는 법이란다.</description>
+      <guid isPermaLink="false">https://velog.io/@junjuny0227/46</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>그게 진짜 AX가 맞나요?</title>
       <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
       <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
-      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 Nexon Young Programmers Cup Rookie Track Qualification Round 후기</title>
-      <link>https://velog.io/@necu1029/nypc-2026-qr</link>
-      <guid isPermaLink="false">https://velog.io/@necu1029/nypc-2026-qr</guid>
       <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
     </item>
   </channel>
