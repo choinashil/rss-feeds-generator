@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 03 Aug 2026 18:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:25:12 +0000</lastBuildDate>
     <item>
       <title>코헤처럼 되고 싶나?</title>
       <link>https://velog.io/@gusdudco6/doYouWantToBeCohe</link>
@@ -65,6 +65,13 @@
       <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
     </item>
     <item>
+      <title>[프론트 면접] 자동 저장 어떻게 구현하실 건가요?</title>
+      <link>https://velog.io/@k-svelte-master/auto-save-notion</link>
+      <description>노션에서 글을 쓰다가 저장 버튼을 찾은 적 있으신가요?아마 거의 없을 겁니다. 내용을 입력하고 다른 페이지로 이동했다가 돌아와도 방금 쓴 내용이 남아 있을 거라고 생각합니다. 구글 문서도 마찬가지입니다. 구글은 공식 도움말에서 “입력하는 동안 변경 사항을 자동으로 저장...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/auto-save-notion</guid>
+      <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
+    </item>
+    <item>
       <title>크래프톤 정글 13기 합격후기</title>
       <link>https://velog.io/@hongsinugget/크래프톤-정글-13기-합격후기</link>
       <description>안녕하세요 홍시너겟입니다 제가 오늘 국취제 프로그램을 듣는데 정글 합격소식을 듣고 마음을 가라앉히지 못했네요.. 많은분들이 축하해주셔서 감사드려요!</description>
@@ -79,11 +86,11 @@
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
-      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
-      <description>똥겜을 만들어보자</description>
-      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
+      <title>LG CNS 서류 인적성 1차 2차 면접 최탈 후기</title>
+      <link>https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</link>
+      <description>이번에 들어온 따끈따끈한 소식이다. LG CNS 최탈을 했다!! 아무튼 스스로 회고하고, 누군가에게 도움이 될까 싶어 작성해보는 최탈 후기다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</guid>
+      <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
     </item>
     <item>
       <title>SSAFY 16기를 시작하다</title>
@@ -93,18 +100,11 @@
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>LG CNS 서류 인적성 1차 2차 면접 최탈 후기</title>
-      <link>https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</link>
-      <description>이번에 들어온 따끈따끈한 소식이다. LG CNS 최탈을 했다!! 아무튼 스스로 회고하고, 누군가에게 도움이 될까 싶어 작성해보는 최탈 후기다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</guid>
-      <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>긴축 재정, 어디까지 해봤나?</title>
-      <link>https://velog.io/@genyf/긴축-재정-어디까지-해봤나</link>
-      <description>요즘 돈이 없다. 정확히는 돈이 없다기 보다는, 현금 유동성이 극단적으로 낮아졌다는 것에 가까운 것 같다. 주식은 물렸고, 대부분의 자산은 적금에 있다. 평소 2-300만원 정도는 파킹 통장에 유지해두며, 생활비로 사용하였다. 그러나 전역 후 "빈번한 사회적 만남 + ...</description>
-      <guid isPermaLink="false">https://velog.io/@genyf/긴축-재정-어디까지-해봤나</guid>
-      <pubDate>Thu, 23 Jul 2026 18:10:24 +0000</pubDate>
+      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
+      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
+      <description>똥겜을 만들어보자</description>
+      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>블루리본 고소 사건; AI 시대 데이터 활용의 경계</title>
@@ -114,13 +114,6 @@
       <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>AX인재전쟁 본선 후기(삼일Pwc 회계법인)</title>
-      <link>https://velog.io/@minority_report/AX인재전쟁-본선-후기삼일Pwc-회계법인</link>
-      <description>AX 인재전쟁은 유튜브에서 조코딩님의 영상을 통해 처음 알게 되었습니다. 저는 AI-native 조직과 AX에 관심이 많습니다. 단순히 ChatGPT를 잘 사용하거나 업무에 AI 기능 하나를 추가하는 것을 넘어, 조직의 업무 방식 자체를 AI에 맞게 다시 설계하는 것...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/AX인재전쟁-본선-후기삼일Pwc-회계법인</guid>
-      <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
-    </item>
-    <item>
       <title>알고리즘 풀 때 꼭 알아야 하는 Java 문법</title>
       <link>https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</link>
       <description>②④시간♥무♥료♥열♥람♥가능♬ $$$조 건 없 이 즉 시 제 공$$$ 지★금★바★로★확★인★하★기☞☞</description>
@@ -128,11 +121,11 @@
       <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Code를 단순 코딩 도구가 아닌 개발 파이프라인의 일부로</title>
-      <link>https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</link>
-      <description>**Next.js + Vercel + Claude Code를 활용해 포트폴리오를 개발하며, AI를 &gt; '코드 생성기'가 아닌 개발 파이프라인의 일부로 설계한 경험을 &gt; 정리했습니다.** 개발을 시작하며 최근 개인 포트폴리오를 새롭게 만들었습니다. 이번 프로젝트에서...</description>
-      <guid isPermaLink="false">https://velog.io/@soohyeon02/Claude-Code를-단순-코딩-도구가-아닌-개발-파이프라인의-일부로</guid>
-      <pubDate>Wed, 22 Jul 2026 18:05:54 +0000</pubDate>
+      <title>AX인재전쟁 본선 후기(삼일Pwc 회계법인)</title>
+      <link>https://velog.io/@minority_report/AX인재전쟁-본선-후기삼일Pwc-회계법인</link>
+      <description>AX 인재전쟁은 유튜브에서 조코딩님의 영상을 통해 처음 알게 되었습니다. 저는 AI-native 조직과 AX에 관심이 많습니다. 단순히 ChatGPT를 잘 사용하거나 업무에 AI 기능 하나를 추가하는 것을 넘어, 조직의 업무 방식 자체를 AI에 맞게 다시 설계하는 것...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/AX인재전쟁-본선-후기삼일Pwc-회계법인</guid>
+      <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
     </item>
     <item>
       <title>Gemini Flash 3.6 갑자기 출시(Gemini 4 예고)</title>
@@ -163,13 +156,6 @@
       <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
     </item>
     <item>
-      <title>하네스 논쟁 : 만능 하네스는 없다</title>
-      <link>https://velog.io/@dkqk0124/만능-하네스는-없다</link>
-      <description>최근 스레드에서 뜨겁게 논쟁거리가 된 하네스 오픈소스에 대해서, AI 초보가 어떻게 바라보고 있는지 정리해 보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@dkqk0124/만능-하네스는-없다</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
-    </item>
-    <item>
       <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
       <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
       <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
@@ -177,24 +163,11 @@
       <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>한여름의 겨울방학 프론트엔드 스터디 회고</title>
-      <link>https://velog.io/@dlgkdms4660/한여름의-겨울방학-스터디-회고</link>
-      <description>안녕하세요!지난 24년 3월부터 25년 10월까지 군복무를 마치고 돌아온 이하은입니다.제대 후에 급작스럽게 회장을 하게 되었습니다.정말, 제대한 당일에 제의가 들어와서 당황하긴 했지만결론적으론 가온누리 동아리의 회장이 되었네요.회장 하고 싶다는 생각이 있었지만, 솔직히...</description>
-      <guid isPermaLink="false">https://velog.io/@dlgkdms4660/한여름의-겨울방학-스터디-회고</guid>
-      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>마음속 화단 가꾸기</title>
-      <link>https://velog.io/@antoliny0919/마음속-화단-가꾸기</link>
-      <description>"나는 개발이랑 맞지 않는 사람인건가 ?"우물속에 있을때는 몰랐다.우물밖을 뛰쳐 나온 나는, 그때서야 현실과 마주하기 시작했다.훌륭한 크루원들(우테코 동료) 사이 속 나는, 반짝임을 잃은 별 같았다.환하게 빛나는 별들 사이에 있는 나를 의심하기 시작했다....</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/마음속-화단-가꾸기</guid>
-      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>한 장으로 정리하는 오브젝트 01 객체, 설계</title>
-      <link>https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</link>
-      <guid isPermaLink="false">https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</guid>
-      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+      <title>하네스 논쟁 : 만능 하네스는 없다</title>
+      <link>https://velog.io/@dkqk0124/만능-하네스는-없다</link>
+      <description>최근 스레드에서 뜨겁게 논쟁거리가 된 하네스 오픈소스에 대해서, AI 초보가 어떻게 바라보고 있는지 정리해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@dkqk0124/만능-하네스는-없다</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>리액트로 영상 편집을 할 수 있다고?</title>
@@ -211,10 +184,38 @@
       <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>그게 진짜 AX가 맞나요?</title>
-      <link>https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</link>
-      <guid isPermaLink="false">https://velog.io/@soulee-dev/그게-진짜-AX가-맞나요</guid>
-      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
+      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (3편)</title>
+      <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-3편</link>
+      <description>얼마 전, 예상하지 못했던 연락을 하나 받았습니다.제가 작성했던 「23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)」을 ‘요즘IT’에 게재하고 싶다는 제안이었습니다.평소에도 요즘IT에서 새로운 기술이나 흥미로운 프로젝트, 다른 기업과 조직에서는 AI...</description>
+      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-3편</guid>
+      <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>한 장으로 정리하는 오브젝트 01 객체, 설계</title>
+      <link>https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</link>
+      <guid isPermaLink="false">https://velog.io/@ohp999/한-장으로-정리하는-오브젝트-01-객체-설계-f0a79m6p</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>취업 했지롱~ 취업 했지롱~</title>
+      <link>https://velog.io/@mogmandl/취업-했지롱-취업-했지롱</link>
+      <description>슈피나데캬와이이</description>
+      <guid isPermaLink="false">https://velog.io/@mogmandl/취업-했지롱-취업-했지롱</guid>
+      <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>마음속 화단 가꾸기</title>
+      <link>https://velog.io/@antoliny0919/마음속-화단-가꾸기</link>
+      <description>"나는 개발이랑 맞지 않는 사람인건가 ?"우물속에 있을때는 몰랐다.우물밖을 뛰쳐 나온 나는, 그때서야 현실과 마주하기 시작했다.훌륭한 크루원들(우테코 동료) 사이 속 나는, 반짝임을 잃은 별 같았다.환하게 빛나는 별들 사이에 있는 나를 의심하기 시작했다....</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/마음속-화단-가꾸기</guid>
+      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>한여름의 겨울방학 프론트엔드 스터디 회고</title>
+      <link>https://velog.io/@dlgkdms4660/한여름의-겨울방학-스터디-회고</link>
+      <description>안녕하세요!지난 24년 3월부터 25년 10월까지 군복무를 마치고 돌아온 이하은입니다.제대 후에 급작스럽게 회장을 하게 되었습니다.정말, 제대한 당일에 제의가 들어와서 당황하긴 했지만결론적으론 가온누리 동아리의 회장이 되었네요.회장 하고 싶다는 생각이 있었지만, 솔직히...</description>
+      <guid isPermaLink="false">https://velog.io/@dlgkdms4660/한여름의-겨울방학-스터디-회고</guid>
+      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
