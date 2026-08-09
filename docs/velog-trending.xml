@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 08 Aug 2026 17:26:10 +0000</lastBuildDate>
-    <item>
-      <title>코헤처럼 되고 싶나?</title>
-      <link>https://velog.io/@gusdudco6/doYouWantToBeCohe</link>
-      <description>이번 글은 엉덩이 때리라고 하지 않아요</description>
-      <guid isPermaLink="false">https://velog.io/@gusdudco6/doYouWantToBeCohe</guid>
-      <pubDate>Sun, 26 Jul 2026 17:59:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>거인을 쓰러트리고 있는 토스</title>
-      <link>https://velog.io/@antoliny0919/거인을-쓰러트리고-있는-토스</link>
-      <description>이미 시장을 지배한 거인에게 도전하는 건 바보 같은 짓처럼 보인다. 삼성전자에게 핸드폰으로 덤비는 것과 다를 바 없으니까. 그런데 토스는 Lodash라는 거인을 향해 그 바보 같은 도전장을 내밀었다. 무엇이 이 도전을 가능하게 했을까? es-toolkit이 거인의 .....</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/거인을-쓰러트리고-있는-토스</guid>
-      <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 17:28:36 +0000</lastBuildDate>
     <item>
       <title>새로운 개발자 블로그 플랫폼 Rilog.?</title>
       <link>https://velog.io/@jinriro/새로운-개발자-블로그-플랫폼-Rilog</link>
@@ -72,13 +58,6 @@
       <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
     </item>
     <item>
-      <title>SSAFY 16기를 시작하다</title>
-      <link>https://velog.io/@yereumi/SSAFY-16기를-시작하다</link>
-      <description>개인 기록용</description>
-      <guid isPermaLink="false">https://velog.io/@yereumi/SSAFY-16기를-시작하다</guid>
-      <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
-    </item>
-    <item>
       <title>알고리즘 풀 때 꼭 알아야 하는 Java 문법</title>
       <link>https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</link>
       <description>②④시간♥무♥료♥열♥람♥가능♬ $$$조 건 없 이 즉 시 제 공$$$ 지★금★바★로★확★인★하★기☞☞</description>
@@ -86,18 +65,18 @@
       <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
     </item>
     <item>
-      <title>(React Native) 두 앱을 하나로 합치면서 번들은 나눈 이유</title>
-      <link>https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</link>
-      <description>앱은 하나로 합쳤습니다. 번들까지 하나로 묶지는 않았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</guid>
-      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
-    </item>
-    <item>
       <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
       <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
       <description>똥겜을 만들어보자</description>
       <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
       <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>(React Native) 두 앱을 하나로 합치면서 번들은 나눈 이유</title>
+      <link>https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</link>
+      <description>앱은 하나로 합쳤습니다. 번들까지 하나로 묶지는 않았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</guid>
+      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
       <title>4천 명 규모의 오버워치 내전을 관리해보며</title>
@@ -128,6 +107,13 @@
       <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
     </item>
     <item>
+      <title>공식 정답이 없는 시험, ADsP 자가채점의 한계</title>
+      <link>https://velog.io/@beagoodman/adsp-50-answer-check</link>
+      <description>공식 정답이 없는 시험, ADsP 자가채점의 한계 ADsP는 시험이 끝나도 시행처가 정답을 공개하지 않습니다. 그래서 "가답안"이라 불리며 도는 것은 전부 응시자들이 기억을 모아 만든 복원본입니다. 이 차이를 모...</description>
+      <guid isPermaLink="false">https://velog.io/@beagoodman/adsp-50-answer-check</guid>
+      <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
+    </item>
+    <item>
       <title>📚 ADSP 공부를 위해 또 구매한 꿈꾸는 라이언 요약노트</title>
       <link>https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</link>
       <description>이번에는 ADsP 시험을 준비하면서 꿈꾸는 라이언 요약노트를 구매했어요.사실 꿈꾸는 라이언 요약노트를 구매한 것은 이번이 처음이 아닙니다. 이전에 정보처리기사 실기를 준비할 때 처음 구매했고, 이후 SQLD 시험을 공부할 때도 다시 구매했어요. 두 시험을 준비하면서 유...</description>
@@ -155,6 +141,13 @@
       <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
     </item>
     <item>
+      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
+      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
+      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
+      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>2026년 7월 회고 : 클로드코드 34억 토큰의 한달</title>
       <link>https://velog.io/@hqnseung/2026년-7월-회고-클로드코드-34억-토큰의-한달</link>
       <description>안심하셔도 됩니다. 제 돈은 아니고 엔트로픽에서 지원받은 크레딧으로 만든 결과입니다. 총합 34억 토큰을 7월 한달간 사용했고, 총 비용은 6,100달러, 한화 8,700,000원 정도를 사용했습니다. 아래 사진을 보면 알수 있다시피 페이블을 주 모델로 사용하다보니 비...</description>
@@ -176,11 +169,11 @@
       <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
     </item>
     <item>
-      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
-      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
-      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
-      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
-      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+      <title>Terraform 도입기</title>
+      <link>https://velog.io/@chae0738/Terraform-도입기</link>
+      <description>회사 인프라를 코드로 선언적 설정하기</description>
+      <guid isPermaLink="false">https://velog.io/@chae0738/Terraform-도입기</guid>
+      <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
       <title>[2026] 7월 회고: 노력은 생각보다 배신하지 않았다</title>
@@ -188,6 +181,13 @@
       <description>안녕하세요 홍시너겟입니다 7월회고가 4일이나 늦었네요.. 일정이 꽤 많았어서 회고를 잠시 늦췄습니다 저는 여전히 바쁘네요 ㅠㅠ 이번달엔 무슨일이 있었는지 시작해보겠습니다 1. 꾸준한 일상 먼저 저는 이번달에 인프런 라이브를 두개를 들었습니다.. 마케팅에 이제는 관...</description>
       <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-7월-회고-노력은-생각보다-배신하지-않았다</guid>
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 상반기 현대오토에버 최종 합격 후기</title>
+      <link>https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</link>
+      <description>길고 길었던 취준 생활의 끝.</description>
+      <guid isPermaLink="false">https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</guid>
+      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
       <title>세션 vs 토큰</title>
@@ -204,11 +204,11 @@
       <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
-      <title>2026 상반기 현대오토에버 최종 합격 후기</title>
-      <link>https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</link>
-      <description>길고 길었던 취준 생활의 끝.</description>
-      <guid isPermaLink="false">https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</guid>
-      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
+      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #1]</title>
+      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-1</link>
+      <description>개발자 포트폴리오 제작기#1</description>
+      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-1</guid>
+      <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
       <title>DTO를 쓰는 이유</title>
