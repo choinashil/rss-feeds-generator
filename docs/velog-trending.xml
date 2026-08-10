@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:49:06 +0000</lastBuildDate>
     <item>
       <title>새로운 개발자 블로그 플랫폼 Rilog.?</title>
       <link>https://velog.io/@jinriro/새로운-개발자-블로그-플랫폼-Rilog</link>
@@ -23,11 +23,11 @@
       <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
     </item>
     <item>
-      <title>🌪️ 폭풍전야, 2026 상반기 회고</title>
-      <link>https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</link>
-      <description>주식으로 돈도 벌고 개발도 순조로운 줄 알았습니다. 6월 전까지는요. 버튼 하나 뒤에 엔진·서버·외주·고객사까지 줄줄이 따라온 개발자 2년 차의 생존형 상반기 회고록.....</description>
-      <guid isPermaLink="false">https://velog.io/@songyeonji_/폭풍전야-2026-상반기-회고-464h4rcu</guid>
-      <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
+      <title>2026년 7월 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-7월-회고</link>
+      <description>회고</description>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-7월-회고</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
       <title>블루리본 고소 사건; AI 시대 데이터 활용의 경계</title>
@@ -37,39 +37,11 @@
       <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>Claude 5 버전 신규 프롬프트 가이드: 'Context Engineering' 기법</title>
-      <link>https://velog.io/@dbwls/Claude-5-버전용-신규-프롬프트-가이드-Context-Engineering-기법</link>
-      <description>2026년 7월 24일,Anthropic이 Claude 5 세대 모델용 컨텍스트 엔지니어링 가이드를 올렸다.꽤나 많은 변화가 있는듯하여 일단 정리해봤다. Opus 5, Fable 5 대상으로</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Claude-5-버전용-신규-프롬프트-가이드-Context-Engineering-기법</guid>
-      <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
-    </item>
-    <item>
       <title>LG CNS 서류 인적성 1차 2차 면접 최탈 후기</title>
       <link>https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</link>
       <description>이번에 들어온 따끈따끈한 소식이다. LG CNS 최탈을 했다!! 아무튼 스스로 회고하고, 누군가에게 도움이 될까 싶어 작성해보는 최탈 후기다.</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</guid>
       <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>크래프톤 정글 13기 합격후기</title>
-      <link>https://velog.io/@hongsinugget/크래프톤-정글-13기-합격후기</link>
-      <description>안녕하세요 홍시너겟입니다 제가 오늘 국취제 프로그램을 듣는데 정글 합격소식을 듣고 마음을 가라앉히지 못했네요.. 많은분들이 축하해주셔서 감사드려요!</description>
-      <guid isPermaLink="false">https://velog.io/@hongsinugget/크래프톤-정글-13기-합격후기</guid>
-      <pubDate>Mon, 27 Jul 2026 18:22:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>알고리즘 풀 때 꼭 알아야 하는 Java 문법</title>
-      <link>https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</link>
-      <description>②④시간♥무♥료♥열♥람♥가능♬ $$$조 건 없 이 즉 시 제 공$$$ 지★금★바★로★확★인★하★기☞☞</description>
-      <guid isPermaLink="false">https://velog.io/@yereumi/알고리즘-풀-때-꼭-알아야-하는-Java-문법</guid>
-      <pubDate>Tue, 28 Jul 2026 18:11:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
-      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
-      <description>똥겜을 만들어보자</description>
-      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
-      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>(React Native) 두 앱을 하나로 합치면서 번들은 나눈 이유</title>
@@ -86,18 +58,11 @@
       <pubDate>Wed, 29 Jul 2026 18:04:10 +0000</pubDate>
     </item>
     <item>
-      <title>오픈소스 기여부터 메인 배포까지 - 2026 오픈소스 컨트리뷰션 아카데미 Challengers</title>
-      <link>https://velog.io/@hying/2026-opensource-contribution-academy-challengers</link>
-      <description>오픈소스 기여부터 메인 배포까지. 아카데미 한 달간 배운 것과 개발자로서의 고민을 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@hying/2026-opensource-contribution-academy-challengers</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>아무도 오지 않는 기술 블로그를 만들고 있습니다</title>
-      <link>https://velog.io/@viva_kby/아무도-오지-않는-기술-블로그를-만들고-있습니다</link>
-      <description>7개월 동안 만들고, 혼자 기록하고 있어요</description>
-      <guid isPermaLink="false">https://velog.io/@viva_kby/아무도-오지-않는-기술-블로그를-만들고-있습니다</guid>
-      <pubDate>Sat, 01 Aug 2026 17:57:27 +0000</pubDate>
+      <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
+      <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
+      <description>똥겜을 만들어보자</description>
+      <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
     </item>
     <item>
       <title>취업 했지롱~ 취업 했지롱~</title>
@@ -107,6 +72,13 @@
       <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
     </item>
     <item>
+      <title>오픈소스 기여부터 메인 배포까지 - 2026 오픈소스 컨트리뷰션 아카데미 Challengers</title>
+      <link>https://velog.io/@hying/2026-opensource-contribution-academy-challengers</link>
+      <description>오픈소스 기여부터 메인 배포까지. 아카데미 한 달간 배운 것과 개발자로서의 고민을 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@hying/2026-opensource-contribution-academy-challengers</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+    </item>
+    <item>
       <title>공식 정답이 없는 시험, ADsP 자가채점의 한계</title>
       <link>https://velog.io/@beagoodman/adsp-50-answer-check</link>
       <description>공식 정답이 없는 시험, ADsP 자가채점의 한계 ADsP는 시험이 끝나도 시행처가 정답을 공개하지 않습니다. 그래서 "가답안"이라 불리며 도는 것은 전부 응시자들이 기억을 모아 만든 복원본입니다. 이 차이를 모...</description>
@@ -114,11 +86,52 @@
       <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
+      <title>2026 상반기 현대오토에버 최종 합격 후기</title>
+      <link>https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</link>
+      <description>길고 길었던 취준 생활의 끝.</description>
+      <guid isPermaLink="false">https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</guid>
+      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
+    </item>
+    <item>
       <title>📚 ADSP 공부를 위해 또 구매한 꿈꾸는 라이언 요약노트</title>
       <link>https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</link>
       <description>이번에는 ADsP 시험을 준비하면서 꿈꾸는 라이언 요약노트를 구매했어요.사실 꿈꾸는 라이언 요약노트를 구매한 것은 이번이 처음이 아닙니다. 이전에 정보처리기사 실기를 준비할 때 처음 구매했고, 이후 SQLD 시험을 공부할 때도 다시 구매했어요. 두 시험을 준비하면서 유...</description>
       <guid isPermaLink="false">https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</guid>
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
+    </item>
+    <item>
+      <title># Next.js 캐시 전략을 꼭 알아주세요 — 16.3에서 크게 바뀌었습니다</title>
+      <link>https://velog.io/@k-svelte-master/nextjs-16.3-cache</link>
+      <description>반응형 웹을 모바일에서 열었을 때 화면 크기는 문제없었습니다. 그런데 링크를 누를 때마다 아주 잠깐씩 기다리는 느낌이 남았습니다.화면 전환과 애니메이션을 아무리 다듬어도 서버 응답을 기다리는 시간까지 CSS로 줄일 수는 없었습니다. 웹을 진짜 앱처럼 빠릿하게 만들고 싶...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-16.3-cache</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI한테 시험을 냈는데 출제자가 5번 틀렸다</title>
+      <link>https://velog.io/@ramses203/ai-exam-author-wrong-5-times</link>
+      <guid isPermaLink="false">https://velog.io/@ramses203/ai-exam-author-wrong-5-times</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>외주비 5만 원 받고 16명만을 위한 예약 서비스를 만들었다</title>
+      <link>https://velog.io/@songyeonji_/외주비-5만-원-받고-16명만을-위한-예약-서비스를-만들었다</link>
+      <description>고객은 한 명이었습니다.실사용자는 16명이었습니다.외주비는 5만 원이었습니다.그리고 유지보수는 아직도 진행 중입니다.고객님, 5만 원에 평생 수정은 너무한 거 아닌가요?어느 날 남자친구가 물어봤습니다."배드민턴 레슨 예약하는 거 웹으로 만들 수 있어?"처음 들었을 때는...</description>
+      <guid isPermaLink="false">https://velog.io/@songyeonji_/외주비-5만-원-받고-16명만을-위한-예약-서비스를-만들었다</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[AI 코딩] 주말 뚝딱! IBM Bob으로 사내 온톨로지 앱을 개발하자</title>
+      <link>https://velog.io/@hyunide/2026080801</link>
+      <description>주말을 맞아 사내 데이터 사일로(ERP, CRM, CSAR, M365, MSPAgent, BilingAgent etc.)를 해결하기 위한 '회사 온톨로지 앱'의 MVP를 직접 구축해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hyunide/2026080801</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>리액트로 영상 편집을 할 수 있다고?</title>
+      <link>https://velog.io/@zerone001/remotion</link>
+      <description>영상을 프로그래밍 방식으로 제작하고 렌더링하는 Remotion에 대해 알아보자</description>
+      <guid isPermaLink="false">https://velog.io/@zerone001/remotion</guid>
+      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
     </item>
     <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (3편)</title>
@@ -135,17 +148,11 @@
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>AI한테 시험을 냈는데 출제자가 5번 틀렸다</title>
-      <link>https://velog.io/@ramses203/ai-exam-author-wrong-5-times</link>
-      <guid isPermaLink="false">https://velog.io/@ramses203/ai-exam-author-wrong-5-times</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
-      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
-      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
-      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
-      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+      <title>[회고] IT 현직자 동아리 SIPE 5기 활동 후기</title>
+      <link>https://velog.io/@osohyun0224/회고-IT-현직자-동아리-SIPE-5기-활동-후기</link>
+      <description>올해 상반기(26.03 ~ 26.07 총 20주)를 행복하게 보낼 수 있었던 sipe 동아리 활동 회고를 기록해보았습니다 🩵</description>
+      <guid isPermaLink="false">https://velog.io/@osohyun0224/회고-IT-현직자-동아리-SIPE-5기-활동-후기</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
       <title>2026년 7월 회고 : 클로드코드 34억 토큰의 한달</title>
@@ -155,18 +162,11 @@
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>리액트로 영상 편집을 할 수 있다고?</title>
-      <link>https://velog.io/@zerone001/remotion</link>
-      <description>영상을 프로그래밍 방식으로 제작하고 렌더링하는 Remotion에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/remotion</guid>
-      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>React 쓰면서 VDOM diff 과정 설명 못 했던 사람? (저요…)</title>
-      <link>https://velog.io/@yereong/vdom1</link>
-      <description>React를 사용할 줄 알면 VDOM도 아는 걸까요? (절레절레...)</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/vdom1</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+      <title>🤖 [AI] LLM Wiki로 AI 부려먹기</title>
+      <link>https://velog.io/@silverclean091/AI-LLM-Wiki로-AI-부려먹기</link>
+      <description>클로드야 이제는 기억도 네가 해주라</description>
+      <guid isPermaLink="false">https://velog.io/@silverclean091/AI-LLM-Wiki로-AI-부려먹기</guid>
+      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
       <title>Terraform 도입기</title>
@@ -176,32 +176,25 @@
       <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
+      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
+      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
+      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
+      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>React 쓰면서 VDOM diff 과정 설명 못 했던 사람? (저요…)</title>
+      <link>https://velog.io/@yereong/vdom1</link>
+      <description>React를 사용할 줄 알면 VDOM도 아는 걸까요? (절레절레...)</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/vdom1</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+    </item>
+    <item>
       <title>[2026] 7월 회고: 노력은 생각보다 배신하지 않았다</title>
       <link>https://velog.io/@hongsinugget/2026-7월-회고-노력은-생각보다-배신하지-않았다</link>
       <description>안녕하세요 홍시너겟입니다 7월회고가 4일이나 늦었네요.. 일정이 꽤 많았어서 회고를 잠시 늦췄습니다 저는 여전히 바쁘네요 ㅠㅠ 이번달엔 무슨일이 있었는지 시작해보겠습니다 1. 꾸준한 일상 먼저 저는 이번달에 인프런 라이브를 두개를 들었습니다.. 마케팅에 이제는 관...</description>
       <guid isPermaLink="false">https://velog.io/@hongsinugget/2026-7월-회고-노력은-생각보다-배신하지-않았다</guid>
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026 상반기 현대오토에버 최종 합격 후기</title>
-      <link>https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</link>
-      <description>길고 길었던 취준 생활의 끝.</description>
-      <guid isPermaLink="false">https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</guid>
-      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>세션 vs 토큰</title>
-      <link>https://velog.io/@vyfhfhd/세션-vs-토큰</link>
-      <description>첫 프로젝트를 회원,인증파트로 시작해서세션 vs 토큰 중 무엇을 선택할지 정해야했다.나는 쪼랩이라 저게 뭔지도 몰랐다..그래서 배운걸 하나씩 남겨보려고 한다..나같은 쪼랩에게 도움이 되길바라며ai한테 물어보려나? 오늘은 세션에 대해 이야기를 해보겠다..먼저 세션 기반 ...</description>
-      <guid isPermaLink="false">https://velog.io/@vyfhfhd/세션-vs-토큰</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤖 [AI] LLM Wiki로 AI 부려먹기</title>
-      <link>https://velog.io/@silverclean091/AI-LLM-Wiki로-AI-부려먹기</link>
-      <description>클로드야 이제는 기억도 네가 해주라</description>
-      <guid isPermaLink="false">https://velog.io/@silverclean091/AI-LLM-Wiki로-AI-부려먹기</guid>
-      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
       <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #1]</title>
@@ -216,6 +209,12 @@
       <description>DTO는 요청과 응답에 필요한 데이터만 담아 전달하는 객체다. 백엔드 API에서는 DTO를 사용해 외부에 공개되는 요청·응답 형식을 Entity와 내부 구현으로부터 분리할 수 있다.</description>
       <guid isPermaLink="false">https://velog.io/@joker901010/DTO를-쓰는-이유</guid>
       <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 시험지는 함정이 9할이다</title>
+      <link>https://velog.io/@ramses203/ai-test-cases-traps</link>
+      <guid isPermaLink="false">https://velog.io/@ramses203/ai-test-cases-traps</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
