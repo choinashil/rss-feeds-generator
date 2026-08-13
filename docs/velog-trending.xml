@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 17:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:55:19 +0000</lastBuildDate>
     <item>
       <title>[프론트 면접] 자동 저장 어떻게 구현하실 건가요?</title>
       <link>https://velog.io/@k-svelte-master/auto-save-notion</link>
@@ -30,11 +30,11 @@
       <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
-      <title>LG CNS 서류 인적성 1차 2차 면접 최탈 후기</title>
-      <link>https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</link>
-      <description>이번에 들어온 따끈따끈한 소식이다. LG CNS 최탈을 했다!! 아무튼 스스로 회고하고, 누군가에게 도움이 될까 싶어 작성해보는 최탈 후기다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/LG-CNS-서류-인적성-1차-2차-면접-최탈-후기</guid>
-      <pubDate>Thu, 30 Jul 2026 18:13:31 +0000</pubDate>
+      <title>나는 가장 늦게 핀 꽃을 좋아한다</title>
+      <link>https://velog.io/@yunsungyang-omc/나는-가장-늦게-핀-꽃을-좋아한다</link>
+      <description>될 거라고는 말 못 한다. 대신 하고 싶은 말이 있다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/나는-가장-늦게-핀-꽃을-좋아한다</guid>
+      <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
       <title>외주비 5만 원 받고 16명만을 위한 예약 서비스를 만들었다</title>
@@ -44,20 +44,6 @@
       <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
-      <title>(React Native) 두 앱을 하나로 합치면서 번들은 나눈 이유</title>
-      <link>https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</link>
-      <description>앱은 하나로 합쳤습니다. 번들까지 하나로 묶지는 않았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</guid>
-      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>취업 했지롱~ 취업 했지롱~</title>
-      <link>https://velog.io/@mogmandl/취업-했지롱-취업-했지롱</link>
-      <description>슈피나데캬와이이</description>
-      <guid isPermaLink="false">https://velog.io/@mogmandl/취업-했지롱-취업-했지롱</guid>
-      <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
-    </item>
-    <item>
       <title>2026 상반기 현대오토에버 최종 합격 후기</title>
       <link>https://velog.io/@kjgi73k/2026-상반기-현대오토에버-최종-합격-후기</link>
       <description>길고 길었던 취준 생활의 끝.</description>
@@ -65,18 +51,11 @@
       <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
-      <title>나는 가장 늦게 핀 꽃을 좋아한다</title>
-      <link>https://velog.io/@yunsungyang-omc/나는-가장-늦게-핀-꽃을-좋아한다</link>
-      <description>될 거라고는 말 못 한다. 대신 하고 싶은 말이 있다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/나는-가장-늦게-핀-꽃을-좋아한다</guid>
-      <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>오픈소스 기여부터 메인 배포까지 - 2026 오픈소스 컨트리뷰션 아카데미 Challengers</title>
-      <link>https://velog.io/@hying/2026-opensource-contribution-academy-challengers</link>
-      <description>오픈소스 기여부터 메인 배포까지. 아카데미 한 달간 배운 것과 개발자로서의 고민을 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@hying/2026-opensource-contribution-academy-challengers</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+      <title>(React Native) 두 앱을 하나로 합치면서 번들은 나눈 이유</title>
+      <link>https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</link>
+      <description>앱은 하나로 합쳤습니다. 번들까지 하나로 묶지는 않았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/React-Native-두-앱을-하나로-합치면서-번들은-나눈-이유</guid>
+      <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
       <title># Next.js 캐시 전략을 꼭 알아주세요 — 16.3에서 크게 바뀌었습니다</title>
@@ -86,11 +65,25 @@
       <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
+      <title>오픈소스 기여부터 메인 배포까지 - 2026 오픈소스 컨트리뷰션 아카데미 Challengers</title>
+      <link>https://velog.io/@hying/오픈소스-기여부터-메인-배포까지-2026-오픈소스-컨트리뷰션-아카데미-Challengers</link>
+      <description>코드 기여부터 메인 배포까지, 오픈소스 컨트리뷰터 아카데미에서 한 달간 배운 것들..</description>
+      <guid isPermaLink="false">https://velog.io/@hying/오픈소스-기여부터-메인-배포까지-2026-오픈소스-컨트리뷰션-아카데미-Challengers</guid>
+      <pubDate>Thu, 13 Aug 2026 17:55:19 +0000</pubDate>
+    </item>
+    <item>
       <title>막연한 Friendslop 아이디어를 AI로 Unity 프로토타입까지 만들어봤다</title>
       <link>https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</link>
       <description>똥겜을 만들어보자</description>
       <guid isPermaLink="false">https://velog.io/@jaden-cis/막연한-Friendslop-아이디어를-AI로-Unity-프로토타입까지-만들어봤다</guid>
       <pubDate>Fri, 31 Jul 2026 18:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>신입이라는 단어에 스스로를 가두지 않기</title>
+      <link>https://velog.io/@cconac/신입이라는-단어에-스스로를-가두지-않기</link>
+      <description>입사한 지 일주일 만에 팀 병목을 해결한 사람이 있다?</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/신입이라는-단어에-스스로를-가두지-않기</guid>
+      <pubDate>Thu, 13 Aug 2026 17:55:19 +0000</pubDate>
     </item>
     <item>
       <title>(React Native) 같이 실행하고, 따로 바꾸고, 다시 복구하기</title>
@@ -100,17 +93,11 @@
       <pubDate>Tue, 11 Aug 2026 17:55:13 +0000</pubDate>
     </item>
     <item>
-      <title>📚 ADSP 공부를 위해 또 구매한 꿈꾸는 라이언 요약노트</title>
-      <link>https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</link>
-      <description>이번에는 ADsP 시험을 준비하면서 꿈꾸는 라이언 요약노트를 구매했어요.사실 꿈꾸는 라이언 요약노트를 구매한 것은 이번이 처음이 아닙니다. 이전에 정보처리기사 실기를 준비할 때 처음 구매했고, 이후 SQLD 시험을 공부할 때도 다시 구매했어요. 두 시험을 준비하면서 유...</description>
-      <guid isPermaLink="false">https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</guid>
-      <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI한테 시험을 냈는데 출제자가 5번 틀렸다</title>
-      <link>https://velog.io/@ramses203/ai-exam-author-wrong-5-times</link>
-      <guid isPermaLink="false">https://velog.io/@ramses203/ai-exam-author-wrong-5-times</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
+      <title>리액트로 영상 편집을 할 수 있다고?</title>
+      <link>https://velog.io/@zerone001/remotion</link>
+      <description>영상을 프로그래밍 방식으로 제작하고 렌더링하는 Remotion에 대해 알아보자</description>
+      <guid isPermaLink="false">https://velog.io/@zerone001/remotion</guid>
+      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
     </item>
     <item>
       <title>React 쓰면서 VDOM diff 과정 설명 못 했던 사람? (저요…)</title>
@@ -120,6 +107,13 @@
       <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
     </item>
     <item>
+      <title>📚 ADSP 공부를 위해 또 구매한 꿈꾸는 라이언 요약노트</title>
+      <link>https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</link>
+      <description>이번에는 ADsP 시험을 준비하면서 꿈꾸는 라이언 요약노트를 구매했어요.사실 꿈꾸는 라이언 요약노트를 구매한 것은 이번이 처음이 아닙니다. 이전에 정보처리기사 실기를 준비할 때 처음 구매했고, 이후 SQLD 시험을 공부할 때도 다시 구매했어요. 두 시험을 준비하면서 유...</description>
+      <guid isPermaLink="false">https://velog.io/@sobam/ADSP-공부를-위해-또-구매한-꿈꾸는-라이언-요약노트</guid>
+      <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
+    </item>
+    <item>
       <title>공식 정답이 없는 시험, ADsP 자가채점의 한계</title>
       <link>https://velog.io/@beagoodman/adsp-50-answer-check</link>
       <description>공식 정답이 없는 시험, ADsP 자가채점의 한계 ADsP는 시험이 끝나도 시행처가 정답을 공개하지 않습니다. 그래서 "가답안"이라 불리며 도는 것은 전부 응시자들이 기억을 모아 만든 복원본입니다. 이 차이를 모...</description>
@@ -127,11 +121,10 @@
       <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
-      <title>리액트로 영상 편집을 할 수 있다고?</title>
-      <link>https://velog.io/@zerone001/remotion</link>
-      <description>영상을 프로그래밍 방식으로 제작하고 렌더링하는 Remotion에 대해 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@zerone001/remotion</guid>
-      <pubDate>Mon, 03 Aug 2026 18:48:16 +0000</pubDate>
+      <title>AI한테 시험을 냈는데 출제자가 5번 틀렸다</title>
+      <link>https://velog.io/@ramses203/ai-exam-author-wrong-5-times</link>
+      <guid isPermaLink="false">https://velog.io/@ramses203/ai-exam-author-wrong-5-times</guid>
+      <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
     </item>
     <item>
       <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (3편)</title>
@@ -139,13 +132,6 @@
       <description>얼마 전, 예상하지 못했던 연락을 하나 받았습니다.제가 작성했던 「23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)」을 ‘요즘IT’에 게재하고 싶다는 제안이었습니다.평소에도 요즘IT에서 새로운 기술이나 흥미로운 프로젝트, 다른 기업과 조직에서는 AI...</description>
       <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-3편</guid>
       <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>[AI 코딩] 주말 뚝딱! IBM Bob으로 사내 온톨로지 앱을 개발하자</title>
-      <link>https://velog.io/@hyunide/2026080801</link>
-      <description>주말을 맞아 사내 데이터 사일로(ERP, CRM, CSAR, M365, MSPAgent, BilingAgent etc.)를 해결하기 위한 '회사 온톨로지 앱'의 MVP를 직접 구축해 보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@hyunide/2026080801</guid>
-      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
       <title>[회고] IT 현직자 동아리 SIPE 5기 활동 후기</title>
@@ -162,11 +148,11 @@
       <pubDate>Sat, 08 Aug 2026 17:26:10 +0000</pubDate>
     </item>
     <item>
-      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
-      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
-      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
-      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
-      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+      <title>[AI 코딩] 주말 뚝딱! IBM Bob으로 사내 온톨로지 앱을 개발하자</title>
+      <link>https://velog.io/@hyunide/2026080801</link>
+      <description>주말을 맞아 사내 데이터 사일로(ERP, CRM, CSAR, M365, MSPAgent, BilingAgent etc.)를 해결하기 위한 '회사 온톨로지 앱'의 MVP를 직접 구축해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hyunide/2026080801</guid>
+      <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
       <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #1]</title>
@@ -176,6 +162,13 @@
       <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
+      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
+      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
+      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
+      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
+      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
+    </item>
+    <item>
       <title>2026년 7월 회고 : 클로드코드 34억 토큰의 한달</title>
       <link>https://velog.io/@hqnseung/2026년-7월-회고-클로드코드-34억-토큰의-한달</link>
       <description>안심하셔도 됩니다. 제 돈은 아니고 엔트로픽에서 지원받은 크레딧으로 만든 결과입니다. 총합 34억 토큰을 7월 한달간 사용했고, 총 비용은 6,100달러, 한화 8,700,000원 정도를 사용했습니다. 아래 사진을 보면 알수 있다시피 페이블을 주 모델로 사용하다보니 비...</description>
@@ -183,10 +176,10 @@
       <pubDate>Wed, 05 Aug 2026 18:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>[Codex] 서브에이전트를 실제 개발에 어떻게 써야 할까</title>
-      <link>https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</link>
-      <description>Codex 서브에이전트가 무엇인지부터 실제 개발 현장에서 어떻게 활용되고 있는지, 장단점과 제가 적용하려는 개발 패턴까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</guid>
+      <title>현대트랜시스 채용연계형 인턴 / 전원 합격? -서류전형</title>
+      <link>https://velog.io/@dayseop/현대트랜시스-채용연계형-인턴-서류전형-전원-합격</link>
+      <description>에브리타임에 선배님 중 현대트랜시스 다니시는 분이 채용 공고를 올려주셨다.공고를 보다가 내가 원하는 직무가 있어서 신청했다. 올려주셔서 감사합니다. 특이한 서류 전형 + 높은 합격률(?)서류전형에 기입할 수 있는 항목은 다음과 같다. 이름군대 전역 여부대학교명성적(학기...</description>
+      <guid isPermaLink="false">https://velog.io/@dayseop/현대트랜시스-채용연계형-인턴-서류전형-전원-합격</guid>
       <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
@@ -203,10 +196,10 @@
       <pubDate>Mon, 10 Aug 2026 17:49:06 +0000</pubDate>
     </item>
     <item>
-      <title>현대트랜시스 채용연계형 인턴 / 전원 합격? -서류전형</title>
-      <link>https://velog.io/@dayseop/현대트랜시스-채용연계형-인턴-서류전형-전원-합격</link>
-      <description>에브리타임에 선배님 중 현대트랜시스 다니시는 분이 채용 공고를 올려주셨다.공고를 보다가 내가 원하는 직무가 있어서 신청했다. 올려주셔서 감사합니다. 특이한 서류 전형 + 높은 합격률(?)서류전형에 기입할 수 있는 항목은 다음과 같다. 이름군대 전역 여부대학교명성적(학기...</description>
-      <guid isPermaLink="false">https://velog.io/@dayseop/현대트랜시스-채용연계형-인턴-서류전형-전원-합격</guid>
+      <title>[Codex] 서브에이전트를 실제 개발에 어떻게 써야 할까</title>
+      <link>https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</link>
+      <description>Codex 서브에이전트가 무엇인지부터 실제 개발 현장에서 어떻게 활용되고 있는지, 장단점과 제가 적용하려는 개발 패턴까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</guid>
       <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
@@ -215,6 +208,13 @@
       <description>안녕하세요!지난 24년 3월부터 25년 10월까지 군복무를 마치고 돌아온 이하은입니다.제대 후에 급작스럽게 회장을 하게 되었습니다.정말, 제대한 당일에 제의가 들어와서 당황하긴 했지만결론적으론 가온누리 동아리의 회장이 되었네요.회장 하고 싶다는 생각이 있었지만, 솔직히...</description>
       <guid isPermaLink="false">https://velog.io/@dlgkdms4660/한여름의-겨울방학-스터디-회고</guid>
       <pubDate>Tue, 11 Aug 2026 17:55:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Troubleshooting] 원격 AWS SSH 터널링</title>
+      <link>https://velog.io/@wook099/Troubleshooting-원격-AWS-SSH-터널링</link>
+      <description>공모전 개발을 위해 로컬 개발 환경에서 도커(Docker)를 띄워 DB와 Redis를 관리하다 보면 램(RAM)과 CPU가 버티지 못해 컴퓨터가 멈추거나 버벅이는 상황이 발생해 버렸습니다.이번 이슈은 로컬 자원 부족(도커 과부하) 문제를 해결하기 위해, 로컬에서 인텔리...</description>
+      <guid isPermaLink="false">https://velog.io/@wook099/Troubleshooting-원격-AWS-SSH-터널링</guid>
+      <pubDate>Thu, 13 Aug 2026 17:55:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
