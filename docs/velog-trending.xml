@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 15 Aug 2026 17:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:15:52 +0000</lastBuildDate>
     <item>
       <title>[프론트 면접] 자동 저장 어떻게 구현하실 건가요?</title>
       <link>https://velog.io/@k-svelte-master/auto-save-notion</link>
@@ -66,10 +66,10 @@
     </item>
     <item>
       <title>오픈소스 기여부터 메인 배포까지 - 2026 오픈소스 컨트리뷰션 아카데미 Challengers</title>
-      <link>https://velog.io/@hying/오픈소스-기여부터-메인-배포까지-2026-오픈소스-컨트리뷰션-아카데미-Challengers</link>
+      <link>https://velog.io/@hying/2026-opensource-contribution-academy-challengers</link>
       <description>코드 기여부터 메인 배포까지, 오픈소스 컨트리뷰터 아카데미에서 한 달간 배운 것들..</description>
-      <guid isPermaLink="false">https://velog.io/@hying/오픈소스-기여부터-메인-배포까지-2026-오픈소스-컨트리뷰션-아카데미-Challengers</guid>
-      <pubDate>Thu, 13 Aug 2026 17:55:19 +0000</pubDate>
+      <guid isPermaLink="false">https://velog.io/@hying/2026-opensource-contribution-academy-challengers</guid>
+      <pubDate>Sun, 16 Aug 2026 17:15:52 +0000</pubDate>
     </item>
     <item>
       <title>React 쓰면서 VDOM diff 과정 설명 못 했던 사람? (저요…)</title>
@@ -77,13 +77,6 @@
       <description>React를 사용할 줄 알면 VDOM도 아는 걸까요? (절레절레...)</description>
       <guid isPermaLink="false">https://velog.io/@yereong/vdom1</guid>
       <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (3편)</title>
-      <link>https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-3편</link>
-      <description>얼마 전, 예상하지 못했던 연락을 하나 받았습니다.제가 작성했던 「23년 동안 살아남은 동네슈퍼를 데이터로 분석해보려 합니다. (2편)」을 ‘요즘IT’에 게재하고 싶다는 제안이었습니다.평소에도 요즘IT에서 새로운 기술이나 흥미로운 프로젝트, 다른 기업과 조직에서는 AI...</description>
-      <guid isPermaLink="false">https://velog.io/@minority_report/23년-동안-살아남은-동네슈퍼를-데이터로-분석해보려-합니다.-3편</guid>
-      <pubDate>Tue, 04 Aug 2026 18:25:12 +0000</pubDate>
     </item>
     <item>
       <title>(React Native) 같이 실행하고, 따로 바꾸고, 다시 복구하기</title>
@@ -97,13 +90,6 @@
       <link>https://velog.io/@ramses203/ai-exam-author-wrong-5-times</link>
       <guid isPermaLink="false">https://velog.io/@ramses203/ai-exam-author-wrong-5-times</guid>
       <pubDate>Fri, 07 Aug 2026 17:45:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>공식 정답이 없는 시험, ADsP 자가채점의 한계</title>
-      <link>https://velog.io/@beagoodman/adsp-50-answer-check</link>
-      <description>공식 정답이 없는 시험, ADsP 자가채점의 한계 ADsP는 시험이 끝나도 시행처가 정답을 공개하지 않습니다. 그래서 "가답안"이라 불리며 도는 것은 전부 응시자들이 기억을 모아 만든 복원본입니다. 이 차이를 모...</description>
-      <guid isPermaLink="false">https://velog.io/@beagoodman/adsp-50-answer-check</guid>
-      <pubDate>Sun, 09 Aug 2026 17:28:36 +0000</pubDate>
     </item>
     <item>
       <title>[회고] IT 현직자 동아리 SIPE 5기 활동 후기</title>
@@ -132,13 +118,6 @@
       <description>에브리타임에 선배님 중 현대트랜시스 다니시는 분이 채용 공고를 올려주셨다.공고를 보다가 내가 원하는 직무가 있어서 신청했다. 올려주셔서 감사합니다. 특이한 서류 전형 + 높은 합격률(?)서류전형에 기입할 수 있는 항목은 다음과 같다. 이름군대 전역 여부대학교명성적(학기...</description>
       <guid isPermaLink="false">https://velog.io/@dayseop/현대트랜시스-채용연계형-인턴-서류전형-전원-합격</guid>
       <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>양자컴퓨터를 무료로 사용하는 AI 시뮬레이터 공개</title>
-      <link>https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</link>
-      <description>다들 양자컴퓨터에 대해 들어는 보셨죠?이 글을 읽는 분들 중에는 직접 써보신 분도 계시겠지만, 대부분은 아직 생소하실 거예요. 그럴 수밖에 없습니다. 양자컴퓨터는 우선 매우 비쌉니다. 기계 자체가 수십억, 수백억 원짜리이고, 클라우드 API로 잠깐 빌려 쓰는 것조차 만...</description>
-      <guid isPermaLink="false">https://velog.io/@aitechjo/양자컴퓨터를-무료로-사용하는-AI-시뮬레이터-공개</guid>
-      <pubDate>Sun, 02 Aug 2026 17:59:08 +0000</pubDate>
     </item>
     <item>
       <title>2026년 7월 회고 : 클로드코드 34억 토큰의 한달</title>
@@ -182,13 +161,6 @@
       <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
-      <title>Saga 패턴이란? 분산 트랜잭션을 안전하게 처리하는 방법</title>
-      <link>https://velog.io/@hyeonsu/Saga-패턴이란-분산-트랜잭션을-안전하게-처리하는-방법</link>
-      <description>하나의 요청이 주문, 결제, 재고, 배송처럼 여러 서비스에 걸쳐 처리된다면 트랜잭션은 어떻게 관리해야 할까?이번 글에서는 분산 환경에서 데이터 일관성을 관리하는 Saga 패턴과, 이 패턴이 AI 에이전트 및 AI 자동화 시스템에서 어떤 장점을 가지는지 알아본다.단일 애...</description>
-      <guid isPermaLink="false">https://velog.io/@hyeonsu/Saga-패턴이란-분산-트랜잭션을-안전하게-처리하는-방법</guid>
-      <pubDate>Fri, 14 Aug 2026 17:49:34 +0000</pubDate>
-    </item>
-    <item>
       <title>ADsP 50회 시험 후기｜2026년 제50회 ADsP 난이도와 실제 시험 후기</title>
       <link>https://velog.io/@salieri009/ADsP-50회-시험-후기｜2026년-제50회-ADsP-난이도와-실제-시험-후기</link>
       <description>이전에도 여러 번 말을 했듯, 데이터 분석은 나의 주 전공이 아니다. 하나 마지막 학기만큼은 Deep Learning과 Data Engineering 과목을 수강했었는데, 그 이유로써는 개발의 전반적인 프로세스를 이해하는 "나"는 이미 완성이 돼 가고 있었지만 , 데이...</description>
@@ -203,10 +175,10 @@
       <pubDate>Sat, 15 Aug 2026 17:17:49 +0000</pubDate>
     </item>
     <item>
-      <title>VDOM 직접 만들다가 childNodes 배열한테 억까당한 썰</title>
-      <link>https://velog.io/@yereong/VDOM-직접-만들다가-childNodes-배열한테-억까당한-썰</link>
-      <description>vanilla js로 Vdom 구현하기! 이번에는 게시글 목록에 적용해봤어요.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/VDOM-직접-만들다가-childNodes-배열한테-억까당한-썰</guid>
+      <title>Saga 패턴이란? 분산 트랜잭션을 안전하게 처리하는 방법</title>
+      <link>https://velog.io/@hyeonsu/Saga-패턴이란-분산-트랜잭션을-안전하게-처리하는-방법</link>
+      <description>하나의 요청이 주문, 결제, 재고, 배송처럼 여러 서비스에 걸쳐 처리된다면 트랜잭션은 어떻게 관리해야 할까?이번 글에서는 분산 환경에서 데이터 일관성을 관리하는 Saga 패턴과, 이 패턴이 AI 에이전트 및 AI 자동화 시스템에서 어떤 장점을 가지는지 알아본다.단일 애...</description>
+      <guid isPermaLink="false">https://velog.io/@hyeonsu/Saga-패턴이란-분산-트랜잭션을-안전하게-처리하는-방법</guid>
       <pubDate>Fri, 14 Aug 2026 17:49:34 +0000</pubDate>
     </item>
     <item>
@@ -215,6 +187,33 @@
       <description>Auth가 정말 쉽다고 생각하는가</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/Auth가-쉽다는-당신에게</guid>
       <pubDate>Fri, 14 Aug 2026 17:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>VDOM 직접 만들다가 childNodes 배열한테 억까당한 썰</title>
+      <link>https://velog.io/@yereong/VDOM-직접-만들다가-childNodes-배열한테-억까당한-썰</link>
+      <description>vanilla js로 Vdom 구현하기! 이번에는 게시글 목록에 적용해봤어요.</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/VDOM-직접-만들다가-childNodes-배열한테-억까당한-썰</guid>
+      <pubDate>Fri, 14 Aug 2026 17:49:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>4주간의 AI Agent Challenge 후기</title>
+      <link>https://velog.io/@subjeelee/AI-Agent-Challenge-Blog</link>
+      <description>AI Agent Challenge 후기 AI Agent Challenge는 AI Agent를 활용해 실제 문제를 해결하는 프로젝트를 기획하고 개발하며, 현업 개발자 멘토링과 특강, 동료 학습, 데모 데이를 함께 경험하는 4주간의 프로그램입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@subjeelee/AI-Agent-Challenge-Blog</guid>
+      <pubDate>Sun, 16 Aug 2026 17:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[내가그린기린기록] EC2 한 대에 모았다 — Docker Compose 배포 삽질기</title>
+      <link>https://velog.io/@jwjjwj1960/내가그린기린기록-EC2-한-대에-모았다-Docker-Compose-배포-삽질기</link>
+      <description>내가그린기린기록의 인프라를 구축하며 S3, CloudFront, Docker Compose, GitHub Actions를 경험하고 배운 과정을 기록했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jwjjwj1960/내가그린기린기록-EC2-한-대에-모았다-Docker-Compose-배포-삽질기</guid>
+      <pubDate>Sun, 16 Aug 2026 17:15:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>잘 뭉갠다는 것은</title>
+      <link>https://velog.io/@inkwon112/잘-뭉갠다는-것은</link>
+      <guid isPermaLink="false">https://velog.io/@inkwon112/잘-뭉갠다는-것은</guid>
+      <pubDate>Sun, 16 Aug 2026 17:15:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
