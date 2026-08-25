@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:28:03 +0000</lastBuildDate>
     <item>
       <title>1년만에 취업을 하다 (feat. 싸탈)</title>
       <link>https://velog.io/@yereumi/취업을-하다-feat.-싸탈</link>
@@ -23,13 +23,6 @@
       <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
-      <title>TEAM UNS 그들은 누구인가</title>
-      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
-      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
       <title>신입이라는 단어에 스스로를 가두지 않기</title>
       <link>https://velog.io/@cconac/신입이라는-단어에-스스로를-가두지-않기</link>
       <description>입사한 지 일주일 만에 팀 병목을 해결한 사람이 있다?</description>
@@ -37,18 +30,25 @@
       <pubDate>Thu, 13 Aug 2026 17:55:19 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 01] - Rilog. 기획 회고</title>
-      <link>https://velog.io/@jinriro/ROT-01-Rilog.-기획-회고</link>
-      <description>Rilog.라는 블로그 플랫폼을 기획하게 된 계기부터 1차 MVP를 만들어가는 과정까지의 이야기를 담아보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/ROT-01-Rilog.-기획-회고</guid>
-      <pubDate>Wed, 19 Aug 2026 17:23:31 +0000</pubDate>
-    </item>
-    <item>
       <title>토스 프론트엔드 코드 스타일</title>
       <link>https://velog.io/@ayoung_dev/토스-프론트엔드-코드-스타일</link>
       <description>토스 프론트엔드 챕터가 공개한 두 축을 하나로 정리한 문서이다.선언적인 코드 작성하기 (박서진, Head of Frontend, 2023.03) — 무엇을 선언적이라 부르는가Frontend Fundamentals (2025.01 공개) — 좋은 코드를 어떻게 판단하는가...</description>
       <guid isPermaLink="false">https://velog.io/@ayoung_dev/토스-프론트엔드-코드-스타일</guid>
       <pubDate>Thu, 20 Aug 2026 17:24:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>TEAM UNS 그들은 누구인가</title>
+      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
+      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
+      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[E.P 01] - Rilog. 기획 회고</title>
+      <link>https://velog.io/@jinriro/ROT-01-Rilog.-기획-회고</link>
+      <description>Rilog.라는 블로그 플랫폼을 기획하게 된 계기부터 1차 MVP를 만들어가는 과정까지의 이야기를 담아보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/ROT-01-Rilog.-기획-회고</guid>
+      <pubDate>Wed, 19 Aug 2026 17:23:31 +0000</pubDate>
     </item>
     <item>
       <title>(번역) Rust가 자바스크립트를 잠식하고 있습니다</title>
@@ -65,25 +65,31 @@
       <pubDate>Fri, 14 Aug 2026 17:49:34 +0000</pubDate>
     </item>
     <item>
+      <title>낙서 같은 손스케치가 진짜 화면(UI)이 되기까지</title>
+      <link>https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</link>
+      <description>안녕하세요! 팀 UNS의 디자인을 맡고 있는 최하은입니다 🐦‍⬛ "이 디자인은 과연 어떻게 만들어졌을까?"라는 가장 근본적인 부분부터 시작해보려 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>대 AI 시대에 살아남는 개발자가 되려면?</title>
+      <link>https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</link>
+      <description>"AI가 코딩을 다 해주는데 개발자가 필요할까?" 같은 질문이 더 이상 농담처럼 들리지 않는 시기가 온 것 같다. 요즘 개발자를 둘러싼 분위기는 솔직히 말해 긴장감이 감돈다. 나 역시 1년 동안 다닌 스타트업을 퇴사하게 되면서, 앞으로 개발자로서 어떤 방향으로 성장해...</description>
+      <guid isPermaLink="false">https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>안녕하세요, 취준생 보디입니다.</title>
+      <link>https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</link>
+      <guid isPermaLink="false">https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</guid>
+      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
+    </item>
+    <item>
       <title>우테코가 반란군이 되라길래 진짜 반란해봄</title>
       <link>https://velog.io/@ehddms0517/우테코가-반란군이-되라길래-진짜-반란해봄</link>
       <description>전쟁 같았던 레벨3 팀 빌딩 과정이 지나 본격적으로 프로젝트가 시작되었다. 약 3일 간의 팀 빌딩은 정말 많은 불만이 터져나왔다. 자세하게 말은 못하지만 웹 프론트엔드, 안드로이드와 같은 팀이 되지 못한 백엔드 크루들끼리 구성된 팀도 있다. 다시 본론으로 돌아와서...</description>
       <guid isPermaLink="false">https://velog.io/@ehddms0517/우테코가-반란군이-되라길래-진짜-반란해봄</guid>
       <pubDate>Mon, 17 Aug 2026 17:23:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>(React Native) 같이 실행하고, 따로 바꾸고, 다시 복구하기</title>
-      <link>https://velog.io/@yunsungyang-omc/React-Native-같이-실행하고-따로-바꾸고-다시-복구하기</link>
-      <description>React Native Module Federation에서 Host App, Remote App, Shared Package의 책임을 나누는 법</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/React-Native-같이-실행하고-따로-바꾸고-다시-복구하기</guid>
-      <pubDate>Tue, 11 Aug 2026 17:55:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>ADsP 50회 시험 후기｜2026년 제50회 ADsP 난이도와 실제 시험 후기</title>
-      <link>https://velog.io/@salieri009/ADsP-50회-시험-후기｜2026년-제50회-ADsP-난이도와-실제-시험-후기</link>
-      <description>이전에도 여러 번 말을 했듯, 데이터 분석은 나의 주 전공이 아니다. 하나 마지막 학기만큼은 Deep Learning과 Data Engineering 과목을 수강했었는데, 그 이유로써는 개발의 전반적인 프로세스를 이해하는 "나"는 이미 완성이 돼 가고 있었지만 , 데이...</description>
-      <guid isPermaLink="false">https://velog.io/@salieri009/ADsP-50회-시험-후기｜2026년-제50회-ADsP-난이도와-실제-시험-후기</guid>
-      <pubDate>Sat, 15 Aug 2026 17:17:49 +0000</pubDate>
     </item>
     <item>
       <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #2]</title>
@@ -93,24 +99,18 @@
       <pubDate>Mon, 17 Aug 2026 17:23:21 +0000</pubDate>
     </item>
     <item>
-      <title>안녕하세요, 취준생 보디입니다.</title>
-      <link>https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</link>
-      <guid isPermaLink="false">https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
+      <title>(~08.25) 한입 시리즈 전체 강의 50% 할인 안내</title>
+      <link>https://velog.io/@hbin12212/08.25-한입-시리즈-전체-강의-50-할인-안내</link>
+      <description>단 하루! 전체 강의 50% 할인 쿠폰 발급</description>
+      <guid isPermaLink="false">https://velog.io/@hbin12212/08.25-한입-시리즈-전체-강의-50-할인-안내</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
     <item>
-      <title>Yapp Web 파트 28기 지원 후기</title>
-      <link>https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</link>
-      <description>Yapp 28기 지원 후기</description>
-      <guid isPermaLink="false">https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</guid>
-      <pubDate>Sun, 23 Aug 2026 17:17:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>LLM이 뱉은 마크다운 예절 고치는 라이브러리 제작기</title>
-      <link>https://velog.io/@simhyunmin/LLM이-뱉은-마크다운-예절-고치기</link>
-      <description>LLM 예절 지키기</description>
-      <guid isPermaLink="false">https://velog.io/@simhyunmin/LLM이-뱉은-마크다운-예절-고치기</guid>
-      <pubDate>Wed, 19 Aug 2026 17:23:31 +0000</pubDate>
+      <title>Unity, Editor MCP 서버 대신 CLI 중심으로 전환</title>
+      <link>https://velog.io/@bnm000215/Unity-Editor-MCP-서버-대신-CLI-중심으로-전환</link>
+      <description>Unity에서 흥미로운 메일이 하나 왔습니다. VELOGLOCALIMAGE0 제목은 「MCP 서버를 대체할 CLI 발표」. 핵심은 간단합니다. Unity는 AI Assistant 패키지(com.unity.ai.assistant)에 포함된 Editor 내부 MCP 서버를...</description>
+      <guid isPermaLink="false">https://velog.io/@bnm000215/Unity-Editor-MCP-서버-대신-CLI-중심으로-전환</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
     <item>
       <title>[사이드프로젝트] 읽다 만 책이 6권이라, 독서앱을 만들어봤습니다</title>
@@ -120,11 +120,11 @@
       <pubDate>Sat, 22 Aug 2026 17:17:08 +0000</pubDate>
     </item>
     <item>
-      <title>[redisson] 기여기, 고쳐진 커밋 하나가 알려준 진짜 버그</title>
-      <link>https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</link>
-      <description>redisson에 기여해보자</description>
-      <guid isPermaLink="false">https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</guid>
-      <pubDate>Fri, 21 Aug 2026 17:24:45 +0000</pubDate>
+      <title>LLM이 뱉은 마크다운 예절 고치는 라이브러리 제작기</title>
+      <link>https://velog.io/@simhyunmin/LLM이-뱉은-마크다운-예절-고치기</link>
+      <description>LLM 예절 지키기</description>
+      <guid isPermaLink="false">https://velog.io/@simhyunmin/LLM이-뱉은-마크다운-예절-고치기</guid>
+      <pubDate>Wed, 19 Aug 2026 17:23:31 +0000</pubDate>
     </item>
     <item>
       <title>취업자의 한량 생활</title>
@@ -134,11 +134,32 @@
       <pubDate>Fri, 21 Aug 2026 17:24:45 +0000</pubDate>
     </item>
     <item>
+      <title>Yapp Web 파트 28기 지원 후기</title>
+      <link>https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</link>
+      <description>Yapp 28기 지원 후기</description>
+      <guid isPermaLink="false">https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</guid>
+      <pubDate>Sun, 23 Aug 2026 17:17:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[redisson] 기여기, 고쳐진 커밋 하나가 알려준 진짜 버그</title>
+      <link>https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</link>
+      <description>redisson에 기여해보자</description>
+      <guid isPermaLink="false">https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</guid>
+      <pubDate>Fri, 21 Aug 2026 17:24:45 +0000</pubDate>
+    </item>
+    <item>
       <title>위키는 있는데, 아무도 안 본다 (feat.토스테크)</title>
       <link>https://velog.io/@spiegel/위키는-있는데-아무도-안-본다</link>
       <description>문서는 이미 있다! 위키는 있는데 아무도 안 봤다. 같은 팀에서 서로 모른 채 만들어진 두 위키를 하나로 정리하고, 토스 아티클의 세 관문을 빌려와 위키가 팀 대신 먼저 답하는 Slack 봇을 만든 과정.</description>
       <guid isPermaLink="false">https://velog.io/@spiegel/위키는-있는데-아무도-안-본다</guid>
       <pubDate>Wed, 19 Aug 2026 17:23:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Codex] 서브에이전트를 실제 개발에 어떻게 써야 할까</title>
+      <link>https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</link>
+      <description>Codex 서브에이전트가 무엇인지부터 실제 개발 현장에서 어떻게 활용되고 있는지, 장단점과 제가 적용하려는 개발 패턴까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</guid>
+      <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
     </item>
     <item>
       <title>채점을 AI한테 시켰더니 내 채점기의 버그를 잡았다</title>
@@ -154,48 +175,6 @@
       <pubDate>Sat, 22 Aug 2026 17:17:08 +0000</pubDate>
     </item>
     <item>
-      <title>[Codex] 서브에이전트를 실제 개발에 어떻게 써야 할까</title>
-      <link>https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</link>
-      <description>Codex 서브에이전트가 무엇인지부터 실제 개발 현장에서 어떻게 활용되고 있는지, 장단점과 제가 적용하려는 개발 패턴까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@caffeine_coder/codex-subagents-real-development-workflow</guid>
-      <pubDate>Wed, 12 Aug 2026 17:55:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring API 응답, 꼭 공통 형식으로 감싸야 할까?</title>
-      <link>https://velog.io/@joker901010/Spring-API-응답-꼭-공통-형식으로-감싸야-할까</link>
-      <description>Spring으로 API를 만들다 보면 공통 응답 형식을 자주 보게 된다. 공통 응답 형식은 여러 API의 응답 구조를 일정하게 만들어주는 장점이 있지만, 모든 API에 무조건 적용해야 하는 것은 아니다.</description>
-      <guid isPermaLink="false">https://velog.io/@joker901010/Spring-API-응답-꼭-공통-형식으로-감싸야-할까</guid>
-      <pubDate>Sat, 22 Aug 2026 17:17:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[내가그린기린기록] EC2 한 대에 모았다 — Docker Compose 배포 삽질기</title>
-      <link>https://velog.io/@jwjjwj1960/내가그린기린기록-EC2-한-대에-모았다-Docker-Compose-배포-삽질기</link>
-      <description>내가그린기린기록의 인프라를 구축하며 S3, CloudFront, Docker Compose, GitHub Actions를 경험하고 배운 과정을 기록했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jwjjwj1960/내가그린기린기록-EC2-한-대에-모았다-Docker-Compose-배포-삽질기</guid>
-      <pubDate>Sun, 16 Aug 2026 17:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>AX에 대한 나의 생각</title>
-      <link>https://velog.io/@haensol/AX</link>
-      <description>AX는 보통 AI Transformation, 우리말로 ‘인공지능 전환’을 뜻한다. 기업은 AX를 선언하고, 정부는 AX 확산을 이야기한다.</description>
-      <guid isPermaLink="false">https://velog.io/@haensol/AX</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yapp 활동 후기 - 1</title>
-      <link>https://velog.io/@ehdghks12/Yapp-활동-후기-1</link>
-      <description>Yapp 28기 Web 파트 1주차 ~ 9주차 활동기</description>
-      <guid isPermaLink="false">https://velog.io/@ehdghks12/Yapp-활동-후기-1</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>1인 개발에서 AI를 팀원처럼 활용해보기 — Manyfast로 PRD부터 Wireframe까지</title>
-      <link>https://velog.io/@hayoung11/1인-개발에서-AI를-팀원처럼-활용해보기-Manyfast로-PRD부터-Wireframe까지</link>
-      <description>프론트엔드 취업을 준비하면서 이번에는 단순히 화면을 구현하는 프로젝트가 아니라, 문제 정의부터 기획, 디자인, 개발까지 전 과정을 직접 경험할 수 있는 프로젝트를 해보고 싶었다. 그러던 중 2026 관광데이터 활용 공모전을 알게 되었고, 웹·앱 구현 부문에 개인으로...</description>
-      <guid isPermaLink="false">https://velog.io/@hayoung11/1인-개발에서-AI를-팀원처럼-활용해보기-Manyfast로-PRD부터-Wireframe까지</guid>
-      <pubDate>Sat, 22 Aug 2026 17:17:08 +0000</pubDate>
-    </item>
-    <item>
       <title>취업한 컴공생의 2024.07~2025.01 회고</title>
       <link>https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</link>
       <description>26년에 작성한 24년 취준 회고</description>
@@ -203,10 +182,18 @@
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳</title>
-      <link>https://velog.io/@higheun022/A2A-에이전트-등록소를-통째로-받아서-세봤다-200곳-중-응답-73곳</link>
-      <guid isPermaLink="false">https://velog.io/@higheun022/A2A-에이전트-등록소를-통째로-받아서-세봤다-200곳-중-응답-73곳</guid>
-      <pubDate>Sat, 22 Aug 2026 17:17:08 +0000</pubDate>
+      <title>AI 협업 개발에서 문서 정합성을 안지키면 결국 AI가 나를 때린다.</title>
+      <link>https://velog.io/@oi_24/AI-협업-개발에서-문서-정합성을-안지키면-결국-AI가-나를-때린다</link>
+      <description>...</description>
+      <guid isPermaLink="false">https://velog.io/@oi_24/AI-협업-개발에서-문서-정합성을-안지키면-결국-AI가-나를-때린다</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docker 명령어 정리</title>
+      <link>https://velog.io/@chjiiing08/Docker-명령어-정리</link>
+      <description>서버에 Docker를 설치하고, 실무에서 자주 사용한 기본 명령어들을 정리해보았다!</description>
+      <guid isPermaLink="false">https://velog.io/@chjiiing08/Docker-명령어-정리</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
     <item>
       <title>&lt;채용 공고&gt; [미리캔버스] 응용 알고리즘 엔지니어 (Applied Algorithm Engineer)</title>
@@ -214,6 +201,19 @@
       <description>미리캔버스는 이제 ​사용자가 하나하나 디자인을 고치는 ​도구를 ​넘어, 사용자의 ​의도와 콘텐츠 구조를 ​이해해 더 ​나은 ​결과물을 제안하는 ​제품으로 ​나아가고 ​있어요. 이 과정에서 ​가장 ​어려운 문제는 AI가 ​무언가를 ​“생성”한 ​다음부터 시작됩니다. 어떤...</description>
       <guid isPermaLink="false">https://velog.io/@miridih/채용-공고-미리캔버스-응용-알고리즘-엔지니어-Applied-Algorithm-Engineer</guid>
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Boot 패키지 구조, 어떻게 나눠야 할까? 레이어형과 도메인형 비교</title>
+      <link>https://velog.io/@joker901010/Spring-Boot-패키지-구조-어떻게-나눠야-할까-레이어형과-도메인형-비교</link>
+      <description>Spring Boot의 패키지 구조에는 하나의 정답이 없다.</description>
+      <guid isPermaLink="false">https://velog.io/@joker901010/Spring-Boot-패키지-구조-어떻게-나눠야-할까-레이어형과-도메인형-비교</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LG CNS 6기] 본 과정 20일차 TIL / [DB] - SQL 함수</title>
+      <link>https://velog.io/@dfrake/LG-CNS-6기-본-과정-20일차-TIL-DB-SQL-함수</link>
+      <guid isPermaLink="false">https://velog.io/@dfrake/LG-CNS-6기-본-과정-20일차-TIL-DB-SQL-함수</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
