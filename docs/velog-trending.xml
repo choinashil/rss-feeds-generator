@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 29 Aug 2026 00:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:35:56 +0000</lastBuildDate>
     <item>
       <title>1년만에 취업을 하다 (feat. 싸탈)</title>
       <link>https://velog.io/@yereumi/취업을-하다-feat.-싸탈</link>
@@ -23,18 +23,18 @@
       <pubDate>Thu, 20 Aug 2026 17:24:52 +0000</pubDate>
     </item>
     <item>
-      <title>TEAM UNS 그들은 누구인가</title>
-      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
-      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
       <title>대 AI 시대에 살아남는 개발자가 되려면?</title>
       <link>https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</link>
       <description>"AI가 코딩을 다 해주는데 개발자가 필요할까?" 같은 질문이 더 이상 농담처럼 들리지 않는 시기가 온 것 같다. 요즘 개발자를 둘러싼 분위기는 솔직히 말해 긴장감이 감돈다. 나 역시 1년 동안 다닌 스타트업을 퇴사하게 되면서, 앞으로 개발자로서 어떤 방향으로 성장해...</description>
       <guid isPermaLink="false">https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</guid>
       <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>TEAM UNS 그들은 누구인가</title>
+      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
+      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
+      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
       <title>[E.P 01] - Rilog. 기획 회고</title>
@@ -51,18 +51,18 @@
       <pubDate>Fri, 21 Aug 2026 17:24:45 +0000</pubDate>
     </item>
     <item>
-      <title>낙서 같은 손스케치가 진짜 화면(UI)이 되기까지</title>
-      <link>https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</link>
-      <description>안녕하세요! 팀 UNS의 디자인을 맡고 있는 최하은입니다 🐦‍⬛ "이 디자인은 과연 어떻게 만들어졌을까?"라는 가장 근본적인 부분부터 시작해보려 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</guid>
-      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
-    </item>
-    <item>
       <title>우테코가 반란군이 되라길래 진짜 반란해봄</title>
       <link>https://velog.io/@ehddms0517/우테코가-반란군이-되라길래-진짜-반란해봄</link>
       <description>전쟁 같았던 레벨3 팀 빌딩 과정이 지나 본격적으로 프로젝트가 시작되었다. 약 3일 간의 팀 빌딩은 정말 많은 불만이 터져나왔다. 자세하게 말은 못하지만 웹 프론트엔드, 안드로이드와 같은 팀이 되지 못한 백엔드 크루들끼리 구성된 팀도 있다. 다시 본론으로 돌아와서...</description>
       <guid isPermaLink="false">https://velog.io/@ehddms0517/우테코가-반란군이-되라길래-진짜-반란해봄</guid>
       <pubDate>Mon, 17 Aug 2026 17:23:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>낙서 같은 손스케치가 진짜 화면(UI)이 되기까지</title>
+      <link>https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</link>
+      <description>안녕하세요! 팀 UNS의 디자인을 맡고 있는 최하은입니다 🐦‍⬛ "이 디자인은 과연 어떻게 만들어졌을까?"라는 가장 근본적인 부분부터 시작해보려 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</guid>
+      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
     <item>
       <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #2]</title>
@@ -76,12 +76,6 @@
       <link>https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</link>
       <guid isPermaLink="false">https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</guid>
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>우테코 팀프로젝트 어떻게 진행될까? DAYNOMY 팀 빌딩 과정</title>
-      <link>https://velog.io/@daynomy/우테코-팀프로젝트-어떻게-진행될까-DAYNOMY-팀-빌딩-과정</link>
-      <guid isPermaLink="false">https://velog.io/@daynomy/우테코-팀프로젝트-어떻게-진행될까-DAYNOMY-팀-빌딩-과정</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
     </item>
     <item>
       <title>[사이드프로젝트] 읽다 만 책이 6권이라, 독서앱을 만들어봤습니다</title>
@@ -98,6 +92,12 @@
       <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
     </item>
     <item>
+      <title>우테코 팀프로젝트 어떻게 진행될까? DAYNOMY 팀 빌딩 과정</title>
+      <link>https://velog.io/@daynomy/우테코-팀프로젝트-어떻게-진행될까-DAYNOMY-팀-빌딩-과정</link>
+      <guid isPermaLink="false">https://velog.io/@daynomy/우테코-팀프로젝트-어떻게-진행될까-DAYNOMY-팀-빌딩-과정</guid>
+      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
+    </item>
+    <item>
       <title>취업한 컴공생의 2024.07~2025.01 회고</title>
       <link>https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</link>
       <description>26년에 작성한 24년 취준 회고</description>
@@ -105,18 +105,18 @@
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>일기_02</title>
-      <link>https://velog.io/@bijection/일기02</link>
-      <description>개빡치노;;</description>
-      <guid isPermaLink="false">https://velog.io/@bijection/일기02</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
-    </item>
-    <item>
       <title>일기_01</title>
       <link>https://velog.io/@bijection/일기01</link>
       <description>이병철 만세</description>
       <guid isPermaLink="false">https://velog.io/@bijection/일기01</guid>
       <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>일기_02</title>
+      <link>https://velog.io/@bijection/일기02</link>
+      <description>개빡치노;;</description>
+      <guid isPermaLink="false">https://velog.io/@bijection/일기02</guid>
+      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
     </item>
     <item>
       <title>LLM이 뱉은 마크다운 예절 고치는 라이브러리 제작기</title>
@@ -168,6 +168,20 @@
       <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
     </item>
     <item>
+      <title>유튜브 보고 따라 시작한 고등학생의 AI 인스타 운영 프로젝트 (1일차)</title>
+      <link>https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</link>
+      <description>유튜브 보고 “이 정도는 나도 하지” 하고 시작했는데, 하루 만에 뉴스 2500개 수집→텔레그램 승인→AI 이미지 생성·검수→인스타 카드 5장 제작까지 만들었다. 이제 남은 건 진짜 자동 업로드만 남았다</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</guid>
+      <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>행성 탐사 게임(사과 게임) V2 개발 과정</title>
+      <link>https://velog.io/@wontop/행성-탐사-게임사과-게임-업데이트-과정</link>
+      <description>행성 탐사 게임(사과 게임) V2를 개발하며 경험한 트러블 슈팅과 느낀점들을 정리해 봤습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@wontop/행성-탐사-게임사과-게임-업데이트-과정</guid>
+      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
+    </item>
+    <item>
       <title>(~08.31) 한입 시리즈 전체 강의 35% 할인 안내</title>
       <link>https://velog.io/@hbin12212/08.25-한입-시리즈-전체-강의-50-할인-안내</link>
       <description>단 하루! 전체 강의 50% 할인 쿠폰 발급</description>
@@ -182,11 +196,11 @@
       <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
     </item>
     <item>
-      <title>행성 탐사 게임(사과 게임) V2 개발 과정</title>
-      <link>https://velog.io/@wontop/행성-탐사-게임사과-게임-업데이트-과정</link>
-      <description>행성 탐사 게임(사과 게임) V2를 개발하며 경험한 트러블 슈팅과 느낀점들을 정리해 봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@wontop/행성-탐사-게임사과-게임-업데이트-과정</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
+      <title>[MOVE-AI CHALLENGE 2026] 9시간 안에 AI 서비스 만들기</title>
+      <link>https://velog.io/@yeo___li/MOVE-AI-CHALLENGE-2026-9시간-안에-AI-서비스-만들기</link>
+      <description>가자IT 팀과 함께한 MOVE-AI CHALLENGE 2026 본선 후기입니다!</description>
+      <guid isPermaLink="false">https://velog.io/@yeo___li/MOVE-AI-CHALLENGE-2026-9시간-안에-AI-서비스-만들기</guid>
+      <pubDate>Sat, 29 Aug 2026 19:35:56 +0000</pubDate>
     </item>
     <item>
       <title>두 현직 개발자의 직무를 알아보았다</title>
@@ -196,25 +210,10 @@
       <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
     </item>
     <item>
-      <title>자료구조/알고리즘 공부 소감-6</title>
-      <link>https://velog.io/@rogeaustine/자료구조알고리즘-공부-소감-6</link>
-      <description>여름 방학 마지막의 공부: 그래프 복습하기. 여름 방학이 마감했다.</description>
-      <guid isPermaLink="false">https://velog.io/@rogeaustine/자료구조알고리즘-공부-소감-6</guid>
-      <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>유튜브 보고 따라 시작한 고등학생의 AI 인스타 운영 프로젝트 (1일차)</title>
-      <link>https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</link>
-      <description>유튜브 보고 “이 정도는 나도 하지” 하고 시작했는데, 하루 만에 뉴스 2500개 수집→텔레그램 승인→AI 이미지 생성·검수→인스타 카드 5장 제작까지 만들었다. 이제 남은 건 진짜 자동 업로드만 남았다</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>AX에 대한 나의 생각</title>
-      <link>https://velog.io/@haensol/AX</link>
-      <description>AX는 보통 AI Transformation, 우리말로 ‘인공지능 전환’을 뜻한다. 기업은 AX를 선언하고, 정부는 AX 확산을 이야기한다.</description>
-      <guid isPermaLink="false">https://velog.io/@haensol/AX</guid>
-      <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
+      <title>A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳</title>
+      <link>https://velog.io/@higheun022/A2A-에이전트-등록소를-통째로-받아서-세봤다-200곳-중-응답-73곳</link>
+      <guid isPermaLink="false">https://velog.io/@higheun022/A2A-에이전트-등록소를-통째로-받아서-세봤다-200곳-중-응답-73곳</guid>
+      <pubDate>Sat, 29 Aug 2026 19:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
