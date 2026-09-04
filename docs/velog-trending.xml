@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:16:39 +0000</lastBuildDate>
     <item>
       <title>대 AI 시대에 살아남는 개발자가 되려면?</title>
       <link>https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</link>
@@ -23,18 +23,18 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
-      <title>TEAM UNS 그들은 누구인가</title>
-      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
-      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
       <title>당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기</title>
       <link>https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</link>
       <description>안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 진나영이에요. 당근 동네걷기는 걸음 수를 기록하고 보상을 주는 지면인데, 한 화면 위에서 모달·바텀시트·토스트·OS 권한 팝업이 서로를 모른 채 동시에 튀어나오는 문제가 있었어요.이 글은 제가 이...</description>
       <guid isPermaLink="false">https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>TEAM UNS 그들은 누구인가</title>
+      <link>https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</link>
+      <description>안녕하세요 팀 UNS를 창립해 현재 진행중인 프로젝트에 PM을 맡고있는 백엔드 이강희입니다. 저희 팀 UNS의 시작은 한 고민에서 시작되었습니다."개발자를 준비하는 학생들은 빠르게 변하는 취업 시장을 어떻게 따라가야 할까?”저희는 소프트웨어 마이스터고 학생으로서 취업을...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/TEAM-UNS-그들은-누구인가</guid>
+      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
       <title>[Ch.1] 우테코 팀프로젝트 어떻게 진행될까? DAYNOMY 팀 빌딩 과정</title>
@@ -58,18 +58,18 @@
       <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
     </item>
     <item>
-      <title>취업한 컴공생의 2024.07~2025.01 회고</title>
-      <link>https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</link>
-      <description>26년에 작성한 24년 취준 회고</description>
-      <guid isPermaLink="false">https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
       <title>AI로 책 2권을 만들어 상품 42개를 올렸습니다. 매출은 0원입니다.</title>
       <link>https://velog.io/@dailylabnz/ai-book-42-products-zero-revenue</link>
       <description>172쪽·149쪽 책 두 권에 템플릿 30개. 3개 플랫폼 42개 상품, 매출은 0원입니다. 마크다운 원고를 파이썬으로 조립하고 72개 항목을 출처로 검증했지만, 문제는 처음부터 유입이었습니다.</description>
       <guid isPermaLink="false">https://velog.io/@dailylabnz/ai-book-42-products-zero-revenue</guid>
       <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>취업한 컴공생의 2024.07~2025.01 회고</title>
+      <link>https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</link>
+      <description>26년에 작성한 24년 취준 회고</description>
+      <guid isPermaLink="false">https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</guid>
+      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
       <title>안녕하세요, 취준생 보디입니다.</title>
@@ -78,11 +78,11 @@
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>[기획] 왜 우리는 팀을 만들기 전에 문제부터 검증했을까?</title>
-      <link>https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</link>
-      <description>좋은 팀을 먼저 만드는 것보다, 실제로 사용자가 필요로 하는 문제를 먼저 발견하고 검증하는 것이 유저가 있는 서비스를 만드는 데 더 중요하다고 생각했습니다. 안녕하세요 sssOK 팀장, 마이찬입니다! 오늘은 저희의 첫번재 글 기획에 대한 이야기를 들려드리고자 합니다!...</description>
-      <guid isPermaLink="false">https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+      <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
+      <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
+      <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
+      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
     </item>
     <item>
       <title>일기_02</title>
@@ -92,11 +92,18 @@
       <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
     </item>
     <item>
-      <title>Yapp Web 파트 28기 지원 후기</title>
-      <link>https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</link>
-      <description>Yapp 28기 지원 후기</description>
-      <guid isPermaLink="false">https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</guid>
-      <pubDate>Sun, 23 Aug 2026 17:17:46 +0000</pubDate>
+      <title>[기획] 왜 우리는 팀을 만들기 전에 문제부터 검증했을까?</title>
+      <link>https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</link>
+      <description>좋은 팀을 먼저 만드는 것보다, 실제로 사용자가 필요로 하는 문제를 먼저 발견하고 검증하는 것이 유저가 있는 서비스를 만드는 데 더 중요하다고 생각했습니다. 안녕하세요 sssOK 팀장, 마이찬입니다! 오늘은 저희의 첫번재 글 기획에 대한 이야기를 들려드리고자 합니다!...</description>
+      <guid isPermaLink="false">https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>빅분기 12회 필기 기출</title>
+      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
+      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
+      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
       <title>유튜브 보고 따라 시작한 고등학생의 AI 인스타 운영 프로젝트 (1일차)</title>
@@ -104,6 +111,13 @@
       <description>유튜브 보고 “이 정도는 나도 하지” 하고 시작했는데, 하루 만에 뉴스 2500개 수집→텔레그램 승인→AI 이미지 생성·검수→인스타 카드 5장 제작까지 만들었다. 이제 남은 건 진짜 자동 업로드만 남았다</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</guid>
       <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yapp Web 파트 28기 지원 후기</title>
+      <link>https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</link>
+      <description>Yapp 28기 지원 후기</description>
+      <guid isPermaLink="false">https://velog.io/@ehdghks12/Yapp-Web-파트-지원-후기</guid>
+      <pubDate>Sun, 23 Aug 2026 17:17:46 +0000</pubDate>
     </item>
     <item>
       <title>일기_01</title>
@@ -127,24 +141,17 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>빅분기 12회 필기 기출</title>
-      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
-      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
-      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+      <title>AX에 대한 나의 생각</title>
+      <link>https://velog.io/@haensol/AX</link>
+      <description>AX는 보통 AI Transformation, 우리말로 ‘인공지능 전환’을 뜻한다. 기업은 AX를 선언하고, 정부는 AX 확산을 이야기한다.</description>
+      <guid isPermaLink="false">https://velog.io/@haensol/AX</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>[redisson] 기여기, 고쳐진 커밋 하나가 알려준 진짜 버그</title>
-      <link>https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</link>
-      <description>redisson에 기여해보자</description>
-      <guid isPermaLink="false">https://velog.io/@simhyunmin/redisson-기여기-고쳐진-커밋-하나가-알려준-진짜-버그</guid>
-      <pubDate>Fri, 21 Aug 2026 17:24:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>엔피맵 - 프로젝트 Run like This</title>
-      <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
-      <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
+      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
+      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
+      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
+      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
@@ -155,25 +162,18 @@
       <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
-      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
-      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
-      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
+      <title>엔피맵 - 프로젝트 Run like This</title>
+      <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
+      <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>그래프 엔지니어링이란? Context·Harness·Loop에서 Graph까지</title>
-      <link>https://velog.io/@hyeonsu/Graph-Engineering이란-ContextHarnessLoop에서-Graph까지</link>
-      <description>AI Coding Agent를 사용하는 방식이 빠르게 바뀌고 있다.예전에는 “어떤 프롬프트를 입력해야 더 좋은 답을 얻을까?”가 중요했다면, 이제는 Agent가 코드를 읽고, 도구를 실행하고, 테스트하고, 실패하면 다시 시도하는 작업 환경과 실행 구조 자체가 중요해지고...</description>
-      <guid isPermaLink="false">https://velog.io/@hyeonsu/Graph-Engineering이란-ContextHarnessLoop에서-Graph까지</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>AX에 대한 나의 생각</title>
-      <link>https://velog.io/@haensol/AX</link>
-      <description>AX는 보통 AI Transformation, 우리말로 ‘인공지능 전환’을 뜻한다. 기업은 AX를 선언하고, 정부는 AX 확산을 이야기한다.</description>
-      <guid isPermaLink="false">https://velog.io/@haensol/AX</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+      <title>『IT 엔지니어를 위한 네트워크 입문』(3장)</title>
+      <link>https://velog.io/@heejun0911/『IT-엔지니어를-위한-네트워크-입문』3장-slz3wubf</link>
+      <description>IT 엔지니어를 위한 네트워크 입문 3장에 대한 포스팅입니다.</description>
+      <guid isPermaLink="false">https://velog.io/@heejun0911/『IT-엔지니어를-위한-네트워크-입문』3장-slz3wubf</guid>
+      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
     </item>
     <item>
       <title>26.08.31 || 8월의 마지막 날</title>
@@ -183,20 +183,6 @@
       <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
-      <link>https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</link>
-      <description>주기적으로 접속하는 디코 서버에서 X에 접속하지 않고 오하아사 알림 받기 (더 빠르게, 많은 콘텐츠를)</description>
-      <guid isPermaLink="false">https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
-      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
-      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
-      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
-      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
-    </item>
-    <item>
       <title>해커톤 나갔다가 랜섬웨어 걸린 썰 푼다.(with JunctionX Korea)</title>
       <link>https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</link>
       <description>JunctionX Korea 2026 참가 후기 보안 서비스를 만들러 해커톤에 갔다가 랜섬웨어에 걸렸습니다. 제목을 자극적으로 지은 것이 아닙니다. 정말 개발 중이던 서버에 이상이 생겼고, 결국 비트코인을 요구하는 랜섬노트까지 확인했습니다. 더 웃긴 건 당시 저...</description>
@@ -204,10 +190,24 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
+      <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
+      <link>https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</link>
+      <description>주기적으로 접속하는 디코 서버에서 X에 접속하지 않고 오하아사 알림 받기 (더 빠르게, 많은 콘텐츠를)</description>
+      <guid isPermaLink="false">https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+    </item>
+    <item>
       <title>2024년 12월 퇴사 이후.. 지금까지 어떻게 살고있나</title>
       <link>https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</link>
       <description>안녕하세요 벨로그 첫 글입니다..! 다른분들 글 눈팅만 하다가 이 시기를 흘려보내면 나중엔 기억도 잘 안 날 것 같아서 기록해두고 싶었어요제목대로 저는 2024년 12월에 잘 다니던 회사가 어려워져서 퇴사를 하게되고, 지금까지 백-수 입니다! 하하 자진 퇴사가 아니기 ...</description>
       <guid isPermaLink="false">https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</guid>
+      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
+      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
+      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
+      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
