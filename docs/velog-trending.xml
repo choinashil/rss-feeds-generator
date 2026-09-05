@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:46:19 +0000</lastBuildDate>
     <item>
       <title>대 AI 시대에 살아남는 개발자가 되려면?</title>
       <link>https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</link>
@@ -16,18 +16,18 @@
       <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
     </item>
     <item>
-      <title>[홍보] 15초째 랜딩페이지 안 보네. 잘 살아.</title>
-      <link>https://velog.io/@ssssok/홍보-15초째-랜딩페이지-안-보네.-잘-살아</link>
-      <description>안녕하세요 sssOK 홍보 담당, 현미밥입니다! 오늘은 저희 프로젝트 홍보에 대한 이야기를 들려드리고자 합니다!서비스를 개발하면서 기능을 구현하는 것만큼 중요했던 고민이 하나 있었다.“그래서 이 서비스를 실제 타깃 사용자도 필요로 할까?”우리 팀이 만들고 있는 서비스는...</description>
-      <guid isPermaLink="false">https://velog.io/@ssssok/홍보-15초째-랜딩페이지-안-보네.-잘-살아</guid>
-      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
-    </item>
-    <item>
       <title>당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기</title>
       <link>https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</link>
       <description>안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 진나영이에요. 당근 동네걷기는 걸음 수를 기록하고 보상을 주는 지면인데, 한 화면 위에서 모달·바텀시트·토스트·OS 권한 팝업이 서로를 모른 채 동시에 튀어나오는 문제가 있었어요.이 글은 제가 이...</description>
       <guid isPermaLink="false">https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[홍보] 15초째 랜딩페이지 안 보네. 잘 살아.</title>
+      <link>https://velog.io/@ssssok/홍보-15초째-랜딩페이지-안-보네.-잘-살아</link>
+      <description>안녕하세요 sssOK 홍보 담당, 현미밥입니다! 오늘은 저희 프로젝트 홍보에 대한 이야기를 들려드리고자 합니다!서비스를 개발하면서 기능을 구현하는 것만큼 중요했던 고민이 하나 있었다.“그래서 이 서비스를 실제 타깃 사용자도 필요로 할까?”우리 팀이 만들고 있는 서비스는...</description>
+      <guid isPermaLink="false">https://velog.io/@ssssok/홍보-15초째-랜딩페이지-안-보네.-잘-살아</guid>
+      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
       <title>TEAM UNS 그들은 누구인가</title>
@@ -65,24 +65,17 @@
       <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
-      <title>취업한 컴공생의 2024.07~2025.01 회고</title>
-      <link>https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</link>
-      <description>26년에 작성한 24년 취준 회고</description>
-      <guid isPermaLink="false">https://velog.io/@guswlsdl0121/졸업한-컴공생의-2024.072025.03-회고</guid>
-      <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
-    </item>
-    <item>
       <title>안녕하세요, 취준생 보디입니다.</title>
       <link>https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</link>
       <guid isPermaLink="false">https://velog.io/@sec_designer/안녕하세요-취준생-보디입니다</guid>
       <pubDate>Mon, 24 Aug 2026 17:27:02 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
-      <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
-      <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
-      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
+      <title>빅분기 12회 필기 기출</title>
+      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
+      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
+      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
       <title>일기_02</title>
@@ -99,18 +92,18 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>빅분기 12회 필기 기출</title>
-      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
-      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
-      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
-    </item>
-    <item>
       <title>유튜브 보고 따라 시작한 고등학생의 AI 인스타 운영 프로젝트 (1일차)</title>
       <link>https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</link>
       <description>유튜브 보고 “이 정도는 나도 하지” 하고 시작했는데, 하루 만에 뉴스 2500개 수집→텔레그램 승인→AI 이미지 생성·검수→인스타 카드 5장 제작까지 만들었다. 이제 남은 건 진짜 자동 업로드만 남았다</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/AI로-인스타-계정-운영해보기1</guid>
       <pubDate>Sat, 29 Aug 2026 00:51:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
+      <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
+      <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
+      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
     </item>
     <item>
       <title>Yapp Web 파트 28기 지원 후기</title>
@@ -120,11 +113,11 @@
       <pubDate>Sun, 23 Aug 2026 17:17:46 +0000</pubDate>
     </item>
     <item>
-      <title>일기_01</title>
-      <link>https://velog.io/@bijection/일기01</link>
-      <description>이병철 만세</description>
-      <guid isPermaLink="false">https://velog.io/@bijection/일기01</guid>
-      <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
+      <title>첫 동아리 프로젝트 ‘쉐프’, CRUD인 줄 알았는데요</title>
+      <link>https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</link>
+      <description>대덕소프트웨어마이스터고에 들어오고 처음으로 동아리 프로젝트를 시작하게 되었다. 프로젝트 초반 때로 돌아가보자면 동아리 정규 회의 시간 선배님들이 1학년 프로젝트를 시작하자며 각자 프로젝트 아이디어 3개를 준비해오라고 하셨다. 나는 무난한 3개의 아이디어를 준비해갔고 결...</description>
+      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</guid>
+      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
       <title>Unity, Editor MCP 서버 대신 CLI 중심으로 전환</title>
@@ -132,6 +125,13 @@
       <description>Unity에서 흥미로운 메일이 하나 왔습니다. VELOGLOCALIMAGE0 제목은 「MCP 서버를 대체할 CLI 발표」. 핵심은 간단합니다. Unity는 AI Assistant 패키지(com.unity.ai.assistant)에 포함된 Editor 내부 MCP 서버를...</description>
       <guid isPermaLink="false">https://velog.io/@bnm000215/Unity-Editor-MCP-서버-대신-CLI-중심으로-전환</guid>
       <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>일기_01</title>
+      <link>https://velog.io/@bijection/일기01</link>
+      <description>이병철 만세</description>
+      <guid isPermaLink="false">https://velog.io/@bijection/일기01</guid>
+      <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
     </item>
     <item>
       <title>이건 뭐야?「대한민국 인공지능 윤리원칙」</title>
@@ -162,25 +162,18 @@
       <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
+      <title>나는 ‘바이브 코딩만’을 열심히 하는 것에 반대한다</title>
+      <link>https://velog.io/@gkswltjr0725/나는-바이브-코딩만을-열심히-하는-것에-반대한다</link>
+      <description>최근 AI의 발전으로 소프트웨어 개발 방식이 빠르게 변화하고 있다. 이제는 코드를 직접 한 줄씩 작성하지 않더라도 자연어로 원하는 기능을 설명하면 AI가 상당 부분의 코드를 만들어 준다. 이러한 개발 방식을 흔히 ‘바이브 코딩(Vibe Coding)’이라고 부른다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/나는-바이브-코딩만을-열심히-하는-것에-반대한다</guid>
+      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
+    </item>
+    <item>
       <title>엔피맵 - 프로젝트 Run like This</title>
       <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
       <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
       <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>『IT 엔지니어를 위한 네트워크 입문』(3장)</title>
-      <link>https://velog.io/@heejun0911/『IT-엔지니어를-위한-네트워크-입문』3장-slz3wubf</link>
-      <description>IT 엔지니어를 위한 네트워크 입문 3장에 대한 포스팅입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@heejun0911/『IT-엔지니어를-위한-네트워크-입문』3장-slz3wubf</guid>
-      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>26.08.31 || 8월의 마지막 날</title>
-      <link>https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</link>
-      <description>3회차 과목평가와 두 번째의 월말평가를 부랴부랴 대비하고자 밤샘을 시도했으나 처참히 실패하고지난 번에 몰라서 틀렸던 걸 또 몰라서 틀렸다.내 두뇌는 항상 과소적합 상태이다.이번주 토요일에 있을 빅분기 필기는 거들떠도 보지 않았는데,옆자리 양파쿵야님이 모의고사 푸는 거 ...</description>
-      <guid isPermaLink="false">https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</guid>
-      <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
       <title>해커톤 나갔다가 랜섬웨어 걸린 썰 푼다.(with JunctionX Korea)</title>
@@ -190,13 +183,6 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
-      <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
-      <link>https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</link>
-      <description>주기적으로 접속하는 디코 서버에서 X에 접속하지 않고 오하아사 알림 받기 (더 빠르게, 많은 콘텐츠를)</description>
-      <guid isPermaLink="false">https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
-    </item>
-    <item>
       <title>2024년 12월 퇴사 이후.. 지금까지 어떻게 살고있나</title>
       <link>https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</link>
       <description>안녕하세요 벨로그 첫 글입니다..! 다른분들 글 눈팅만 하다가 이 시기를 흘려보내면 나중엔 기억도 잘 안 날 것 같아서 기록해두고 싶었어요제목대로 저는 2024년 12월에 잘 다니던 회사가 어려워져서 퇴사를 하게되고, 지금까지 백-수 입니다! 하하 자진 퇴사가 아니기 ...</description>
@@ -204,11 +190,18 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
-      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
-      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
-      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
-      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
-      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
+      <title>26.08.31 || 8월의 마지막 날</title>
+      <link>https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</link>
+      <description>3회차 과목평가와 두 번째의 월말평가를 부랴부랴 대비하고자 밤샘을 시도했으나 처참히 실패하고지난 번에 몰라서 틀렸던 걸 또 몰라서 틀렸다.내 두뇌는 항상 과소적합 상태이다.이번주 토요일에 있을 빅분기 필기는 거들떠도 보지 않았는데,옆자리 양파쿵야님이 모의고사 푸는 거 ...</description>
+      <guid isPermaLink="false">https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</guid>
+      <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
+      <link>https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</link>
+      <description>주기적으로 접속하는 디코 서버에서 X에 접속하지 않고 오하아사 알림 받기 (더 빠르게, 많은 콘텐츠를)</description>
+      <guid isPermaLink="false">https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
       <title>두 현직 개발자의 직무를 알아보았다</title>
@@ -216,6 +209,13 @@
       <description>오늘은 [컴개론 방과후]시간에 개발자들의 커리어를 영상으로 시청하였다. 가장 기억에 남는 3가지를 뽑는다고 하면 개발자의 목표를 향해 취업준비 노력의 장면이 떠올랐다. 첫 번째 네이버 클라우드 프론트엔드 개발자 김아림 개발자님이 오전 8시 부터 12시까지 (공복)비대면...</description>
       <guid isPermaLink="false">https://velog.io/@linkshimcat/두-현직-개발자의-직무를-알아보았다</guid>
       <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>DB 인덱스가 B+Tree 계열 자료구조를 사용하는 이유</title>
+      <link>https://velog.io/@east0323/DB-인덱스가-BTree-를-사용하는-이유</link>
+      <description>단순히 시간 복잡도만 비교하지 않고 데이터베이스가 데이터를 저장하고 읽는 방식과 Disk I/O 비용까지 함께 살펴볼 필요가 있었습니다. 이 글에서 B-Tree 와 B+Tree 의 구조를 살펴보고 이러한 구조가 데이터베이스 인덱스에 적합한 이유를 정리해보려고 합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@east0323/DB-인덱스가-BTree-를-사용하는-이유</guid>
+      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
