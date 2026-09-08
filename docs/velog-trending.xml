@@ -7,13 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:43:31 +0000</lastBuildDate>
     <item>
-      <title>대 AI 시대에 살아남는 개발자가 되려면?</title>
-      <link>https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</link>
-      <description>"AI가 코딩을 다 해주는데 개발자가 필요할까?" 같은 질문이 더 이상 농담처럼 들리지 않는 시기가 온 것 같다. 요즘 개발자를 둘러싼 분위기는 솔직히 말해 긴장감이 감돈다. 나 역시 1년 동안 다닌 스타트업을 퇴사하게 되면서, 앞으로 개발자로서 어떤 방향으로 성장해...</description>
-      <guid isPermaLink="false">https://velog.io/@hoheesu/대-AI-시대에-살아남는-개발자가-되려면</guid>
-      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
+      <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
+      <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
+      <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
+      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
     </item>
     <item>
       <title>당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기</title>
@@ -23,6 +23,13 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
+      <title>(번역) TanStack.com에서 RSC 사용을 중단했습니다</title>
+      <link>https://velog.io/@tap_kim/we-stopped-using-rsc-on-tanstack-com</link>
+      <description>우리는 RSC가 해결해야 할 문제의 콘텐츠가 많은 페이지들이 브라우저에 엄청난 양의 마크다운 및 구문 강조 기능을 전송하고 있었는데, 이 작업을 서버로 옮기자 상당량의 JavaScript 코드가 줄어들었고 사이트 속도가 향상되었습니다. 그리고 결과에 매우 만족했습니다....</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/we-stopped-using-rsc-on-tanstack-com</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[홍보] 15초째 랜딩페이지 안 보네. 잘 살아.</title>
       <link>https://velog.io/@ssssok/홍보-15초째-랜딩페이지-안-보네.-잘-살아</link>
       <description>안녕하세요 sssOK 홍보 담당, 현미밥입니다! 오늘은 저희 프로젝트 홍보에 대한 이야기를 들려드리고자 합니다!서비스를 개발하면서 기능을 구현하는 것만큼 중요했던 고민이 하나 있었다.“그래서 이 서비스를 실제 타깃 사용자도 필요로 할까?”우리 팀이 만들고 있는 서비스는...</description>
@@ -30,32 +37,11 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
-      <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
-      <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
-      <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
-    </item>
-    <item>
       <title>[Ch.1] 우테코 팀프로젝트 어떻게 진행될까? DAYNOMY 팀 빌딩 과정</title>
       <link>https://velog.io/@daynomy/ch1-teambuilding</link>
       <description>우아한 테크코스 레벨 3 우당탕탕 팀 결성</description>
       <guid isPermaLink="false">https://velog.io/@daynomy/ch1-teambuilding</guid>
       <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>낙서 같은 손스케치가 진짜 화면(UI)이 되기까지</title>
-      <link>https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</link>
-      <description>안녕하세요! 팀 UNS의 디자인을 맡고 있는 최하은입니다 🐦‍⬛ "이 디자인은 과연 어떻게 만들어졌을까?"라는 가장 근본적인 부분부터 시작해보려 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/낙서-같은-손스케치가-진짜-화면UI이-되기까지</guid>
-      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI로 책 2권을 만들어 상품 42개를 올렸습니다. 매출은 0원입니다.</title>
-      <link>https://velog.io/@dailylabnz/ai-book-42-products-zero-revenue</link>
-      <description>172쪽·149쪽 책 두 권에 템플릿 30개. 3개 플랫폼 42개 상품, 매출은 0원입니다. 마크다운 원고를 파이썬으로 조립하고 72개 항목을 출처로 검증했지만, 문제는 처음부터 유입이었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@dailylabnz/ai-book-42-products-zero-revenue</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
       <title>NAS란 무엇일까 (feat. 금융권 찍먹 이야기)</title>
@@ -72,18 +58,25 @@
       <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
     </item>
     <item>
-      <title>일기_02</title>
-      <link>https://velog.io/@bijection/일기02</link>
-      <description>개빡치노;;</description>
-      <guid isPermaLink="false">https://velog.io/@bijection/일기02</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
-    </item>
-    <item>
       <title>첫 동아리 프로젝트 ‘쉐프’, CRUD인 줄 알았는데요</title>
       <link>https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</link>
       <description>ㅠㅠ</description>
       <guid isPermaLink="false">https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</guid>
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>클라우드 기능반 회고</title>
+      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
+      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
+      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>일기_02</title>
+      <link>https://velog.io/@bijection/일기02</link>
+      <description>개빡치노;;</description>
+      <guid isPermaLink="false">https://velog.io/@bijection/일기02</guid>
+      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
     </item>
     <item>
       <title>빅분기 12회 필기 기출</title>
@@ -100,13 +93,6 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>Unity, Editor MCP 서버 대신 CLI 중심으로 전환</title>
-      <link>https://velog.io/@bnm000215/Unity-Editor-MCP-서버-대신-CLI-중심으로-전환</link>
-      <description>Unity에서 흥미로운 메일이 하나 왔습니다. VELOGLOCALIMAGE0 제목은 「MCP 서버를 대체할 CLI 발표」. 핵심은 간단합니다. Unity는 AI Assistant 패키지(com.unity.ai.assistant)에 포함된 Editor 내부 MCP 서버를...</description>
-      <guid isPermaLink="false">https://velog.io/@bnm000215/Unity-Editor-MCP-서버-대신-CLI-중심으로-전환</guid>
-      <pubDate>Tue, 25 Aug 2026 17:28:03 +0000</pubDate>
-    </item>
-    <item>
       <title>나는 ‘바이브 코딩만’을 열심히 하는 것에 반대한다</title>
       <link>https://velog.io/@gkswltjr0725/나는-바이브-코딩만을-열심히-하는-것에-반대한다</link>
       <description>바이브 코딩만 하는 바보 같은 짓은 하지 마세요.</description>
@@ -114,24 +100,10 @@
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>일기_01</title>
-      <link>https://velog.io/@bijection/일기01</link>
-      <description>이병철 만세</description>
-      <guid isPermaLink="false">https://velog.io/@bijection/일기01</guid>
-      <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
-    </item>
-    <item>
       <title>GPT-5.6 Sol에서 GPT-6 Astra로: 컴퓨터 사용·코딩·장기 작업의 end-to-end 모델</title>
       <link>https://velog.io/@okorion/GPT-5.6-Sol에서-GPT-6-Astra로-컴퓨터-사용코딩장기-작업의-end-to-end-모델</link>
       <description>OpenAI가 GPT-6 Astra를 공개했다. FrontierMath Tier 4 97.6%, ARC-AGI-3 99.9%, ExploitBench 100%처럼 눈에 띄는 숫자가 많지만, 개발자 입장에서 더 중요한 변화는 따로 있다.</description>
       <guid isPermaLink="false">https://velog.io/@okorion/GPT-5.6-Sol에서-GPT-6-Astra로-컴퓨터-사용코딩장기-작업의-end-to-end-모델</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>데이터 삭제 API의 위험성</title>
-      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
-      <description>DELETE의 남용을 멈춰주세요</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
@@ -142,6 +114,20 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
+      <title>데이터 삭제 API의 위험성</title>
+      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
+      <description>DELETE의 남용을 멈춰주세요</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>일기_01</title>
+      <link>https://velog.io/@bijection/일기01</link>
+      <description>이병철 만세</description>
+      <guid isPermaLink="false">https://velog.io/@bijection/일기01</guid>
+      <pubDate>Wed, 26 Aug 2026 18:56:09 +0000</pubDate>
+    </item>
+    <item>
       <title>해커톤 나갔다가 랜섬웨어 걸린 썰 푼다.(with JunctionX Korea)</title>
       <link>https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</link>
       <description>JunctionX Korea 2026 참가 후기 보안 서비스를 만들러 해커톤에 갔다가 랜섬웨어에 걸렸습니다. 제목을 자극적으로 지은 것이 아닙니다. 정말 개발 중이던 서버에 이상이 생겼고, 결국 비트코인을 요구하는 랜섬노트까지 확인했습니다. 더 웃긴 건 당시 저...</description>
@@ -149,17 +135,24 @@
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
+      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
+      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
+      <description>URL 단축 서비스는 읽기가 전부인 서비스다. 단축 URL을 만드는 쓰기는 드물고, 트래픽의 대부분은 GET /{shortKey} 리다이렉트다.키 생성은 Snowflake ID + Base62라 이미 값싸다병목은 결국 "이 키의 원본 URL이 뭐냐"를 얼마나 싸게 답하...</description>
+      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
+      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
+      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
+      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
       <title>이건 뭐야?「대한민국 인공지능 윤리원칙」</title>
       <link>https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</link>
       <description>2026년 8월 21일, 관계부처 합동으로 「대한민국 인공지능 윤리원칙」이 나왔다. AI 기본법 제27조에 근거한 자율규범이고, 3대 가치와 7대 원칙으로 구성되어 있다. 뭐 이런 게 나왔나보다 하면서 쭉 스크롤을 내리는데, 용어 정의에서 한 문장에 걸렸다.</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
-      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
-      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
-      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
@@ -170,39 +163,11 @@
       <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>해킹 입문 교양서 : 해킹 공부 처음이면 이것부터 보세요</title>
-      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
-      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>엔피맵 - 프로젝트 Run like This</title>
-      <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
-      <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
+      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
+      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
+      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
+      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
-      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
-      <description>URL 단축 서비스는 읽기가 전부인 서비스다. 단축 URL을 만드는 쓰기는 드물고, 트래픽의 대부분은 GET /{shortKey} 리다이렉트다.키 생성은 Snowflake ID + Base62라 이미 값싸다병목은 결국 "이 키의 원본 URL이 뭐냐"를 얼마나 싸게 답하...</description>
-      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
-      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>DB 인덱스가 B+Tree 계열 자료구조를 사용하는 이유</title>
-      <link>https://velog.io/@east0323/DB-인덱스가-BTree-를-사용하는-이유</link>
-      <description>단순히 시간 복잡도만 비교하지 않고 데이터베이스가 데이터를 저장하고 읽는 방식과 Disk I/O 비용까지 함께 살펴볼 필요가 있었습니다. 이 글에서 B-Tree 와 B+Tree 의 구조를 살펴보고 이러한 구조가 데이터베이스 인덱스에 적합한 이유를 정리해보려고 합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@east0323/DB-인덱스가-BTree-를-사용하는-이유</guid>
-      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>가상 메모리 — 프로세스가 자기만의 메모리를 갖는 원리</title>
-      <link>https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</link>
-      <description>프로세스는 자기만의 가상 주소 공간을 갖고, OS는 이를 페이지 단위로 잘라서 실제로 접근할 때 물리 메모리를 붙인다.물리 RAM을 프로그램이 직접 쓴다고 해보자.CPU는 하나의 프로세스만 계산할 수 있기 때문에, 프로세스를 교체해주어야 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
       <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
@@ -212,11 +177,46 @@
       <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
     </item>
     <item>
-      <title>두 현직 개발자의 직무를 알아보았다</title>
-      <link>https://velog.io/@linkshimcat/두-현직-개발자의-직무를-알아보았다</link>
-      <description>오늘은 [컴개론 방과후]시간에 개발자들의 커리어를 영상으로 시청하였다. 가장 기억에 남는 3가지를 뽑는다고 하면 개발자의 목표를 향해 취업준비 노력의 장면이 떠올랐다. 첫 번째 네이버 클라우드 프론트엔드 개발자 김아림 개발자님이 오전 8시 부터 12시까지 (공복)비대면...</description>
-      <guid isPermaLink="false">https://velog.io/@linkshimcat/두-현직-개발자의-직무를-알아보았다</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+      <title>엔피맵 - 프로젝트 Run like This</title>
+      <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
+      <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>간장게장 해동방법 총정리 | 냉동 게장 맛있게 먹는 법 (상동이게장 후기)</title>
+      <link>https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</link>
+      <description>간장게장 해동방법 때문에 검색해서 들어오신 분들 많으실 것 같아요. 냉동으로 오는 게장은 해동이 사실상 조리 과정이라, 여기서 대충 하면 맛이 반으로 줄어듭니다.이번에 상동이게장을 두 번 주문하면서 24시간 해동과 48시간 해동을 다 해봤는데, 차이가 꽤 있었습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>26.08.31 || 8월의 마지막 날</title>
+      <link>https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</link>
+      <description>3회차 과목평가와 두 번째의 월말평가를 부랴부랴 대비하고자 밤샘을 시도했으나 처참히 실패하고지난 번에 몰라서 틀렸던 걸 또 몰라서 틀렸다.내 두뇌는 항상 과소적합 상태이다.이번주 토요일에 있을 빅분기 필기는 거들떠도 보지 않았는데,옆자리 양파쿵야님이 모의고사 푸는 거 ...</description>
+      <guid isPermaLink="false">https://velog.io/@heeae_dev/26.08.31-8월의-마지막-날</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>가상 메모리 — 프로세스가 자기만의 메모리를 갖는 원리</title>
+      <link>https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</link>
+      <description>프로세스는 자기만의 가상 주소 공간을 갖고, OS는 이를 페이지 단위로 잘라서 실제로 접근할 때 물리 메모리를 붙인다.물리 RAM을 프로그램이 직접 쓴다고 해보자.CPU는 하나의 프로세스만 계산할 수 있기 때문에, 프로세스를 교체해주어야 한다.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>매칭 앱 백엔드로 Supabase 를 선택한 이유</title>
+      <link>https://velog.io/@jiwon3378/매칭-앱-백엔드로-Supabase-를-선택한-이유</link>
+      <description>들여다보자</description>
+      <guid isPermaLink="false">https://velog.io/@jiwon3378/매칭-앱-백엔드로-Supabase-를-선택한-이유</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
+      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
+      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
+      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
