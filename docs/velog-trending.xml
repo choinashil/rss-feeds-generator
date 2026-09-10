@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:27:21 +0000</lastBuildDate>
     <item>
       <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
       <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
@@ -51,13 +51,6 @@
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>클라우드 기능반 회고</title>
-      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
-      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
-      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
-    </item>
-    <item>
       <title>아직 체커기는 올라오지 않았다</title>
       <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
       <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
@@ -65,18 +58,11 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>일기_02</title>
-      <link>https://velog.io/@bijection/일기02</link>
-      <description>개빡치노;;</description>
-      <guid isPermaLink="false">https://velog.io/@bijection/일기02</guid>
-      <pubDate>Fri, 28 Aug 2026 01:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>빅분기 12회 필기 기출</title>
-      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
-      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
-      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+      <title>클라우드 기능반 회고</title>
+      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
+      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
+      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
     <item>
       <title>GPT-5.6 Sol에서 GPT-6 Astra로: 컴퓨터 사용·코딩·장기 작업의 end-to-end 모델</title>
@@ -93,10 +79,24 @@
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
+      <title>빅분기 12회 필기 기출</title>
+      <link>https://velog.io/@kwon9009/빅분기-12회-필기-기출</link>
+      <description>&gt; &gt; m-유일성(m-uniqueness)의 정의 원본 데이터와 동일한 속성 값의 조합이 비식별 결과 데이터에 최소 m개 존재해야 재식별 가능성 위험이 낮다고 판단하는 검증 방법 &gt; 파싱(Parsing)은 긴 문자열을 태그 단위 구성 요소로 분해하고 계층 구조(DO...</description>
+      <guid isPermaLink="false">https://velog.io/@kwon9009/빅분기-12회-필기-기출</guid>
+      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+    </item>
+    <item>
       <title>2024년 12월 퇴사 이후.. 지금까지 어떻게 살고있나</title>
       <link>https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</link>
       <description>안녕하세요 벨로그 첫 글입니다..! 다른분들 글 눈팅만 하다가 이 시기를 흘려보내면 나중엔 기억도 잘 안 날 것 같아서 기록해두고 싶었어요제목대로 저는 2024년 12월에 잘 다니던 회사가 어려워져서 퇴사를 하게되고, 지금까지 백-수 입니다! 하하 자진 퇴사가 아니기 ...</description>
       <guid isPermaLink="false">https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</guid>
+      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>해커톤 나갔다가 랜섬웨어 걸린 썰 푼다.(with JunctionX Korea)</title>
+      <link>https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</link>
+      <description>JunctionX Korea 2026 참가 후기 보안 서비스를 만들러 해커톤에 갔다가 랜섬웨어에 걸렸습니다. 제목을 자극적으로 지은 것이 아닙니다. 정말 개발 중이던 서버에 이상이 생겼고, 결국 비트코인을 요구하는 랜섬노트까지 확인했습니다. 더 웃긴 건 당시 저...</description>
+      <guid isPermaLink="false">https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</guid>
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
     </item>
     <item>
@@ -114,11 +114,11 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>해커톤 나갔다가 랜섬웨어 걸린 썰 푼다.(with JunctionX Korea)</title>
-      <link>https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</link>
-      <description>JunctionX Korea 2026 참가 후기 보안 서비스를 만들러 해커톤에 갔다가 랜섬웨어에 걸렸습니다. 제목을 자극적으로 지은 것이 아닙니다. 정말 개발 중이던 서버에 이상이 생겼고, 결국 비트코인을 요구하는 랜섬노트까지 확인했습니다. 더 웃긴 건 당시 저...</description>
-      <guid isPermaLink="false">https://velog.io/@songyeonji_/해커톤-나갔다가-랜섬웨어-걸린-썰-푼다.with-JunctionX-Korea</guid>
-      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
       <title>데이터 삭제 API의 위험성</title>
@@ -128,18 +128,31 @@
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
-      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
-      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
-      <description>URL 단축 서비스는 읽기가 전부인 서비스다. 단축 URL을 만드는 쓰기는 드물고, 트래픽의 대부분은 GET /{shortKey} 리다이렉트다.키 생성은 Snowflake ID + Base62라 이미 값싸다병목은 결국 "이 키의 원본 URL이 뭐냐"를 얼마나 싸게 답하...</description>
-      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
-      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
-    </item>
-    <item>
       <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
       <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
       <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promise</title>
+      <link>https://velog.io/@li5ll/Promise</link>
+      <guid isPermaLink="false">https://velog.io/@li5ll/Promise</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAN2026 해커톤 우수상 후기</title>
+      <link>https://velog.io/@tnghgks/NAN2026-해커톤-회고</link>
+      <description>NHN에서 주최한 게임 제작×AI 해커톤에 참가해 우수상을 받기까지의 과정</description>
+      <guid isPermaLink="false">https://velog.io/@tnghgks/NAN2026-해커톤-회고</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
+      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
+      <description>URL 단축 서비스는 읽기가 전부인 서비스다. 단축 URL을 만드는 쓰기는 드물고, 트래픽의 대부분은 GET /{shortKey} 리다이렉트다.키 생성은 Snowflake ID + Base62라 이미 값싸다병목은 결국 "이 키의 원본 URL이 뭐냐"를 얼마나 싸게 답하...</description>
+      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
+      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
     </item>
     <item>
       <title>이건 뭐야?「대한민국 인공지능 윤리원칙」</title>
@@ -149,39 +162,11 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
-      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
-      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
-      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>클라우드 클럽 10기 지원후기</title>
-      <link>https://velog.io/@heebindev/CloudClub-01</link>
-      <description>클클 10기 시작합니다..</description>
-      <guid isPermaLink="false">https://velog.io/@heebindev/CloudClub-01</guid>
-      <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>개쩌는 오픈소스 영상편집기</title>
-      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
-      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
-      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>간장게장 해동방법 총정리 | 냉동 게장 맛있게 먹는 법 (상동이게장 후기)</title>
-      <link>https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</link>
-      <description>간장게장 해동방법 때문에 검색해서 들어오신 분들 많으실 것 같아요. 냉동으로 오는 게장은 해동이 사실상 조리 과정이라, 여기서 대충 하면 맛이 반으로 줄어듭니다.이번에 상동이게장을 두 번 주문하면서 24시간 해동과 48시간 해동을 다 해봤는데, 차이가 꽤 있었습니다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>매일 아침 별자리 운세를 디스코드로 - 아침별점 봇 개발기</title>
-      <link>https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</link>
-      <description>주기적으로 접속하는 디코 서버에서 X에 접속하지 않고 오하아사 알림 받기 (더 빠르게, 많은 콘텐츠를)</description>
-      <guid isPermaLink="false">https://velog.io/@liebenholz/ohaasa-daily-discord-ojx54wu2</guid>
-      <pubDate>Wed, 02 Sep 2026 19:37:26 +0000</pubDate>
+      <title>[크래프톤] 너만 그런 것은 아니다.</title>
+      <link>https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</link>
+      <description>정글에서의 시간은 늘 부족하고 학습량은 많다. 단, 너만 그런 것은 아니다.정글에 들어와 3주가 지났다.이번 주는 정말 시간이 느리게 흐르는 느낌이였다.하루 종일 해도 모르는게 있고, 공부할게 많았다.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
       <title>미들웨어 개발자가 하는 일</title>
@@ -191,6 +176,20 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
+      <title>개쩌는 오픈소스 영상편집기</title>
+      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
+      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
+      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
+      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
+      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
+      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
       <title>진짜 심심하신 분만 읽으세요. 아니다 그냥 전부 읽어주세용 (컴공생 완전 환영)</title>
       <link>https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</link>
       <description>재밌게 읽고 연락줘여 제바ㅏ알</description>
@@ -198,25 +197,25 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>가상 메모리 — 프로세스가 자기만의 메모리를 갖는 원리</title>
-      <link>https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</link>
-      <description>프로세스는 자기만의 가상 주소 공간을 갖고, OS는 이를 페이지 단위로 잘라서 실제로 접근할 때 물리 메모리를 붙인다.물리 RAM을 프로그램이 직접 쓴다고 해보자.CPU는 하나의 프로세스만 계산할 수 있기 때문에, 프로세스를 교체해주어야 한다.</description>
-      <guid isPermaLink="false">https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+      <title>클라우드 클럽 10기 지원후기</title>
+      <link>https://velog.io/@heebindev/CloudClub-01</link>
+      <description>클클 10기 시작합니다..</description>
+      <guid isPermaLink="false">https://velog.io/@heebindev/CloudClub-01</guid>
+      <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
     </item>
     <item>
-      <title>엔피맵 - 프로젝트 Run like This</title>
-      <link>https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</link>
-      <description>"상상한 대로 뭐든 전부 이뤄졌어" 콘서트 현장에서 받은 벅찬 에너지 하나로 시작해, 올여름 상상했던 기능들을 전부 만들어냈습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@laon2019/엔피맵-프로젝트-Run-like-This</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+      <title>간장게장 해동방법 총정리 | 냉동 게장 맛있게 먹는 법 (상동이게장 후기)</title>
+      <link>https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</link>
+      <description>간장게장 해동방법 때문에 검색해서 들어오신 분들 많으실 것 같아요. 냉동으로 오는 게장은 해동이 사실상 조리 과정이라, 여기서 대충 하면 맛이 반으로 줄어듭니다.이번에 상동이게장을 두 번 주문하면서 24시간 해동과 48시간 해동을 다 해봤는데, 차이가 꽤 있었습니다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@mnoooonm/간장게장-해동방법-총정리-냉동-게장-맛있게-먹는-법-상동이게장-후기</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
     <item>
-      <title>Spring Security를 사용하는 이유</title>
-      <link>https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</link>
-      <description>JWT만 검증하면 되는 거 아닌가?</description>
-      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
+      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
+      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
+      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
