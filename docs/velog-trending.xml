@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:11:24 +0000</lastBuildDate>
     <item>
       <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
       <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
@@ -51,13 +51,6 @@
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>클라우드 기능반 회고</title>
-      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
-      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
-      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
-    </item>
-    <item>
       <title>나는 ‘바이브 코딩만’을 열심히 하는 것에 반대한다</title>
       <link>https://velog.io/@gkswltjr0725/나는-바이브-코딩만을-열심히-하는-것에-반대한다</link>
       <description>바이브 코딩만 하는 바보 같은 짓은 하지 마세요.</description>
@@ -70,6 +63,13 @@
       <description>안녕하세요 벨로그 첫 글입니다..! 다른분들 글 눈팅만 하다가 이 시기를 흘려보내면 나중엔 기억도 잘 안 날 것 같아서 기록해두고 싶었어요제목대로 저는 2024년 12월에 잘 다니던 회사가 어려워져서 퇴사를 하게되고, 지금까지 백-수 입니다! 하하 자진 퇴사가 아니기 ...</description>
       <guid isPermaLink="false">https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</guid>
       <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>클라우드 기능반 회고</title>
+      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
+      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
+      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
+      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
     <item>
       <title>아직 체커기는 올라오지 않았다</title>
@@ -100,11 +100,11 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
-      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
-      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+      <title>데이터 삭제 API의 위험성</title>
+      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
+      <description>DELETE의 남용을 멈춰주세요</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
       <title>[기획] 왜 우리는 팀을 만들기 전에 문제부터 검증했을까?</title>
@@ -114,11 +114,18 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>데이터 삭제 API의 위험성</title>
-      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
-      <description>DELETE의 남용을 멈춰주세요</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>내 AI는 왜 AI냄새가 날까?</title>
+      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
+      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
+      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
     </item>
     <item>
       <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
@@ -135,17 +142,17 @@
       <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
     </item>
     <item>
-      <title>내 AI는 왜 AI냄새가 날까?</title>
-      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
-      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
-      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
-    </item>
-    <item>
       <title>진짜 심심하신 분만 읽으세요. 아니다 그냥 전부 읽어주세용 (컴공생 완전 환영)</title>
       <link>https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</link>
       <description>재밌게 읽고 연락줘여 제바ㅏ알</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>미들웨어 개발자가 하는 일</title>
+      <link>https://velog.io/@angoroa/미들웨어-개발자가-하는-일</link>
+      <description>얼마 전 동창 친구들을 만났다. 7명 중에서 개발자가 3명이었다. (+지망생 2명) 4명이 컴공이었고, 한 명은 비전공자인데 부캠 수료 후 얼마전에 취업했다고 한다. 이 중 잘하는 친구가 내심 현재 무슨 일 하는지 궁금해서 물어보니까 &gt; "나 미들웨어 쪽이야....</description>
+      <guid isPermaLink="false">https://velog.io/@angoroa/미들웨어-개발자가-하는-일</guid>
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
@@ -156,11 +163,11 @@
       <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
-      <title>미들웨어 개발자가 하는 일</title>
-      <link>https://velog.io/@angoroa/미들웨어-개발자가-하는-일</link>
-      <description>얼마 전 동창 친구들을 만났다. 7명 중에서 개발자가 3명이었다. (+지망생 2명) 4명이 컴공이었고, 한 명은 비전공자인데 부캠 수료 후 얼마전에 취업했다고 한다. 이 중 잘하는 친구가 내심 현재 무슨 일 하는지 궁금해서 물어보니까 &gt; "나 미들웨어 쪽이야....</description>
-      <guid isPermaLink="false">https://velog.io/@angoroa/미들웨어-개발자가-하는-일</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+      <title>개발이 재미없어지는 이유</title>
+      <link>https://velog.io/@qtaghdi/개발이-재미없어지는-이유</link>
+      <description>개발의 결과보다 과정을 좋아했던 개발자 시점</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/개발이-재미없어지는-이유</guid>
+      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
     </item>
     <item>
       <title>[멋사] 프론트엔드 8차시 수업</title>
@@ -170,10 +177,11 @@
       <pubDate>Sat, 12 Sep 2026 18:55:35 +0000</pubDate>
     </item>
     <item>
-      <title>Promise</title>
-      <link>https://velog.io/@li5ll/Promise</link>
-      <guid isPermaLink="false">https://velog.io/@li5ll/Promise</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
+      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
+      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
+      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
     </item>
     <item>
       <title>개쩌는 오픈소스 영상편집기</title>
@@ -183,13 +191,6 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>개발이 재미없어지는 이유</title>
-      <link>https://velog.io/@qtaghdi/개발이-재미없어지는-이유</link>
-      <description>개발의 결과보다 과정을 좋아했던 개발자 시점</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/개발이-재미없어지는-이유</guid>
-      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
-    </item>
-    <item>
       <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
       <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
       <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
@@ -197,11 +198,10 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>DB는 디스크에서 어떻게 데이터를 읽을까?</title>
-      <link>https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</link>
-      <description>데이터베이스는 필요한 데이터를 읽을 때 순차I/O 또는 랜덤 I/O 방식으로 접근합니다.그리고 어떤 방식으로 데이터를 읽느냐에 따라서 성능에 큰 차이가 발생할 수 있습니다.순차I/O 와 랜덤I/O 가무엇인지 그리고 두 방식이 DB 성능에 어떤 영향을 주는지 알아봅니다....</description>
-      <guid isPermaLink="false">https://velog.io/@east0323/DB를-이해하기-위한-순차IO-와-랜덤IO</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+      <title>Promise</title>
+      <link>https://velog.io/@li5ll/Promise</link>
+      <guid isPermaLink="false">https://velog.io/@li5ll/Promise</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
       <title>클라우드 클럽 10기 지원후기</title>
