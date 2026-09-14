@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 13 Sep 2026 19:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:43:52 +0000</lastBuildDate>
     <item>
       <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
       <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
       <description>저번 Opus 5 글 마지막에 "이제 남은 건.. GPT 6?"이라고 썼는데, 진짜 나와버렸다. 9월 3일에 OpenAI가 GPT-6 Astra를 냈고, 그보다 이틀 전인 9월 1일엔 Anthropic이 Claude Fable 5.1을 냈다. 한 주에 둘 다 나온 셈...</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</guid>
       <pubDate>Fri, 04 Sep 2026 19:16:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>당근 동네걷기 위에서 동시에 쏟아지는 오버레이들을 우아하게 제어하기</title>
-      <link>https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</link>
-      <description>안녕하세요. 당근 로컬비즈니스실 동네걷기팀에서 FE 인턴으로 일하고 있는 진나영이에요. 당근 동네걷기는 걸음 수를 기록하고 보상을 주는 지면인데, 한 화면 위에서 모달·바텀시트·토스트·OS 권한 팝업이 서로를 모른 채 동시에 튀어나오는 문제가 있었어요.이 글은 제가 이...</description>
-      <guid isPermaLink="false">https://velog.io/@dev-dino22/당근-동네걷기-위에서-동시에-쏟아지는-오버레이들을-우아하게-제어하기</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
       <title>당근 프론트엔드 인턴 합격 후기</title>
@@ -58,25 +51,11 @@
       <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
-      <title>2024년 12월 퇴사 이후.. 지금까지 어떻게 살고있나</title>
-      <link>https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</link>
-      <description>안녕하세요 벨로그 첫 글입니다..! 다른분들 글 눈팅만 하다가 이 시기를 흘려보내면 나중엔 기억도 잘 안 날 것 같아서 기록해두고 싶었어요제목대로 저는 2024년 12월에 잘 다니던 회사가 어려워져서 퇴사를 하게되고, 지금까지 백-수 입니다! 하하 자진 퇴사가 아니기 ...</description>
-      <guid isPermaLink="false">https://velog.io/@yoons0717/2024년-12월-퇴사-이후..-지금까지-어떻게-살고있나</guid>
-      <pubDate>Thu, 03 Sep 2026 19:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>클라우드 기능반 회고</title>
-      <link>https://velog.io/@kgh852/클라우드-기능반-회고</link>
-      <description>2026년 8월 25일 기준으로 2026 클라우드 컴퓨팅 직종 전국기능경기대회가 끝났다. 1학년때 부터 전국기능경기대회를 어떤 심정으로 준비를 했고 어떤 일들이 있었는지 기록하려고 한다.원래 학교에 입학했을때 나는 컴퓨터에 대해 전혀 아는것이 없었다. 폴더랑 파일 같은...</description>
-      <guid isPermaLink="false">https://velog.io/@kgh852/클라우드-기능반-회고</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>아직 체커기는 올라오지 않았다</title>
-      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
-      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+      <title>HTML &lt;usermedia&gt; 요소를 소개합니다</title>
+      <link>https://velog.io/@typo/html-usermedia</link>
+      <description>카메라·마이크 권한 요청, 아직도 getUserMedia()로 하시나요? Chrome 151의 새 &lt;usermedia&gt; 요소는 버튼 하나로 권한 요청과 복구, 스트림 전달까지 해결합니다. Cisco·Zoom·Meet의 실제 성과도 함께 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@typo/html-usermedia</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
       <title>GPT-5.6 Sol에서 GPT-6 Astra로: 컴퓨터 사용·코딩·장기 작업의 end-to-end 모델</title>
@@ -86,81 +65,18 @@
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
+      <title>아직 체커기는 올라오지 않았다</title>
+      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
+      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
       <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
       <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
       <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>NAN2026 해커톤 우수상 후기</title>
-      <link>https://velog.io/@tnghgks/NAN2026-해커톤-회고</link>
-      <description>NHN에서 주최한 게임 제작×AI 해커톤에 참가해 우수상을 받기까지의 과정</description>
-      <guid isPermaLink="false">https://velog.io/@tnghgks/NAN2026-해커톤-회고</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>데이터 삭제 API의 위험성</title>
-      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
-      <description>DELETE의 남용을 멈춰주세요</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[기획] 왜 우리는 팀을 만들기 전에 문제부터 검증했을까?</title>
-      <link>https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</link>
-      <description>좋은 팀을 먼저 만드는 것보다, 실제로 사용자가 필요로 하는 문제를 먼저 발견하고 검증하는 것이 유저가 있는 서비스를 만드는 데 더 중요하다고 생각했습니다. 안녕하세요 sssOK 팀장, 마이찬입니다! 오늘은 저희의 첫번재 글 기획에 대한 이야기를 들려드리고자 합니다!...</description>
-      <guid isPermaLink="false">https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
-      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
-      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>내 AI는 왜 AI냄새가 날까?</title>
-      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
-      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
-      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
-      <link>https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</link>
-      <description>이 프로젝트는 UMC 8기에서 시작되었다.처음에 8기를 하면서 UMC SpringBoot 시니어로 참여했다. 'NOOK'에 지원한 이유는 디자인이 예뻐서였다! 목표가 캐릭터가 이쁘고, 분위기있는 디자인이 있는 (나는 백엔드지만) 프로젝트를 하는게 8기 목표였다. 백엔드...</description>
-      <guid isPermaLink="false">https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
-      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
-      <description>URL 단축 서비스는 읽기가 전부인 서비스다. 단축 URL을 만드는 쓰기는 드물고, 트래픽의 대부분은 GET /{shortKey} 리다이렉트다.키 생성은 Snowflake ID + Base62라 이미 값싸다병목은 결국 "이 키의 원본 URL이 뭐냐"를 얼마나 싸게 답하...</description>
-      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
-      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>진짜 심심하신 분만 읽으세요. 아니다 그냥 전부 읽어주세용 (컴공생 완전 환영)</title>
-      <link>https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</link>
-      <description>재밌게 읽고 연락줘여 제바ㅏ알</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>미들웨어 개발자가 하는 일</title>
-      <link>https://velog.io/@angoroa/미들웨어-개발자가-하는-일</link>
-      <description>얼마 전 동창 친구들을 만났다. 7명 중에서 개발자가 3명이었다. (+지망생 2명) 4명이 컴공이었고, 한 명은 비전공자인데 부캠 수료 후 얼마전에 취업했다고 한다. 이 중 잘하는 친구가 내심 현재 무슨 일 하는지 궁금해서 물어보니까 &gt; "나 미들웨어 쪽이야....</description>
-      <guid isPermaLink="false">https://velog.io/@angoroa/미들웨어-개발자가-하는-일</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>이건 뭐야?「대한민국 인공지능 윤리원칙」</title>
-      <link>https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</link>
-      <description>2026년 8월 21일, 관계부처 합동으로 「대한민국 인공지능 윤리원칙」이 나왔다. AI 기본법 제27조에 근거한 자율규범이고, 3대 가치와 7대 원칙으로 구성되어 있다. 뭐 이런 게 나왔나보다 하면서 쭉 스크롤을 내리는데, 용어 정의에서 한 문장에 걸렸다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</guid>
-      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
     </item>
     <item>
       <title>개발이 재미없어지는 이유</title>
@@ -170,18 +86,73 @@
       <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
     </item>
     <item>
-      <title>[멋사] 프론트엔드 8차시 수업</title>
-      <link>https://velog.io/@sh2624/멋사-프론트엔드-8차시-수업</link>
-      <description>⚛️ Vite / Tailwind CSS 기초</description>
-      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-수업</guid>
-      <pubDate>Sat, 12 Sep 2026 18:55:35 +0000</pubDate>
+      <title>데이터 삭제 API의 위험성</title>
+      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
+      <description>DELETE의 남용을 멈춰주세요</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
-      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
-      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
-      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
-      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
+      <title>개발자 동생과 디자이너 형 부부의 서비스 만들기 #1</title>
+      <link>https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</link>
+      <description>우리 형과 형수님은 현업 디자이너시다. 두 분이 결혼할 때, 나름대로 그려둔 그림이 있었다. ‘형이 디자인을 하면 내가 모바일 청첩장을 만들고, 그걸로 벨로그에 글까지 올리면 이거 트렌드 뚝딱이잖아?’ 하지만 곧 두 가지 현실을 알게 되었다. &amp;nbsp;&amp;nbsp;&amp;...</description>
+      <guid isPermaLink="false">https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>내 AI는 왜 AI냄새가 날까?</title>
+      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
+      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
+      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>NAN2026 해커톤 우수상 후기</title>
+      <link>https://velog.io/@tnghgks/NAN2026-해커톤-회고</link>
+      <description>NHN에서 주최한 게임 제작×AI 해커톤에 참가해 우수상을 받기까지의 과정</description>
+      <guid isPermaLink="false">https://velog.io/@tnghgks/NAN2026-해커톤-회고</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[기획] 왜 우리는 팀을 만들기 전에 문제부터 검증했을까?</title>
+      <link>https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</link>
+      <description>좋은 팀을 먼저 만드는 것보다, 실제로 사용자가 필요로 하는 문제를 먼저 발견하고 검증하는 것이 유저가 있는 서비스를 만드는 데 더 중요하다고 생각했습니다. 안녕하세요 sssOK 팀장, 마이찬입니다! 오늘은 저희의 첫번재 글 기획에 대한 이야기를 들려드리고자 합니다!...</description>
+      <guid isPermaLink="false">https://velog.io/@ssssok/기획-왜-우리는-팀을-만들기-전에-문제부터-검증했을까</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
+      <link>https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</link>
+      <description>이 프로젝트는 UMC 8기에서 시작되었다.처음에 8기를 하면서 UMC SpringBoot 시니어로 참여했다. 'NOOK'에 지원한 이유는 디자인이 예뻐서였다! 목표가 캐릭터가 이쁘고, 분위기있는 디자인이 있는 (나는 백엔드지만) 프로젝트를 하는게 8기 목표였다. 백엔드...</description>
+      <guid isPermaLink="false">https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>진짜 심심하신 분만 읽으세요. 아니다 그냥 전부 읽어주세용 (컴공생 완전 환영)</title>
+      <link>https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</link>
+      <description>재밌게 읽고 연락줘여 제바ㅏ알</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/Only-read-this-if-you-are-really-bored</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
+      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
+      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
+      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>미들웨어 개발자가 하는 일</title>
+      <link>https://velog.io/@angoroa/미들웨어-개발자가-하는-일</link>
+      <description>얼마 전 동창 친구들을 만났다. 7명 중에서 개발자가 3명이었다. (+지망생 2명) 4명이 컴공이었고, 한 명은 비전공자인데 부캠 수료 후 얼마전에 취업했다고 한다. 이 중 잘하는 친구가 내심 현재 무슨 일 하는지 궁금해서 물어보니까 &gt; "나 미들웨어 쪽이야....</description>
+      <guid isPermaLink="false">https://velog.io/@angoroa/미들웨어-개발자가-하는-일</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
       <title>개쩌는 오픈소스 영상편집기</title>
@@ -191,11 +162,39 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
+      <title>[멋사] 프론트엔드 8차시 스터디</title>
+      <link>https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</link>
+      <description>⚛️ Vite / Tailwind CSS 기초</description>
+      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
+      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
+      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
+      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>이건 뭐야?「대한민국 인공지능 윤리원칙」</title>
+      <link>https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</link>
+      <description>2026년 8월 21일, 관계부처 합동으로 「대한민국 인공지능 윤리원칙」이 나왔다. AI 기본법 제27조에 근거한 자율규범이고, 3대 가치와 7대 원칙으로 구성되어 있다. 뭐 이런 게 나왔나보다 하면서 쭉 스크롤을 내리는데, 용어 정의에서 한 문장에 걸렸다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/이건-뭐야「대한민국-인공지능-윤리원칙」</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:10 +0000</pubDate>
+    </item>
+    <item>
       <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
       <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
       <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
       <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Security를 사용하는 이유</title>
+      <link>https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</link>
+      <description>JWT만 검증하면 되는 거 아닌가?</description>
+      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
       <title>Promise</title>
@@ -204,18 +203,18 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>클라우드 클럽 10기 지원후기</title>
-      <link>https://velog.io/@heebindev/CloudClub-01</link>
-      <description>클클 10기 시작합니다..</description>
-      <guid isPermaLink="false">https://velog.io/@heebindev/CloudClub-01</guid>
-      <pubDate>Mon, 31 Aug 2026 21:43:49 +0000</pubDate>
-    </item>
-    <item>
       <title>가상 메모리 — 프로세스가 자기만의 메모리를 갖는 원리</title>
       <link>https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</link>
       <description>프로세스는 자기만의 가상 주소 공간을 갖고, OS는 이를 페이지 단위로 잘라서 실제로 접근할 때 물리 메모리를 붙인다.물리 RAM을 프로그램이 직접 쓴다고 해보자.CPU는 하나의 프로세스만 계산할 수 있기 때문에, 프로세스를 교체해주어야 한다.</description>
       <guid isPermaLink="false">https://velog.io/@pinn99u/가상-메모리-프로세스가-자기만의-메모리를-갖는-원리</guid>
       <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[크래프톤] 너만 그런 것은 아니다.</title>
+      <link>https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</link>
+      <description>정글에서의 시간은 늘 부족하고 학습량은 많다. 단, 너만 그런 것은 아니다.정글에 들어와 3주가 지났다.이번 주는 정말 시간이 느리게 흐르는 느낌이였다.하루 종일 해도 모르는게 있고, 공부할게 많았다.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
