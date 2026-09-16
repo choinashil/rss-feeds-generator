@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:50:44 +0000</lastBuildDate>
     <item>
       <title>GPT-6 Astra vs Fable 5.1, 근데 진짜 싸진 게 맞나</title>
       <link>https://velog.io/@dbwls/GPT-6-Astra-vs-Fable-5.1-근데-진짜-싸진-게-맞나</link>
@@ -37,18 +37,18 @@
       <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
     <item>
-      <title>첫 동아리 프로젝트 ‘쉐프’, CRUD인 줄 알았는데요</title>
-      <link>https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</link>
-      <description>ㅠㅠ</description>
-      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</guid>
-      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
-    </item>
-    <item>
       <title>개발이 재미없어지는 이유</title>
       <link>https://velog.io/@qtaghdi/개발이-재미없어지는-이유</link>
       <description>개발의 결과보다 과정을 좋아했던 개발자 시점</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/개발이-재미없어지는-이유</guid>
       <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>첫 동아리 프로젝트 ‘쉐프’, CRUD인 줄 알았는데요</title>
+      <link>https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</link>
+      <description>ㅠㅠ</description>
+      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</guid>
+      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
     </item>
     <item>
       <title>나는 ‘바이브 코딩만’을 열심히 하는 것에 반대한다</title>
@@ -72,32 +72,11 @@
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
-      <link>https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</link>
-      <description>리로그를 소개합니다!</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자 동생과 디자이너 형 부부의 서비스 만들기 #1</title>
       <link>https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</link>
       <description>우리 형과 형수님은 현업 디자이너시다. 두 분이 결혼할 때, 나름대로 그려둔 그림이 있었다. ‘형이 디자인을 하면 내가 모바일 청첩장을 만들고, 그걸로 벨로그에 글까지 올리면 이거 트렌드 뚝딱이잖아?’ 하지만 곧 두 가지 현실을 알게 되었다. &amp;nbsp;&amp;nbsp;&amp;...</description>
       <guid isPermaLink="false">https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</guid>
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>아직 체커기는 올라오지 않았다</title>
-      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
-      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
-      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
-      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
       <title>GPT-5.6 Sol에서 GPT-6 Astra로: 컴퓨터 사용·코딩·장기 작업의 end-to-end 모델</title>
@@ -107,18 +86,32 @@
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
+      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
+      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
+      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
+      <link>https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</link>
+      <description>리로그를 소개합니다!</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>아직 체커기는 올라오지 않았다</title>
+      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
+      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
       <title>데이터 삭제 API의 위험성</title>
       <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
       <description>DELETE의 남용을 멈춰주세요</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
-      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
-      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
       <title>진짜 심심하신 분만 읽으세요. 아니다 그냥 전부 읽어주세용 (컴공생 완전 환영)</title>
@@ -128,17 +121,18 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
       <title>NAN2026 해커톤 우수상 후기</title>
       <link>https://velog.io/@tnghgks/NAN2026-해커톤-회고</link>
       <description>NHN에서 주최한 게임 제작×AI 해커톤에 참가해 우수상을 받기까지의 과정</description>
       <guid isPermaLink="false">https://velog.io/@tnghgks/NAN2026-해커톤-회고</guid>
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 8월 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
@@ -148,10 +142,10 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
-      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
-      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
-      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
+      <title>2026년 8월 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>개쩌는 오픈소스 영상편집기</title>
@@ -161,18 +155,10 @@
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
-      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
-      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
-      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
-      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>[멋사] 프론트엔드 8차시 스터디</title>
-      <link>https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</link>
-      <description>⚛️ Vite / Tailwind CSS 기초</description>
-      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</guid>
-      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
+      <title>레이어드 캐시 환경에서 로컬 캐시 적재 기준 의사결정 및 메모리 효율 개선</title>
+      <link>https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</link>
+      <guid isPermaLink="false">https://velog.io/@kim138762/로컬-캐시-적재-기준-의사결정-및-메모리-효율-개선</guid>
+      <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
     </item>
     <item>
       <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
@@ -182,10 +168,10 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>Spring Security를 사용하는 이유</title>
-      <link>https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</link>
-      <description>JWT만 검증하면 되는 거 아닌가?</description>
-      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</guid>
+      <title>[멋사] 프론트엔드 8차시 스터디</title>
+      <link>https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</link>
+      <description>⚛️ Vite / Tailwind CSS 기초</description>
+      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</guid>
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
@@ -196,23 +182,37 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>컴퓨터는 0과 1밖에 모르는데 왜 나보다 똑똑하냐</title>
-      <link>https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</link>
-      <description>오늘은 컴퓨터 데이터 표현에 대해 배운것을 알려주겠다.</description>
-      <guid isPermaLink="false">https://velog.io/@linkshimcat/컴퓨터는-0과-1밖에-모르는데-왜-나보다-똑똑하냐</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
+      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
+      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
+      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>VLA 다음은 WAM? 미래를 상상하는 로봇이 진짜 더 잘 움직일까</title>
+      <link>https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</link>
+      <description>뒤처지기 싫어서 AI와 함께 팔자에도 없던 로보틱스 논문 목록을 훑어봤는데, WAM이라는 약자가 나왔다. 이건 얼마 전에 유튜브에서도 본 듯한 World Action Model이었다. 2월에 나온 DreamZero가 이 이름을 퍼뜨렸는데, 지금은 이미 그 다음 얘기가 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</guid>
+      <pubDate>Wed, 16 Sep 2026 19:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spring Security를 사용하는 이유</title>
+      <link>https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</link>
+      <description>JWT만 검증하면 되는 거 아닌가?</description>
+      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</guid>
+      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>#6 MaleCNS v1.0</title>
+      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
+      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>⚽사이드 프로젝트 뉴비의 첫 공개 프로젝트 FotLetter 제작기 - 2</title>
       <link>https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</link>
       <description>제 첫 사이드 프로젝트 FotLetter의 제작기를 글로 정리해 보았습니다. 별거 없는 것 같았는데 생각보다 글이 길어졌네요.</description>
       <guid isPermaLink="false">https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>#6 MaleCNS v1.0</title>
-      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
-      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
   </channel>
