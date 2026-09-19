@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:25:42 +0000</lastBuildDate>
-    <item>
-      <title>우테코 크루들은 포트폴리오를 어떻게 만들까?</title>
-      <link>https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</link>
-      <description>안녕하세요! 우아한테크코스 8기, shout-outz 팀입니다. 오픈을 앞두고, 저희가 준비하고 있는 서비스를 먼저 소개해 드리려고 해요. &gt; 🚨 개발자는 코딩만 잘하면 될까요? 🚨 요즘 취업 시장에서는 '코딩만 잘하면 된다'는 말이 더 이상 통하지 않는 것 같...</description>
-      <guid isPermaLink="false">https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Sep 2026 19:09:47 +0000</lastBuildDate>
     <item>
       <title>당근 프론트엔드 인턴 합격 후기</title>
       <link>https://velog.io/@oyc0401/당근-프론트엔드-인턴-합격-후기</link>
       <description>대학교 3학년이 당근 프론트 인턴에 합격하기까지의 이야기를 들려드려요</description>
       <guid isPermaLink="false">https://velog.io/@oyc0401/당근-프론트엔드-인턴-합격-후기</guid>
       <pubDate>Sun, 06 Sep 2026 18:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>우테코 크루들은 포트폴리오를 어떻게 만들까?</title>
+      <link>https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</link>
+      <description>안녕하세요! 우아한테크코스 8기, shout-outz 팀입니다. 오픈을 앞두고, 저희가 준비하고 있는 서비스를 먼저 소개해 드리려고 해요. &gt; 🚨 개발자는 코딩만 잘하면 될까요? 🚨 요즘 취업 시장에서는 '코딩만 잘하면 된다'는 말이 더 이상 통하지 않는 것 같...</description>
+      <guid isPermaLink="false">https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</guid>
+      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
       <title>개발이 재미없어지는 이유</title>
@@ -37,13 +37,6 @@
       <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
     </item>
     <item>
-      <title>첫 동아리 프로젝트 ‘쉐프’, CRUD인 줄 알았는데요</title>
-      <link>https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</link>
-      <description>ㅠㅠ</description>
-      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/1학년-첫-동아리-프로젝트</guid>
-      <pubDate>Sat, 05 Sep 2026 18:46:19 +0000</pubDate>
-    </item>
-    <item>
       <title>내 AI는 왜 AI냄새가 날까?</title>
       <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
       <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
@@ -51,18 +44,18 @@
       <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
     </item>
     <item>
-      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
-      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
-      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
       <title>SI 출신 4년차 주니어의 두번째 이직 여정 (feat. 올리브영, 네이버, 라인, 토스, 당근 등등)</title>
       <link>https://velog.io/@yssgood/2026년-하반기-이직을-돌아보며-feat.-올리브영-및-많은-회사</link>
       <description>이직이 두렵나요? 이 글을 읽어보세요</description>
       <guid isPermaLink="false">https://velog.io/@yssgood/2026년-하반기-이직을-돌아보며-feat.-올리브영-및-많은-회사</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
+      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
+      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
+      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
     </item>
     <item>
       <title>HTML &lt;usermedia&gt; 요소를 소개합니다</title>
@@ -93,25 +86,18 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
-      <link>https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</link>
-      <description>리로그를 소개합니다!</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
-      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
-      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
-      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
-      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
       <title>데이터 삭제 API의 위험성</title>
       <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
       <description>DELETE의 남용을 멈춰주세요</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
       <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
+      <link>https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</link>
+      <description>리로그를 소개합니다!</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
@@ -121,23 +107,24 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
+      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
+      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
+      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
+      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
+      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Velog 알림, 왜 없지? 직접 만들어본 Chrome Extension부터 모바일 알림까지 (레포 공유)</title>
+      <link>https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</link>
+      <description>댓글도, 좋아요도, 좋아하는 개발자의 새 글도 놓치지 않게! 🔔 Velog 알림을 PC와 모바일로 바로 받아보는 Velog Alert 개발 이야기</description>
+      <guid isPermaLink="false">https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</guid>
+      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+    </item>
+    <item>
       <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
       <link>https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</link>
       <description>이 프로젝트는 UMC 8기에서 시작되었다.처음에 8기를 하면서 UMC SpringBoot 시니어로 참여했다. 'NOOK'에 지원한 이유는 디자인이 예뻐서였다! 목표가 캐릭터가 이쁘고, 분위기있는 디자인이 있는 (나는 백엔드지만) 프로젝트를 하는게 8기 목표였다. 백엔드...</description>
       <guid isPermaLink="false">https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 8월 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>개쩌는 오픈소스 영상편집기</title>
-      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
-      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
-      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
       <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
@@ -148,11 +135,17 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>Velog 알림, 왜 없지? 직접 만들어본 Chrome Extension부터 모바일 알림까지 (레포 공유)</title>
-      <link>https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</link>
-      <description>댓글도, 좋아요도, 좋아하는 개발자의 새 글도 놓치지 않게! 🔔 Velog 알림을 PC와 모바일로 바로 받아보는 Velog Alert 개발 이야기</description>
-      <guid isPermaLink="false">https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+      <title>개쩌는 오픈소스 영상편집기</title>
+      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
+      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
+      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026년 8월 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>[멋사] 프론트엔드 8차시 스터디</title>
@@ -160,13 +153,6 @@
       <description>⚛️ Vite / Tailwind CSS 기초</description>
       <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</guid>
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
-      <link>https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</link>
-      <description>안녕하세요~ 킴스캐슬입니다(연차 기념으로 블로그 글을 적어봤습니다)연차 씐나 룰루랄라저번 글에서 “생성된” 도구를 “살아남은” 도구로 만들기 위한 과정을 연재해 보기로 다짐했는데 말이죠. 아무래도 이렇게 의욕이 뿜뿜할때 확 써버리는게 낫겠다 싶더라고요지난번 글이 궁금하...</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>Spring Security를 사용하는 이유</title>
@@ -182,11 +168,11 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>VLA 다음은 WAM? 미래를 상상하는 로봇이 진짜 더 잘 움직일까</title>
-      <link>https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</link>
-      <description>뒤처지기 싫어서 AI와 함께 팔자에도 없던 로보틱스 논문 목록을 훑어봤는데, WAM이라는 약자가 나왔다. 이건 얼마 전에 유튜브에서도 본 듯한 World Action Model이었다. 2월에 나온 DreamZero가 이 이름을 퍼뜨렸는데, 지금은 이미 그 다음 얘기가 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+      <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
+      <link>https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</link>
+      <description>안녕하세요~ 킴스캐슬입니다(연차 기념으로 블로그 글을 적어봤습니다)연차 씐나 룰루랄라저번 글에서 “생성된” 도구를 “살아남은” 도구로 만들기 위한 과정을 연재해 보기로 다짐했는데 말이죠. 아무래도 이렇게 의욕이 뿜뿜할때 확 써버리는게 낫겠다 싶더라고요지난번 글이 궁금하...</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>어떻게 듣고, 어떻게 설득할 것인가</title>
@@ -203,18 +189,32 @@
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
-      <title># 01 | 백엔드 개발자는 무슨 일을 할까?</title>
-      <link>https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</link>
-      <description>서버를 만들고, DB를 다루고, API를 개발하는 사람. 대략 이렇게 알고는 있지만, 각각의 일이 왜 필요하고 어디까지 책임져야 하는지는 설명하기 어려웠다. 오늘은 백엔드를 공부하며 자주 만나는 용어를 공부한다.</description>
-      <guid isPermaLink="false">https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</guid>
-      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
       <title>⚽사이드 프로젝트 뉴비의 첫 공개 프로젝트 FotLetter 제작기 - 2</title>
       <link>https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</link>
       <description>제 첫 사이드 프로젝트 FotLetter의 제작기를 글로 정리해 보았습니다. 별거 없는 것 같았는데 생각보다 글이 길어졌네요.</description>
       <guid isPermaLink="false">https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</guid>
       <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>VLA 다음은 WAM? 미래를 상상하는 로봇이 진짜 더 잘 움직일까</title>
+      <link>https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</link>
+      <description>뒤처지기 싫어서 AI와 함께 팔자에도 없던 로보틱스 논문 목록을 훑어봤는데, WAM이라는 약자가 나왔다. 이건 얼마 전에 유튜브에서도 본 듯한 World Action Model이었다. 2월에 나온 DreamZero가 이 이름을 퍼뜨렸는데, 지금은 이미 그 다음 얘기가 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</guid>
+      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Transactional(readOnly=true), 정말 필요할까</title>
+      <link>https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</link>
+      <description>학교 과 학생회 통합 플랫폼 백엔드 개발에서, 이번에 회비 납부 API 개발 진행 중에 생긴 문제, 고민의 흔적, 해결방법을 정리하기 위해 블로그를 작성해보기로 했다.이번 블로깅은 저번에 정리한 트랜잭션 관련 블로그와도 관련이 아주 깊다...! (이렇게 개발하면서 써먹...</description>
+      <guid isPermaLink="false">https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</guid>
+      <pubDate>Sat, 19 Sep 2026 19:09:47 +0000</pubDate>
+    </item>
+    <item>
+      <title># 01 | 백엔드 개발자는 무슨 일을 할까?</title>
+      <link>https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</link>
+      <description>서버를 만들고, DB를 다루고, API를 개발하는 사람. 대략 이렇게 알고는 있지만, 각각의 일이 왜 필요하고 어디까지 책임져야 하는지는 설명하기 어려웠다. 오늘은 백엔드를 공부하며 자주 만나는 용어를 공부한다.</description>
+      <guid isPermaLink="false">https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</guid>
+      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
