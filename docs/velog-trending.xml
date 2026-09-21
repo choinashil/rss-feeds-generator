@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 20 Sep 2026 19:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:46:02 +0000</lastBuildDate>
     <item>
       <title>Jev가 뭐냐</title>
       <link>https://velog.io/@kyu_ios_dev/2609191</link>
@@ -30,20 +30,6 @@
       <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) TanStack.com에서 RSC 사용을 중단했습니다</title>
-      <link>https://velog.io/@tap_kim/we-stopped-using-rsc-on-tanstack-com</link>
-      <description>우리는 RSC가 해결해야 할 문제의 콘텐츠가 많은 페이지들이 브라우저에 엄청난 양의 마크다운 및 구문 강조 기능을 전송하고 있었는데, 이 작업을 서버로 옮기자 상당량의 JavaScript 코드가 줄어들었고 사이트 속도가 향상되었습니다. 그리고 결과에 매우 만족했습니다....</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/we-stopped-using-rsc-on-tanstack-com</guid>
-      <pubDate>Tue, 08 Sep 2026 19:43:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>내 AI는 왜 AI냄새가 날까?</title>
-      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
-      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
-      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
-    </item>
-    <item>
       <title>SI 출신 4년차 주니어의 두번째 이직 여정 (feat. 올리브영, 네이버, 라인, 토스, 당근 등등)</title>
       <link>https://velog.io/@yssgood/2026년-하반기-이직을-돌아보며-feat.-올리브영-및-많은-회사</link>
       <description>이직이 두렵나요? 이 글을 읽어보세요</description>
@@ -51,11 +37,11 @@
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>해킹 입문 교양글 : 해킹 공부 처음이면 이것부터 보세요</title>
-      <link>https://velog.io/@gunwoo2918/해킹-입문-가이드</link>
-      <description>해킹이 무엇인지부터 시스템 해킹, 웹 해킹, 리버싱, 암호학까지 알아보고, DreamHack·HTB 등 실습 사이트와 프로그래밍, Linux, 워게임을 활용한 입문자용 해킹 공부 방법을 정리해봤습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/해킹-입문-가이드</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
+      <title>내 AI는 왜 AI냄새가 날까?</title>
+      <link>https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</link>
+      <description>AI로 만든 웹사이트, 왜 하나같이 보라색 그라데이션에 둥근 카드뿐일까? 문제는 AI가 아니라 우리가 던지는 프롬프트일 수도 있다. AI 냄새 나는 웹사이트가 만들어지는 이유와 벗어나는 방법을 직접 개발하며 느낀 기준으로 정리해봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/내-AI는-왜-AI냄새가-날까</guid>
+      <pubDate>Fri, 11 Sep 2026 19:26:18 +0000</pubDate>
     </item>
     <item>
       <title>개발자 동생과 디자이너 형 부부의 서비스 만들기 #1</title>
@@ -72,25 +58,18 @@
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
-      <title>아직 체커기는 올라오지 않았다</title>
-      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
-      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>데이터 삭제 API의 위험성</title>
-      <link>https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</link>
-      <description>DELETE의 남용을 멈춰주세요</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/데이터-삭제-API의-위험성</guid>
-      <pubDate>Mon, 07 Sep 2026 20:21:20 +0000</pubDate>
-    </item>
-    <item>
       <title>NAN2026 해커톤 우수상 후기</title>
       <link>https://velog.io/@tnghgks/NAN2026-해커톤-회고</link>
       <description>NHN에서 주최한 게임 제작×AI 해커톤에 참가해 우수상을 받기까지의 과정</description>
       <guid isPermaLink="false">https://velog.io/@tnghgks/NAN2026-해커톤-회고</guid>
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>아직 체커기는 올라오지 않았다</title>
+      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
+      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
       <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
@@ -100,20 +79,6 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
-      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
-      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
-      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
-      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
-      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
-      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Velog 알림, 왜 없지? 직접 만들어본 Chrome Extension부터 모바일 알림까지 (레포 공유)</title>
       <link>https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</link>
       <description>댓글도, 좋아요도, 좋아하는 개발자의 새 글도 놓치지 않게! 🔔 Velog 알림을 PC와 모바일로 바로 받아보는 Velog Alert 개발 이야기</description>
@@ -121,11 +86,25 @@
       <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
       <title>GPT는 왜 계속 토큰 리셋을 해 주는가?</title>
       <link>https://velog.io/@gunwoo2918/GPT는-왜-계속-토큰-리셋을-해-주는가</link>
       <description>OpenAI는 왜 토큰 리셋 쿠폰을 주는지 알아보자</description>
       <guid isPermaLink="false">https://velog.io/@gunwoo2918/GPT는-왜-계속-토큰-리셋을-해-주는가</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
+      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
+      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
+      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
+      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
       <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
@@ -148,30 +127,24 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>[멋사] 프론트엔드 8차시 스터디</title>
-      <link>https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</link>
-      <description>⚛️ Vite / Tailwind CSS 기초</description>
-      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-8차시-스터디</guid>
-      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
+      <title>대딸깍의 시대에 퇴사한 개발자</title>
+      <link>https://velog.io/@daheecha0612/대딸깍의-시대에-퇴사한-개발자</link>
+      <description>AI가 나보다 똑똑해지는 시기. 어떻게 살아갈것인가</description>
+      <guid isPermaLink="false">https://velog.io/@daheecha0612/대딸깍의-시대에-퇴사한-개발자</guid>
+      <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>@Transactional(readOnly=true), 정말 필요할까</title>
+      <link>https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</link>
+      <description>학교 과 학생회 통합 플랫폼 백엔드 개발에서, 이번에 회비 납부 API 개발 진행 중에 생긴 문제, 고민의 흔적, 해결방법을 정리하기 위해 블로그를 작성해보기로 했다.이번 블로깅은 저번에 정리한 트랜잭션 관련 블로그와도 관련이 아주 깊다...! (이렇게 개발하면서 써먹...</description>
+      <guid isPermaLink="false">https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
       <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
       <link>https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</link>
       <description>안녕하세요~ 킴스캐슬입니다(연차 기념으로 블로그 글을 적어봤습니다)연차 씐나 룰루랄라저번 글에서 “생성된” 도구를 “살아남은” 도구로 만들기 위한 과정을 연재해 보기로 다짐했는데 말이죠. 아무래도 이렇게 의욕이 뿜뿜할때 확 써버리는게 낫겠다 싶더라고요지난번 글이 궁금하...</description>
       <guid isPermaLink="false">https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spring Security를 사용하는 이유</title>
-      <link>https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</link>
-      <description>JWT만 검증하면 되는 거 아닌가?</description>
-      <guid isPermaLink="false">https://velog.io/@gkswltjr0725/Spring-Security를-사용하는-이유</guid>
-      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>#6 MaleCNS v1.0</title>
-      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
-      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
@@ -182,11 +155,24 @@
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
     </item>
     <item>
+      <title>#6 MaleCNS v1.0</title>
+      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
+      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
+    </item>
+    <item>
       <title># 01 | 백엔드 개발자는 무슨 일을 할까?</title>
       <link>https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</link>
       <description>서버를 만들고, DB를 다루고, API를 개발하는 사람. 대략 이렇게 알고는 있지만, 각각의 일이 왜 필요하고 어디까지 책임져야 하는지는 설명하기 어려웠다. 오늘은 백엔드를 공부하며 자주 만나는 용어를 공부한다.</description>
       <guid isPermaLink="false">https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>개발 대회&amp; 포토폴리오 수집할 팀원을 모집합니다.</title>
+      <link>https://velog.io/@gunwoo2918/개발-대회-포토폴리오-수집할-팀원을-모집합니다</link>
+      <description>웹, AI 등 다양한 프로젝트를 함께 기획하고 개발할 팀원을 모집합니다. 실력보다는 꾸준한 소통과 책임감을 중요하게 생각하며, 고등학생 이상이라면 누구나 환영합니다. GitHub 협업부터 배포, 실제 서비스 운영까지 같이 경험해보고 싶습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/개발-대회-포토폴리오-수집할-팀원을-모집합니다</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
       <title>CI/CD에 대해 알아보자.</title>
@@ -203,11 +189,11 @@
       <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
-      <title>대딸깍의 시대에 퇴사한 개발자</title>
-      <link>https://velog.io/@daheecha0612/대딸깍의-시대에-퇴사한-개발자</link>
-      <description>AI가 나보다 똑똑해지는 시기. 어떻게 살아갈것인가</description>
-      <guid isPermaLink="false">https://velog.io/@daheecha0612/대딸깍의-시대에-퇴사한-개발자</guid>
-      <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
+      <title>[크래프톤] 너만 그런 것은 아니다.</title>
+      <link>https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</link>
+      <description>정글에서의 시간은 늘 부족하고 학습량은 많다. 단, 너만 그런 것은 아니다.정글에 들어와 3주가 지났다.이번 주는 정말 시간이 느리게 흐르는 느낌이였다.하루 종일 해도 모르는게 있고, 공부할게 많았다.</description>
+      <guid isPermaLink="false">https://velog.io/@pinn99u/크래프톤-너만-그런-것은-아니다</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
       <title>어떻게 듣고, 어떻게 설득할 것인가</title>
@@ -215,6 +201,20 @@
       <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
       <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
       <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>폴더 구조 지옥에서 FSD로 탈출하기</title>
+      <link>https://velog.io/@yereong/폴더구조-설계하기-FSD</link>
+      <description>기능 하나 수정하려고 폴더 5개,7개 열어서 작업해보신 경험 있나요? 저는 있습니다... 이런 폴더 지옥을 탈출하고자 이번 프로젝트에는 FSD를 도입해보려 해요!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-설계하기-FSD</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>눈치보지 말고 DM하세요! 제발.</title>
+      <link>https://velog.io/@ghw0327/oh-my-dm</link>
+      <description>교실에서 인스타그램과 카카오톡을 열어두면 생각보다 주변의 시선을 끌게 됩니다. 개발 도구처럼 보이는 인터페이스에서 대화하면 어떨까 하는 생각으로 oh-my-dm을 만들었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@ghw0327/oh-my-dm</guid>
+      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
