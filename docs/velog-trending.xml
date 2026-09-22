@@ -7,13 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:00:08 +0000</lastBuildDate>
     <item>
       <title>Jev가 뭐냐</title>
       <link>https://velog.io/@kyu_ios_dev/2609191</link>
       <description>최근 AI 모델은 점점 더 많은 일을 할 수 있게 됐습니다.코드를 작성하고, 웹을 검색하고, Tool을 호출하고, 여러 단계를 거쳐 문제를 해결합니다.그런데 실제 서비스를 만들다 보면 모든 문제에 이런 큰 모델이 필요한 것은 아닙니다.예를 들어 이런 판단이 있습니다.각...</description>
       <guid isPermaLink="false">https://velog.io/@kyu_ios_dev/2609191</guid>
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>소마고 학생들이 동물원에 서비스 개발부터 납품까지(TEAM YOT)</title>
+      <link>https://velog.io/@teamyot/마이스터고-학생들이-동물원에-서비스-개발부터-납품까지TEAM-YOT</link>
+      <description>TEAM[YOT] 그들은 누구인가</description>
+      <guid isPermaLink="false">https://velog.io/@teamyot/마이스터고-학생들이-동물원에-서비스-개발부터-납품까지TEAM-YOT</guid>
+      <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
     <item>
       <title>개발이 재미없어지는 이유</title>
@@ -65,13 +72,6 @@
       <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>아직 체커기는 올라오지 않았다</title>
-      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
-      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
-      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
       <title>[E.P 02] - "Rilog." 세상 밖으로 나오다.</title>
       <link>https://velog.io/@jinriro/E.P-02-Rilog.-세상-밖으로-나오다</link>
       <description>리로그를 소개합니다!</description>
@@ -86,11 +86,11 @@
       <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
-      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
-      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
-      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
-      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+      <title>아직 체커기는 올라오지 않았다</title>
+      <link>https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</link>
+      <description>오래 가꾼 앱의 마지막을 지나며, 끝을 향해 가는 제품에서도 개발자가 해야 할 일과 태도를 돌아봤다.</description>
+      <guid isPermaLink="false">https://velog.io/@yunsungyang-omc/회고-아직-체커기는-올라오지-않았다</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
     </item>
     <item>
       <title>GPT는 왜 계속 토큰 리셋을 해 주는가?</title>
@@ -100,31 +100,18 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
+      <title>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</title>
+      <link>https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</link>
+      <description>[책 리뷰] 개발자가 문서 작성도 잘해야 하나요?</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/책-리뷰-개발자가-문서-작성도-잘해야-하나요</guid>
+      <pubDate>Thu, 10 Sep 2026 19:27:21 +0000</pubDate>
+    </item>
+    <item>
       <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
       <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
       <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
       <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>[회고] 독서 기록 서비스 NOOK 회고록</title>
-      <link>https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</link>
-      <description>이 프로젝트는 UMC 8기에서 시작되었다.처음에 8기를 하면서 UMC SpringBoot 시니어로 참여했다. 'NOOK'에 지원한 이유는 디자인이 예뻐서였다! 목표가 캐릭터가 이쁘고, 분위기있는 디자인이 있는 (나는 백엔드지만) 프로젝트를 하는게 8기 목표였다. 백엔드...</description>
-      <guid isPermaLink="false">https://velog.io/@jayaione_ele/회고-독서-기록-서비스-NOOK-회고록</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>개쩌는 오픈소스 영상편집기</title>
-      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
-      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
-      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
-      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026년 8월 회고</title>
-      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
-      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
-      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
       <title>대딸깍의 시대에 퇴사한 개발자</title>
@@ -134,6 +121,13 @@
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
     </item>
     <item>
+      <title>개쩌는 오픈소스 영상편집기</title>
+      <link>https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</link>
+      <description>그냥 지립니다. 한 번 써보세요.오늘 소개할 제품은 CartCut 입니다. 카트컷이라니 이름이 좀 CapCut 느낌이 나는데요. 암튼 중요한건 오픈소스이고 모든 기능이 무료라는 점입니다.기본적인 컷 편집부터 8k 편집까지 모두 한 번에 가능합니다.초기 화면은 굉장히 깔...</description>
+      <guid isPermaLink="false">https://velog.io/@dipokalhhj/개쩌는-오픈소스-영상편집기</guid>
+      <pubDate>Wed, 09 Sep 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
       <title>@Transactional(readOnly=true), 정말 필요할까</title>
       <link>https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</link>
       <description>학교 과 학생회 통합 플랫폼 백엔드 개발에서, 이번에 회비 납부 API 개발 진행 중에 생긴 문제, 고민의 흔적, 해결방법을 정리하기 위해 블로그를 작성해보기로 했다.이번 블로깅은 저번에 정리한 트랜잭션 관련 블로그와도 관련이 아주 깊다...! (이렇게 개발하면서 써먹...</description>
@@ -141,10 +135,9 @@
       <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
-      <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
-      <link>https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</link>
-      <description>안녕하세요~ 킴스캐슬입니다(연차 기념으로 블로그 글을 적어봤습니다)연차 씐나 룰루랄라저번 글에서 “생성된” 도구를 “살아남은” 도구로 만들기 위한 과정을 연재해 보기로 다짐했는데 말이죠. 아무래도 이렇게 의욕이 뿜뿜할때 확 써버리는게 낫겠다 싶더라고요지난번 글이 궁금하...</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</guid>
+      <title>2026년 8월 회고</title>
+      <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
+      <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
@@ -155,9 +148,10 @@
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>#6 MaleCNS v1.0</title>
-      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
-      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
+      <title>팀원들이 4개월간 3,000번 찾은 백과사전 제작기</title>
+      <link>https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</link>
+      <description>안녕하세요~ 킴스캐슬입니다(연차 기념으로 블로그 글을 적어봤습니다)연차 씐나 룰루랄라저번 글에서 “생성된” 도구를 “살아남은” 도구로 만들기 위한 과정을 연재해 보기로 다짐했는데 말이죠. 아무래도 이렇게 의욕이 뿜뿜할때 확 써버리는게 낫겠다 싶더라고요지난번 글이 궁금하...</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/팀원들이-4개월간-3000번-찾은-백과사전-제작기</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
@@ -166,6 +160,13 @@
       <description>서버를 만들고, DB를 다루고, API를 개발하는 사람. 대략 이렇게 알고는 있지만, 각각의 일이 왜 필요하고 어디까지 책임져야 하는지는 설명하기 어려웠다. 오늘은 백엔드를 공부하며 자주 만나는 용어를 공부한다.</description>
       <guid isPermaLink="false">https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚽사이드 프로젝트 뉴비의 첫 공개 프로젝트 FotLetter 제작기 - 2</title>
+      <link>https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</link>
+      <description>제 첫 사이드 프로젝트 FotLetter의 제작기를 글로 정리해 보았습니다. 별거 없는 것 같았는데 생각보다 글이 길어졌네요.</description>
+      <guid isPermaLink="false">https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</guid>
+      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
       <title>개발 대회&amp; 포토폴리오 수집할 팀원을 모집합니다.</title>
@@ -182,11 +183,11 @@
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>⚽사이드 프로젝트 뉴비의 첫 공개 프로젝트 FotLetter 제작기 - 2</title>
-      <link>https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</link>
-      <description>제 첫 사이드 프로젝트 FotLetter의 제작기를 글로 정리해 보았습니다. 별거 없는 것 같았는데 생각보다 글이 길어졌네요.</description>
-      <guid isPermaLink="false">https://velog.io/@8804who/사이드-프로젝트-뉴비의-첫-공개-프로젝트-FotLetter-제작기-2</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+      <title>개발자 1년차, 최강이 되고 싶었다</title>
+      <link>https://velog.io/@qtaghdi/개발자-1년차-최강이-되고-싶었다</link>
+      <description>내가 생각한 최강 개발자는 이게 아니었는데</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/개발자-1년차-최강이-되고-싶었다</guid>
+      <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
     <item>
       <title>[크래프톤] 너만 그런 것은 아니다.</title>
@@ -203,18 +204,17 @@
       <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
     </item>
     <item>
-      <title>폴더 구조 지옥에서 FSD로 탈출하기</title>
-      <link>https://velog.io/@yereong/폴더구조-설계하기-FSD</link>
-      <description>기능 하나 수정하려고 폴더 5개,7개 열어서 작업해보신 경험 있나요? 저는 있습니다... 이런 폴더 지옥을 탈출하고자 이번 프로젝트에는 FSD를 도입해보려 해요!</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-설계하기-FSD</guid>
-      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
+      <title>#6 MaleCNS v1.0</title>
+      <link>https://velog.io/@bouncy/6-MaleCNS-v1.0</link>
+      <guid isPermaLink="false">https://velog.io/@bouncy/6-MaleCNS-v1.0</guid>
+      <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
-      <title>눈치보지 말고 DM하세요! 제발.</title>
-      <link>https://velog.io/@ghw0327/oh-my-dm</link>
-      <description>교실에서 인스타그램과 카카오톡을 열어두면 생각보다 주변의 시선을 끌게 됩니다. 개발 도구처럼 보이는 인터페이스에서 대화하면 어떨까 하는 생각으로 oh-my-dm을 만들었습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ghw0327/oh-my-dm</guid>
-      <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
+      <title>iPhone Duo 대응 가이드 요약</title>
+      <link>https://velog.io/@minsang/iPhone-Duo-대응-가이드-요약</link>
+      <description>iPhone Duo 개발 가이드</description>
+      <guid isPermaLink="false">https://velog.io/@minsang/iPhone-Duo-대응-가이드-요약</guid>
+      <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
