@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 26 Sep 2026 19:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 19:57:53 +0000</lastBuildDate>
     <item>
       <title>Jev가 뭐냐</title>
       <link>https://velog.io/@kyu_ios_dev/2609191</link>
@@ -23,18 +23,18 @@
       <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>우테코 크루들은 포트폴리오를 어떻게 만들까?</title>
-      <link>https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</link>
-      <description>안녕하세요! 우아한테크코스 8기, shout-outz 팀입니다. 오픈을 앞두고, 저희가 준비하고 있는 서비스를 먼저 소개해 드리려고 해요. &gt; 🚨 개발자는 코딩만 잘하면 될까요? 🚨 요즘 취업 시장에서는 '코딩만 잘하면 된다'는 말이 더 이상 통하지 않는 것 같...</description>
-      <guid isPermaLink="false">https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
-    </item>
-    <item>
       <title>SI 출신 4년차 주니어의 두번째 이직 여정 (feat. 올리브영, 네이버, 라인, 토스, 당근 등등)</title>
       <link>https://velog.io/@yssgood/2026년-하반기-이직을-돌아보며-feat.-올리브영-및-많은-회사</link>
       <description>이직이 두렵나요? 이 글을 읽어보세요</description>
       <guid isPermaLink="false">https://velog.io/@yssgood/2026년-하반기-이직을-돌아보며-feat.-올리브영-및-많은-회사</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>우테코 크루들은 포트폴리오를 어떻게 만들까?</title>
+      <link>https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</link>
+      <description>안녕하세요! 우아한테크코스 8기, shout-outz 팀입니다. 오픈을 앞두고, 저희가 준비하고 있는 서비스를 먼저 소개해 드리려고 해요. &gt; 🚨 개발자는 코딩만 잘하면 될까요? 🚨 요즘 취업 시장에서는 '코딩만 잘하면 된다'는 말이 더 이상 통하지 않는 것 같...</description>
+      <guid isPermaLink="false">https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</guid>
+      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
       <title>Jev가 뭐길래 : 생성형 AI와 무엇이 다를까?</title>
@@ -48,13 +48,6 @@
       <link>https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</link>
       <description>우리 형과 형수님은 현업 디자이너시다. 두 분이 결혼할 때, 나름대로 그려둔 그림이 있었다. ‘형이 디자인을 하면 내가 모바일 청첩장을 만들고, 그걸로 벨로그에 글까지 올리면 이거 트렌드 뚝딱이잖아?’ 하지만 곧 두 가지 현실을 알게 되었다. &amp;nbsp;&amp;nbsp;&amp;...</description>
       <guid isPermaLink="false">https://velog.io/@hoheesu/개발자-동생과-디자이너-부부의-서비스-만들기-1</guid>
-      <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>HTML &lt;usermedia&gt; 요소를 소개합니다</title>
-      <link>https://velog.io/@typo/html-usermedia</link>
-      <description>카메라·마이크 권한 요청, 아직도 getUserMedia()로 하시나요? Chrome 151의 새 &lt;usermedia&gt; 요소는 버튼 하나로 권한 요청과 복구, 스트림 전달까지 해결합니다. Cisco·Zoom·Meet의 실제 성과도 함께 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@typo/html-usermedia</guid>
       <pubDate>Mon, 14 Sep 2026 20:43:52 +0000</pubDate>
     </item>
     <item>
@@ -79,18 +72,18 @@
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>쓴소리 들어도 계속 하는 이유</title>
-      <link>https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</link>
-      <description>이걸 왜 쓰죠?</description>
-      <guid isPermaLink="false">https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</guid>
-      <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
-    </item>
-    <item>
       <title>@Transactional(readOnly=true), 정말 필요할까</title>
       <link>https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</link>
       <description>학교 과 학생회 통합 플랫폼 백엔드 개발에서, 이번에 회비 납부 API 개발 진행 중에 생긴 문제, 고민의 흔적, 해결방법을 정리하기 위해 블로그를 작성해보기로 했다.이번 블로깅은 저번에 정리한 트랜잭션 관련 블로그와도 관련이 아주 깊다...! (이렇게 개발하면서 써먹...</description>
       <guid isPermaLink="false">https://velog.io/@xeoxxn/TransactionalreadOnlytrue-정말-필요할까</guid>
       <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>쓴소리 들어도 계속 하는 이유</title>
+      <link>https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</link>
+      <description>이걸 왜 쓰죠?</description>
+      <guid isPermaLink="false">https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</guid>
+      <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
     </item>
     <item>
       <title>개발자 1년차, 최강이 되고 싶었다</title>
@@ -100,18 +93,18 @@
       <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
-      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
-      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
-      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
-      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
       <title>GPT-6 Sol·Luna 출시: 달라진 GPT 모델 선택 기준</title>
       <link>https://velog.io/@okorion/GPT-6-SolLuna-출시-달라진-GPT-모델-선택-기준</link>
       <description>OpenAI가 2026년 9월 22일 GPT-6 Sol과 GPT-6 Luna를 공개했다. GPT-6 Astra가 최고 성능을 담당한다면 이번에 추가된 두 모델의 목적은 조금 다르다.</description>
       <guid isPermaLink="false">https://velog.io/@okorion/GPT-6-SolLuna-출시-달라진-GPT-모델-선택-기준</guid>
       <pubDate>Wed, 23 Sep 2026 19:57:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT에서 나눈 프로젝트 대화를 자동으로 Velog에 남기는 서비스를 기획해봤다</title>
+      <link>https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</link>
+      <description>ChatGPT로 프로젝트를 진행하다 보면 생각보다 많은 기록이 남는다.처음 아이디어를 잡을 때 했던 고민부터 요구사항, 후보 비교, 방향을 바꾼 이유, 구현 중 발생한 오류와 해결 과정까지 대부분 대화 안에 들어 있다.문제는 프로젝트가 끝난 뒤였다.결과물은 남아도 그 ...</description>
+      <guid isPermaLink="false">https://velog.io/@calu7958/ChatGPT에서-나눈-프로젝트-대화를-자동으로-Velog에-남기는-서비스를-기획해봤다</guid>
+      <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
     </item>
     <item>
       <title>iPhone Duo 대응 가이드 요약</title>
@@ -128,10 +121,31 @@
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
     </item>
     <item>
+      <title>나는 왜 개발자가 되고 싶었지?</title>
+      <link>https://velog.io/@devjiji/나는-왜-개발자가-되고-싶었지</link>
+      <description>나는 왜 개발자가 되고 싶었지? SI에서 익숙해진 사고방식 밖으로 나오기 위해 몸부림친 2026년. 원하는 회사에는 닿지 못했지만, 그곳을 향해 달리며 내가 풀고 싶은 문제와 어떤 개발자로 살고 싶은지를 다시 찾았다.</description>
+      <guid isPermaLink="false">https://velog.io/@devjiji/나는-왜-개발자가-되고-싶었지</guid>
+      <pubDate>Sat, 26 Sep 2026 19:31:27 +0000</pubDate>
+    </item>
+    <item>
       <title>2026년 8월 회고</title>
       <link>https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</link>
       <guid isPermaLink="false">https://velog.io/@minjaekimm/2026년-8월-회고-taq44c2w</guid>
       <pubDate>Tue, 15 Sep 2026 19:57:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>오늘은 일단 글을 쓰고, 내일 다시 코드를 짜야겠다</title>
+      <link>https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</link>
+      <description>우리의 미래는 불확실하기에 더 아름답다</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</guid>
+      <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>물경력? 불경력? 그게 중요할까?</title>
+      <link>https://velog.io/@8804who/물경력-불경력-그게-중요할까</link>
+      <description>이 세상의 모든 물경력 개발자들 화이팅!</description>
+      <guid isPermaLink="false">https://velog.io/@8804who/물경력-불경력-그게-중요할까</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
       <title># 01 | 백엔드 개발자는 무슨 일을 할까?</title>
@@ -139,13 +153,6 @@
       <description>서버를 만들고, DB를 다루고, API를 개발하는 사람. 대략 이렇게 알고는 있지만, 각각의 일이 왜 필요하고 어디까지 책임져야 하는지는 설명하기 어려웠다. 오늘은 백엔드를 공부하며 자주 만나는 용어를 공부한다.</description>
       <guid isPermaLink="false">https://velog.io/@tongmill_g/01-백엔드-개발자는-무슨-일을-할까</guid>
       <pubDate>Thu, 17 Sep 2026 19:59:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opus 5.5 vs GPT-6 Sol·Luna, 갑자기 또 튀어나온 하이엔드 모델들</title>
-      <link>https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</link>
-      <description>23일, 회사에 가서 확인해보니 Anthropic이 Claude Opus 5.5를 냈고, 한 시간쯤 뒤에 OpenAI가 GPT-6 Sol과 Luna를 냈다는 말을 들었다. 저번엔 이틀 차이였는데 이번엔 단 한 시간 차이다. 두 회사의 경쟁에 내 입꼬리가 올라가는데.. ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</guid>
-      <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
     </item>
     <item>
       <title>개발 대회&amp; 포토폴리오 수집할 팀원을 모집합니다.</title>
@@ -161,38 +168,17 @@
       <pubDate>Wed, 23 Sep 2026 19:57:11 +0000</pubDate>
     </item>
     <item>
-      <title>오늘은 일단 글을 쓰고, 내일 다시 코드를 짜야겠다</title>
-      <link>https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</link>
-      <description>우리의 미래는 불확실하기에 더 아름답다</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</guid>
-      <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>나는 왜 개발자가 되고 싶었지?</title>
-      <link>https://velog.io/@devjiji/나는-왜-개발자가-되고-싶었지</link>
-      <description>나는 왜 개발자가 되고 싶었지? SI에서 익숙해진 사고방식 밖으로 나오기 위해 몸부림친 2026년. 원하는 회사에는 닿지 못했지만, 그곳을 향해 달리며 내가 풀고 싶은 문제와 어떤 개발자로 살고 싶은지를 다시 찾았다.</description>
-      <guid isPermaLink="false">https://velog.io/@devjiji/나는-왜-개발자가-되고-싶었지</guid>
-      <pubDate>Sat, 26 Sep 2026 19:31:27 +0000</pubDate>
+      <title>Opus 5.5 vs GPT-6 Sol·Luna, 갑자기 또 튀어나온 하이엔드 모델들</title>
+      <link>https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</link>
+      <description>23일, 회사에 가서 확인해보니 Anthropic이 Claude Opus 5.5를 냈고, 한 시간쯤 뒤에 OpenAI가 GPT-6 Sol과 Luna를 냈다는 말을 들었다. 저번엔 이틀 차이였는데 이번엔 단 한 시간 차이다. 두 회사의 경쟁에 내 입꼬리가 올라가는데.. ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</guid>
+      <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
     </item>
     <item>
       <title>눈치보지 말고 DM하세요! 제발.</title>
       <link>https://velog.io/@ghw0327/oh-my-dm</link>
       <description>교실에서 인스타그램과 카카오톡을 열어두면 생각보다 주변의 시선을 끌게 됩니다. 개발 도구처럼 보이는 인터페이스에서 대화하면 어떨까 하는 생각으로 oh-my-dm을 만들었습니다.</description>
       <guid isPermaLink="false">https://velog.io/@ghw0327/oh-my-dm</guid>
-      <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>어떻게 듣고, 어떻게 설득할 것인가</title>
-      <link>https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</link>
-      <description>오랜만에 돌아와서 글을 쓰고 있는 킴스캐슬입니다 너무 오랜만에 돌아와서 글쓰는게 참 어색하네요...ㅎㅎ 블로그를 써야지 써야지 하면서도 결국은 안쓰다보니까 한달이 지나고.. 두달이 지나고... 반년이 지나버렸네요 (반년도 훨씬 지나버렸죠...?) 갑자기 이렇게 기</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/어떻게-듣고-어떻게-설득할-것인가</guid>
-      <pubDate>Sun, 13 Sep 2026 19:11:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>폴더 구조 지옥에서 FSD로 탈출하기</title>
-      <link>https://velog.io/@yereong/폴더구조-설계하기-FSD</link>
-      <description>기능 하나 수정하려고 폴더 5개,7개 열어서 작업해보신 경험 있나요? 저는 있습니다... 이런 폴더 지옥을 탈출하고자 이번 프로젝트에는 FSD를 도입해보려 해요!</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-설계하기-FSD</guid>
       <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
     </item>
     <item>
@@ -203,18 +189,32 @@
       <pubDate>Sat, 26 Sep 2026 19:31:27 +0000</pubDate>
     </item>
     <item>
-      <title>VLA 다음은 WAM? 미래를 상상하는 로봇이 진짜 더 잘 움직일까</title>
-      <link>https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</link>
-      <description>뒤처지기 싫어서 AI와 함께 팔자에도 없던 로보틱스 논문 목록을 훑어봤는데, WAM이라는 약자가 나왔다. 이건 얼마 전에 유튜브에서도 본 듯한 World Action Model이었다. 2월에 나온 DreamZero가 이 이름을 퍼뜨렸는데, 지금은 이미 그 다음 얘기가 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/미래를-상상하는-로봇이-진짜-더-잘-움직일까</guid>
-      <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
+      <title>폴더 구조 지옥에서 FSD로 탈출하기</title>
+      <link>https://velog.io/@yereong/폴더구조-설계하기-FSD</link>
+      <description>기능 하나 수정하려고 폴더 5개,7개 열어서 작업해보신 경험 있나요? 저는 있습니다... 이런 폴더 지옥을 탈출하고자 이번 프로젝트에는 FSD를 도입해보려 해요!</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/폴더구조-설계하기-FSD</guid>
+      <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>무중단 배포 전략을 알아보자</title>
-      <link>https://velog.io/@my_no_kim/무중단-배포-전략을-알아보자</link>
-      <description>무중단 배포 전략을 알아보자</description>
-      <guid isPermaLink="false">https://velog.io/@my_no_kim/무중단-배포-전략을-알아보자</guid>
-      <pubDate>Sat, 26 Sep 2026 19:31:27 +0000</pubDate>
+      <title>Next.js 이렇게 쓰면 느립니다 1 — RSC가 하나라도 있다면?</title>
+      <link>https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</link>
+      <description>옵션 이름 정도는 알고 씁시다 Next.js는 대략 1년에 한 번, 매년 10월쯤 메이저 버전을 올립니다. App Router가 들어온 13이 2022년 10월, 14가 2023년 10월, 15가 2024년 10월, 16이 2025년 10월이었죠. 그리고 2026년 ...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI가 만들었는데 면접관이 코드 설명 해보라고 하면 어떻게 해야 할까?</title>
+      <link>https://velog.io/@m161awm/AI가-만들었는데-면접관이-코드-설명-해보라고-하면-어떻게-해야-할까</link>
+      <description>단순 AI가 짜서 모른다고 하지말자!</description>
+      <guid isPermaLink="false">https://velog.io/@m161awm/AI가-만들었는데-면접관이-코드-설명-해보라고-하면-어떻게-해야-할까</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[우테코 레벨2 회고] 저울을 내려놓고</title>
+      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-함께-얘기하고-싶은-사람</link>
+      <description>우아한테크코스 8기 FE 레벨2 전체 회고</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-함께-얘기하고-싶은-사람</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
