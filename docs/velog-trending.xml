@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 01 Oct 2026 21:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:08:28 +0000</lastBuildDate>
     <item>
       <title>Jev가 뭐냐</title>
       <link>https://velog.io/@kyu_ios_dev/2609191</link>
@@ -30,11 +30,11 @@
       <pubDate>Wed, 23 Sep 2026 19:57:11 +0000</pubDate>
     </item>
     <item>
-      <title>우테코 크루들은 포트폴리오를 어떻게 만들까?</title>
-      <link>https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</link>
-      <description>안녕하세요! 우아한테크코스 8기, shout-outz 팀입니다. 오픈을 앞두고, 저희가 준비하고 있는 서비스를 먼저 소개해 드리려고 해요. &gt; 🚨 개발자는 코딩만 잘하면 될까요? 🚨 요즘 취업 시장에서는 '코딩만 잘하면 된다'는 말이 더 이상 통하지 않는 것 같...</description>
-      <guid isPermaLink="false">https://velog.io/@dah911/우테코-크루들은-포트폴리오를-어떻게-만들까</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
+      <title>Next.js 이렇게 쓰면 느립니다 1 — RSC가 하나라도 있다면?</title>
+      <link>https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</link>
+      <description>옵션 이름 정도는 알고 씁시다 Next.js는 대략 1년에 한 번, 매년 10월쯤 메이저 버전을 올립니다. App Router가 들어온 13이 2022년 10월, 14가 2023년 10월, 15가 2024년 10월, 16이 2025년 10월이었죠. 그리고 2026년 ...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
       <title>세계 1등 이강희 집에 홈서버 구축해보리보리쌀</title>
@@ -42,13 +42,6 @@
       <description>고민 안녕하세요. 대덕소프트웨어마이스터고등학교에서 * TEAM YOT와 TEAM UNS의 리더를 맡고 있는 이강희*입니다. 저는 여러 프로젝트를 진행하면서 한 가지 고민이 들었습니다. 바로 배포 비용이었습니다. 프로젝트를 개발하고 AWS를 활용해서 배포하다 보면 ...</description>
       <guid isPermaLink="false">https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</guid>
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js 이렇게 쓰면 느립니다 1 — RSC가 하나라도 있다면?</title>
-      <link>https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</link>
-      <description>옵션 이름 정도는 알고 씁시다 Next.js는 대략 1년에 한 번, 매년 10월쯤 메이저 버전을 올립니다. App Router가 들어온 13이 2022년 10월, 14가 2023년 10월, 15가 2024년 10월, 16이 2025년 10월이었죠. 그리고 2026년 ...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
       <title>나는 왜 개발자가 되고 싶었지?</title>
@@ -65,25 +58,11 @@
       <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
-      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
-      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
-    </item>
-    <item>
       <title>iPhone Duo 대응 가이드 요약</title>
       <link>https://velog.io/@minsang/iPhone-Duo-대응-가이드-요약</link>
       <description>iPhone Duo 개발 가이드</description>
       <guid isPermaLink="false">https://velog.io/@minsang/iPhone-Duo-대응-가이드-요약</guid>
       <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Velog 알림, 왜 없지? 직접 만들어본 Chrome Extension부터 모바일 알림까지 (레포 공유)</title>
-      <link>https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</link>
-      <description>댓글도, 좋아요도, 좋아하는 개발자의 새 글도 놓치지 않게! 🔔 Velog 알림을 PC와 모바일로 바로 받아보는 Velog Alert 개발 이야기</description>
-      <guid isPermaLink="false">https://velog.io/@dandonedan/Velog-알림-왜-없지-직접-만들어본-Chrome-Extension부터-모바일-알림까지-레포-공유</guid>
-      <pubDate>Fri, 18 Sep 2026 19:25:42 +0000</pubDate>
     </item>
     <item>
       <title>개발자 1년차, 최강이 되고 싶었다</title>
@@ -93,6 +72,20 @@
       <pubDate>Tue, 22 Sep 2026 20:00:08 +0000</pubDate>
     </item>
     <item>
+      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
+      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
+      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
+      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 vs Fable 5.1: 실사용 개발자의 모델 선택 가이드</title>
+      <link>https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</link>
+      <description>Claude Max $200 요금제를 쓰면서 하네스 엔지니어링 기반으로 AI Agentic Coding을 해온 지 꽤 됐다.Opus 5를 메인으로 쓰다가 Fable 5.1이 나와서 이런저런 작업으로 테스트하고 있었는데,3주 만에 Opus 5.5가 나왔다.공식 문서에 "...</description>
+      <guid isPermaLink="false">https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</guid>
+      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Opus 5.5 vs GPT-6 Sol·Luna, 갑자기 또 튀어나온 하이엔드 모델들</title>
       <link>https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</link>
       <description>23일, 회사에 가서 확인해보니 Anthropic이 Claude Opus 5.5를 냈고, 한 시간쯤 뒤에 OpenAI가 GPT-6 Sol과 Luna를 냈다는 말을 들었다. 저번엔 이틀 차이였는데 이번엔 단 한 시간 차이다. 두 회사의 경쟁에 내 입꼬리가 올라가는데.. ...</description>
@@ -100,11 +93,11 @@
       <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
     </item>
     <item>
-      <title>클라이언트에서 고가용성 설계</title>
-      <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
-      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
-      <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+      <title>Jev, 일단 쓰면서 찍먹하기 - 사용법부터 다른 LLM 4개 비교 벤치마크</title>
+      <link>https://velog.io/@qlgks1/Jev-일단-쓰면서-찍먹하기-사용법부터-다른-LLM-4개-비교-벤치마크</link>
+      <description>요즘 말 많은 TypeSafe의 판정 모델 Jev, 일단 쓰면서 찍먹, 10,500건 직접 벤치마크한 결과!</description>
+      <guid isPermaLink="false">https://velog.io/@qlgks1/Jev-일단-쓰면서-찍먹하기-사용법부터-다른-LLM-4개-비교-벤치마크</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
       <title>GPT-6 Sol·Luna 출시: 달라진 GPT 모델 선택 기준</title>
@@ -121,18 +114,18 @@
       <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
+      <title>클라이언트에서 고가용성 설계</title>
+      <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
+      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
+      <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
+      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
       <title>쓴소리 들어도 계속 하는 이유</title>
       <link>https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</link>
       <description>이걸 왜 쓰죠?</description>
       <guid isPermaLink="false">https://velog.io/@viva_kby/쓴소리-들어도-계속-하는-이유</guid>
       <pubDate>Sun, 20 Sep 2026 19:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>team.cotium 마지막 한자리 인원 모집합니다</title>
-      <link>https://velog.io/@gunwoo2918/team.cotium-마지막-한자리-인원-모집합니다</link>
-      <description>team.cotium은 현재 5명이 모여 기획·디자인·프론트·백엔드·AI·보안 역할을 나눠 운영 중이다. 최종 6인 체제를 위해 React 기반 개발 경험과 협업 의지를 갖춘 Frontend Main 1명을 마지막으로 모집한다.</description>
-      <guid isPermaLink="false">https://velog.io/@gunwoo2918/team.cotium-마지막-한자리-인원-모집합니다</guid>
-      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
       <title>오늘은 일단 글을 쓰고, 내일 다시 코드를 짜야겠다</title>
@@ -142,6 +135,13 @@
       <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
     </item>
     <item>
+      <title>team.cotium 마지막 한자리 인원 모집합니다</title>
+      <link>https://velog.io/@gunwoo2918/team.cotium-마지막-한자리-인원-모집합니다</link>
+      <description>team.cotium은 현재 5명이 모여 기획·디자인·프론트·백엔드·AI·보안 역할을 나눠 운영 중이다. 최종 6인 체제를 위해 React 기반 개발 경험과 협업 의지를 갖춘 Frontend Main 1명을 마지막으로 모집한다.</description>
+      <guid isPermaLink="false">https://velog.io/@gunwoo2918/team.cotium-마지막-한자리-인원-모집합니다</guid>
+      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
+    </item>
+    <item>
       <title>AI가 만들었는데 면접관이 코드 설명 해보라고 하면 어떻게 해야 할까?</title>
       <link>https://velog.io/@m161awm/AI가-만들었는데-면접관이-코드-설명-해보라고-하면-어떻게-해야-할까</link>
       <description>단순 AI가 짜서 모른다고 하지말자!</description>
@@ -149,11 +149,11 @@
       <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
-      <title>🤗허깅페이스(Hugging Face) 나만 궁금해???</title>
-      <link>https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</link>
-      <description>개발을 배우지 않았더라면, 허깅페이스(Hugging Face)라는 이름조차 몰랐을 것이다. 사실 개발을 배우면서도 Hugging Face에 크게 관심을 두지 않았다. 그저 'AI 모델을 불러올 때 사용하는 사이트구나' 정도로만 생각했다. 하지만 'AI 모델을..</description>
-      <guid isPermaLink="false">https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</guid>
-      <pubDate>Mon, 28 Sep 2026 22:23:30 +0000</pubDate>
+      <title>ChatGPT Pro 100·200·500, 달라진 유료 요금제 선택</title>
+      <link>https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</link>
+      <description>2026년 9월 29일 OpenAI DevDay를 기점으로 ChatGPT Pro의 구조가 다시 바뀌었다.기존의 월 $100 Pro와 $200 Pro에 월 $500의 Pro 500이 추가됐다.</description>
+      <guid isPermaLink="false">https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</guid>
+      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
       <title>회사 밖의 개발자 01. 권고사직을 받았다</title>
@@ -163,17 +163,17 @@
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
+      <title>🤗허깅페이스(Hugging Face) 나만 궁금해???</title>
+      <link>https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</link>
+      <description>개발을 배우지 않았더라면, 허깅페이스(Hugging Face)라는 이름조차 몰랐을 것이다. 사실 개발을 배우면서도 Hugging Face에 크게 관심을 두지 않았다. 그저 'AI 모델을 불러올 때 사용하는 사이트구나' 정도로만 생각했다. 하지만 'AI 모델을..</description>
+      <guid isPermaLink="false">https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</guid>
+      <pubDate>Mon, 28 Sep 2026 22:23:30 +0000</pubDate>
+    </item>
+    <item>
       <title>오픈소스에 두번째 기여해보기</title>
       <link>https://velog.io/@chae0738/오픈소스에-두번째-기여해보기</link>
       <description>Armeria 딥다이브</description>
       <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-두번째-기여해보기</guid>
-      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 vs Fable 5.1: 실사용 개발자의 모델 선택 가이드</title>
-      <link>https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</link>
-      <description>Claude Max $200 요금제를 쓰면서 하네스 엔지니어링 기반으로 AI Agentic Coding을 해온 지 꽤 됐다.Opus 5를 메인으로 쓰다가 Fable 5.1이 나와서 이런저런 작업으로 테스트하고 있었는데,3주 만에 Opus 5.5가 나왔다.공식 문서에 "...</description>
-      <guid isPermaLink="false">https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</guid>
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
@@ -184,18 +184,11 @@
       <pubDate>Mon, 21 Sep 2026 20:46:02 +0000</pubDate>
     </item>
     <item>
-      <title>ChatGPT Pro 100·200·500, 달라진 유료 요금제 선택</title>
-      <link>https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</link>
-      <description>2026년 9월 29일 OpenAI DevDay를 기점으로 ChatGPT Pro의 구조가 다시 바뀌었다.기존의 월 $100 Pro와 $200 Pro에 월 $500의 Pro 500이 추가됐다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</guid>
-      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[우테코 레벨2 회고] 저울을 내려놓고</title>
-      <link>https://velog.io/@vlmbuyd/우테코-레벨2-회고-함께-얘기하고-싶은-사람</link>
-      <description>우아한테크코스 8기 FE 레벨2 전체 회고</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우테코-레벨2-회고-함께-얘기하고-싶은-사람</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
+      <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
+      <link>https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</link>
+      <description>three slicer 0.3.3 업데이트</description>
+      <guid isPermaLink="false">https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
       <title>내가 작성한 23,144개의 프롬프트 돌아보기</title>
@@ -212,11 +205,18 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>🤖 [AI] Jev랑 살짝 친해져보기</title>
-      <link>https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</link>
-      <description>AI의 축복은 끝이 없고 나는 영원히 공부해야만 한다</description>
-      <guid isPermaLink="false">https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+      <title>[2026 당근 빌더 밋업] 후기 - H3를 활용한 실시간 공간 타겟팅 이야기</title>
+      <link>https://velog.io/@moduggagi/2026-당근-빌더-밋업-후기-H3를-활용한-실시간-공간-타겟팅-이야기</link>
+      <description>9월 16일 당근 빌더 밋업의 Platform &amp; SRE 세션에 다녀왔습니다</description>
+      <guid isPermaLink="false">https://velog.io/@moduggagi/2026-당근-빌더-밋업-후기-H3를-활용한-실시간-공간-타겟팅-이야기</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>온몸 비틀기로 구데기 서버 사용하기</title>
+      <link>https://velog.io/@siheun9/온몸비틀기로-서버-구데기서버-사용하기</link>
+      <description>aws... 만악의 근원입니다. 제 통장을 텅비게 만든 주범이죠. 여느떄와같이 토의프로젝트를 배포하기위해 aws에 들어가 인스턴스를 생성하던 도중 제 통장 잔고를 확인하였는데, ㅅㅂ 거지통장을 뽀려왔나 착각될 정도로 돈이 없는겁니다!!! 그래서 무료로 배포할 수 있는...</description>
+      <guid isPermaLink="false">https://velog.io/@siheun9/온몸비틀기로-서버-구데기서버-사용하기</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
