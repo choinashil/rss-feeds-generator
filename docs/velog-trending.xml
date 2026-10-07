@@ -7,20 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 06 Oct 2026 21:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:48:25 +0000</lastBuildDate>
+    <item>
+      <title>AI가 짠 테스트 절반은 허수였습니다 — 뮤테이션 테스트</title>
+      <link>https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</link>
+      <description>"그게 먼데" 며칠 전 친구가 디스코드에 이런 말을 남겼습니다. 뮤테이션 테스트를 도입하고 나서 자기 팀 서비스 안정성이 눈에 띄게 올랐다고, 나중에 조사해서 글 좀 써달라고요. 제 답은 "그게 먼데"였습니다. 설명을 듣고 나서는 "어케 하는 건데"였고요. 프론트엔...</description>
+      <guid isPermaLink="false">https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</guid>
+      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
+    </item>
     <item>
       <title>Next.js 이렇게 쓰면 느립니다 1 — RSC가 하나라도 있다면?</title>
       <link>https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</link>
       <description>옵션 이름 정도는 알고 씁시다 Next.js는 대략 1년에 한 번, 매년 10월쯤 메이저 버전을 올립니다. App Router가 들어온 13이 2022년 10월, 14가 2023년 10월, 15가 2024년 10월, 16이 2025년 10월이었죠. 그리고 2026년 ...</description>
       <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</guid>
       <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>세계 1등 이강희 집에 홈서버 구축해보리보리쌀</title>
-      <link>https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</link>
-      <description>고민 안녕하세요. 대덕소프트웨어마이스터고등학교에서 * TEAM YOT와 TEAM UNS의 리더를 맡고 있는 이강희*입니다. 저는 여러 프로젝트를 진행하면서 한 가지 고민이 들었습니다. 바로 배포 비용이었습니다. 프로젝트를 개발하고 AWS를 활용해서 배포하다 보면 ...</description>
-      <guid isPermaLink="false">https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</guid>
-      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
       <title>나는 왜 개발자가 되고 싶었지?</title>
@@ -30,18 +30,25 @@
       <pubDate>Sat, 26 Sep 2026 19:31:27 +0000</pubDate>
     </item>
     <item>
-      <title>물경력? 불경력? 그게 중요할까?</title>
-      <link>https://velog.io/@8804who/물경력-불경력-그게-중요할까</link>
-      <description>이 세상의 모든 물경력 개발자들 화이팅!</description>
-      <guid isPermaLink="false">https://velog.io/@8804who/물경력-불경력-그게-중요할까</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Opus 5.5 vs Fable 5.1: 실사용 개발자의 모델 선택 가이드</title>
       <link>https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</link>
       <description>Claude Max $200 요금제를 쓰면서 하네스 엔지니어링 기반으로 AI Agentic Coding을 해온 지 꽤 됐다.Opus 5를 메인으로 쓰다가 Fable 5.1이 나와서 이런저런 작업으로 테스트하고 있었는데,3주 만에 Opus 5.5가 나왔다.공식 문서에 "...</description>
       <guid isPermaLink="false">https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</guid>
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>세계 1등 이강희 집에 홈서버 구축해보리보리쌀</title>
+      <link>https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</link>
+      <description>고민 안녕하세요. 대덕소프트웨어마이스터고등학교에서 * TEAM YOT와 TEAM UNS의 리더를 맡고 있는 이강희*입니다. 저는 여러 프로젝트를 진행하면서 한 가지 고민이 들었습니다. 바로 배포 비용이었습니다. 프로젝트를 개발하고 AWS를 활용해서 배포하다 보면 ...</description>
+      <guid isPermaLink="false">https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</guid>
+      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>물경력? 불경력? 그게 중요할까?</title>
+      <link>https://velog.io/@8804who/물경력-불경력-그게-중요할까</link>
+      <description>이 세상의 모든 물경력 개발자들 화이팅!</description>
+      <guid isPermaLink="false">https://velog.io/@8804who/물경력-불경력-그게-중요할까</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
       <title>Jev, 일단 쓰면서 찍먹하기 - 사용법부터 다른 LLM 4개 비교 벤치마크</title>
@@ -51,18 +58,18 @@
       <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
+      <title>회사 밖의 개발자 01. 권고사직을 받았다</title>
+      <link>https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</link>
+      <description>퇴사를 원했는데, 막상 권고사직을 받으니 생각보다 앞이 캄캄했다.</description>
+      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</guid>
+      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Opus 5.5 vs GPT-6 Sol·Luna, 갑자기 또 튀어나온 하이엔드 모델들</title>
       <link>https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</link>
       <description>23일, 회사에 가서 확인해보니 Anthropic이 Claude Opus 5.5를 냈고, 한 시간쯤 뒤에 OpenAI가 GPT-6 Sol과 Luna를 냈다는 말을 들었다. 저번엔 이틀 차이였는데 이번엔 단 한 시간 차이다. 두 회사의 경쟁에 내 입꼬리가 올라가는데.. ...</description>
       <guid isPermaLink="false">https://velog.io/@dbwls/Opus-5.5-vs-GPT-6-SolLuna-갑자기-또-튀어나온-하이엔드-모델들</guid>
       <pubDate>Thu, 24 Sep 2026 20:16:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
-      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
-      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
     </item>
     <item>
       <title>ChatGPT Pro 100·200·500, 달라진 유료 요금제 선택</title>
@@ -72,24 +79,10 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>회사 밖의 개발자 01. 권고사직을 받았다</title>
-      <link>https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</link>
-      <description>퇴사를 원했는데, 막상 권고사직을 받으니 생각보다 앞이 캄캄했다.</description>
-      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</guid>
-      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Sol·Luna 출시: 달라진 GPT 모델 선택 기준</title>
-      <link>https://velog.io/@okorion/GPT-6-SolLuna-출시-달라진-GPT-모델-선택-기준</link>
-      <description>OpenAI가 2026년 9월 22일 GPT-6 Sol과 GPT-6 Luna를 공개했다. GPT-6 Astra가 최고 성능을 담당한다면 이번에 추가된 두 모델의 목적은 조금 다르다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/GPT-6-SolLuna-출시-달라진-GPT-모델-선택-기준</guid>
-      <pubDate>Wed, 23 Sep 2026 19:57:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>클라이언트에서 고가용성 설계</title>
-      <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
-      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
-      <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
+      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
+      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
+      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
       <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
     </item>
     <item>
@@ -100,18 +93,25 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>오늘은 일단 글을 쓰고, 내일 다시 코드를 짜야겠다</title>
-      <link>https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</link>
-      <description>우리의 미래는 불확실하기에 더 아름답다</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</guid>
-      <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자 호소인에서 진짜 개발자로 - 현장실습 회고록</title>
       <link>https://velog.io/@rxd123/개발자-호소인에서-진짜-개발자로-현장실습-회고록</link>
       <description>7월 13일부로 현장실습을 시작해 어느덧 3달이 지나가며 이제 정규직 전환을 앞두고 있습니다.저는 좋은 기회를 통해 인천에 소재한 설립 2년차 스타트업에 앱 프론트엔드 개발자로 합류하였습니다.이 글에 3개월간 현장실습을 진행하며 겪은 일과 느낀 점을 담아보려 합니다.회...</description>
       <guid isPermaLink="false">https://velog.io/@rxd123/개발자-호소인에서-진짜-개발자로-현장실습-회고록</guid>
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>클라이언트에서 고가용성 설계</title>
+      <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
+      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
+      <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
+      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>오늘은 일단 글을 쓰고, 내일 다시 코드를 짜야겠다</title>
+      <link>https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</link>
+      <description>우리의 미래는 불확실하기에 더 아름답다</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/우리의-미래는-불확실하기에-더-아름답다</guid>
+      <pubDate>Fri, 25 Sep 2026 20:13:27 +0000</pubDate>
     </item>
     <item>
       <title>🤗허깅페이스(Hugging Face) 나만 궁금해???</title>
@@ -128,6 +128,20 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
+      <title>AI가 빨라질수록 개발자에게 남는 일</title>
+      <link>https://velog.io/@dxxh_e/AI가-빨라질수록-개발자에게-남는-일</link>
+      <description>Stack Overflow 2026 개발자 설문을 읽고 든 생각</description>
+      <guid isPermaLink="false">https://velog.io/@dxxh_e/AI가-빨라질수록-개발자에게-남는-일</guid>
+      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고] 신입 개발자 6개월 취준 후기</title>
+      <link>https://velog.io/@lj3552/회고-취준</link>
+      <description>드디어 취업한 잔진</description>
+      <guid isPermaLink="false">https://velog.io/@lj3552/회고-취준</guid>
+      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
+    </item>
+    <item>
       <title>오픈소스에 두번째 기여해보기</title>
       <link>https://velog.io/@chae0738/오픈소스에-두번째-기여해보기</link>
       <description>Armeria 딥다이브</description>
@@ -142,6 +156,13 @@
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
+      <title>채팅 모델에서 결정 모델로, OpenAI가 만든 Decisions API</title>
+      <link>https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</link>
+      <description>OpenAI가 DevDay 2026에서 Decisions API를 공개했다. 일반적인 LLM API처럼 문장을 생성하는 대신, 개발자가 미리 정의한 선택지 가운데 하나를 빠르게 고르는 데 초점을 맞춘 API다.OpenAI의 설명은 단순하다.</description>
+      <guid isPermaLink="false">https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</guid>
+      <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+    </item>
+    <item>
       <title>Claude Opus 5.5 effort별 비용: Medium부터 Max까지 무엇이 달라지나</title>
       <link>https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</link>
       <description>Claude Opus 5.5가 Artificial Analysis Intelligence Index에서 가장 높은 점수를 기록했다. 2026년 9월 29일 기준 Max effort의 점수는 58점이다.</description>
@@ -149,11 +170,11 @@
       <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
     </item>
     <item>
-      <title>[회고] 신입 개발자 6개월 취준 후기</title>
-      <link>https://velog.io/@lj3552/회고-취준</link>
-      <description>드디어 취업한 잔진</description>
-      <guid isPermaLink="false">https://velog.io/@lj3552/회고-취준</guid>
-      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
+      <title>회사 밖의 개발자 02. 길을 잃었다</title>
+      <link>https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</link>
+      <description>이것저것 만들다가 길을 잃었다.</description>
+      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</guid>
+      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
       <title>[2026 당근 빌더 밋업] 후기 - H3를 활용한 실시간 공간 타겟팅 이야기</title>
@@ -170,11 +191,11 @@
       <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
-      <title>채팅 모델에서 결정 모델로, OpenAI가 만든 Decisions API</title>
-      <link>https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</link>
-      <description>OpenAI가 DevDay 2026에서 Decisions API를 공개했다. 일반적인 LLM API처럼 문장을 생성하는 대신, 개발자가 미리 정의한 선택지 가운데 하나를 빠르게 고르는 데 초점을 맞춘 API다.OpenAI의 설명은 단순하다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</guid>
-      <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+      <title>개발자의 업무는 어디까지 자동화할 수 있을까?</title>
+      <link>https://velog.io/@playername_ltt/개발자의-업무는-어디까지-자동화할-수-있을까</link>
+      <description>아직도 당신은 안전하다고 생각하시나요?</description>
+      <guid isPermaLink="false">https://velog.io/@playername_ltt/개발자의-업무는-어디까지-자동화할-수-있을까</guid>
+      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
       <title>브라우저 캐시와 CDN 캐시, 두 계층으로 다시 본 Cache-Control</title>
@@ -195,27 +216,6 @@
       <link>https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</link>
       <description>대규모 시스템 프로젝트. 그 첫번째 이야기 입니다.</description>
       <guid isPermaLink="false">https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</guid>
-      <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>현대 커리어라운지 후기(2026년)</title>
-      <link>https://velog.io/@jjjj0323/현대-커리어라운지-후기2026년</link>
-      <description>안녕하세요 오랜만입니다. 어느순간부터 블로그 글 쓰는것에 부담을 느끼고 그만뒀었는데 이제는 쉬운 주제부터 천천히 다시 써보려고 합니다.그렇게 대단한 글은 아니지만, 좋은 이야기들을 많이 들어 함께 공유하면 좋을것 같아 글을 써봅니다.현대 커리어 라운지는 현직자분들과 직...</description>
-      <guid isPermaLink="false">https://velog.io/@jjjj0323/현대-커리어라운지-후기2026년</guid>
-      <pubDate>Sat, 03 Oct 2026 19:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>[github-readme-music] 1인 개발에서 AI를 팀처럼 활용해보기</title>
-      <link>https://velog.io/@readme-music/github-readme-music-1인-개발에서-AI를-팀처럼-활용해보기</link>
-      <description>이전 글에서는 github-readme-music이 어떤 아이디어에서 시작됐고, MVP의 범위를 어떻게 정했으며, v0를 활용해 초기 화면을 구체화한 과정을 정리했습니다.목업을 통해 전체 사용자 흐름을 확인한 뒤에는 실제 YouTube API 연동을 시작해야 했습니다....</description>
-      <guid isPermaLink="false">https://velog.io/@readme-music/github-readme-music-1인-개발에서-AI를-팀처럼-활용해보기</guid>
-      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤖 [AI] Jev랑 살짝 친해져보기</title>
-      <link>https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</link>
-      <description>AI의 축복은 끝이 없고 나는 영원히 공부해야만 한다</description>
-      <guid isPermaLink="false">https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</guid>
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
     </item>
   </channel>
