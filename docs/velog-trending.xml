@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 09 Oct 2026 21:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 20:27:18 +0000</lastBuildDate>
     <item>
       <title>AI가 짠 테스트 절반은 허수였습니다 — 뮤테이션 테스트</title>
       <link>https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</link>
@@ -51,24 +51,17 @@
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
-      <title>📝 [CKA 합격 후기] 직장인 6주 독학으로 CKA 취득! 공부 방법, 자료별 회독 수, killer.sh 활용법 총정리 (2026 최신)</title>
-      <link>https://velog.io/@sophie114/cka-guide-hoyeon</link>
-      <description>안녕하세요! 오늘은 제가 2026년 8월 17일에 취득한 CKA(Certified Kubernetes Administrator) 합격 후기와 공부 방법을 정리해 보려 합니다.CKA는 CNCF와 Linux Foundation이 주관하는 쿠버네티스 관리자 자격증입니다. 객...</description>
-      <guid isPermaLink="false">https://velog.io/@sophie114/cka-guide-hoyeon</guid>
-      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
-      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
-      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
-    </item>
-    <item>
       <title>ChatGPT Pro 100·200·500, 달라진 유료 요금제 선택</title>
       <link>https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</link>
       <description>2026년 9월 29일 OpenAI DevDay를 기점으로 ChatGPT Pro의 구조가 다시 바뀌었다.기존의 월 $100 Pro와 $200 Pro에 월 $500의 Pro 500이 추가됐다.</description>
       <guid isPermaLink="false">https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</guid>
+      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>📝 [CKA 합격 후기] 직장인 6주 독학으로 CKA 취득! 공부 방법, 자료별 회독 수, killer.sh 활용법 총정리 (2026 최신)</title>
+      <link>https://velog.io/@sophie114/cka-guide-hoyeon</link>
+      <description>안녕하세요! 오늘은 제가 2026년 8월 17일에 취득한 CKA(Certified Kubernetes Administrator) 합격 후기와 공부 방법을 정리해 보려 합니다.CKA는 CNCF와 Linux Foundation이 주관하는 쿠버네티스 관리자 자격증입니다. 객...</description>
+      <guid isPermaLink="false">https://velog.io/@sophie114/cka-guide-hoyeon</guid>
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
@@ -79,6 +72,13 @@
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
     </item>
     <item>
+      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
+      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
+      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
+      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
       <title>[회고] 신입 개발자 6개월 취준 후기</title>
       <link>https://velog.io/@lj3552/회고-취준</link>
       <description>드디어 취업한 잔진</description>
@@ -86,18 +86,18 @@
       <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
     </item>
     <item>
+      <title>feature-based 그게 뭔데</title>
+      <link>https://velog.io/@teamuns2026/Temp-Title</link>
+      <description>안녕하세요 팀 UNS에서 프론트엔드 개발을 담당하고 있는 이선우입니다 😁 프론트엔드 파트 첫 글인 만큼 가볍게 아키텍처 이야기를 다뤄보려고 합니다. 팀 UNS의 Devs 프로젝트를 처음 시작할 때 가장 먼저 한 고민은 "어떤 기술을 쓰지?"가 아닌 "어떤 아키...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/Temp-Title</guid>
+      <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
+    </item>
+    <item>
       <title>클라이언트에서 고가용성 설계</title>
       <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
       <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
       <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
       <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤗허깅페이스(Hugging Face) 나만 궁금해???</title>
-      <link>https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</link>
-      <description>개발을 배우지 않았더라면, 허깅페이스(Hugging Face)라는 이름조차 몰랐을 것이다. 사실 개발을 배우면서도 Hugging Face에 크게 관심을 두지 않았다. 그저 'AI 모델을 불러올 때 사용하는 사이트구나' 정도로만 생각했다. 하지만 'AI 모델을..</description>
-      <guid isPermaLink="false">https://velog.io/@dodoking/허깅페이스Hugging-Face-나만-궁금해</guid>
-      <pubDate>Mon, 28 Sep 2026 22:23:30 +0000</pubDate>
     </item>
     <item>
       <title>내가 작성한 23,144개의 프롬프트 돌아보기</title>
@@ -114,6 +114,13 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
+      <title>Claude Opus 5.5 effort별 비용: Medium부터 Max까지 무엇이 달라지나</title>
+      <link>https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</link>
+      <description>Claude Opus 5.5가 Artificial Analysis Intelligence Index에서 가장 높은 점수를 기록했다. 2026년 9월 29일 기준 Max effort의 점수는 58점이다.</description>
+      <guid isPermaLink="false">https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</guid>
+      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
+    </item>
+    <item>
       <title>"혹시... 당근이세요?" 3년 차 개발자의 당근 인턴십 합류기</title>
       <link>https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</link>
       <description>정규직을 포기하고 체험형 인턴으로 당근에 합류한 보통의 개발자 이야기.</description>
@@ -126,13 +133,6 @@
       <description>Armeria 딥다이브</description>
       <guid isPermaLink="false">https://velog.io/@chae0738/오픈소스에-두번째-기여해보기</guid>
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 effort별 비용: Medium부터 Max까지 무엇이 달라지나</title>
-      <link>https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</link>
-      <description>Claude Opus 5.5가 Artificial Analysis Intelligence Index에서 가장 높은 점수를 기록했다. 2026년 9월 29일 기준 Max effort의 점수는 58점이다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</guid>
-      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
     </item>
     <item>
       <title>회사 밖의 개발자 02. 길을 잃었다</title>
@@ -170,18 +170,18 @@
       <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
-      <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
-      <link>https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</link>
-      <description>three slicer 0.3.3 업데이트</description>
-      <guid isPermaLink="false">https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</guid>
-      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
-    </item>
-    <item>
       <title>이직을 준비하며 다시 생각한 네이티브 개발 경험</title>
       <link>https://velog.io/@mraz3068/rethinking-native-development-experience</link>
       <description>이직을 준비하며 원하는 네이티브 경험과 지금의 경력 사이를 돌아봤다. 첫 회사 선택의 아쉬움, 사이드 프로젝트의 한계, AI와 함께 더 깊은 경험과 완성도 높은 제품을 만들어가려는 고민을 정리했다.</description>
       <guid isPermaLink="false">https://velog.io/@mraz3068/rethinking-native-development-experience</guid>
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
+      <link>https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</link>
+      <description>three slicer 0.3.3 업데이트</description>
+      <guid isPermaLink="false">https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
       <title>개발자의 업무는 어디까지 자동화할 수 있을까?</title>
@@ -191,18 +191,18 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>현대 커리어라운지 후기(2026년)</title>
-      <link>https://velog.io/@jjjj0323/현대-커리어라운지-후기2026년</link>
-      <description>안녕하세요 오랜만입니다. 어느순간부터 블로그 글 쓰는것에 부담을 느끼고 그만뒀었는데 이제는 쉬운 주제부터 천천히 다시 써보려고 합니다.그렇게 대단한 글은 아니지만, 좋은 이야기들을 많이 들어 함께 공유하면 좋을것 같아 글을 써봅니다.현대 커리어 라운지는 현직자분들과 직...</description>
-      <guid isPermaLink="false">https://velog.io/@jjjj0323/현대-커리어라운지-후기2026년</guid>
-      <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
-    </item>
-    <item>
       <title>5만원 짜리 기프티콘을 꽁짜로 뿌리면 어떻게 될까?</title>
       <link>https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</link>
       <description>대규모 시스템 프로젝트. 그 첫번째 이야기 입니다.</description>
       <guid isPermaLink="false">https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</guid>
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jev 개념과 사용법 정리</title>
+      <link>https://velog.io/@jieun9851/Jev-개념과-사용법-정리</link>
+      <description>2026년 9월 15일 TypeSafe AI는 Jev라는 새로운 AI 모델을 공개했다.Jev는 ChatGPT나 Claude처럼 텍스트를 생성하는 LLM이 아니다. TypeSafe는 Jev를 첫 번째 System One Model이라고 정의한다.핵심 아이디어는 간단하다....</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/Jev-개념과-사용법-정리</guid>
+      <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
     </item>
     <item>
       <title>useMemo 없이 React 쓰기</title>
@@ -212,11 +212,11 @@
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
-      <title>스스로 일하고, 함께 일하는 훅</title>
-      <link>https://velog.io/@vlmbuyd/스스로-일하고-함께-일하는-훅</link>
-      <description>객체 지향의 언어로 다시 읽은 커스텀 훅</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/스스로-일하고-함께-일하는-훅</guid>
-      <pubDate>Fri, 09 Oct 2026 21:27:49 +0000</pubDate>
+      <title>🤖 [AI] Jev랑 살짝 친해져보기</title>
+      <link>https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</link>
+      <description>AI의 축복은 끝이 없고 나는 영원히 공부해야만 한다</description>
+      <guid isPermaLink="false">https://velog.io/@silverclean091/AI-Jev랑-살짝-친해져보기</guid>
+      <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
