@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:46:33 +0000</lastBuildDate>
     <item>
       <title>AI가 짠 테스트 절반은 허수였습니다 — 뮤테이션 테스트</title>
       <link>https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</link>
       <description>"그게 먼데" 며칠 전 친구가 디스코드에 이런 말을 남겼습니다. 뮤테이션 테스트를 도입하고 나서 자기 팀 서비스 안정성이 눈에 띄게 올랐다고, 나중에 조사해서 글 좀 써달라고요. 제 답은 "그게 먼데"였습니다. 설명을 듣고 나서는 "어케 하는 건데"였고요. 프론트엔...</description>
       <guid isPermaLink="false">https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</guid>
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Next.js 이렇게 쓰면 느립니다 1 — RSC가 하나라도 있다면?</title>
-      <link>https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</link>
-      <description>옵션 이름 정도는 알고 씁시다 Next.js는 대략 1년에 한 번, 매년 10월쯤 메이저 버전을 올립니다. App Router가 들어온 13이 2022년 10월, 14가 2023년 10월, 15가 2024년 10월, 16이 2025년 10월이었죠. 그리고 2026년 ...</description>
-      <guid isPermaLink="false">https://velog.io/@k-svelte-master/nextjs-slow-1-dynamic-rsc-prefetch</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:53 +0000</pubDate>
     </item>
     <item>
       <title>Claude Opus 5.5 vs Fable 5.1: 실사용 개발자의 모델 선택 가이드</title>
@@ -58,13 +51,6 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>📝 [CKA 합격 후기] 직장인 6주 독학으로 CKA 취득! 공부 방법, 자료별 회독 수, killer.sh 활용법 총정리 (2026 최신)</title>
-      <link>https://velog.io/@sophie114/cka-guide-hoyeon</link>
-      <description>안녕하세요! 오늘은 제가 2026년 8월 17일에 취득한 CKA(Certified Kubernetes Administrator) 합격 후기와 공부 방법을 정리해 보려 합니다.CKA는 CNCF와 Linux Foundation이 주관하는 쿠버네티스 관리자 자격증입니다. 객...</description>
-      <guid isPermaLink="false">https://velog.io/@sophie114/cka-guide-hoyeon</guid>
-      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자 호소인에서 진짜 개발자로 - 현장실습 회고록</title>
       <link>https://velog.io/@rxd123/개발자-호소인에서-진짜-개발자로-현장실습-회고록</link>
       <description>7월 13일부로 현장실습을 시작해 어느덧 3달이 지나가며 이제 정규직 전환을 앞두고 있습니다.저는 좋은 기회를 통해 인천에 소재한 설립 2년차 스타트업에 앱 프론트엔드 개발자로 합류하였습니다.이 글에 3개월간 현장실습을 진행하며 겪은 일과 느낀 점을 담아보려 합니다.회...</description>
@@ -98,6 +84,13 @@
       <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
       <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
       <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI끼리 대화하는데 자연어가 필요할까?</title>
+      <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
+      <description>🤖🗣️🤖</description>
+      <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
     </item>
     <item>
       <title>내가 작성한 23,144개의 프롬프트 돌아보기</title>
@@ -142,6 +135,13 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
+      <title>만들지 않는 시간에도 나는 만드는 사람일까</title>
+      <link>https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</link>
+      <description>「쓰지 않는 행위로써 채워지는 생각들」 2탄</description>
+      <guid isPermaLink="false">https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</guid>
+      <pubDate>Fri, 09 Oct 2026 21:27:49 +0000</pubDate>
+    </item>
+    <item>
       <title>채팅 모델에서 결정 모델로, OpenAI가 만든 Decisions API</title>
       <link>https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</link>
       <description>OpenAI가 DevDay 2026에서 Decisions API를 공개했다. 일반적인 LLM API처럼 문장을 생성하는 대신, 개발자가 미리 정의한 선택지 가운데 하나를 빠르게 고르는 데 초점을 맞춘 API다.OpenAI의 설명은 단순하다.</description>
@@ -156,13 +156,6 @@
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
-      <title>만들지 않는 시간에도 나는 만드는 사람일까</title>
-      <link>https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</link>
-      <description>「쓰지 않는 행위로써 채워지는 생각들」 2탄</description>
-      <guid isPermaLink="false">https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</guid>
-      <pubDate>Fri, 09 Oct 2026 21:27:49 +0000</pubDate>
-    </item>
-    <item>
       <title>[2026 당근 빌더 밋업] 후기 - H3를 활용한 실시간 공간 타겟팅 이야기</title>
       <link>https://velog.io/@moduggagi/2026-당근-빌더-밋업-후기-H3를-활용한-실시간-공간-타겟팅-이야기</link>
       <description>9월 16일 당근 빌더 밋업의 Platform &amp; SRE 세션에 다녀왔습니다</description>
@@ -170,11 +163,24 @@
       <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
+      <title>AI에게도 수면을 만들어준다면?</title>
+      <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
+      <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
       <title>이직을 준비하며 다시 생각한 네이티브 개발 경험</title>
       <link>https://velog.io/@mraz3068/rethinking-native-development-experience</link>
       <description>이직을 준비하며 원하는 네이티브 경험과 지금의 경력 사이를 돌아봤다. 첫 회사 선택의 아쉬움, 사이드 프로젝트의 한계, AI와 함께 더 깊은 경험과 완성도 높은 제품을 만들어가려는 고민을 정리했다.</description>
       <guid isPermaLink="false">https://velog.io/@mraz3068/rethinking-native-development-experience</guid>
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>프로덕트 메이커이기도 하면서 사용자가 될 수 있다는 점</title>
+      <link>https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</link>
+      <description>퇴사, 그리고 당근 인턴으로 합류하기까지의 여정</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
     </item>
     <item>
       <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
@@ -203,13 +209,6 @@
       <description>2026년 9월 15일 TypeSafe AI는 Jev라는 새로운 AI 모델을 공개했다.Jev는 ChatGPT나 Claude처럼 텍스트를 생성하는 LLM이 아니다. TypeSafe는 Jev를 첫 번째 System One Model이라고 정의한다.핵심 아이디어는 간단하다....</description>
       <guid isPermaLink="false">https://velog.io/@jieun9851/Jev-개념과-사용법-정리</guid>
       <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>useMemo 없이 React 쓰기</title>
-      <link>https://velog.io/@ppre1ude/useMemo-없이-React-쓰기</link>
-      <description>React Compiler가 컴포넌트를 어떻게 바꾸는지 살펴보고, useMemo와 memo를 지워도 되는지 React Compiler 1.0으로 직접 확인해 봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@ppre1ude/useMemo-없이-React-쓰기</guid>
-      <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
       <title>🤖 [AI] Jev랑 살짝 친해져보기</title>
