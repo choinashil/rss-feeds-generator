@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 12 Oct 2026 23:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:42:36 +0000</lastBuildDate>
     <item>
       <title>AI가 짠 테스트 절반은 허수였습니다 — 뮤테이션 테스트</title>
       <link>https://velog.io/@k-svelte-master/ai-generated-tests-mutation-testing</link>
@@ -16,24 +16,10 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>Claude Opus 5.5 vs Fable 5.1: 실사용 개발자의 모델 선택 가이드</title>
-      <link>https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</link>
-      <description>Claude Max $200 요금제를 쓰면서 하네스 엔지니어링 기반으로 AI Agentic Coding을 해온 지 꽤 됐다.Opus 5를 메인으로 쓰다가 Fable 5.1이 나와서 이런저런 작업으로 테스트하고 있었는데,3주 만에 Opus 5.5가 나왔다.공식 문서에 "...</description>
-      <guid isPermaLink="false">https://velog.io/@kimkuns/Claude-Opus-5.5-vs-Fable-5.1-실사용-개발자의-모델-선택-가이드</guid>
-      <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
-    </item>
-    <item>
       <title>세계 1등 이강희 집에 홈서버 구축해보리보리쌀</title>
       <link>https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</link>
       <description>고민 안녕하세요. 대덕소프트웨어마이스터고등학교에서 * TEAM YOT와 TEAM UNS의 리더를 맡고 있는 이강희*입니다. 저는 여러 프로젝트를 진행하면서 한 가지 고민이 들었습니다. 바로 배포 비용이었습니다. 프로젝트를 개발하고 AWS를 활용해서 배포하다 보면 ...</description>
       <guid isPermaLink="false">https://velog.io/@riverhee/세계-1등-이강희-집에-홈서버-구축해보리보리쌀가마</guid>
-      <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>회사 밖의 개발자 01. 권고사직을 받았다</title>
-      <link>https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</link>
-      <description>퇴사를 원했는데, 막상 권고사직을 받으니 생각보다 앞이 캄캄했다.</description>
-      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-01.-권고사직을-받았다</guid>
       <pubDate>Wed, 30 Sep 2026 21:11:43 +0000</pubDate>
     </item>
     <item>
@@ -51,6 +37,13 @@
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
     </item>
     <item>
+      <title>"혹시... 당근이세요?" 3년 차 개발자의 당근 인턴십 합류기</title>
+      <link>https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</link>
+      <description>정규직을 포기하고 체험형 인턴으로 당근에 합류한 보통의 개발자 이야기.</description>
+      <guid isPermaLink="false">https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</guid>
+      <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
+    </item>
+    <item>
       <title>ChatGPT Pro 100·200·500, 달라진 유료 요금제 선택</title>
       <link>https://velog.io/@okorion/ChatGPT-Pro-100200500-달라진-유료-요금제-선택-rab8md1y</link>
       <description>2026년 9월 29일 OpenAI DevDay를 기점으로 ChatGPT Pro의 구조가 다시 바뀌었다.기존의 월 $100 Pro와 $200 Pro에 월 $500의 Pro 500이 추가됐다.</description>
@@ -58,11 +51,18 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 03] - Rilog. 4살: 문장에 댓글을 달다</title>
-      <link>https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</link>
-      <description>Rilog.의 새로운 기능 '인라인 댓글'을 소개합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-03-Rilog.-4살-문장에-댓글을-달다</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
+      <title>AI끼리 대화하는데 자연어가 필요할까?</title>
+      <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
+      <description>🤖🗣️🤖</description>
+      <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>회사 밖의 개발자 02. 길을 잃었다</title>
+      <link>https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</link>
+      <description>이것저것 만들다가 길을 잃었다.</description>
+      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</guid>
+      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
       <title>feature-based 그게 뭔데</title>
@@ -72,24 +72,10 @@
       <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
     </item>
     <item>
-      <title>"혹시... 당근이세요?" 3년 차 개발자의 당근 인턴십 합류기</title>
-      <link>https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</link>
-      <description>정규직을 포기하고 체험형 인턴으로 당근에 합류한 보통의 개발자 이야기.</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</guid>
-      <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>클라이언트에서 고가용성 설계</title>
-      <link>https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</link>
-      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 기관 방문자가 시설을 이용하기 전 체크인을 진행하는 데 사용됩니다. 서비스를 운영하는 과정에서 서버에 장애가 발생하거나 네트워크 연결이 불안정...</description>
-      <guid isPermaLink="false">https://velog.io/@hxm2n/클라이언트에서-고가용성-설계</guid>
-      <pubDate>Tue, 29 Sep 2026 21:15:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI끼리 대화하는데 자연어가 필요할까?</title>
-      <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
-      <description>🤖🗣️🤖</description>
-      <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
+      <title>프로덕트 메이커이기도 하면서 사용자가 될 수 있다는 점</title>
+      <link>https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</link>
+      <description>퇴사, 그리고 당근 인턴으로 합류하기까지의 여정</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</guid>
       <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
     </item>
     <item>
@@ -100,25 +86,11 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>회사 밖의 개발자 02. 길을 잃었다</title>
-      <link>https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</link>
-      <description>이것저것 만들다가 길을 잃었다.</description>
-      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</guid>
-      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>프로덕트 메이커이기도 하면서 사용자가 될 수 있다는 점</title>
-      <link>https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</link>
-      <description>퇴사, 그리고 당근 인턴으로 합류하기까지의 여정</description>
-      <guid isPermaLink="false">https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</guid>
-      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 effort별 비용: Medium부터 Max까지 무엇이 달라지나</title>
-      <link>https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</link>
-      <description>Claude Opus 5.5가 Artificial Analysis Intelligence Index에서 가장 높은 점수를 기록했다. 2026년 9월 29일 기준 Max effort의 점수는 58점이다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/Claude-Opus-5.5-effort별-비용-Medium부터-Max까지-무엇이-달라지나</guid>
-      <pubDate>Mon, 05 Oct 2026 23:02:44 +0000</pubDate>
+      <title>교육청 정책을 우회하는 방법!</title>
+      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
+      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
+      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
+      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
       <title>만들지 않는 시간에도 나는 만드는 사람일까</title>
@@ -135,11 +107,32 @@
       <pubDate>Thu, 01 Oct 2026 21:33:03 +0000</pubDate>
     </item>
     <item>
+      <title>AI 시대에 오히려 사이드 프로젝트가 중요한 이유</title>
+      <link>https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</link>
+      <description>아직도 사이드 프로젝트를 하지 않는다고요?</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</guid>
+      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>회사 밖의 개발자 03. 만들고 보니 쿠팡에 있었다</title>
+      <link>https://velog.io/@lotus0204/회사-밖의-개발자-03.-만들고-보니-쿠팡에-있었다</link>
+      <description>할머니들 카트에 치이며 시작한 아이디어. 다 만들고 보니, 쿠팡도 같은 생각을 하고 있었다.</description>
+      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-03.-만들고-보니-쿠팡에-있었다</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
+    </item>
+    <item>
       <title>채팅 모델에서 결정 모델로, OpenAI가 만든 Decisions API</title>
       <link>https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</link>
       <description>OpenAI가 DevDay 2026에서 Decisions API를 공개했다. 일반적인 LLM API처럼 문장을 생성하는 대신, 개발자가 미리 정의한 선택지 가운데 하나를 빠르게 고르는 데 초점을 맞춘 API다.OpenAI의 설명은 단순하다.</description>
       <guid isPermaLink="false">https://velog.io/@okorion/채팅-모델에서-결정-모델로-OpenAI가-만든-Decisions-API-m2vo4vy5</guid>
       <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jev 개념과 사용법 정리</title>
+      <link>https://velog.io/@jieun9851/Jev-개념과-사용법-정리</link>
+      <description>2026년 9월 15일 TypeSafe AI는 Jev라는 새로운 AI 모델을 공개했다.Jev는 ChatGPT나 Claude처럼 텍스트를 생성하는 LLM이 아니다. TypeSafe는 Jev를 첫 번째 System One Model이라고 정의한다.핵심 아이디어는 간단하다....</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/Jev-개념과-사용법-정리</guid>
+      <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
     </item>
     <item>
       <title>team.cotium 마지막 한자리 인원 모집합니다</title>
@@ -162,39 +155,11 @@
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
-      <title>AI 시대에 오히려 사이드 프로젝트가 중요한 이유</title>
-      <link>https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</link>
-      <description>아직도 사이드 프로젝트를 하지 않는다고요?</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jev 개념과 사용법 정리</title>
-      <link>https://velog.io/@jieun9851/Jev-개념과-사용법-정리</link>
-      <description>2026년 9월 15일 TypeSafe AI는 Jev라는 새로운 AI 모델을 공개했다.Jev는 ChatGPT나 Claude처럼 텍스트를 생성하는 LLM이 아니다. TypeSafe는 Jev를 첫 번째 System One Model이라고 정의한다.핵심 아이디어는 간단하다....</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/Jev-개념과-사용법-정리</guid>
-      <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
-      <link>https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</link>
-      <description>three slicer 0.3.3 업데이트</description>
-      <guid isPermaLink="false">https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</guid>
-      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>교육청 정책을 우회하는 방법!</title>
-      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
-      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
-      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Ch.5] 스프린트 1 회고라고 쓰고 데모데이 당일 새벽에 CICD 실패하기</title>
-      <link>https://velog.io/@daynomy/ch5-sprint-1</link>
-      <description>레벨 3가 끝나고 잠깐의 방학까지 지나니 어느새 마지막 레벨인 레벨 4가 시작됐다.레벨 4는 새 프로젝트를 시작하는 과정이 아니었다. 레벨 3에서 검증한 사용자 문제와 fit을 바탕으로, 같은 제품을 네 번의 2주 스프린트 동안 계속 고도화하는 과정이었다.매 스프린트마...</description>
-      <guid isPermaLink="false">https://velog.io/@daynomy/ch5-sprint-1</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+      <title>[회고] #9 우산 부수기</title>
+      <link>https://velog.io/@bins1225/회고-9-우산-부수기</link>
+      <description>우테코를 조금 일찍 떠나며</description>
+      <guid isPermaLink="false">https://velog.io/@bins1225/회고-9-우산-부수기</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
       <title>개발자의 업무는 어디까지 자동화할 수 있을까?</title>
@@ -204,17 +169,52 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>5만원 짜리 기프티콘을 꽁짜로 뿌리면 어떻게 될까?</title>
-      <link>https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</link>
-      <description>대규모 시스템 프로젝트. 그 첫번째 이야기 입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jung_ji_in02/5만원-짜리-기프티콘을-꽁짜로-뿌리면-어떻게-될까</guid>
-      <pubDate>Tue, 06 Oct 2026 21:25:49 +0000</pubDate>
+      <title>Three Slicer 0.3.3: 91초를 10초로 줄이면서 찾은 것들</title>
+      <link>https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</link>
+      <description>three slicer 0.3.3 업데이트</description>
+      <guid isPermaLink="false">https://velog.io/@kimgh06/Three-Slicer-0.3.3-91초를-10초로-줄이면서-찾은-것들</guid>
+      <pubDate>Fri, 02 Oct 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
       <title>아름다운 음주 코딩을 위하여</title>
       <link>https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</link>
       <description>음주 코딩을 위한, 음주 코딩에 의한, 토스 인앱 개발 기록</description>
       <guid isPermaLink="false">https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</guid>
+      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[BE] DB를 매번 조회하지 않기 위해: 서버 캐시(Server Cache)</title>
+      <link>https://velog.io/@stdiodh/BE-DB를-매번-조회하지-않기-위해-서버-캐시</link>
+      <description>반복되는 원본 조회를 줄이면서도, 제한된 메모리와 데이터 최신성 사이의 균형을 어떻게 잡을지 결정하는 것</description>
+      <guid isPermaLink="false">https://velog.io/@stdiodh/BE-DB를-매번-조회하지-않기-위해-서버-캐시</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[회고록] 2026 국립공원 위성 모니터링 AI 챌린지</title>
+      <link>https://velog.io/@my_no_kim/회고록-2026-국립공원-위성-모니터링-AI-챌린지</link>
+      <description>2026 국립공원 위성 모니터링 AI 챌린지 · 주제 3 "국립공원 내 시설물 변화 탐지" (2026.09.19 ~ 10.06) 들어가며 국립공원공단이 주최하고 인공지능팩토리에서 열린 위성영상 AI 대회에 팀으로 참가했다. 주제 3은 같은 장소를 찍은 전/후 위성사...</description>
+      <guid isPermaLink="false">https://velog.io/@my_no_kim/회고록-2026-국립공원-위성-모니터링-AI-챌린지</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI dots가 나왔다 — 이제 AI는 질문을 기다리지 않는다</title>
+      <link>https://velog.io/@kyu_ios_dev/2609301</link>
+      <description>2026년 9월 29일 OpenAI가 dots를 공개했습니다.처음 보면 또 하나의 ChatGPT 기능처럼 보이지만, 방향은 꽤 다릅니다.지금까지 AI는 대부분 사용자가 먼저 말을 걸어야 움직였습니다.Codex나 Claude Code 같은 Coding Agent가 나오면...</description>
+      <guid isPermaLink="false">https://velog.io/@kyu_ios_dev/2609301</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>대전 타슈와 서울 따릉이를 한 앱에서 찾는 웹앱, 공공자전거 최적 경로 찾기 개발기</title>
+      <link>https://velog.io/@hoohoo0889/대전-타슈와-서울-따릉이를-한-앱에서-찾는-웹앱-공공자전거-최적-경로-찾기-개발기</link>
+      <description>갤러리아 백화점 하나 가는 데도 앱을 네 번 번갈아 열어야 했던 불편에서, 빌릴 곳부터 반납할 곳까지 한 화면에서 잇는 웹앱을 만들었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hoohoo0889/대전-타슈와-서울-따릉이를-한-앱에서-찾는-웹앱-공공자전거-최적-경로-찾기-개발기</guid>
+      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Ch.5] 스프린트 1 회고라고 쓰고 데모데이 당일 새벽에 CICD 실패하기</title>
+      <link>https://velog.io/@daynomy/ch5-sprint-1</link>
+      <description>레벨 3가 끝나고 잠깐의 방학까지 지나니 어느새 마지막 레벨인 레벨 4가 시작됐다.레벨 4는 새 프로젝트를 시작하는 과정이 아니었다. 레벨 3에서 검증한 사용자 문제와 fit을 바탕으로, 같은 제품을 네 번의 2주 스프린트 동안 계속 고도화하는 과정이었다.매 스프린트마...</description>
+      <guid isPermaLink="false">https://velog.io/@daynomy/ch5-sprint-1</guid>
       <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
   </channel>
