@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:00:14 +0000</lastBuildDate>
     <item>
       <title>AI Native FE 개발로의 전환, 150일간의 여정</title>
       <link>https://velog.io/@teo/ai-native-fe</link>
@@ -37,25 +37,11 @@
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
-      <title>멍청해지지 않기 위해, 느리게 생각하기</title>
-      <link>https://velog.io/@hoheesu/멍청해지지-않기-위해-느리게-생각하기</link>
-      <description>불현듯 이런 생각이 들었다. "나, 오히려 좀 멍청해진 것 같은데?"</description>
-      <guid isPermaLink="false">https://velog.io/@hoheesu/멍청해지지-않기-위해-느리게-생각하기</guid>
-      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
       <title>AI끼리 대화하는데 자연어가 필요할까?</title>
       <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
       <description>🤖🗣️🤖</description>
       <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
       <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>[E.P 04] - 사용자 리텐션을 높이자</title>
-      <link>https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</link>
-      <description>리로그의 새로운 피드 THE Rilog. 와 5살 업데이트 소식을 전합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</guid>
-      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>AI 시대에 오히려 사이드 프로젝트가 중요한 이유</title>
@@ -72,18 +58,25 @@
       <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
     </item>
     <item>
+      <title>[E.P 04] - 사용자 리텐션을 높이자</title>
+      <link>https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</link>
+      <description>리로그의 새로운 피드 THE Rilog. 와 5살 업데이트 소식을 전합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</guid>
+      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>멍청해지지 않기 위해, 느리게 생각하기</title>
+      <link>https://velog.io/@hoheesu/멍청해지지-않기-위해-느리게-생각하기</link>
+      <description>불현듯 이런 생각이 들었다. "나, 오히려 좀 멍청해진 것 같은데?"</description>
+      <guid isPermaLink="false">https://velog.io/@hoheesu/멍청해지지-않기-위해-느리게-생각하기</guid>
+      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
       <title>AI가 빨라질수록 개발자에게 남는 일</title>
       <link>https://velog.io/@dxxh_e/AI가-빨라질수록-개발자에게-남는-일</link>
       <description>Stack Overflow 2026 개발자 설문을 읽고 든 생각</description>
       <guid isPermaLink="false">https://velog.io/@dxxh_e/AI가-빨라질수록-개발자에게-남는-일</guid>
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rilog.에 디도스를 건사람은 OO다.</title>
-      <link>https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</link>
-      <description>디도스를 건 악질 트래픽 유저를 검거하다..</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</guid>
-      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>우리 열심히 코딩해서 고양이 키워봐요....</title>
@@ -98,6 +91,20 @@
       <description>이것저것 만들다가 길을 잃었다.</description>
       <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</guid>
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rilog.에 디도스를 건사람은 OO다.</title>
+      <link>https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</link>
+      <description>디도스를 건 악질 트래픽 유저를 검거하다..</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</guid>
+      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[GitHub Trending] REA 분석 — AI가 소스코드 없는 프로그램을 역공학하는 방법</title>
+      <link>https://velog.io/@taehoon1223/GitHub-Trending-REA-분석-AI가-소스코드-없는-프로그램을-역공학하는-방법</link>
+      <description>소스코드가 없는 프로그램도 AI가 분석하고, 내부 동작을 이해하고, 필요한 기능을 재구현할 수 있다면 어떨까?</description>
+      <guid isPermaLink="false">https://velog.io/@taehoon1223/GitHub-Trending-REA-분석-AI가-소스코드-없는-프로그램을-역공학하는-방법</guid>
+      <pubDate>Fri, 16 Oct 2026 19:47:50 +0000</pubDate>
     </item>
     <item>
       <title>feature-based 그게 뭔데</title>
@@ -121,13 +128,6 @@
       <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
-      <title>[GitHub Trending] REA 분석 — AI가 소스코드 없는 프로그램을 역공학하는 방법</title>
-      <link>https://velog.io/@taehoon1223/GitHub-Trending-REA-분석-AI가-소스코드-없는-프로그램을-역공학하는-방법</link>
-      <description>소스코드가 없는 프로그램도 AI가 분석하고, 내부 동작을 이해하고, 필요한 기능을 재구현할 수 있다면 어떨까?</description>
-      <guid isPermaLink="false">https://velog.io/@taehoon1223/GitHub-Trending-REA-분석-AI가-소스코드-없는-프로그램을-역공학하는-방법</guid>
-      <pubDate>Fri, 16 Oct 2026 19:47:50 +0000</pubDate>
-    </item>
-    <item>
       <title>만들지 않는 시간에도 나는 만드는 사람일까</title>
       <link>https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</link>
       <description>「쓰지 않는 행위로써 채워지는 생각들」 2탄</description>
@@ -142,24 +142,17 @@
       <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
+      <title>AI에게도 수면을 만들어준다면?</title>
+      <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
+      <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
       <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
       <link>https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</link>
       <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>교육청 정책을 우회하는 방법!</title>
-      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
-      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
-      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI에게도 수면을 만들어준다면?</title>
-      <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
-      <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
-      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
     </item>
     <item>
       <title>이직을 준비하며 다시 생각한 네이티브 개발 경험</title>
@@ -169,10 +162,10 @@
       <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
-      <title>아름다운 음주 코딩을 위하여</title>
-      <link>https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</link>
-      <description>음주 코딩을 위한, 음주 코딩에 의한, 토스 인앱 개발 기록</description>
-      <guid isPermaLink="false">https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</guid>
+      <title>교육청 정책을 우회하는 방법!</title>
+      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
+      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
+      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
       <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
@@ -183,17 +176,18 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
-      <title>언어의 장벽 앞에서 발견한 현 시대 개발자의 역할</title>
-      <link>https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</link>
-      <guid isPermaLink="false">https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</guid>
-      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
+      <title>아름다운 음주 코딩을 위하여</title>
+      <link>https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</link>
+      <description>음주 코딩을 위한, 음주 코딩에 의한, 토스 인앱 개발 기록</description>
+      <guid isPermaLink="false">https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</guid>
+      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
-      <title>카프카는 데이터를 어떻게 저장할까?</title>
-      <link>https://velog.io/@sbddjt/카프카는-데이터를-어떻게-저장할까</link>
-      <description>Kafka는 데이터를 어떻게 저장할까? Append-only Log부터 Record Batch, Log Segment, Sparse Index까지 저장 구조를 살펴보고, Docker 실습을 통해 실제 로그 파일과 Segment Rolling 과정을 확인해 보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@sbddjt/카프카는-데이터를-어떻게-저장할까</guid>
-      <pubDate>Fri, 16 Oct 2026 19:47:50 +0000</pubDate>
+      <title>velog dashboard v2 - MAU 1k, 그 이후!</title>
+      <link>https://velog.io/@qlgks1/velog-dashboard-v2-after-MAU-1k</link>
+      <description>조용해 보였지만 PR만 32개, 그간 운영 이슈들과 1년 넘게 모은 velog 트렌드 데이터랑 V.D가 앞으로 갈 방향까지 들고 온 근황입니다! 🔥🔥</description>
+      <guid isPermaLink="false">https://velog.io/@qlgks1/velog-dashboard-v2-after-MAU-1k</guid>
+      <pubDate>Sat, 17 Oct 2026 19:00:14 +0000</pubDate>
     </item>
     <item>
       <title>대전 타슈와 서울 따릉이를 한 앱에서 찾는 웹앱, 공공자전거 최적 경로 찾기 개발기</title>
@@ -203,18 +197,24 @@
       <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
+      <title>언어의 장벽 앞에서 발견한 현 시대 개발자의 역할</title>
+      <link>https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</link>
+      <guid isPermaLink="false">https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</guid>
+      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>4000줄의 레거시 쿼리, 안전하게 걷어내기</title>
+      <link>https://velog.io/@hyemin916/4000줄의-레거시-쿼리-안전하게-걷어내기</link>
+      <description>케이타운포유에 재직하면서 내가 맡은 가장 큰 프로젝트라 하면 장바구니와 주문 개선이 가장 먼저 떠오른다. 이커머스의 핵심 도메인에 깊게 관여할 수 있었고, 뛰어난 개발자들과 함께 복잡한 레거시를 해체하면서 많은 것을 배울 수 있었기 때문이다.케이타운포유는 해외 배송 비...</description>
+      <guid isPermaLink="false">https://velog.io/@hyemin916/4000줄의-레거시-쿼리-안전하게-걷어내기</guid>
+      <pubDate>Sat, 17 Oct 2026 19:00:14 +0000</pubDate>
+    </item>
+    <item>
       <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
       <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
       <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
       <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>[회고록] 2026 국립공원 위성 모니터링 AI 챌린지</title>
-      <link>https://velog.io/@my_no_kim/회고록-2026-국립공원-위성-모니터링-AI-챌린지</link>
-      <description>2026 국립공원 위성 모니터링 AI 챌린지 · 주제 3 "국립공원 내 시설물 변화 탐지" (2026.09.19 ~ 10.06) 들어가며 국립공원공단이 주최하고 인공지능팩토리에서 열린 위성영상 AI 대회에 팀으로 참가했다. 주제 3은 같은 장소를 찍은 전/후 위성사...</description>
-      <guid isPermaLink="false">https://velog.io/@my_no_kim/회고록-2026-국립공원-위성-모니터링-AI-챌린지</guid>
-      <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
