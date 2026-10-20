@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:16:11 +0000</lastBuildDate>
     <item>
       <title>AI Native FE 개발로의 전환, 150일간의 여정</title>
       <link>https://velog.io/@teo/ai-native-fe</link>
@@ -51,20 +51,6 @@
       <pubDate>Sat, 17 Oct 2026 19:00:14 +0000</pubDate>
     </item>
     <item>
-      <title>프로덕트 메이커이기도 하면서 사용자가 될 수 있다는 점</title>
-      <link>https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</link>
-      <description>퇴사, 그리고 당근 인턴으로 합류하기까지의 여정</description>
-      <guid isPermaLink="false">https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</guid>
-      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI끼리 대화하는데 자연어가 필요할까?</title>
-      <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
-      <description>🤖🗣️🤖</description>
-      <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
-      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
       <title>멍청해지지 않기 위해, 느리게 생각하기</title>
       <link>https://velog.io/@hoheesu/멍청해지지-않기-위해-느리게-생각하기</link>
       <description>불현듯 이런 생각이 들었다. "나, 오히려 좀 멍청해진 것 같은데?"</description>
@@ -79,6 +65,20 @@
       <pubDate>Fri, 16 Oct 2026 19:47:50 +0000</pubDate>
     </item>
     <item>
+      <title>프로덕트 메이커이기도 하면서 사용자가 될 수 있다는 점</title>
+      <link>https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</link>
+      <description>퇴사, 그리고 당근 인턴으로 합류하기까지의 여정</description>
+      <guid isPermaLink="false">https://velog.io/@cconac/프로덕트-메이커이기도-하면서-사용자가-될-수-있다는-점</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI끼리 대화하는데 자연어가 필요할까?</title>
+      <link>https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</link>
+      <description>🤖🗣️🤖</description>
+      <guid isPermaLink="false">https://velog.io/@hhhhhyeonnnnn/AI끼리-대화하는데-자연어가-필요할까</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
       <title>AI가 빨라질수록 개발자에게 남는 일</title>
       <link>https://velog.io/@dxxh_e/AI가-빨라질수록-개발자에게-남는-일</link>
       <description>Stack Overflow 2026 개발자 설문을 읽고 든 생각</description>
@@ -86,11 +86,25 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
+      <title>커넥션풀 부하 강희가 망치 들고 뿌시기</title>
+      <link>https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</link>
+      <description>이강희그는감히전설이라고할수있다 안녕하세요 TEAM UNS 팀장 이강희입니다. 오늘은 TEAM YOT 팀장이 아닌 TEAM UNS 팀장으로 인사드립니다. 재밌게 봐주시길 바랍니다람쥐 (요즘 f1에 빠졋습니다) “시발점(始發點)” AI 서버와 백엔드 서버를 연동한 ...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
+    </item>
+    <item>
       <title>[E.P 04] - 사용자 리텐션을 높이자</title>
       <link>https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</link>
       <description>리로그의 새로운 피드 THE Rilog. 와 5살 업데이트 소식을 전합니다.</description>
       <guid isPermaLink="false">https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>GPT-6 Astra 쓰다 토큰 순삭? 메인을 GPT-6.1 Sol로 갈아타고 2주간 달라진 것</title>
+      <link>https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</link>
+      <description>ChatGPT Pro $200을 쓰면서 Codex로 게임과 사이드 프로젝트를 만든 지 꽤 됐다.궁금해서 GPT-6 Astra로만 작업해봤더니 사용량 한도가 순식간에 사라졌다.그러다 2026년 9월 29일(한국 시간 30일) GPT-6.1 Sol이 나왔고, 약 2주간 C...</description>
+      <guid isPermaLink="false">https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</guid>
+      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
       <title>우리 열심히 코딩해서 고양이 키워봐요....</title>
@@ -107,18 +121,18 @@
       <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
     </item>
     <item>
-      <title>GPT-6 Astra 쓰다 토큰 순삭? 메인을 GPT-6.1 Sol로 갈아타고 2주간 달라진 것</title>
-      <link>https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</link>
-      <description>ChatGPT Pro $200을 쓰면서 Codex로 게임과 사이드 프로젝트를 만든 지 꽤 됐다.궁금해서 GPT-6 Astra로만 작업해봤더니 사용량 한도가 순식간에 사라졌다.그러다 2026년 9월 29일(한국 시간 30일) GPT-6.1 Sol이 나왔고, 약 2주간 C...</description>
-      <guid isPermaLink="false">https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</guid>
-      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
+      <title>Rilog.에 디도스를 건사람은 OO다.</title>
+      <link>https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</link>
+      <description>디도스를 건 악질 트래픽 유저를 검거하다..</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</guid>
+      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
-      <title>회사 밖의 개발자 02. 길을 잃었다</title>
-      <link>https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</link>
-      <description>이것저것 만들다가 길을 잃었다.</description>
-      <guid isPermaLink="false">https://velog.io/@lotus0204/회사-밖의-개발자-02.-선택지가-많아지자-길을-잃었다</guid>
-      <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
+      <title>(번역) 왜 더 많은 개발자가 웹 플랫폼을 활용하지 않을까요?</title>
+      <link>https://velog.io/@tap_kim/why-dont-more-developers-use-the-platform</link>
+      <description>수년 동안 웹 표준, 성능, 접근성을 옹호하는 사람들은 웹 개발자들에게 “플랫폼을 사용하라”고 간곡히 요청해 왔습니다. 저 역시 자주 그 옹호자 중 한 사람이었습니다. “플랫폼을 사용하라”가 그렇게 자명하다면, 왜 그렇게 많은 사람을 설득해야 하는 것처럼 보일까요?</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/why-dont-more-developers-use-the-platform</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
     </item>
     <item>
       <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
@@ -126,13 +140,6 @@
       <description>Opus 5.5와 코드로 렌더링한 스프린터스 소개 영상 제작기</description>
       <guid isPermaLink="false">https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</guid>
       <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rilog.에 디도스를 건사람은 OO다.</title>
-      <link>https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</link>
-      <description>디도스를 건 악질 트래픽 유저를 검거하다..</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/Rilog.에-디도스를-건사람은-OO다</guid>
-      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>회사 밖의 개발자 03. 만들고 보니 쿠팡에 있었다</title>
@@ -149,31 +156,11 @@
       <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
-      <title>만들지 않는 시간에도 나는 만드는 사람일까</title>
-      <link>https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</link>
-      <description>「쓰지 않는 행위로써 채워지는 생각들」 2탄</description>
-      <guid isPermaLink="false">https://velog.io/@daydreamplace/만들지-않는-시간에도-나는-만드는-사람일까</guid>
-      <pubDate>Fri, 09 Oct 2026 21:27:49 +0000</pubDate>
-    </item>
-    <item>
       <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
       <link>https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</link>
       <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI에게도 수면을 만들어준다면?</title>
-      <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
-      <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
-      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
-      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
-      <description>개발자 포트폴리오 제작기 #3</description>
-      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
       <title>개발자의 업무는 어디까지 자동화할 수 있을까?</title>
@@ -183,11 +170,24 @@
       <pubDate>Wed, 07 Oct 2026 21:48:25 +0000</pubDate>
     </item>
     <item>
+      <title>AI에게도 수면을 만들어준다면?</title>
+      <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
+      <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
+      <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
+    </item>
+    <item>
       <title>아름다운 음주 코딩을 위하여</title>
       <link>https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</link>
       <description>음주 코딩을 위한, 음주 코딩에 의한, 토스 인앱 개발 기록</description>
       <guid isPermaLink="false">https://velog.io/@ravenkim/아름다운-음주-코딩을-위하여</guid>
       <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
+      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
+      <description>개발자 포트폴리오 제작기 #3</description>
+      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
+      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
       <title>대전 타슈와 서울 따릉이를 한 앱에서 찾는 웹앱, 공공자전거 최적 경로 찾기 개발기</title>
@@ -210,11 +210,11 @@
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>4000줄의 레거시 쿼리, 안전하게 걷어내기</title>
-      <link>https://velog.io/@hyemin916/4000줄의-레거시-쿼리-안전하게-걷어내기</link>
-      <description>케이타운포유에 재직하면서 내가 맡은 가장 큰 프로젝트라 하면 장바구니와 주문 개선이 가장 먼저 떠오른다. 이커머스의 핵심 도메인에 깊게 관여할 수 있었고, 뛰어난 개발자들과 함께 복잡한 레거시를 해체하면서 많은 것을 배울 수 있었기 때문이다.케이타운포유는 해외 배송 비...</description>
-      <guid isPermaLink="false">https://velog.io/@hyemin916/4000줄의-레거시-쿼리-안전하게-걷어내기</guid>
-      <pubDate>Sat, 17 Oct 2026 19:00:14 +0000</pubDate>
+      <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
+      <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
+      <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
