@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:33:47 +0000</lastBuildDate>
     <item>
       <title>AI Native FE 개발로의 전환, 150일간의 여정</title>
       <link>https://velog.io/@teo/ai-native-fe</link>
@@ -21,13 +21,6 @@
       <description>"그거 어떻게 하기로 했더라?"에 답하는 서비스를 만들기까지</description>
       <guid isPermaLink="false">https://velog.io/@vlmbuyd/knot-망한-회의-100번-하고-만든-서비스</guid>
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>"혹시... 당근이세요?" 3년 차 개발자의 당근 인턴십 합류기</title>
-      <link>https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</link>
-      <description>정규직을 포기하고 체험형 인턴으로 당근에 합류한 보통의 개발자 이야기.</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/혹시...-당근이세요-3년-차-개발자의-당근-인턴십-합류기</guid>
-      <pubDate>Thu, 08 Oct 2026 21:49:59 +0000</pubDate>
     </item>
     <item>
       <title>AI 시대에 오히려 사이드 프로젝트가 중요한 이유</title>
@@ -79,11 +72,11 @@
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>커넥션풀 부하 강희가 망치 들고 뿌시기</title>
-      <link>https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</link>
-      <description>이강희그는감히전설이라고할수있다 안녕하세요 TEAM UNS 팀장 이강희입니다. 오늘은 TEAM YOT 팀장이 아닌 TEAM UNS 팀장으로 인사드립니다. 재밌게 봐주시길 바랍니다람쥐 (요즘 f1에 빠졋습니다) “시발점(始發點)” AI 서버와 백엔드 서버를 연동한 ...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</guid>
-      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
+      <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
+      <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
+      <description>능이버섯</description>
+      <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
       <title>우리 열심히 코딩해서 고양이 키워봐요....</title>
@@ -91,6 +84,13 @@
       <description>이제 나도 있어 고양이</description>
       <guid isPermaLink="false">https://velog.io/@changwoo/우리-열심히-코딩해서-고양이-키워봐요</guid>
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>커넥션풀 부하 강희가 망치 들고 뿌시기</title>
+      <link>https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</link>
+      <description>이강희그는감히전설이라고할수있다 안녕하세요 TEAM UNS 팀장 이강희입니다. 오늘은 TEAM YOT 팀장이 아닌 TEAM UNS 팀장으로 인사드립니다. 재밌게 봐주시길 바랍니다람쥐 (요즘 f1에 빠졋습니다) “시발점(始發點)” AI 서버와 백엔드 서버를 연동한 ...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
     </item>
     <item>
       <title>[E.P 04] - 사용자 리텐션을 높이자</title>
@@ -121,13 +121,6 @@
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
-      <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
-      <link>https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</link>
-      <description>Opus 5.5와 코드로 렌더링한 스프린터스 소개 영상 제작기</description>
-      <guid isPermaLink="false">https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</guid>
-      <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
-    </item>
-    <item>
       <title>회사 밖의 개발자 03. 만들고 보니 쿠팡에 있었다</title>
       <link>https://velog.io/@lotus0204/회사-밖의-개발자-03.-만들고-보니-쿠팡에-있었다</link>
       <description>할머니들 카트에 치이며 시작한 아이디어. 다 만들고 보니, 쿠팡도 같은 생각을 하고 있었다.</description>
@@ -135,11 +128,11 @@
       <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
-      <title>교육청 정책을 우회하는 방법!</title>
-      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
-      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
-      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+      <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
+      <link>https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</link>
+      <description>Opus 5.5와 코드로 렌더링한 스프린터스 소개 영상 제작기</description>
+      <guid isPermaLink="false">https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</guid>
+      <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
     </item>
     <item>
       <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
@@ -147,6 +140,13 @@
       <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>교육청 정책을 우회하는 방법!</title>
+      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
+      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
+      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
+      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
       <title>AI에게도 수면을 만들어준다면?</title>
@@ -162,31 +162,25 @@
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
+      <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
+      <link>https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</link>
+      <description>배포 중 녹음이 끊기는 문제를 해결하기 위해 단일 EC2에 Blue-Green 배포를 도입했습니다. 배포 전략 비교부터 두 JVM 동시 실행, Nginx 트래픽 전환, Connection Drain 장애 해결, 운영 환경의 녹음 연속성 검증까지의 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[운영체제] 프로세스와 스레드, 뭐가 다를까?</title>
+      <link>https://velog.io/@pskjhlog/process-vs-thread</link>
+      <description>프로세스와 스레드의 차이를 메모리 구조부터 다시 정리했습니다. 스레드끼리 무엇을 함께 쓰고 무엇을 따로 가지는지, 그 차이가 컨텍스트 스위칭과 스프링 서버의 동시성 문제로 어떻게 이어지는지 살펴봅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/process-vs-thread</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
       <title>어어 프론트라고? 로봇 배터리부터 공부해봐~</title>
       <link>https://velog.io/@x0gus/어어-프론트라고-로봇-배터리부터-공부해봐</link>
       <description>프론튼데 로봇 배터리 시트 공부한 썰 풉니다</description>
       <guid isPermaLink="false">https://velog.io/@x0gus/어어-프론트라고-로봇-배터리부터-공부해봐</guid>
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>언어의 장벽 앞에서 발견한 현 시대 개발자의 역할</title>
-      <link>https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</link>
-      <guid isPermaLink="false">https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</guid>
-      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
-      <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
-      <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
-      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Toss simplikit에 기여해보기 - 컴파일 검증은 무적이 아니다</title>
-      <link>https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</link>
-      <description>타입스크립트를 사용하는 이유가 무엇일까? 필자는 컴파일 단계에서 타입적으로 오류를 미리 잡아내어 추적을 쉽게 하기 위함이라고 생각한다. 문제 상황</description>
-      <guid isPermaLink="false">https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</guid>
-      <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
     </item>
     <item>
       <title>당근의 CI 빌드 캐시 개선 과정</title>
@@ -196,25 +190,30 @@
       <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
     </item>
     <item>
-      <title>모두의 일을 각자의 책임으로 나누기까지</title>
-      <link>https://velog.io/@vlmbuyd/knot-EP.-1-모두의-일을-각자의-책임으로-나누기까지</link>
-      <description>팀의 결정을 모두의 기억으로, knot 팀 회고</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/knot-EP.-1-모두의-일을-각자의-책임으로-나누기까지</guid>
-      <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
+      <title>SK Hynix AI Hackathon 1차 예선 후기</title>
+      <link>https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</link>
+      <guid isPermaLink="false">https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>AI가 짠 코드를 전부 리뷰해야 할까?</title>
-      <link>https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</link>
-      <description>Codex와 Claude로 검증 루프를 만든 과정</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</guid>
-      <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
+      <title>언어의 장벽 앞에서 발견한 현 시대 개발자의 역할</title>
+      <link>https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</link>
+      <guid isPermaLink="false">https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</guid>
+      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>같이 걷자 난 다 궁금해</title>
-      <link>https://velog.io/@cold_as_hell/같이-걷자-난-다-궁금해</link>
-      <description>팀원들과 AI 시대에서 살아남기.</description>
-      <guid isPermaLink="false">https://velog.io/@cold_as_hell/같이-걷자-난-다-궁금해</guid>
-      <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
+      <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
+      <link>https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</link>
+      <description>관련 경험이 전무했던 대학생이 1인 개발로 예약 앱을 출시하고 2년간 운영하며 성장한 내용을 다룹니다.</description>
+      <guid isPermaLink="false">https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
+      <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
+      <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
+      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
