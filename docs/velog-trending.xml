@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 22 Oct 2026 20:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:11:47 +0000</lastBuildDate>
     <item>
       <title>AI Native FE 개발로의 전환, 150일간의 여정</title>
       <link>https://velog.io/@teo/ai-native-fe</link>
@@ -72,13 +72,6 @@
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
-      <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
-      <description>능이버섯</description>
-      <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
-    </item>
-    <item>
       <title>우리 열심히 코딩해서 고양이 키워봐요....</title>
       <link>https://velog.io/@changwoo/우리-열심히-코딩해서-고양이-키워봐요</link>
       <description>이제 나도 있어 고양이</description>
@@ -93,11 +86,11 @@
       <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
     </item>
     <item>
-      <title>[E.P 04] - 사용자 리텐션을 높이자</title>
-      <link>https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</link>
-      <description>리로그의 새로운 피드 THE Rilog. 와 5살 업데이트 소식을 전합니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</guid>
-      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+      <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
+      <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
+      <description>능이버섯</description>
+      <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
       <title>feature-based 그게 뭔데</title>
@@ -105,6 +98,13 @@
       <description>안녕하세요 팀 UNS에서 프론트엔드 개발을 담당하고 있는 이선우입니다 😁 프론트엔드 파트 첫 글인 만큼 가볍게 아키텍처 이야기를 다뤄보려고 합니다. 팀 UNS의 Devs 프로젝트를 처음 시작할 때 가장 먼저 한 고민은 "어떤 기술을 쓰지?"가 아닌 "어떤 아키...</description>
       <guid isPermaLink="false">https://velog.io/@teamuns2026/Temp-Title</guid>
       <pubDate>Sat, 10 Oct 2026 20:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[E.P 04] - 사용자 리텐션을 높이자</title>
+      <link>https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</link>
+      <description>리로그의 새로운 피드 THE Rilog. 와 5살 업데이트 소식을 전합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-04-사용자-리텐션을-높이자</guid>
+      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>(번역) 왜 더 많은 개발자가 웹 플랫폼을 활용하지 않을까요?</title>
@@ -135,11 +135,24 @@
       <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
     </item>
     <item>
+      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
+      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
+      <description>개발자 포트폴리오 제작기 #3</description>
+      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
+      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
+    </item>
+    <item>
       <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
       <link>https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</link>
       <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>SK Hynix AI Hackathon 1차 예선 후기</title>
+      <link>https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</link>
+      <guid isPermaLink="false">https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
       <title>교육청 정책을 우회하는 방법!</title>
@@ -153,27 +166,6 @@
       <link>https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</link>
       <guid isPermaLink="false">https://velog.io/@krsjkim/AI에게도-수면을-만들어준다면</guid>
       <pubDate>Sun, 11 Oct 2026 20:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
-      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
-      <description>개발자 포트폴리오 제작기 #3</description>
-      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
-      <link>https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</link>
-      <description>배포 중 녹음이 끊기는 문제를 해결하기 위해 단일 EC2에 Blue-Green 배포를 도입했습니다. 배포 전략 비교부터 두 JVM 동시 실행, Nginx 트래픽 전환, Connection Drain 장애 해결, 운영 환경의 녹음 연속성 검증까지의 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>[운영체제] 프로세스와 스레드, 뭐가 다를까?</title>
-      <link>https://velog.io/@pskjhlog/process-vs-thread</link>
-      <description>프로세스와 스레드의 차이를 메모리 구조부터 다시 정리했습니다. 스레드끼리 무엇을 함께 쓰고 무엇을 따로 가지는지, 그 차이가 컨텍스트 스위칭과 스프링 서버의 동시성 문제로 어떻게 이어지는지 살펴봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/process-vs-thread</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
       <title>어어 프론트라고? 로봇 배터리부터 공부해봐~</title>
@@ -190,9 +182,10 @@
       <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
     </item>
     <item>
-      <title>SK Hynix AI Hackathon 1차 예선 후기</title>
-      <link>https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</link>
-      <guid isPermaLink="false">https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</guid>
+      <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
+      <link>https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</link>
+      <description>관련 경험이 전무했던 대학생이 1인 개발로 예약 앱을 출시하고 2년간 운영하며 성장한 내용을 다룹니다.</description>
+      <guid isPermaLink="false">https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</guid>
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
@@ -202,18 +195,25 @@
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
-      <link>https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</link>
-      <description>관련 경험이 전무했던 대학생이 1인 개발로 예약 앱을 출시하고 2년간 운영하며 성장한 내용을 다룹니다.</description>
-      <guid isPermaLink="false">https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
-    </item>
-    <item>
       <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
       <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
       <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
       <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
       <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kafka</title>
+      <link>https://velog.io/@d6nggyun/Kafka</link>
+      <description>Kafka는 이벤트 스트리밍 플랫폼입니다.메시지를 보내고 받는 것(publish/subscribe)에 더해, 받은 메시지를 원하는 기간 동안 저장하고(store), 들어오는 대로 또는 나중에 처리(process)하는 기능을 함께 제공합니다.</description>
+      <guid isPermaLink="false">https://velog.io/@d6nggyun/Kafka</guid>
+      <pubDate>Fri, 23 Oct 2026 20:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
+      <link>https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</link>
+      <description>배포 중 녹음이 끊기는 문제를 해결하기 위해 단일 EC2에 Blue-Green 배포를 도입했습니다. 배포 전략 비교부터 두 JVM 동시 실행, Nginx 트래픽 전환, Connection Drain 장애 해결, 운영 환경의 녹음 연속성 검증까지의 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
