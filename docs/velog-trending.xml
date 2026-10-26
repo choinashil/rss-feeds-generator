@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:18:41 +0000</lastBuildDate>
     <item>
       <title>AI Native FE 개발로의 전환, 150일간의 여정</title>
       <link>https://velog.io/@teo/ai-native-fe</link>
@@ -16,18 +16,18 @@
       <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
+      <title>우테코 신비주의 깨드립니다</title>
+      <link>https://velog.io/@harudle/우테코-신비주의-깨드립니다</link>
+      <description>누구나 그럴싸한 환상을 가지고 있다. 쳐맞기 전까지는.</description>
+      <guid isPermaLink="false">https://velog.io/@harudle/우테코-신비주의-깨드립니다</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
+    </item>
+    <item>
       <title>망한 회의 100번 하고 만든 서비스</title>
       <link>https://velog.io/@vlmbuyd/knot-망한-회의-100번-하고-만든-서비스</link>
       <description>EP.2 "그거 어떻게 하기로 했더라?"에 답하는 서비스를 만들기까지</description>
       <guid isPermaLink="false">https://velog.io/@vlmbuyd/knot-망한-회의-100번-하고-만든-서비스</guid>
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 시대에 오히려 사이드 프로젝트가 중요한 이유</title>
-      <link>https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</link>
-      <description>아직도 사이드 프로젝트를 하지 않는다고요?</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/AI-시대에-오히려-사이드-프로젝트가-중요한-이유</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
     </item>
     <item>
       <title>멍청해지지 않기 위해, 느리게 생각하기</title>
@@ -49,13 +49,6 @@
       <description>조용해 보였지만 PR만 32개, 그간 운영 이슈들과 1년 넘게 모은 velog 트렌드 데이터랑 V.D가 앞으로 갈 방향까지 들고 온 근황입니다! 🔥🔥</description>
       <guid isPermaLink="false">https://velog.io/@qlgks1/velog-dashboard-v2-after-MAU-1k</guid>
       <pubDate>Sat, 17 Oct 2026 19:00:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>GPT-6 Astra 쓰다 토큰 순삭? 메인을 GPT-6.1 Sol로 갈아타고 2주간 달라진 것</title>
-      <link>https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</link>
-      <description>ChatGPT Pro $200을 쓰면서 Codex로 게임과 사이드 프로젝트를 만든 지 꽤 됐다.궁금해서 GPT-6 Astra로만 작업해봤더니 사용량 한도가 순식간에 사라졌다.그러다 2026년 9월 29일(한국 시간 30일) GPT-6.1 Sol이 나왔고, 약 2주간 C...</description>
-      <guid isPermaLink="false">https://velog.io/@kimkuns/GPT-6-Astra-쓰다-토큰-순삭-메인을-GPT-6.1-Sol로-갈아타고-2주간-달라진-것-23r97hr5</guid>
-      <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
       <title>우리 열심히 코딩해서 고양이 키워봐요....</title>
@@ -107,17 +100,17 @@
       <pubDate>Tue, 13 Oct 2026 21:42:36 +0000</pubDate>
     </item>
     <item>
+      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
+      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
+      <description>개발자 포트폴리오 제작기 #3</description>
+      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
+      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
+    </item>
+    <item>
       <title>SK Hynix AI Hackathon 1차 예선 후기</title>
       <link>https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</link>
       <guid isPermaLink="false">https://velog.io/@ptt9965/SK-Hynix-AI-Hackathon-1차-예선-후기</guid>
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
-      <link>https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</link>
-      <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
-      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
@@ -127,18 +120,11 @@
       <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
     </item>
     <item>
-      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
-      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
-      <description>개발자 포트폴리오 제작기 #3</description>
-      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>교육청 정책을 우회하는 방법!</title>
-      <link>https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</link>
-      <description>대마고 전공동아리 XQUARE에서 교내 서버에서 Proxmox 운영체제를 사용해 학생들에게 EC2와 같은 VM을 대여해주는 서비스를 개발했다.하지만 학생들이 대여받은 VM에 어떤 방식으로 접속하게 할 것인지 문제가 생겼다.WireGuard를 사용해 VPN 사설망을 구축...</description>
-      <guid isPermaLink="false">https://velog.io/@sungjujjang/교육청-정책을-우회하는-방법-qtd85ukc</guid>
-      <pubDate>Mon, 12 Oct 2026 23:27:46 +0000</pubDate>
+      <title>우리의 코트는 아직 끝나지 않았다 — 슬램덩크 팬페이지를 웹 게임으로 만들기</title>
+      <link>https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</link>
+      <description>슬램덩크 추억을 웹 게임으로 옮긴 비공식 팬페이지 제작기. 친구와 실시간 1:1 대전도 가능합니다. 실제 플레이, 5대5 시뮬레이션 연구실, 슛 동작 전후 비교 등 스크린샷 7장과 제작 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@donghyuk65/우리의-코트는-아직-끝나지-않았다-슬램덩크-팬페이지를-웹-게임으로-만들기</guid>
+      <pubDate>Thu, 15 Oct 2026 20:10:29 +0000</pubDate>
     </item>
     <item>
       <title>어어 프론트라고? 로봇 배터리부터 공부해봐~</title>
@@ -148,18 +134,11 @@
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>당근의 CI 빌드 캐시 개선 과정</title>
-      <link>https://velog.io/@uechann/당근의-CI-빌드-캐시-개선-과정</link>
-      <description>안녕하세요! 감사하게도 2026 당근 빌더 밋업에 다녀왔는데요, 인상이 깊었던 발표에 대해서 글을 작성해보려고 합니다. 당근 빌더 밋업 Platform Day 전체 타임테이블과 발표별 정리, 발표 자료 링크 해당 링크를 통해서 확인해주세요! 당근 빌더 밋업 Platf...</description>
-      <guid isPermaLink="false">https://velog.io/@uechann/당근의-CI-빌드-캐시-개선-과정</guid>
-      <pubDate>Wed, 21 Oct 2026 20:26:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Issac ROS 5.0 스킬이 나온 김에 내 스킬을 비교해보기</title>
-      <link>https://velog.io/@dbwls/Issac-ROS-5.0-스킬이-나온-김에-내-스킬을-비교해보기</link>
-      <description>최근 NVIDIA에서 Isaac ROS 5.0을 출시했다. 릴리스 노트를 읽어보다가 흥미로운 내용을 발견했는데, 이번 버전부터 AI 코딩 도우미를 위한 스킬도 함께 제공한다는 것이다. Isaac ROS 5.0 릴리스 노트 이전에 간단히 소개한 적이 있지만, 나도 ...</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/Issac-ROS-5.0-스킬이-나온-김에-내-스킬을-비교해보기</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+      <title>FECONF 2026 후기</title>
+      <link>https://velog.io/@ehdghks12/FECONF-2026-후기</link>
+      <description>FECONF 2026 세션 후기</description>
+      <guid isPermaLink="false">https://velog.io/@ehdghks12/FECONF-2026-후기</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
       <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
@@ -169,30 +148,51 @@
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
+      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
+      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
+      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude Code의 mod 기능으로 터꾸(터미널 꾸미기)🗒️</title>
+      <link>https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</link>
+      <description>여느 때와 다름없이 AI를 부려먹고 있던 중 Claude Code에 mod라는 새 기능이 나왔다는 걸 보았다.이게 뭐지 하고 살펴보니 터미널을 꾸밀 수 있는 기능이었다.https://claude.com/ko/resources/articles/claude-cod...</description>
+      <guid isPermaLink="false">https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toss simplikit에 기여해보기 - 컴파일 검증은 무적이 아니다</title>
+      <link>https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</link>
+      <description>타입스크립트를 사용하는 이유가 무엇일까? 필자는 컴파일 단계에서 타입적으로 오류를 미리 잡아내어 추적을 쉽게 하기 위함이라고 생각한다. 문제 상황</description>
+      <guid isPermaLink="false">https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</guid>
+      <pubDate>Sat, 24 Oct 2026 19:13:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Issac ROS 5.0 스킬이 나온 김에 내 스킬을 비교해보기</title>
+      <link>https://velog.io/@dbwls/Issac-ROS-5.0-스킬이-나온-김에-내-스킬을-비교해보기</link>
+      <description>최근 NVIDIA에서 Isaac ROS 5.0을 출시했다. 릴리스 노트를 읽어보다가 흥미로운 내용을 발견했는데, 이번 버전부터 AI 코딩 도우미를 위한 스킬도 함께 제공한다는 것이다. Isaac ROS 5.0 릴리스 노트 이전에 간단히 소개한 적이 있지만, 나도 ...</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/Issac-ROS-5.0-스킬이-나온-김에-내-스킬을-비교해보기</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+    </item>
+    <item>
       <title>언어의 장벽 앞에서 발견한 현 시대 개발자의 역할</title>
       <link>https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</link>
       <guid isPermaLink="false">https://velog.io/@hyemin916/언어의-장벽-앞에서-발견한-AI-시대-개발자의-역할</guid>
       <pubDate>Wed, 14 Oct 2026 20:25:17 +0000</pubDate>
     </item>
     <item>
-      <title>도구는 늘었고, 창구는 하나가 됐다: dot 사용기</title>
-      <link>https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</link>
-      <description>개발 프로젝트마다 Claude나 Codex 같은 에이전트를 두고 작업했다. A 프로젝트를 하려면 A 프로젝트의 에이전트를, B 프로젝트를 하려면 B 프로젝트의 에이전트를 찾아갔다. 취업 준비와 일정 관리, 업무일지까지 더해지니 일을 맡기는 창구도 도메인마다 나뉘었다. ...</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구는-늘었고-창구는-하나가-됐다-dot-사용기-nshxubcc</guid>
-      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
+      <title>메일 5만 통이 터진 날, 큐는 안 건드리고 해결해 본 이야기</title>
+      <link>https://velog.io/@lacid00/메일-5만-통이-터진-날-큐는-안-건드리고-해결해-본-이야기</link>
+      <description>출근해서 보니 회원가입시 인증코드 메일이 안 온다는 얘기가 돌고 있었다. 확인해 보니 연동 오류 알림 메일이 7만 통이 넘게 쌓여서 메일 큐가 꽉 막혀 있었다. Interface 오류 알림 하나가 폭주하는 바람에, 멀쩡한 주문 메일이나 알림 메일까지 줄을 서서 기다리는...</description>
+      <guid isPermaLink="false">https://velog.io/@lacid00/메일-5만-통이-터진-날-큐는-안-건드리고-해결해-본-이야기</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
-      <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
-      <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
-      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
-      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
+      <title>AI가 짠 코드를 전부 리뷰해야 할까?</title>
+      <link>https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</link>
+      <description>Codex와 Claude로 검증 루프를 만든 과정</description>
+      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</guid>
       <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
@@ -203,18 +203,18 @@
       <pubDate>Sat, 24 Oct 2026 19:13:43 +0000</pubDate>
     </item>
     <item>
-      <title>Toss simplikit에 기여해보기 - 컴파일 검증은 무적이 아니다</title>
-      <link>https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</link>
-      <description>타입스크립트를 사용하는 이유가 무엇일까? 필자는 컴파일 단계에서 타입적으로 오류를 미리 잡아내어 추적을 쉽게 하기 위함이라고 생각한다. 문제 상황</description>
-      <guid isPermaLink="false">https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</guid>
-      <pubDate>Sat, 24 Oct 2026 19:13:43 +0000</pubDate>
+      <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
+      <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
+      <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
-      <title>AI가 짠 코드를 전부 리뷰해야 할까?</title>
-      <link>https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</link>
-      <description>Codex와 Claude로 검증 루프를 만든 과정</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+      <title>이제 고등학생은 코딩을 안한다, AI 네이티브 해커톤 "신입인데 만렙입니다" 후기</title>
+      <link>https://velog.io/@m161awm/2026hack</link>
+      <description>비개발자가 코딩하는 시대, 우리는 어떻게 살아가야할까? 학생 해커톤 후기</description>
+      <guid isPermaLink="false">https://velog.io/@m161awm/2026hack</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
