@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:22:02 +0000</lastBuildDate>
     <item>
       <title>우테코 신비주의 깨드립니다</title>
       <link>https://velog.io/@harudle/우테코-신비주의-깨드립니다</link>
@@ -51,6 +51,13 @@
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
+      <title>AI는 오픈소스 세계를 더럽히고 있다</title>
+      <link>https://velog.io/@antoliny0919/AI는-오픈소스-세계를-더럽히고-있다</link>
+      <description>AI를 통해 문제를 해결한다고 했을때 우리가 절대 잃지 않아야하는 태도는 무엇일까요 ?</description>
+      <guid isPermaLink="false">https://velog.io/@antoliny0919/AI는-오픈소스-세계를-더럽히고-있다</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+    </item>
+    <item>
       <title>(번역) 왜 더 많은 개발자가 웹 플랫폼을 활용하지 않을까요?</title>
       <link>https://velog.io/@tap_kim/why-dont-more-developers-use-the-platform</link>
       <description>수년 동안 웹 표준, 성능, 접근성을 옹호하는 사람들은 웹 개발자들에게 “플랫폼을 사용하라”고 간곡히 요청해 왔습니다. 저 역시 자주 그 옹호자 중 한 사람이었습니다. “플랫폼을 사용하라”가 그렇게 자명하다면, 왜 그렇게 많은 사람을 설득해야 하는 것처럼 보일까요?</description>
@@ -64,6 +71,13 @@
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
+      <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
+      <link>https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</link>
+      <description>관련 경험이 전무했던 대학생이 1인 개발로 예약 앱을 출시하고 2년간 운영하며 성장한 내용을 다룹니다.</description>
+      <guid isPermaLink="false">https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
       <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
       <link>https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</link>
       <description>Opus 5.5와 코드로 렌더링한 스프린터스 소개 영상 제작기</description>
@@ -71,11 +85,25 @@
       <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
     </item>
     <item>
-      <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
-      <link>https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</link>
-      <description>관련 경험이 전무했던 대학생이 1인 개발로 예약 앱을 출시하고 2년간 운영하며 성장한 내용을 다룹니다.</description>
-      <guid isPermaLink="false">https://velog.io/@b_dandelion/1인-앱-개발-출시-후-2년간-운영-후기</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+      <title>이 정도는 누구나 하는 거지</title>
+      <link>https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</link>
+      <description>쌓아 온 시간이 당연해지지 않도록</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</guid>
+      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[2026 오픈소스 컨트리뷰션 아카데미 참여형 후기] Node.js의 멤버가 되어버렸다.</title>
+      <link>https://velog.io/@d159123/2026-오픈소스-컨트리뷰션-아카데미-참여형-후기-Node.js의-멤버가-되어버렸다</link>
+      <description>2026 오픈소스 컨트리뷰션 아카데미 Node.js 후기</description>
+      <guid isPermaLink="false">https://velog.io/@d159123/2026-오픈소스-컨트리뷰션-아카데미-참여형-후기-Node.js의-멤버가-되어버렸다</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [1]</title>
+      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</link>
+      <description>"유저는 단 3초도 기다려주지 않는다."사무실 데스크탑이나 쾌적한 와이파이 환경에서 테스트할 때만 해도 우리 서비스는 문제없이 쌩쌩 잘 돌아갔습니다. 하지만 평소처럼 출근길 지하철 안에서 스마트폰으로 서비스에 접속해 본 순간...</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</guid>
+      <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
     </item>
     <item>
       <title>FECONF 2026 후기</title>
@@ -92,11 +120,11 @@
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
-      <title>이 정도는 누구나 하는 거지</title>
-      <link>https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</link>
-      <description>쌓아 온 시간이 당연해지지 않도록</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</guid>
-      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
+      <title>내가 당근마켓에..?? - 인턴🥕</title>
+      <link>https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</link>
+      <description>개인 사정으로 퇴사하고 다시 취업 준비를 시작했습니다. 퇴사 후에는 개인 프로젝트를 마무리하고 꾸준히 채용 공고에 지원하고 있었습니다.그러던 중 당근 Backend(인턴) - Notification 공고가 올라왔습니다. 아직 많이 부족하지만, 늘 "당근에서 일하면 정말...</description>
+      <guid isPermaLink="false">https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</guid>
+      <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
     </item>
     <item>
       <title>Toss simplikit에 기여해보기 - 컴파일 검증은 무적이 아니다</title>
@@ -104,20 +132,6 @@
       <description>타입스크립트를 사용하는 이유가 무엇일까? 필자는 컴파일 단계에서 타입적으로 오류를 미리 잡아내어 추적을 쉽게 하기 위함이라고 생각한다. 문제 상황</description>
       <guid isPermaLink="false">https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</guid>
       <pubDate>Sat, 24 Oct 2026 19:13:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI가 짠 코드를 전부 리뷰해야 할까?</title>
-      <link>https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</link>
-      <description>Codex와 Claude로 검증 루프를 만든 과정</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/AI가-짠-코드를-전부-리뷰해야-할까</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI는 오픈소스 세계를 더럽히고 있다</title>
-      <link>https://velog.io/@antoliny0919/AI는-오픈소스-세계를-더럽히고-있다</link>
-      <description>AI를 통해 문제를 해결한다고 했을때 우리가 절대 잃지 않아야하는 태도는 무엇일까요 ?</description>
-      <guid isPermaLink="false">https://velog.io/@antoliny0919/AI는-오픈소스-세계를-더럽히고-있다</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
       <title>이제 우리는 코딩을 안한다, AI 네이티브 해커톤 "신입인데 만렙입니다" 후기</title>
@@ -134,10 +148,10 @@
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>[2026 오픈소스 컨트리뷰션 아카데미 참여형 후기] Node.js의 멤버가 되어버렸다.</title>
-      <link>https://velog.io/@d159123/2026-오픈소스-컨트리뷰션-아카데미-참여형-후기-Node.js의-멤버가-되어버렸다</link>
-      <description>2026 오픈소스 컨트리뷰션 아카데미 Node.js 후기</description>
-      <guid isPermaLink="false">https://velog.io/@d159123/2026-오픈소스-컨트리뷰션-아카데미-참여형-후기-Node.js의-멤버가-되어버렸다</guid>
+      <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
+      <link>https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</link>
+      <description>설치 없이 브라우저에서 바로 하는 달무티 카드게임을 만들었습니다. 방 코드만 보내면 친구와 4~8명이 같이 하고, 빈 자리는 AI가 채웁니다. 기획부터 구조, 부딪힌 문제까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</guid>
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
@@ -148,13 +162,6 @@
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
-      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
-      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Kafka</title>
       <link>https://velog.io/@d6nggyun/Kafka</link>
       <description>Kafka는 이벤트 스트리밍 플랫폼입니다.메시지를 보내고 받는 것(publish/subscribe)에 더해, 받은 메시지를 원하는 기간 동안 저장하고(store), 들어오는 대로 또는 나중에 처리(process)하는 기능을 함께 제공합니다.</description>
@@ -162,18 +169,18 @@
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
     </item>
     <item>
-      <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
-      <link>https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</link>
-      <description>설치 없이 브라우저에서 바로 하는 달무티 카드게임을 만들었습니다. 방 코드만 보내면 친구와 4~8명이 같이 하고, 빈 자리는 AI가 채웁니다. 기획부터 구조, 부딪힌 문제까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
+      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
+      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
-      <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
-      <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
-      <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+      <title>Apple Watch 앱 개발기</title>
+      <link>https://velog.io/@xnlwevelog_31/Apple-Watch-앱-개발기</link>
+      <description>학교 시간표를 얼른 보기 위해 개발한 앱</description>
+      <guid isPermaLink="false">https://velog.io/@xnlwevelog_31/Apple-Watch-앱-개발기</guid>
+      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
     </item>
     <item>
       <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
@@ -183,11 +190,11 @@
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>Apple Watch 앱 개발기</title>
-      <link>https://velog.io/@xnlwevelog_31/Apple-Watch-앱-개발기</link>
-      <description>학교 시간표를 얼른 보기 위해 개발한 앱</description>
-      <guid isPermaLink="false">https://velog.io/@xnlwevelog_31/Apple-Watch-앱-개발기</guid>
-      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
+      <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
+      <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
+      <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
       <title>Issac ROS 5.0 스킬이 나온 김에 내 스킬을 비교해보기</title>
@@ -204,18 +211,11 @@
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
     </item>
     <item>
-      <title>SK 하이닉스 AI 해커톤 2026 서류 통과 + 1차 예선 후기</title>
-      <link>https://velog.io/@sjyoung/SK-하이닉스-AI-해커톤-2026-서류-통과-1차-예선-후기</link>
-      <description>사실은 떨어질 마음으로 넣었는데 뜻밖의 결과로 왔다! 사실 이번에 신청한 사람들 거의 대부분이 합격을 했다고 들었는데 그래도 합격한 게 어디냐 라는 생각뿐이다. 기분 좋은 흐름이다 이대로 1차 시험까지 열심히 해보자사실 시험을 보기 전 부터 입장에 필요한 세팅이 꽤나 ...</description>
-      <guid isPermaLink="false">https://velog.io/@sjyoung/SK-하이닉스-AI-해커톤-2026-서류-통과-1차-예선-후기</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[운영체제] 프로세스와 스레드, 뭐가 다를까?</title>
-      <link>https://velog.io/@pskjhlog/process-vs-thread</link>
-      <description>프로세스와 스레드의 차이를 메모리 구조부터 다시 정리했습니다. 스레드끼리 무엇을 함께 쓰고 무엇을 따로 가지는지, 그 차이가 컨텍스트 스위칭과 스프링 서버의 동시성 문제로 어떻게 이어지는지 살펴봅니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/process-vs-thread</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+      <title>포트폴리오 만들어주는 하네스!</title>
+      <link>https://velog.io/@yellowstarr/포트폴리오-만들어주는-하네스</link>
+      <description>발견한 문제점 학교 학생들이 자신의 포트폴리오를 만드는 것에 어려움을 느끼는 모습을 보았다. 그래서 나는 생각해보았다. 도대체 뭐가 포트폴리오를 쓰기 어렵게 만드는 것이지? 정답은 바로 자신이 한 일을 기억하지 못하거나 자신이 했지만 남아있는 자료를 수합해서 그런 내...</description>
+      <guid isPermaLink="false">https://velog.io/@yellowstarr/포트폴리오-만들어주는-하네스</guid>
+      <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
