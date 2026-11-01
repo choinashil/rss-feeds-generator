@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:57:14 +0000</lastBuildDate>
     <item>
       <title>우테코 신비주의 깨드립니다</title>
       <link>https://velog.io/@harudle/우테코-신비주의-깨드립니다</link>
@@ -37,11 +37,25 @@
       <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
+      <title>ADsP 51회 시험 후기</title>
+      <link>https://velog.io/@icebox127/ADsP-51회-시험-후기</link>
+      <description>https://www.dataq.or.kr/총점 60점 이상과목별 40% 미만 득점 시 과락10월에 중간고사가 있어서 9월에 1,2장을 끝내두고 10월에 3장을 했다.기간이 긴 대신 굉장히 느슨하게 해서 + 중간고사 공부 병행하느라 감을 잃어서 시험 직전에는 ...</description>
+      <guid isPermaLink="false">https://velog.io/@icebox127/ADsP-51회-시험-후기</guid>
+      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
+    </item>
+    <item>
       <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
       <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
       <description>능이버섯</description>
       <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gemini가 2.6초 고민하던 걸 0.2초에 — 툴 결정을 Jev에 맡겨도 될까?</title>
+      <link>https://velog.io/@teamuns2026/Gemini가-2.6초-고민하던-걸-0.2초에-툴-결정을-Jev에-맡겨도-될까</link>
+      <description>“여러분” ![](https://velog.velcdn.com/images/teamuns2026/post/15442135-ab26-4d76-b247-c43a</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/Gemini가-2.6초-고민하던-걸-0.2초에-툴-결정을-Jev에-맡겨도-될까</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
     </item>
     <item>
       <title>AI는 오픈소스 세계를 더럽히고 있다</title>
@@ -72,13 +86,6 @@
       <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
-      <title>영상 편집 툴을 한 번도 켜지 않고 소개 영상을 만들었습니다</title>
-      <link>https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</link>
-      <description>Opus 5.5와 코드로 렌더링한 스프린터스 소개 영상 제작기</description>
-      <guid isPermaLink="false">https://velog.io/@viva_kby/영상-편집-툴을-한-번도-켜지-않고-소개-영상을-만들었습니다</guid>
-      <pubDate>Sun, 18 Oct 2026 19:12:41 +0000</pubDate>
-    </item>
-    <item>
       <title>[2026 오픈소스 컨트리뷰션 아카데미 참여형 후기] Node.js의 멤버가 되어버렸다.</title>
       <link>https://velog.io/@d159123/2026-오픈소스-컨트리뷰션-아카데미-참여형-후기-Node.js의-멤버가-되어버렸다</link>
       <description>2026 오픈소스 컨트리뷰션 아카데미 Node.js 후기</description>
@@ -100,20 +107,6 @@
       <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
     </item>
     <item>
-      <title>ADsP 51회 시험 후기</title>
-      <link>https://velog.io/@icebox127/ADsP-51회-시험-후기</link>
-      <description>https://www.dataq.or.kr/총점 60점 이상과목별 40% 미만 득점 시 과락10월에 중간고사가 있어서 9월에 1,2장을 끝내두고 10월에 3장을 했다.기간이 긴 대신 굉장히 느슨하게 해서 + 중간고사 공부 병행하느라 감을 잃어서 시험 직전에는 ...</description>
-      <guid isPermaLink="false">https://velog.io/@icebox127/ADsP-51회-시험-후기</guid>
-      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>어어 프론트라고? 로봇 배터리부터 공부해봐~</title>
-      <link>https://velog.io/@x0gus/어어-프론트라고-로봇-배터리부터-공부해봐</link>
-      <description>프론튼데 로봇 배터리 시트 공부한 썰 풉니다</description>
-      <guid isPermaLink="false">https://velog.io/@x0gus/어어-프론트라고-로봇-배터리부터-공부해봐</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
       <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [1]</title>
       <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</link>
       <description>"유저는 단 3초도 기다려주지 않는다."사무실 데스크탑이나 쾌적한 와이파이 환경에서 테스트할 때만 해도 우리 서비스는 문제없이 쌩쌩 잘 돌아갔습니다. 하지만 평소처럼 출근길 지하철 안에서 스마트폰으로 서비스에 접속해 본 순간...</description>
@@ -121,24 +114,10 @@
       <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
     </item>
     <item>
-      <title>Toss simplikit에 기여해보기 - 컴파일 검증은 무적이 아니다</title>
-      <link>https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</link>
-      <description>타입스크립트를 사용하는 이유가 무엇일까? 필자는 컴파일 단계에서 타입적으로 오류를 미리 잡아내어 추적을 쉽게 하기 위함이라고 생각한다. 문제 상황</description>
-      <guid isPermaLink="false">https://velog.io/@ehddms0517/Toss-simplikit에-기여해보기-컴파일-검증은-무적이-아니다</guid>
-      <pubDate>Sat, 24 Oct 2026 19:13:43 +0000</pubDate>
-    </item>
-    <item>
       <title>이제 우리는 코딩을 안한다, AI 네이티브 해커톤 "신입인데 만렙입니다" 후기</title>
       <link>https://velog.io/@m161awm/2026hack</link>
       <description>심상치 않은 개발 패러다임, 우리는 어떻게 살아가야할까? 학생 해커톤 후기</description>
       <guid isPermaLink="false">https://velog.io/@m161awm/2026hack</guid>
-      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claude Code의 mod 기능으로 터꾸(터미널 꾸미기)🗒️</title>
-      <link>https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</link>
-      <description>여느 때와 다름없이 AI를 부려먹고 있던 중 Claude Code에 mod라는 새 기능이 나왔다는 걸 보았다.이게 뭐지 하고 살펴보니 터미널을 꾸밀 수 있는 기능이었다.https://claude.com/ko/resources/articles/claude-cod...</description>
-      <guid isPermaLink="false">https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</guid>
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
@@ -149,11 +128,11 @@
       <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
-      <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
-      <link>https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</link>
-      <description>설치 없이 브라우저에서 바로 하는 달무티 카드게임을 만들었습니다. 방 코드만 보내면 친구와 4~8명이 같이 하고, 빈 자리는 AI가 채웁니다. 기획부터 구조, 부딪힌 문제까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+      <title>Claude Code의 mod 기능으로 터꾸(터미널 꾸미기)🗒️</title>
+      <link>https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</link>
+      <description>여느 때와 다름없이 AI를 부려먹고 있던 중 Claude Code에 mod라는 새 기능이 나왔다는 걸 보았다.이게 뭐지 하고 살펴보니 터미널을 꾸밀 수 있는 기능이었다.https://claude.com/ko/resources/articles/claude-cod...</description>
+      <guid isPermaLink="false">https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
       <title>메일 5만 통이 터진 날, 큐는 안 건드리고 해결해 본 이야기</title>
@@ -170,6 +149,20 @@
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
     </item>
     <item>
+      <title>2026 섬테크 해커톤 with 코드트리</title>
+      <link>https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ca02ejdv</link>
+      <description>안녕하세요 이하은입니다. 올해 대학교 2학년인 저는SW 사업단에서 진행하는 Sumtech 해커톤에 다녀왔는데요거의 매년마다 해커톤에 참여하는 저에게 있어, 더 특별하고 재미있는 방식으로 다가온 해커톤이라 포스팅을 한번 남겨봅니다.랄프루프의 어원이 된 랄프위검 in 심슨...</description>
+      <guid isPermaLink="false">https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ca02ejdv</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
+      <link>https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</link>
+      <description>설치 없이 브라우저에서 바로 하는 달무티 카드게임을 만들었습니다. 방 코드만 보내면 친구와 4~8명이 같이 하고, 빈 자리는 AI가 채웁니다. 기획부터 구조, 부딪힌 문제까지 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Apple Watch 앱 개발기</title>
       <link>https://velog.io/@xnlwevelog_31/Apple-Watch-앱-개발기</link>
       <description>학교 시간표를 얼른 보기 위해 개발한 앱</description>
@@ -177,32 +170,11 @@
       <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
     </item>
     <item>
-      <title>도구가 잘난 것이지, 내가 잘난 게 아닌 것을…</title>
-      <link>https://velog.io/@jinhyoung9380/도구가-잘난-것이지-내가-잘난-게-아닌-것을</link>
-      <description>영화 《스파이더맨: 홈커밍》(2017)에서 토니 스타크가 슈트를 돌려달라고 하자 피터 파커는 이렇게 말한다. &gt; “But I’m nothing without this suit.” 슈트가 없으면 아무것도 아니라는 말에 토니는 답한다. &gt; “If you’re noth...</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/도구가-잘난-것이지-내가-잘난-게-아닌-것을</guid>
-      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>4년차 개발자의 퇴사 회고</title>
-      <link>https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</link>
-      <description>2023년 1월에 입사한 첫 회사를 2026년 10월에 퇴사했다.</description>
-      <guid isPermaLink="false">https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</guid>
-      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
-    </item>
-    <item>
       <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
       <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
       <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
       <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
       <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>SK 하이닉스 AI 해커톤 2026 서류 통과 + 1차 예선 후기</title>
-      <link>https://velog.io/@sjyoung/SK-하이닉스-AI-해커톤-2026-서류-통과-1차-예선-후기</link>
-      <description>사실은 떨어질 마음으로 넣었는데 뜻밖의 결과로 왔다! 사실 이번에 신청한 사람들 거의 대부분이 합격을 했다고 들었는데 그래도 합격한 게 어디냐 라는 생각뿐이다. 기분 좋은 흐름이다 이대로 1차 시험까지 열심히 해보자사실 시험을 보기 전 부터 입장에 필요한 세팅이 꽤나 ...</description>
-      <guid isPermaLink="false">https://velog.io/@sjyoung/SK-하이닉스-AI-해커톤-2026-서류-통과-1차-예선-후기</guid>
-      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
     </item>
     <item>
       <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
@@ -217,6 +189,34 @@
       <description>매달 수백만 명이 들어오고 나가는데, MAU는 왜 제자리일까? Markov Chain으로 고객의 이동을 쪼개 MAU 정체의 진짜 원인을 찾고, 실행 과제까지 연결한 데이터 분석 과정을 다룹니다.</description>
       <guid isPermaLink="false">https://velog.io/@helloimyj/2천만-고객이-사용하는-뱅킹-앱의-MAU-분해하기</guid>
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>포트폴리오 만들어주는 하네스!</title>
+      <link>https://velog.io/@yellowstarr/포트폴리오-만들어주는-하네스</link>
+      <description>발견한 문제점 학교 학생들이 자신의 포트폴리오를 만드는 것에 어려움을 느끼는 모습을 보았다. 그래서 나는 생각해보았다. 도대체 뭐가 포트폴리오를 쓰기 어렵게 만드는 것이지? 정답은 바로 자신이 한 일을 기억하지 못하거나 자신이 했지만 남아있는 자료를 수합해서 그런 내...</description>
+      <guid isPermaLink="false">https://velog.io/@yellowstarr/포트폴리오-만들어주는-하네스</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>4년차 개발자의 퇴사 회고</title>
+      <link>https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</link>
+      <description>2023년 1월에 입사한 첫 회사를 2026년 10월에 퇴사했다.</description>
+      <guid isPermaLink="false">https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</guid>
+      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>병렬성과 동시성의 차이는 무엇인가요?</title>
+      <link>https://velog.io/@cold_as_hell/병렬성과-동시성의-차이는-무엇인가요</link>
+      <description>일상 속 사례로 이해하는 병렬성과 동시성</description>
+      <guid isPermaLink="false">https://velog.io/@cold_as_hell/병렬성과-동시성의-차이는-무엇인가요</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>병목을 따라 비동기 처리부터 thread pinning까지</title>
+      <link>https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</link>
+      <description>지표를 통해 병목 해결하기</description>
+      <guid isPermaLink="false">https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
