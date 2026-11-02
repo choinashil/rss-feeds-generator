@@ -7,34 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 01 Nov 2026 20:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:46:39 +0000</lastBuildDate>
     <item>
       <title>우테코 신비주의 깨드립니다</title>
       <link>https://velog.io/@harudle/우테코-신비주의-깨드립니다</link>
       <description>누구나 그럴싸한 환상을 가지고 있다. 쳐맞기 전까지는.</description>
       <guid isPermaLink="false">https://velog.io/@harudle/우테코-신비주의-깨드립니다</guid>
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>망한 회의 100번 하고 만든 서비스</title>
-      <link>https://velog.io/@vlmbuyd/knot-망한-회의-100번-하고-만든-서비스</link>
-      <description>EP.2 "그거 어떻게 하기로 했더라?"에 답하는 서비스를 만들기까지</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/knot-망한-회의-100번-하고-만든-서비스</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>커넥션풀 부하 강희가 망치 들고 뿌시기</title>
-      <link>https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</link>
-      <description>이강희그는감히전설이라고할수있다 안녕하세요 TEAM UNS 팀장 이강희입니다. 오늘은 TEAM YOT 팀장이 아닌 TEAM UNS 팀장으로 인사드립니다. 재밌게 봐주시길 바랍니다람쥐 (요즘 f1에 빠졋습니다) “시발점(始發點)” AI 서버와 백엔드 서버를 연동한 ...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</guid>
-      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자 포트폴리오를 만들어보자! [포트폴리오 제작기 #3]</title>
-      <link>https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</link>
-      <description>개발자 포트폴리오 제작기 #3</description>
-      <guid isPermaLink="false">https://velog.io/@dfrake/개발자-포트폴리오를-만들어보자-포트폴리오-제작기-3</guid>
-      <pubDate>Mon, 19 Oct 2026 21:19:53 +0000</pubDate>
     </item>
     <item>
       <title>ADsP 51회 시험 후기</title>
@@ -44,18 +23,25 @@
       <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
     </item>
     <item>
-      <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
-      <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
-      <description>능이버섯</description>
-      <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Gemini가 2.6초 고민하던 걸 0.2초에 — 툴 결정을 Jev에 맡겨도 될까?</title>
       <link>https://velog.io/@teamuns2026/Gemini가-2.6초-고민하던-걸-0.2초에-툴-결정을-Jev에-맡겨도-될까</link>
       <description>“여러분” ![](https://velog.velcdn.com/images/teamuns2026/post/15442135-ab26-4d76-b247-c43a</description>
       <guid isPermaLink="false">https://velog.io/@teamuns2026/Gemini가-2.6초-고민하던-걸-0.2초에-툴-결정을-Jev에-맡겨도-될까</guid>
       <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>커넥션풀 부하 강희가 망치 들고 뿌시기</title>
+      <link>https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</link>
+      <description>이강희그는감히전설이라고할수있다 안녕하세요 TEAM UNS 팀장 이강희입니다. 오늘은 TEAM YOT 팀장이 아닌 TEAM UNS 팀장으로 인사드립니다. 재밌게 봐주시길 바랍니다람쥐 (요즘 f1에 빠졋습니다) “시발점(始發點)” AI 서버와 백엔드 서버를 연동한 ...</description>
+      <guid isPermaLink="false">https://velog.io/@teamuns2026/커넥션풀-그는-너무-감동적인-qxi51s0v</guid>
+      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>16기 비전공자의 생생우동보단 덜 생생한 싸피(전)생활 2탄 - 면접</title>
+      <link>https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</link>
+      <description>능이버섯</description>
+      <guid isPermaLink="false">https://velog.io/@h_hprint/16기-비전공자의-생생우동보단-덜-생생한-싸피전생활-2탄-면접</guid>
+      <pubDate>Thu, 22 Oct 2026 20:33:47 +0000</pubDate>
     </item>
     <item>
       <title>AI는 오픈소스 세계를 더럽히고 있다</title>
@@ -65,18 +51,18 @@
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>(번역) 왜 더 많은 개발자가 웹 플랫폼을 활용하지 않을까요?</title>
-      <link>https://velog.io/@tap_kim/why-dont-more-developers-use-the-platform</link>
-      <description>수년 동안 웹 표준, 성능, 접근성을 옹호하는 사람들은 웹 개발자들에게 “플랫폼을 사용하라”고 간곡히 요청해 왔습니다. 저 역시 자주 그 옹호자 중 한 사람이었습니다. “플랫폼을 사용하라”가 그렇게 자명하다면, 왜 그렇게 많은 사람을 설득해야 하는 것처럼 보일까요?</description>
-      <guid isPermaLink="false">https://velog.io/@tap_kim/why-dont-more-developers-use-the-platform</guid>
-      <pubDate>Tue, 20 Oct 2026 20:16:11 +0000</pubDate>
-    </item>
-    <item>
       <title>내가 당근마켓에..?? - 인턴🥕</title>
       <link>https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</link>
       <description>개인 사정으로 퇴사하고 다시 취업 준비를 시작했습니다. 퇴사 후에는 개인 프로젝트를 마무리하고 꾸준히 채용 공고에 지원하고 있었습니다.그러던 중 당근 Backend(인턴) - Notification 공고가 올라왔습니다. 아직 많이 부족하지만, 늘 "당근에서 일하면 정말...</description>
       <guid isPermaLink="false">https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</guid>
       <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 섬테크 해커톤 with 코드트리</title>
+      <link>https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ru1ipduf</link>
+      <description>도입 안녕하세요 이하은입니다. 올해 대학교 2학년인 저는 SW 사업단에서 진행하는 Sumtech 해커톤에 다녀왔는데요 거의 매년마다 해커톤에 참여하는 저에게 있어, 더 특별하고 재미있는 방식으로 다가온 해커톤이라 포스팅을 한번 남겨봅니다. "루프톤" &gt; 랄프루프의...</description>
+      <guid isPermaLink="false">https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ru1ipduf</guid>
+      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
       <title>1인 앱 개발 출시 후 2년간 운영 후기</title>
@@ -93,6 +79,13 @@
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
+      <title>이 정도는 누구나 하는 거지</title>
+      <link>https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</link>
+      <description>쌓아 온 시간이 당연해지지 않도록</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</guid>
+      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
+    </item>
+    <item>
       <title>FECONF 2026 후기</title>
       <link>https://velog.io/@ehdghks12/FECONF-2026-후기</link>
       <description>FECONF 2026 세션 후기</description>
@@ -100,11 +93,10 @@
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>이 정도는 누구나 하는 거지</title>
-      <link>https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</link>
-      <description>쌓아 온 시간이 당연해지지 않도록</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/이-정도는-다-하는-거지</guid>
-      <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
+      <title>이미지를 가로로 배치할 수 있는 개발 블로그가 있다고?</title>
+      <link>https://velog.io/@jinriro/이미지를-가로로-배치할-수-있는-개발-블로그가-있다고</link>
+      <guid isPermaLink="false">https://velog.io/@jinriro/이미지를-가로로-배치할-수-있는-개발-블로그가-있다고</guid>
+      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
       <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [1]</title>
@@ -121,13 +113,6 @@
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
-      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
-      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
-      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code의 mod 기능으로 터꾸(터미널 꾸미기)🗒️</title>
       <link>https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</link>
       <description>여느 때와 다름없이 AI를 부려먹고 있던 중 Claude Code에 mod라는 새 기능이 나왔다는 걸 보았다.이게 뭐지 하고 살펴보니 터미널을 꾸밀 수 있는 기능이었다.https://claude.com/ko/resources/articles/claude-cod...</description>
@@ -142,6 +127,13 @@
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
+      <title>[네트워크] www.google.com에 접속하면 무슨 일이 일어날까?</title>
+      <link>https://velog.io/@pskjhlog/what-happens-when-you-visit-google</link>
+      <description>주소창에 www.google.com을 입력하면 화면이 뜨기까지 DNS 조회, TCP 연결, TLS 핸드셰이크, HTTP 요청과 응답, 브라우저 렌더링이 차례로 일어납니다. 백엔드 면접 단골 질문인 이 흐름을 포트와 DNS 네임서버까지 하나씩 풀어 정리했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@pskjhlog/what-happens-when-you-visit-google</guid>
+      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Kafka</title>
       <link>https://velog.io/@d6nggyun/Kafka</link>
       <description>Kafka는 이벤트 스트리밍 플랫폼입니다.메시지를 보내고 받는 것(publish/subscribe)에 더해, 받은 메시지를 원하는 기간 동안 저장하고(store), 들어오는 대로 또는 나중에 처리(process)하는 기능을 함께 제공합니다.</description>
@@ -149,11 +141,18 @@
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
     </item>
     <item>
-      <title>2026 섬테크 해커톤 with 코드트리</title>
-      <link>https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ca02ejdv</link>
-      <description>안녕하세요 이하은입니다. 올해 대학교 2학년인 저는SW 사업단에서 진행하는 Sumtech 해커톤에 다녀왔는데요거의 매년마다 해커톤에 참여하는 저에게 있어, 더 특별하고 재미있는 방식으로 다가온 해커톤이라 포스팅을 한번 남겨봅니다.랄프루프의 어원이 된 랄프위검 in 심슨...</description>
-      <guid isPermaLink="false">https://velog.io/@dlgkdms4660/2026-섬테크-해커톤-with-코드트리-ca02ejdv</guid>
-      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+      <title>4년차 개발자의 퇴사 회고</title>
+      <link>https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</link>
+      <description>2023년 1월에 입사한 첫 회사를 2026년 10월에 퇴사했다.</description>
+      <guid isPermaLink="false">https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</guid>
+      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [2]</title>
+      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</link>
+      <description>저번 글에서는 인증 확인으로 인해 FCP가 늦어지던 문제를 해결해봤어요! 하지만 FCP가 개선됐음에도 LCP는 여전히 높은 상태였어요.첫 화면이 빠르게 나타나더라도 정작 메인 콘텐츠가 늦게 표시된다면 사용자가 체감하는 로딩 속도는 크게 달라지지 않을 거예요. 그래서!!...</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</guid>
+      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
       <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
@@ -177,18 +176,25 @@
       <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
-      <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
-      <link>https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</link>
-      <description>배포 중 녹음이 끊기는 문제를 해결하기 위해 단일 EC2에 Blue-Green 배포를 도입했습니다. 배포 전략 비교부터 두 JVM 동시 실행, Nginx 트래픽 전환, Connection Drain 장애 해결, 운영 환경의 녹음 연속성 검증까지의 과정을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</guid>
-      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
-    </item>
-    <item>
       <title>🧩 은행 어플의 MAU 분해하기</title>
       <link>https://velog.io/@helloimyj/2천만-고객이-사용하는-뱅킹-앱의-MAU-분해하기</link>
       <description>매달 수백만 명이 들어오고 나가는데, MAU는 왜 제자리일까? Markov Chain으로 고객의 이동을 쪼개 MAU 정체의 진짜 원인을 찾고, 실행 과제까지 연결한 데이터 분석 과정을 다룹니다.</description>
       <guid isPermaLink="false">https://velog.io/@helloimyj/2천만-고객이-사용하는-뱅킹-앱의-MAU-분해하기</guid>
       <pubDate>Tue, 27 Oct 2026 21:06:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>병목을 따라 비동기 처리부터 thread pinning까지</title>
+      <link>https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</link>
+      <description>지표를 통해 병목 해결하기</description>
+      <guid isPermaLink="false">https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</guid>
+      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>어? 왜 녹음이 끊겨요? (단일 EC2에서 포트 스위칭으로 Blue-Green 배포 구현하기)</title>
+      <link>https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</link>
+      <description>배포 중 녹음이 끊기는 문제를 해결하기 위해 단일 EC2에 Blue-Green 배포를 도입했습니다. 배포 전략 비교부터 두 JVM 동시 실행, Nginx 트래픽 전환, Connection Drain 장애 해결, 운영 환경의 녹음 연속성 검증까지의 과정을 담았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jyt6640/어-왜-녹음이-끊겨요-단일-EC2-Blue-Green-배포-도입기</guid>
+      <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
       <title>포트폴리오 만들어주는 하네스!</title>
@@ -198,13 +204,6 @@
       <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
     </item>
     <item>
-      <title>4년차 개발자의 퇴사 회고</title>
-      <link>https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</link>
-      <description>2023년 1월에 입사한 첫 회사를 2026년 10월에 퇴사했다.</description>
-      <guid isPermaLink="false">https://velog.io/@woongi9/4년차-개발자의-퇴사-회고</guid>
-      <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
-    </item>
-    <item>
       <title>병렬성과 동시성의 차이는 무엇인가요?</title>
       <link>https://velog.io/@cold_as_hell/병렬성과-동시성의-차이는-무엇인가요</link>
       <description>일상 속 사례로 이해하는 병렬성과 동시성</description>
@@ -212,11 +211,11 @@
       <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
     </item>
     <item>
-      <title>병목을 따라 비동기 처리부터 thread pinning까지</title>
-      <link>https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</link>
-      <description>지표를 통해 병목 해결하기</description>
-      <guid isPermaLink="false">https://velog.io/@giyoul/from-asynchronous-to-thread-pinning</guid>
-      <pubDate>Sun, 01 Nov 2026 20:57:14 +0000</pubDate>
+      <title>[멋사] 프론트엔드 12차시 스터디</title>
+      <link>https://velog.io/@sh2624/멋사-프론트엔드-12차시-스터디-e9smernk</link>
+      <description>📦 Zustand / 전역 상태 관리</description>
+      <guid isPermaLink="false">https://velog.io/@sh2624/멋사-프론트엔드-12차시-스터디-e9smernk</guid>
+      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
