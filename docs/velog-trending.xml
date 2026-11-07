@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:39:39 +0000</lastBuildDate>
     <item>
       <title>집에있는 게이밍 PC를 초고속 로컬 LLM 머신으로</title>
       <link>https://velog.io/@480/집에있는-게이밍-PC를-초고속-로컬-LLM-머신으로</link>
@@ -65,6 +65,13 @@
       <pubDate>Wed, 28 Oct 2026 21:30:21 +0000</pubDate>
     </item>
     <item>
+      <title>FECONF 2026 후기</title>
+      <link>https://velog.io/@ehdghks12/FECONF-2026-후기</link>
+      <description>FECONF 2026 세션 후기</description>
+      <guid isPermaLink="false">https://velog.io/@ehdghks12/FECONF-2026-후기</guid>
+      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
+    </item>
+    <item>
       <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [1]</title>
       <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</link>
       <description>"유저는 단 3초도 기다려주지 않는다."사무실 데스크탑이나 쾌적한 와이파이 환경에서 테스트할 때만 해도 우리 서비스는 문제없이 쌩쌩 잘 돌아갔습니다. 하지만 평소처럼 출근길 지하철 안에서 스마트폰으로 서비스에 접속해 본 순간...</description>
@@ -77,13 +84,6 @@
       <description>안녕하세요. Rilog.입니다. 🙇🏻‍♂️ 이미지 최적화와 모바일 경험 개선 업데이트 소식을 담았습니다.</description>
       <guid isPermaLink="false">https://velog.io/@jinriro/이미지를-가로로-배치할-수-있는-개발-블로그가-있다고</guid>
       <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>FECONF 2026 후기</title>
-      <link>https://velog.io/@ehdghks12/FECONF-2026-후기</link>
-      <description>FECONF 2026 세션 후기</description>
-      <guid isPermaLink="false">https://velog.io/@ehdghks12/FECONF-2026-후기</guid>
-      <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
     </item>
     <item>
       <title>이제 우리는 코딩을 안한다, AI 네이티브 해커톤 "신입인데 만렙입니다" 후기</title>
@@ -100,11 +100,11 @@
       <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
     </item>
     <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [2]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</link>
-      <description>저번 글에서는 인증 확인으로 인해 FCP가 늦어지던 문제를 해결해봤어요! 하지만 FCP가 개선됐음에도 LCP는 여전히 높은 상태였어요.첫 화면이 빠르게 나타나더라도 정작 메인 콘텐츠가 늦게 표시된다면 사용자가 체감하는 로딩 속도는 크게 달라지지 않을 거예요. 그래서!!...</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</guid>
-      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
+      <title>디자이너도 기획자도 믿지 않는 아키텍처</title>
+      <link>https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</link>
+      <description>'변경에 유연함'에 미친 사람들이 만든 프론트엔드 폴더 구조 1편</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</guid>
+      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
       <title>[2026 오픈소스 컨트리뷰션 아카데미 참여형 후기] Node.js의 멤버가 되어버렸다.</title>
@@ -114,11 +114,11 @@
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>디자이너도 기획자도 믿지 않는 아키텍처</title>
-      <link>https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</link>
-      <description>'변경에 유연함'에 미친 사람들이 만든 프론트엔드 폴더 구조 1편</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</guid>
-      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
+      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [2]</title>
+      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</link>
+      <description>저번 글에서는 인증 확인으로 인해 FCP가 늦어지던 문제를 해결해봤어요! 하지만 FCP가 개선됐음에도 LCP는 여전히 높은 상태였어요.첫 화면이 빠르게 나타나더라도 정작 메인 콘텐츠가 늦게 표시된다면 사용자가 체감하는 로딩 속도는 크게 달라지지 않을 거예요. 그래서!!...</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</guid>
+      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
       <title>2026 섬테크 해커톤 with 코드트리</title>
@@ -128,18 +128,18 @@
       <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>내가 이걸 왜 하고 있죠</title>
-      <link>https://velog.io/@lgwk0642/내가-이걸-왜-하고-있죠</link>
-      <description>아 줴줴이야~</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-이걸-왜-하고-있죠</guid>
-      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Claude Code의 mod 기능으로 터꾸(터미널 꾸미기)🗒️</title>
       <link>https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</link>
       <description>여느 때와 다름없이 AI를 부려먹고 있던 중 Claude Code에 mod라는 새 기능이 나왔다는 걸 보았다.이게 뭐지 하고 살펴보니 터미널을 꾸밀 수 있는 기능이었다.https://claude.com/ko/resources/articles/claude-cod...</description>
       <guid isPermaLink="false">https://velog.io/@ekel_/Claude-Code의-mod-기능으로-터꾸터미널-꾸미기</guid>
       <pubDate>Mon, 26 Oct 2026 21:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>내가 이걸 왜 하고 있죠</title>
+      <link>https://velog.io/@lgwk0642/내가-이걸-왜-하고-있죠</link>
+      <description>아 줴줴이야~</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/내가-이걸-왜-하고-있죠</guid>
+      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
       <title>re: 제로부터 시작하는 취준 생활</title>
@@ -155,6 +155,13 @@
       <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
+      <title>[E.P 06] - 나의 서비스에 Jev 도입하기</title>
+      <link>https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</link>
+      <description>The Rilog.에 Jev를 도입한 과정과 그 경험을 기록해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</guid>
+      <pubDate>Sat, 07 Nov 2026 20:39:39 +0000</pubDate>
+    </item>
+    <item>
       <title>설치 없이 친구와 바로 하는 달무티, 브라우저 카드게임 개발기</title>
       <link>https://velog.io/@hoohoo0889/설치-없이-친구와-바로-하는-달무티-브라우저-카드게임-개발기</link>
       <description>설치 없이 브라우저에서 바로 하는 달무티 카드게임을 만들었습니다. 방 코드만 보내면 친구와 4~8명이 같이 하고, 빈 자리는 AI가 채웁니다. 기획부터 구조, 부딪힌 문제까지 정리했습니다.</description>
@@ -162,11 +169,18 @@
       <pubDate>Thu, 29 Oct 2026 21:30:39 +0000</pubDate>
     </item>
     <item>
-      <title>2026년 2회 AI-POT 1급 합격 후기</title>
-      <link>https://velog.io/@2rkdud0313/2026년-2회-AI-POT-1급-합격-후기</link>
-      <description>요즘 어딜 가든 생성형 AI 이야기가 빠지지 않다 보니, AI를 그냥 "쓸 줄 아는 것"을 넘어서 제대로 활용할 줄 안다는 걸 증명할 수 있는 자격증이 있으면 좋겠다는 생각이 들었습니다. 그러다 알게 된 게 바로 AI-POT(AI 프롬프트 활용능력) 입니다.</description>
-      <guid isPermaLink="false">https://velog.io/@2rkdud0313/2026년-2회-AI-POT-1급-합격-후기</guid>
+      <title>개발자지만 코드를 못짜는 모순에 빠져버렸다</title>
+      <link>https://velog.io/@qtaghdi/개발자지만-코드를-못짜는-모순에-빠져버렸다</link>
+      <description>엄마 나 어떡해</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/개발자지만-코드를-못짜는-모순에-빠져버렸다</guid>
       <pubDate>Thu, 05 Nov 2026 22:30:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>(번역) 지연에서 즉시 반응으로, GitHub Issues 내비게이션 성능 개선하기</title>
+      <link>https://velog.io/@tap_kim/from-latency-to-instant-modernizing-github-issues-navigation-performance</link>
+      <description>GitHub Issues의 페이지 이동 속도를 개선한 사례를 소개합니다. 필요한 데이터를 미리 저장하고 불러오는 방식으로 대기 시간을 줄여, 사용자가 페이지를 거의 즉시 이동할 수 있도록 개선한 과정과 기술적 고민을 살펴봅니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/from-latency-to-instant-modernizing-github-issues-navigation-performance</guid>
+      <pubDate>Sat, 07 Nov 2026 20:39:39 +0000</pubDate>
     </item>
     <item>
       <title>로켓 배송으로 이해하는 Streaming SSR, 그리고 프론트엔드 엔지니어의 역할</title>
@@ -181,20 +195,6 @@
       <description>'변경에 유연함'에 미친 사람들이 만든 프론트엔드 폴더 구조 2편</description>
       <guid isPermaLink="false">https://velog.io/@vlmbuyd/한-곳에서만-쓰는-훅은-어디에-둘까</guid>
       <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>개발자지만 코드를 못짜는 모순에 빠져버렸다</title>
-      <link>https://velog.io/@qtaghdi/개발자지만-코드를-못짜는-모순에-빠져버렸다</link>
-      <description>엄마 나 어떡해</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/개발자지만-코드를-못짜는-모순에-빠져버렸다</guid>
-      <pubDate>Thu, 05 Nov 2026 22:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[네트워크] OSI 7계층과 TCP/IP 4계층</title>
-      <link>https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</link>
-      <description>네트워크 통신을 역할별로 나눈 두 모델인 OSI 7계층과 TCP/IP 4계층을 비교했습니다. 데이터가 계층을 지나며 헤더가 붙고 떼어지는 캡슐화 과정과, 장애를 계층 순서대로 좁혀 가는 방법까지 정리했습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@pskjhlog/네트워크-osi-7계층과-tcp-ip-4계층</guid>
-      <pubDate>Sun, 25 Oct 2026 19:26:32 +0000</pubDate>
     </item>
     <item>
       <title>병렬성과 동시성의 차이는 무엇인가요?</title>
