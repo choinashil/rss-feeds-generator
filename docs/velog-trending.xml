@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 12 Nov 2026 22:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:21:56 +0000</lastBuildDate>
     <item>
       <title>집에있는 게이밍 PC를 초고속 로컬 LLM 머신으로</title>
       <link>https://velog.io/@480/집에있는-게이밍-PC를-초고속-로컬-LLM-머신으로</link>
@@ -28,13 +28,6 @@
       <description>https://www.dataq.or.kr/총점 60점 이상과목별 40% 미만 득점 시 과락10월에 중간고사가 있어서 9월에 1,2장을 끝내두고 10월에 3장을 했다.기간이 긴 대신 굉장히 느슨하게 해서 + 중간고사 공부 병행하느라 감을 잃어서 시험 직전에는 ...</description>
       <guid isPermaLink="false">https://velog.io/@icebox127/ADsP-51회-시험-후기</guid>
       <pubDate>Sat, 31 Oct 2026 20:23:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>내가 당근마켓에..?? - 인턴🥕</title>
-      <link>https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</link>
-      <description>개인 사정으로 퇴사하고 다시 취업 준비를 시작했습니다. 퇴사 후에는 개인 프로젝트를 마무리하고 꾸준히 채용 공고에 지원하고 있었습니다.그러던 중 당근 Backend(인턴) - Notification 공고가 올라왔습니다. 아직 많이 부족하지만, 늘 "당근에서 일하면 정말...</description>
-      <guid isPermaLink="false">https://velog.io/@rlaehddbs4521/내가-당근마켓에..-인턴</guid>
-      <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
     </item>
     <item>
       <title>Gemini가 2.6초 고민하던 걸 0.2초에 — 툴 결정을 Jev에 맡겨도 될까?</title>
@@ -58,13 +51,6 @@
       <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
-      <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
-      <link>https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</link>
-      <description>이번 글에서는 포켓타임을 개발하고 운영하며 겪은 Push 스케줄러의 병목 현상을 DB 쿼리 개선, Redis, HTTP/2 최적화를 통해 해결한 과정을 블로그에 기록해보았습니당</description>
-      <guid isPermaLink="false">https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
       <title>개발자지만 코드를 못짜는 모순에 빠져버렸다</title>
       <link>https://velog.io/@qtaghdi/개발자지만-코드를-못짜는-모순에-빠져버렸다</link>
       <description>엄마 나 어떡해</description>
@@ -72,11 +58,18 @@
       <pubDate>Thu, 05 Nov 2026 22:30:42 +0000</pubDate>
     </item>
     <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [1]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</link>
-      <description>"유저는 단 3초도 기다려주지 않는다."사무실 데스크탑이나 쾌적한 와이파이 환경에서 테스트할 때만 해도 우리 서비스는 문제없이 쌩쌩 잘 돌아갔습니다. 하지만 평소처럼 출근길 지하철 안에서 스마트폰으로 서비스에 접속해 본 순간...</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-1</guid>
-      <pubDate>Fri, 30 Oct 2026 21:22:02 +0000</pubDate>
+      <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
+      <link>https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</link>
+      <description>이번 글에서는 포켓타임을 개발하고 운영하며 겪은 Push 스케줄러의 병목 현상을 DB 쿼리 개선, Redis, HTTP/2 최적화를 통해 해결한 과정을 블로그에 기록해보았습니당</description>
+      <guid isPermaLink="false">https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</guid>
+      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[SK하이닉스 AI 해커톤] 본선 후기</title>
+      <link>https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</link>
+      <description>=1차 예선, 2차 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 09:30~15:30까지 5시간 동안 진행되었고, 우수자에게는 시상과 무려 **하이닉스 면접 직행(..!)** 기회가 주어졌습니다. 홀수 주제: 기업 간 거래관계 및 기업...</description>
+      <guid isPermaLink="false">https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</guid>
+      <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
     <item>
       <title>GitHub도 못 쓰던 내가 Techeer of the Year를 받기까지 - 테커에서의 1년 회고</title>
@@ -107,11 +100,11 @@
       <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>체크인 시간이 9시간 빠르게 저장된 이유</title>
-      <link>https://velog.io/@hxm2n/체크인-시간이-9시간-빠르게-저장된-이유</link>
-      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 방문자가 체크인을 완료하면 클라이언트에서 체크인 시간을 생성하여 다른 방문 정보와 함께 서버로 전달합니다. 운영 중에 이 시간이 실제보다 9시...</description>
-      <guid isPermaLink="false">https://velog.io/@hxm2n/체크인-시간이-9시간-빠르게-저장된-이유</guid>
-      <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
+      <title>당신이 프로필을 "애니 프사"로 바꿔야 하는 이유</title>
+      <link>https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</link>
+      <description>이 글로 당신의 프사를 바꿔보겠습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</guid>
+      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
     </item>
     <item>
       <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [2]</title>
@@ -121,10 +114,17 @@
       <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>당신이 프로필을 "애니 프사"로 바꿔야 하는 이유</title>
-      <link>https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</link>
-      <description>이 글로 당신의 프사를 바꿔보겠습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</guid>
+      <title>체크인 시간이 9시간 빠르게 저장된 이유</title>
+      <link>https://velog.io/@hxm2n/체크인-시간이-9시간-빠르게-저장된-이유</link>
+      <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 방문자가 체크인을 완료하면 클라이언트에서 체크인 시간을 생성하여 다른 방문 정보와 함께 서버로 전달합니다. 운영 중에 이 시간이 실제보다 9시...</description>
+      <guid isPermaLink="false">https://velog.io/@hxm2n/체크인-시간이-9시간-빠르게-저장된-이유</guid>
+      <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>학교와 회사가 다른 것</title>
+      <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
+      <description>돈 많은 백수 시켜주실 분</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
     </item>
     <item>
@@ -149,20 +149,6 @@
       <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [3]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</link>
-      <description>이번에는 번들 최적화에 도전해본 경험에 대해 말해보도록 하겠습니다! 초기 로딩 시점에 다운받는 JS파일의 양을 최대한 줄여, 느린 네트워크 환경에서도 비교적 빠른 로딩이 될 수 있도록 하는게 목적이였어요.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>학교와 회사가 다른 것</title>
-      <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
-      <description>돈 많은 백수 시켜주실 분</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
       <title>개편된 ChatGPT Pro 100·200·500 사용량 비교: 기존 한도와 새로운 한도 정리</title>
       <link>https://velog.io/@okorion/개편된-ChatGPT-Pro-100200500-사용량-비교-기존-한도와-새로운-한도-정리</link>
       <description>2026년 10월 29일, OpenAI가 ChatGPT Pro 요금제의 Work·Codex 사용량 한도를 확대한다고 발표했다. Pro 100과 Pro 500은 사용량이 두 배로 늘어났고, 기존 Pro 200 구독자에게 예고했던 사용량 축소 계획은 철회됐다.</description>
@@ -170,11 +156,25 @@
       <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
     </item>
     <item>
+      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [3]</title>
+      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</link>
+      <description>이번에는 번들 최적화에 도전해본 경험에 대해 말해보도록 하겠습니다! 초기 로딩 시점에 다운받는 JS파일의 양을 최대한 줄여, 느린 네트워크 환경에서도 비교적 빠른 로딩이 될 수 있도록 하는게 목적이였어요.</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</guid>
+      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
+    </item>
+    <item>
       <title>(번역) 지연에서 즉시 반응으로, GitHub Issues 내비게이션 성능 개선하기</title>
       <link>https://velog.io/@tap_kim/from-latency-to-instant-modernizing-github-issues-navigation-performance</link>
       <description>GitHub Issues의 페이지 이동 속도를 개선한 사례를 소개합니다. 필요한 데이터를 미리 저장하고 불러오는 방식으로 대기 시간을 줄여, 사용자가 페이지를 거의 즉시 이동할 수 있도록 개선한 과정과 기술적 고민을 살펴봅니다.</description>
       <guid isPermaLink="false">https://velog.io/@tap_kim/from-latency-to-instant-modernizing-github-issues-navigation-performance</guid>
       <pubDate>Sat, 07 Nov 2026 20:39:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>이른 2026 회고록</title>
+      <link>https://velog.io/@ng99/이른-2026-회고록</link>
+      <description>퇴사 이야기를 곁들인 이른 2026 회고록</description>
+      <guid isPermaLink="false">https://velog.io/@ng99/이른-2026-회고록</guid>
+      <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
       <title>새 노트북 받은 날, 세팅에만 반나절 쓰지 않으려고 만든 앱</title>
@@ -212,11 +212,11 @@
       <pubDate>Tue, 10 Nov 2026 22:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>이른 2026 회고록</title>
-      <link>https://velog.io/@ng99/이른-2026-회고록</link>
-      <description>퇴사 이야기를 곁들인 이른 2026 회고록</description>
-      <guid isPermaLink="false">https://velog.io/@ng99/이른-2026-회고록</guid>
-      <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
+      <title>롤 아수라장 증강 순위 추천 앱을 만들어보다</title>
+      <link>https://velog.io/@haul/jeungbaram-augment-rank-overlay</link>
+      <description>증바람에서 증강 세 장 뜨면 뭐 고를지 한참 고민하시죠 ? 친구랑 같이 증강 고르는 화면 위에 순위와 이유를 띄워 주는 무료 앱을 만들었어요. 어떤 화면인지 스샷 위주로 소개해 볼게요.</description>
+      <guid isPermaLink="false">https://velog.io/@haul/jeungbaram-augment-rank-overlay</guid>
+      <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
