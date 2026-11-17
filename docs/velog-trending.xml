@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:38:03 +0000</lastBuildDate>
     <item>
       <title>집에있는 게이밍 PC를 초고속 로컬 LLM 머신으로</title>
       <link>https://velog.io/@480/집에있는-게이밍-PC를-초고속-로컬-LLM-머신으로</link>
@@ -44,25 +44,11 @@
       <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
     <item>
-      <title>[속보] UNS팀 Devs악마 상륙 1초전(출시)</title>
-      <link>https://velog.io/@teamuns2026/속보-UNS팀-Devs악마-상륙-1초전출시</link>
-      <description>Devs 0초전 상륙 안녕하세요 TEAM UNS와 TEAM YOT 수장 명예의 대덕소프트웨어마이스터고 재학중인 이강희입니다 오늘은 기쁜 소식을 전달해드리러 이글을 쓰게됩니다. 바로 DEVS 프로젝트가 드디어 드 디 어 !!!!!! 기능 개발을 전부다 완료하...</description>
-      <guid isPermaLink="false">https://velog.io/@teamuns2026/속보-UNS팀-Devs악마-상륙-1초전출시</guid>
-      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
-    </item>
-    <item>
       <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
       <link>https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</link>
       <description>이번 글에서는 포켓타임을 개발하고 운영하며 겪은 Push 스케줄러의 병목 현상을 DB 쿼리 개선, Redis, HTTP/2 최적화를 통해 해결한 과정을 블로그에 기록해보았습니당</description>
       <guid isPermaLink="false">https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>디자이너도 기획자도 믿지 않는 아키텍처</title>
-      <link>https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</link>
-      <description>'변경에 유연함'에 미친 사람들이 만든 프론트엔드 폴더 구조 1편</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</guid>
-      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
       <title>re: 제로부터 시작하는 취준 생활</title>
@@ -72,18 +58,18 @@
       <pubDate>Wed, 04 Nov 2026 22:24:33 +0000</pubDate>
     </item>
     <item>
+      <title>디자이너도 기획자도 믿지 않는 아키텍처</title>
+      <link>https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</link>
+      <description>'변경에 유연함'에 미친 사람들이 만든 프론트엔드 폴더 구조 1편</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/디자이너도-기획자도-믿지-않는-아키텍처</guid>
+      <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
+    </item>
+    <item>
       <title>GitHub도 못 쓰던 내가 Techeer of the Year를 받기까지 - 테커에서의 1년 회고</title>
       <link>https://velog.io/@dlwjd8023/깃도-못-쓰던-내가-Techeer-of-the-Year를-받기까지-테커에서의-1년-회고</link>
       <description>2026 테커 파티, Techeer of the Year2025년 12월 29일에 시작해서 Techeer of the Year까지, 1년간의 여정을 정리해 본다.처음 시작할 때는 깃허브도 못 썼다. 깃 푸시가 뭐지? 커밋은 뭐지? 충돌 났는데 어떻게 하지? 그때 내 해...</description>
       <guid isPermaLink="false">https://velog.io/@dlwjd8023/깃도-못-쓰던-내가-Techeer-of-the-Year를-받기까지-테커에서의-1년-회고</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[E.P 05] - 이미지를 가로로 배치할 수 있는 개발 블로그가 있다고?</title>
-      <link>https://velog.io/@jinriro/이미지를-가로로-배치할-수-있는-개발-블로그가-있다고</link>
-      <description>안녕하세요. Rilog.입니다. 🙇🏻‍♂️ 이미지 최적화와 모바일 경험 개선 업데이트 소식을 담았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/이미지를-가로로-배치할-수-있는-개발-블로그가-있다고</guid>
-      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
     </item>
     <item>
       <title>당신이 프로필을 "애니 프사"로 바꿔야 하는 이유</title>
@@ -93,11 +79,11 @@
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
     </item>
     <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [2]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</link>
-      <description>저번 글에서는 인증 확인으로 인해 FCP가 늦어지던 문제를 해결해봤어요! 하지만 FCP가 개선됐음에도 LCP는 여전히 높은 상태였어요.첫 화면이 빠르게 나타나더라도 정작 메인 콘텐츠가 늦게 표시된다면 사용자가 체감하는 로딩 속도는 크게 달라지지 않을 거예요. 그래서!!...</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-2</guid>
-      <pubDate>Mon, 02 Nov 2026 23:46:39 +0000</pubDate>
+      <title>나의 서비스에 Jev 도입하기</title>
+      <link>https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</link>
+      <description>The Rilog.에 Jev를 도입한 과정과 그 경험을 기록해 보았습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</guid>
+      <pubDate>Sat, 07 Nov 2026 20:39:39 +0000</pubDate>
     </item>
     <item>
       <title>내가 이걸 왜 하고 있죠</title>
@@ -107,11 +93,11 @@
       <pubDate>Tue, 03 Nov 2026 22:11:20 +0000</pubDate>
     </item>
     <item>
-      <title>나의 서비스에 Jev 도입하기</title>
-      <link>https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</link>
-      <description>The Rilog.에 Jev를 도입한 과정과 그 경험을 기록해 보았습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/E.P-06-나의-서비스에-Jev-도입하기</guid>
-      <pubDate>Sat, 07 Nov 2026 20:39:39 +0000</pubDate>
+      <title>30분 만에 만든 게임이 이틀 만에 1만 번 플레이된건에 관하여</title>
+      <link>https://velog.io/@kimscastle/30분-만에-만든-게임이-이틀-만에-1만-번-플레이된건에-관하여</link>
+      <description>👉🏻 https://million-idol.vercel.app/ 지금 바로 플레이해 보기오랜만에 iOS 관련된 글을 적고 있었는데 또 다른 주제의 글감이 생겨버려 예상보다 일찍 돌아온 킴스캐슬입니다.오늘 주제는 큰 틀에는 "AI", "바이브 코딩", "서비...</description>
+      <guid isPermaLink="false">https://velog.io/@kimscastle/30분-만에-만든-게임이-이틀-만에-1만-번-플레이된건에-관하여</guid>
+      <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
       <title>학교와 회사가 다른 것</title>
@@ -119,6 +105,20 @@
       <description>돈 많은 백수 시켜주실 분</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>포트폴리오 좀 꾸며 달라고 Fable5.2한테 해봤는데</title>
+      <link>https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</link>
+      <description>오늘 갑자기 포트폴리오 사이트를 새로 단장하고 싶어서, Fable 5.2에게 이렇게 부탁했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</guid>
+      <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>개편된 ChatGPT Pro 100·200·500 사용량 비교: 기존 한도와 새로운 한도 정리</title>
+      <link>https://velog.io/@okorion/개편된-ChatGPT-Pro-100200500-사용량-비교-기존-한도와-새로운-한도-정리</link>
+      <description>2026년 10월 29일, OpenAI가 ChatGPT Pro 요금제의 Work·Codex 사용량 한도를 확대한다고 발표했다. Pro 100과 Pro 500은 사용량이 두 배로 늘어났고, 기존 Pro 200 구독자에게 예고했던 사용량 축소 계획은 철회됐다.</description>
+      <guid isPermaLink="false">https://velog.io/@okorion/개편된-ChatGPT-Pro-100200500-사용량-비교-기존-한도와-새로운-한도-정리</guid>
+      <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
     </item>
     <item>
       <title>체크인 시간이 9시간 빠르게 저장된 이유</title>
@@ -135,11 +135,11 @@
       <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
     </item>
     <item>
-      <title>개편된 ChatGPT Pro 100·200·500 사용량 비교: 기존 한도와 새로운 한도 정리</title>
-      <link>https://velog.io/@okorion/개편된-ChatGPT-Pro-100200500-사용량-비교-기존-한도와-새로운-한도-정리</link>
-      <description>2026년 10월 29일, OpenAI가 ChatGPT Pro 요금제의 Work·Codex 사용량 한도를 확대한다고 발표했다. Pro 100과 Pro 500은 사용량이 두 배로 늘어났고, 기존 Pro 200 구독자에게 예고했던 사용량 축소 계획은 철회됐다.</description>
-      <guid isPermaLink="false">https://velog.io/@okorion/개편된-ChatGPT-Pro-100200500-사용량-비교-기존-한도와-새로운-한도-정리</guid>
-      <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
+      <title>새 노트북 받은 날, 세팅에만 반나절 쓰지 않으려고 만든 앱</title>
+      <link>https://velog.io/@junjuny0227/47</link>
+      <description>괜찮아 보이면 GitHub Star 부탁드립니다 (제발)</description>
+      <guid isPermaLink="false">https://velog.io/@junjuny0227/47</guid>
+      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
     </item>
     <item>
       <title>이른 2026 회고록</title>
@@ -149,32 +149,10 @@
       <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>새 노트북 받은 날, 세팅에만 반나절 쓰지 않으려고 만든 앱</title>
-      <link>https://velog.io/@junjuny0227/47</link>
-      <description>괜찮아 보이면 GitHub Star 부탁드립니다 (제발)</description>
-      <guid isPermaLink="false">https://velog.io/@junjuny0227/47</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>[LG CNS 6기] 해커톤 후기 - CARDOC</title>
-      <link>https://velog.io/@dfrake/LG-CNS-AM-6기-해커톤-후기-CARDOC</link>
-      <description>LG CNS 6기 해커톤 후기!</description>
-      <guid isPermaLink="false">https://velog.io/@dfrake/LG-CNS-AM-6기-해커톤-후기-CARDOC</guid>
-      <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>포트폴리오 좀 꾸며 달라고 Fable5.2한테 해봤는데</title>
-      <link>https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</link>
-      <description>오늘 갑자기 포트폴리오 사이트를 새로 단장하고 싶어서, Fable 5.2에게 이렇게 부탁했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</guid>
-      <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>30분 만에 만든 게임이 이틀 만에 1만 번 플레이된건에 관하여</title>
-      <link>https://velog.io/@kimscastle/30분-만에-만든-게임이-이틀-만에-1만-번-플레이된건에-관하여</link>
-      <description>👉🏻 https://million-idol.vercel.app/ 지금 바로 플레이해 보기오랜만에 iOS 관련된 글을 적고 있었는데 또 다른 주제의 글감이 생겨버려 예상보다 일찍 돌아온 킴스캐슬입니다.오늘 주제는 큰 틀에는 "AI", "바이브 코딩", "서비...</description>
-      <guid isPermaLink="false">https://velog.io/@kimscastle/30분-만에-만든-게임이-이틀-만에-1만-번-플레이된건에-관하여</guid>
-      <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
+      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
+      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
+      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>롤 아수라장 증강 순위 추천 앱을 만들어보다</title>
@@ -184,11 +162,18 @@
       <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
     <item>
-      <title>바이낸스가 털렸다는데, 블록체인은 안전할까?</title>
-      <link>https://velog.io/@hoheesu/바이낸스가-털렸다는데-블록체인은-안전할까</link>
-      <description>최근 북한이 바이낸스를 해킹했다는데, 블록체인은 안전한 기술이 맞을까? 암호화폐는 탈 중앙화에서 오는 안정성에서 새로운 화폐로서 존재 할 수있다고 생각했는데 과연?</description>
-      <guid isPermaLink="false">https://velog.io/@hoheesu/바이낸스가-털렸다는데-블록체인은-안전할까</guid>
-      <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
+      <title>사이드프로젝트 홍보하고 피드백받기 좋은 사이트 TOP5</title>
+      <link>https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</link>
+      <description>사이드프로젝트를 배포하고 나면 제일 먼저 부딪히는 문제가 있습니다."그래서 사용자를 어떻게 모으지?"아무 커뮤니티에 올리면 조회수가 10도 나오지 않고, 광고글로 찍히면 삭제되기도 합니다. 사이트마다 모이는 사람도, 잘 먹히는 글의 형태도 꽤 다르기 때문입니다.실제로 ...</description>
+      <guid isPermaLink="false">https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</guid>
+      <pubDate>Tue, 10 Nov 2026 22:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>시니어 개발자에게 AI 잘 쓰는 법을 묻다</title>
+      <link>https://velog.io/@bobokde22/Interview1</link>
+      <description>나는 AI를 잘 쓰고 있는 걸까? AI를 어떻게 써야 잘 쓰는 걸까?</description>
+      <guid isPermaLink="false">https://velog.io/@bobokde22/Interview1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>로켓 배송으로 이해하는 Streaming SSR, 그리고 프론트엔드 엔지니어의 역할</title>
@@ -198,11 +183,25 @@
       <pubDate>Wed, 04 Nov 2026 22:24:33 +0000</pubDate>
     </item>
     <item>
-      <title>사이드프로젝트 홍보하고 피드백받기 좋은 사이트 TOP5</title>
-      <link>https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</link>
-      <description>사이드프로젝트를 배포하고 나면 제일 먼저 부딪히는 문제가 있습니다."그래서 사용자를 어떻게 모으지?"아무 커뮤니티에 올리면 조회수가 10도 나오지 않고, 광고글로 찍히면 삭제되기도 합니다. 사이트마다 모이는 사람도, 잘 먹히는 글의 형태도 꽤 다르기 때문입니다.실제로 ...</description>
-      <guid isPermaLink="false">https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</guid>
-      <pubDate>Tue, 10 Nov 2026 22:07:52 +0000</pubDate>
+      <title>바이낸스가 털렸다는데, 블록체인은 안전할까?</title>
+      <link>https://velog.io/@hoheesu/바이낸스가-털렸다는데-블록체인은-안전할까</link>
+      <description>최근 북한이 바이낸스를 해킹했다는데, 블록체인은 안전한 기술이 맞을까? 암호화폐는 탈 중앙화에서 오는 안정성에서 새로운 화폐로서 존재 할 수있다고 생각했는데 과연?</description>
+      <guid isPermaLink="false">https://velog.io/@hoheesu/바이낸스가-털렸다는데-블록체인은-안전할까</guid>
+      <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[LG CNS 6기] 해커톤 후기 - CARDOC</title>
+      <link>https://velog.io/@dfrake/LG-CNS-AM-6기-해커톤-후기-CARDOC</link>
+      <description>LG CNS 6기 해커톤 후기!</description>
+      <guid isPermaLink="false">https://velog.io/@dfrake/LG-CNS-AM-6기-해커톤-후기-CARDOC</guid>
+      <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 에이전트 12개를 풀어놨더니 서버가 죽었습니다</title>
+      <link>https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</link>
+      <description>SSH가 끊기길래 네트워크 탓만 했는데, 범인은 에이전트 12개가 먹어치운 메모리였습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>한 곳에서만 쓰는 훅은 어디에 둘까</title>
@@ -212,11 +211,11 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
-      <title>🚀 Next.js 서비스의 백엔드를 Kotlin으로 옮긴 9일</title>
-      <link>https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration</link>
-      <description>Next.js 안에 있던 백엔드를 엿새 만에 Kotlin과 Spring Boot로 옮겼다. 함수 목록부터 만들고 돈이 걸린 로직은 테스트부터 옮기고 화면은 도메인마다 플래그로 하나씩 전환한 과정과 refresh 토큰 동시 갱신 문제를 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration</guid>
-      <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
+      <title>이젠 정말 뭘 해야 할지 모르겠습니다.</title>
+      <link>https://velog.io/@jihyeon9975/이젠-정말-뭘-해야-할지-모르겠습니다</link>
+      <description>뿡</description>
+      <guid isPermaLink="false">https://velog.io/@jihyeon9975/이젠-정말-뭘-해야-할지-모르겠습니다</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
