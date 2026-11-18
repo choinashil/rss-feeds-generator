@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:43:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:15:40 +0000</lastBuildDate>
     <item>
       <title>서류 100개 광탈하고 인스타툰 그리러 갑니다</title>
       <link>https://velog.io/@harudle/서류-100개-광탈하고-인스타툰-그리러-갑니다</link>
@@ -16,18 +16,18 @@
       <pubDate>Tue, 10 Nov 2026 22:07:52 +0000</pubDate>
     </item>
     <item>
-      <title>AI 가 쓴 글에 대한 거부감</title>
-      <link>https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</link>
-      <description>요즘 AI로 생성된 누군가의 글을 읽는 데는 뭔가 큰 거부감이 있다. 우리는 AI를 글쓰기에 어떻게 활용하는 것이 좋을까요.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[SK하이닉스 AI 해커톤] 본선 후기</title>
       <link>https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</link>
       <description>=1차 예선, 2차 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 09:30~15:30까지 5시간 동안 진행되었고, 우수자에게는 시상과 무려 **하이닉스 면접 직행(..!)** 기회가 주어졌습니다. 홀수 주제: 기업 간 거래관계 및 기업...</description>
       <guid isPermaLink="false">https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</guid>
       <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 가 쓴 글에 대한 거부감</title>
+      <link>https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</link>
+      <description>요즘 AI로 생성된 누군가의 글을 읽는 데는 뭔가 큰 거부감이 있다. 우리는 AI를 글쓰기에 어떻게 활용하는 것이 좋을까요.</description>
+      <guid isPermaLink="false">https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</guid>
+      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
     </item>
     <item>
       <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
@@ -79,6 +79,13 @@
       <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
     </item>
     <item>
+      <title>[번역] AI를 잘 다루려면 시간과 연습이 필요합니다.</title>
+      <link>https://velog.io/@osohyun0224/번역-AI를-잘-다루려면-시간과-연습이-필요합니다</link>
+      <description>AI를 잘 다루려면 어떻게 해야 할까요? 요령이 아니라 시간과 연습이 필요하다는 저자의 이야기를 이 글로 함께 고민해봅시다.</description>
+      <guid isPermaLink="false">https://velog.io/@osohyun0224/번역-AI를-잘-다루려면-시간과-연습이-필요합니다</guid>
+      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
+    </item>
+    <item>
       <title>새 노트북 받은 날, 세팅에만 반나절 쓰지 않으려고 만든 앱</title>
       <link>https://velog.io/@junjuny0227/47</link>
       <description>괜찮아 보이면 GitHub Star 부탁드립니다 (제발)</description>
@@ -93,11 +100,11 @@
       <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [3]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</link>
-      <description>이번에는 번들 최적화에 도전해본 경험에 대해 말해보도록 하겠습니다! 초기 로딩 시점에 다운받는 JS파일의 양을 최대한 줄여, 느린 네트워크 환경에서도 비교적 빠른 로딩이 될 수 있도록 하는게 목적이였어요.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
+      <title>AI 에이전트 12개를 풀어놨더니 서버가 죽었습니다</title>
+      <link>https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</link>
+      <description>SSH가 끊기길래 네트워크 탓만 했는데, 범인은 에이전트 12개가 먹어치운 메모리였습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>이른 2026 회고록</title>
@@ -107,18 +114,11 @@
       <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>AI 에이전트 12개를 풀어놨더니 서버가 죽었습니다</title>
-      <link>https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</link>
-      <description>SSH가 끊기길래 네트워크 탓만 했는데, 범인은 에이전트 12개가 먹어치운 메모리였습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@__chaeyn/AI-에이전트-12개를-풀어놨더니-서버가-죽었습니다</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>사이드프로젝트 홍보하고 피드백받기 좋은 사이트 TOP5</title>
-      <link>https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</link>
-      <description>사이드프로젝트를 배포하고 나면 제일 먼저 부딪히는 문제가 있습니다."그래서 사용자를 어떻게 모으지?"아무 커뮤니티에 올리면 조회수가 10도 나오지 않고, 광고글로 찍히면 삭제되기도 합니다. 사이트마다 모이는 사람도, 잘 먹히는 글의 형태도 꽤 다르기 때문입니다.실제로 ...</description>
-      <guid isPermaLink="false">https://velog.io/@sleeps_in/사이드프로젝트-홍보하고-피드백받기-좋은-사이트-TOP5</guid>
-      <pubDate>Tue, 10 Nov 2026 22:07:52 +0000</pubDate>
+      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [3]</title>
+      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</link>
+      <description>이번에는 번들 최적화에 도전해본 경험에 대해 말해보도록 하겠습니다! 초기 로딩 시점에 다운받는 JS파일의 양을 최대한 줄여, 느린 네트워크 환경에서도 비교적 빠른 로딩이 될 수 있도록 하는게 목적이였어요.</description>
+      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</guid>
+      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
     </item>
     <item>
       <title>롤 아수라장 증강 순위 추천 앱을 만들어보다</title>
@@ -142,19 +142,6 @@
       <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
-      <title>로켓 배송으로 이해하는 Streaming SSR, 그리고 프론트엔드 엔지니어의 역할</title>
-      <link>https://velog.io/@wha1eson/로켓-배송으로-이해하는-Streaming-SSR-그리고-프론트엔드-엔지니어의-역할</link>
-      <description>Streaming SSR을 택배 서비스에 빗대어 설명해요. 당근에서 사용하고 있는 Streaming SSR의 시작이 된 코드를 기반으로 분석했어요.</description>
-      <guid isPermaLink="false">https://velog.io/@wha1eson/로켓-배송으로-이해하는-Streaming-SSR-그리고-프론트엔드-엔지니어의-역할</guid>
-      <pubDate>Wed, 04 Nov 2026 22:24:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
-      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
-      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
-    </item>
-    <item>
       <title>바이낸스가 털렸다는데, 블록체인은 안전할까?</title>
       <link>https://velog.io/@hoheesu/바이낸스가-털렸다는데-블록체인은-안전할까</link>
       <description>최근 북한이 바이낸스를 해킹했다는데, 블록체인은 안전한 기술이 맞을까? 암호화폐는 탈 중앙화에서 오는 안정성에서 새로운 화폐로서 존재 할 수있다고 생각했는데 과연?</description>
@@ -162,11 +149,10 @@
       <pubDate>Sun, 08 Nov 2026 20:56:41 +0000</pubDate>
     </item>
     <item>
-      <title>🚀 Next.js 서비스의 백엔드를 Kotlin으로 옮긴 9일</title>
-      <link>https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration</link>
-      <description>Next.js 안에 있던 백엔드를 엿새 만에 Kotlin과 Spring Boot로 옮겼다. 함수 목록부터 만들고 돈이 걸린 로직은 테스트부터 옮기고 화면은 도메인마다 플래그로 하나씩 전환한 과정과 refresh 토큰 동시 갱신 문제를 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/nextjs-backend-to-kotlin-migration</guid>
-      <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
+      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
+      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
+      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>[LG CNS 6기] 해커톤 후기 - CARDOC</title>
@@ -176,24 +162,17 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
-      <title>팀 AI 워크플로우를 만들고, 결정권을 나누기로 했습니다</title>
-      <link>https://velog.io/@vlmbuyd/팀-AI-워크플로우를-만들고-결정권을-나누기까지</link>
-      <description>AI는 더 잘 쓰고, 사람은 더 믿기로 했습니다</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/팀-AI-워크플로우를-만들고-결정권을-나누기까지</guid>
-      <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>やっはろー</title>
-      <link>https://velog.io/@s1yx0r/やっはろー</link>
-      <description>やほーーーーーーーーー</description>
-      <guid isPermaLink="false">https://velog.io/@s1yx0r/やっはろー</guid>
-      <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-98432 정리 — 리눅스 커널 IPv4 TCP UAF, 원인부터 EC2·ECS·EKS·Fargate 조치까지</title>
       <link>https://velog.io/@kgs9843/CVE-2026-98432-정리-리눅스-커널-IPv4-TCP-UAF-원인부터-EC2ECSEKSFargate-조치까지</link>
       <guid isPermaLink="false">https://velog.io/@kgs9843/CVE-2026-98432-정리-리눅스-커널-IPv4-TCP-UAF-원인부터-EC2ECSEKSFargate-조치까지</guid>
       <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>당근과 같은 고민을 하고 있었다: history로 방문 이력 관리하기</title>
+      <link>https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</link>
+      <description>이번 FEConf 2026을 가서 당근의 복잡한 애플리케이션 설계 사례라는 주제의 발표를 들었다. 사용자가 이 동작을 한 뒤 뒤로가기 버튼을 누르면 어떤 페이지로 이동해야할까? 당근은 장소 A 프리뷰로 돌아간다.(이건 당근의 판단이다.) 핵심은 어디로 돌아가는지가...</description>
+      <guid isPermaLink="false">https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</guid>
+      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
     </item>
     <item>
       <title>Spring Framework란?</title>
@@ -203,6 +182,27 @@
       <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
     </item>
     <item>
+      <title>🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기</title>
+      <link>https://velog.io/@dev-hsl-960221/claude-code-codex-review</link>
+      <description>같은 AI에게 짜게 하고 리뷰까지 맡기면 맹점도 같이 넘어간다. OpenAI 공식 플러그인으로 Claude Code 안에서 Codex 리뷰를 받는 법을 정리했다. 설치와 두 가지 리뷰 명령의 차이와 리뷰 게이트와 켜기 전에 확인할 것까지 담았다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/claude-code-codex-review</guid>
+      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>やっはろー</title>
+      <link>https://velog.io/@s1yx0r/やっはろー</link>
+      <description>やほーーーーーーーーー</description>
+      <guid isPermaLink="false">https://velog.io/@s1yx0r/やっはろー</guid>
+      <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>1인 앱 개발 후기</title>
+      <link>https://velog.io/@hina0222/1인-앱-개발-후기</link>
+      <description>나는 애니를 사랑한다.</description>
+      <guid isPermaLink="false">https://velog.io/@hina0222/1인-앱-개발-후기</guid>
+      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
+    </item>
+    <item>
       <title>AI가 플리 정리도 할 수 있을까?</title>
       <link>https://velog.io/@qtaghdi/AI가-플리-정리도-할-수-있을까</link>
       <description>Codex. 해줘.</description>
@@ -210,10 +210,10 @@
       <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
     </item>
     <item>
-      <title>[MySQL/InnoDB] MVCC와 격리 수준, LOCK 매커니즘 정리</title>
-      <link>https://velog.io/@wook099/MySQLInnoDB-MVCC와-격리-수준</link>
-      <description>기술 블로그(Velog)에 그대로 게시하거나 참고하기 좋도록 ‘MySQL InnoDB의 MVCC, 격리 수준, 그리고 락(Lock) 메커니즘’을 명확하게 구조화하여 정리했습니다.MySQL의 InnoDB 스토리지 엔진은 높은 동시성과 데이터 정합성을 동시에 만족하기 위해...</description>
-      <guid isPermaLink="false">https://velog.io/@wook099/MySQLInnoDB-MVCC와-격리-수준</guid>
+      <title>팀 AI 워크플로우를 만들고, 결정권을 나누기로 했습니다</title>
+      <link>https://velog.io/@vlmbuyd/팀-AI-워크플로우를-만들고-결정권을-나누기까지</link>
+      <description>EP.3 AI는 더 잘 쓰고, 사람은 더 믿기로 했습니다</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/팀-AI-워크플로우를-만들고-결정권을-나누기까지</guid>
       <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
     </item>
   </channel>
