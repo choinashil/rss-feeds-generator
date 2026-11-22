@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:17:10 +0000</lastBuildDate>
     <item>
       <title>서류 100개 광탈하고 인스타툰 그리러 갑니다</title>
       <link>https://velog.io/@harudle/서류-100개-광탈하고-인스타툰-그리러-갑니다</link>
@@ -18,7 +18,7 @@
     <item>
       <title>[SK하이닉스 AI 해커톤] 본선 후기</title>
       <link>https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</link>
-      <description>=1차 예선, 2차 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 09:30~15:30까지 5시간 동안 진행되었고, 우수자에게는 시상과 무려 **하이닉스 면접 직행(..!)** 기회가 주어졌습니다. 홀수 주제: 기업 간 거래관계 및 기업...</description>
+      <description>하이닉스 게섯거라 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 5시간 동안 진행되었고, 우수자에게는 시상과 무려 하이닉스 면접 직행(..!) 기회가 주어졌습니다.</description>
       <guid isPermaLink="false">https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</guid>
       <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
@@ -72,18 +72,18 @@
       <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
     </item>
     <item>
-      <title>새 노트북 받은 날, 세팅에만 반나절 쓰지 않으려고 만든 앱</title>
-      <link>https://velog.io/@junjuny0227/47</link>
-      <description>괜찮아 보이면 GitHub Star 부탁드립니다 (제발)</description>
-      <guid isPermaLink="false">https://velog.io/@junjuny0227/47</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
-    </item>
-    <item>
       <title>학교와 회사가 다른 것</title>
       <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
       <description>돈 많은 백수 시켜주실 분</description>
       <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>시니어 개발자에게 AI 잘 쓰는 법을 묻다</title>
+      <link>https://velog.io/@bobokde22/Interview1</link>
+      <description>나는 AI를 잘 쓰고 있는 걸까? AI를 어떻게 써야 잘 쓰는 걸까?</description>
+      <guid isPermaLink="false">https://velog.io/@bobokde22/Interview1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>이른 2026 회고록</title>
@@ -100,11 +100,11 @@
       <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
-      <title>시니어 개발자에게 AI 잘 쓰는 법을 묻다</title>
-      <link>https://velog.io/@bobokde22/Interview1</link>
-      <description>나는 AI를 잘 쓰고 있는 걸까? AI를 어떻게 써야 잘 쓰는 걸까?</description>
-      <guid isPermaLink="false">https://velog.io/@bobokde22/Interview1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
+      <title>Velog, 나만의 프로필 카드 생성기</title>
+      <link>https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</link>
+      <description>hello? nope, vello!</description>
+      <guid isPermaLink="false">https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
     <item>
       <title>체크인 시간이 9시간 빠르게 저장된 이유</title>
@@ -112,13 +112,6 @@
       <description>들어가며 안녕하세요. 대전 구즉동 청소년 문화의 집에서 사용 중인 체크인 서비스를 개발하고 있는 오혜민입니다. 이 서비스는 방문자가 체크인을 완료하면 클라이언트에서 체크인 시간을 생성하여 다른 방문 정보와 함께 서버로 전달합니다. 운영 중에 이 시간이 실제보다 9시...</description>
       <guid isPermaLink="false">https://velog.io/@hxm2n/체크인-시간이-9시간-빠르게-저장된-이유</guid>
       <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>롤 아수라장 증강 순위 추천 앱을 만들어보다</title>
-      <link>https://velog.io/@haul/jeungbaram-augment-rank-overlay</link>
-      <description>증바람에서 증강 세 장 뜨면 뭐 고를지 한참 고민하시죠 ? 친구랑 같이 증강 고르는 화면 위에 순위와 이유를 띄워 주는 무료 앱을 만들었어요. 어떤 화면인지 스샷 위주로 소개해 볼게요.</description>
-      <guid isPermaLink="false">https://velog.io/@haul/jeungbaram-augment-rank-overlay</guid>
-      <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
     </item>
     <item>
       <title>배포 후에도 이전 화면이 보이는 이유</title>
@@ -142,11 +135,17 @@
       <pubDate>Sat, 21 Nov 2026 22:00:16 +0000</pubDate>
     </item>
     <item>
-      <title>레이밴 메타(Ray-Ban Meta) 2세대 사용후기</title>
-      <link>https://velog.io/@kosang234/레이밴-메타Ray-Ban-Meta-2세대-사용후기</link>
-      <description>이 제품의 가장 큰 장점은 "카메라 + 스피커 + 마이크 + 선글라스가 하나로 합쳐져 있다는 것"이다. 예전에는 외출할 때 핸드폰, 에어팟, 선글라스를 따로 챙겼다면, 이제는 선글라스 하나만 챙기면 된다. 이게 생각보다 훨씬 가볍고 편했다.</description>
-      <guid isPermaLink="false">https://velog.io/@kosang234/레이밴-메타Ray-Ban-Meta-2세대-사용후기</guid>
-      <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
+      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
+      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
+      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>당근과 같은 고민을 하고 있었다: history로 방문 이력 관리하기</title>
+      <link>https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</link>
+      <description>이번 FEConf 2026을 가서 당근의 복잡한 애플리케이션 설계 사례라는 주제의 발표를 들었다. 사용자가 이 동작을 한 뒤 뒤로가기 버튼을 누르면 어떤 페이지로 이동해야할까? 당근은 장소 A 프리뷰로 돌아간다.(이건 당근의 판단이다.) 핵심은 어디로 돌아가는지가...</description>
+      <guid isPermaLink="false">https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</guid>
+      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
     </item>
     <item>
       <title>와 이런 쓰레기 같은 GCP</title>
@@ -156,10 +155,11 @@
       <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
     </item>
     <item>
-      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
-      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
-      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
+      <title>인덱스가 빠른 이유, B+트리로 설명할 수 있나요?</title>
+      <link>https://velog.io/@jinhyoung9380/인덱스가-빠른-이유-B트리로-설명할-수-있나요</link>
+      <description>인덱스를 사용하면 검색이 빨라진다. 그렇다면 인덱스는 어떤 정보를 저장하고, B+트리와 해시는 데이터를 어떻게 찾아갈까? 데이터의 저장 방식에서 출발해 정렬 인덱스, B+트리, 정적 해싱과 MySQL의 인덱스를 차례로 살펴보자.</description>
+      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/인덱스가-빠른-이유-B트리로-설명할-수-있나요</guid>
+      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
     </item>
     <item>
       <title>[Spring AI] RAG 개념과 Vector Store 기초</title>
@@ -176,32 +176,32 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
+      <title>대기업 게임회사 면접관님께 취준생이 여쭤본 질문: AI 시대, 고민할까 맡길까</title>
+      <link>https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</link>
+      <description>땡스투 면접관님들!!</description>
+      <guid isPermaLink="false">https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>랭킹 조회 MySQL → Redis 전환, p99 4.96초 → 11.24ms</title>
+      <link>https://velog.io/@kyoung0161/25</link>
+      <description>랭킹 조회를 MySQL에서 Redis로 옮겼더니, 성공 응답 p99가 4.96초에서 11.24ms로 줄었다!</description>
+      <guid isPermaLink="false">https://velog.io/@kyoung0161/25</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유</title>
+      <link>https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</link>
+      <description>Google Workspace용 MCP 서버 taylorwilsdon/google_workspace_mcp (⭐3.5k)에서 파일 경로 검사의 빈틈 두 개를 찾아 비공개로 제보했어요.Windows에서 차단 목록이 동작하지 않음: ~/.kube, ~/.gnupg, ~/....</description>
+      <guid isPermaLink="false">https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
       <title>아무도 대신 치러줄 수 없는 시험</title>
       <link>https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</link>
       <description>그 정도면 됐어</description>
       <guid isPermaLink="false">https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</guid>
       <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>당근과 같은 고민을 하고 있었다: history로 방문 이력 관리하기</title>
-      <link>https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</link>
-      <description>이번 FEConf 2026을 가서 당근의 복잡한 애플리케이션 설계 사례라는 주제의 발표를 들었다. 사용자가 이 동작을 한 뒤 뒤로가기 버튼을 누르면 어떤 페이지로 이동해야할까? 당근은 장소 A 프리뷰로 돌아간다.(이건 당근의 판단이다.) 핵심은 어디로 돌아가는지가...</description>
-      <guid isPermaLink="false">https://velog.io/@ehddms0517/당근과-같은-고민을-하고-있었다-history로-방문-이력-관리하기</guid>
-      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>인덱스가 빠른 이유, B+트리로 설명할 수 있나요?</title>
-      <link>https://velog.io/@jinhyoung9380/인덱스가-빠른-이유-B트리로-설명할-수-있나요</link>
-      <description>인덱스를 사용하면 검색이 빨라진다. 그렇다면 인덱스는 어떤 정보를 저장하고, B+트리와 해시는 데이터를 어떻게 찾아갈까? 데이터의 저장 방식에서 출발해 정렬 인덱스, B+트리, 정적 해싱과 MySQL의 인덱스를 차례로 살펴보자.</description>
-      <guid isPermaLink="false">https://velog.io/@jinhyoung9380/인덱스가-빠른-이유-B트리로-설명할-수-있나요</guid>
-      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>やっはろー</title>
-      <link>https://velog.io/@s1yx0r/やっはろー</link>
-      <description>やほーーーーーーーーー</description>
-      <guid isPermaLink="false">https://velog.io/@s1yx0r/やっはろー</guid>
-      <pubDate>Tue, 17 Nov 2026 23:43:59 +0000</pubDate>
     </item>
     <item>
       <title>코딩 에이전트 삭제 사고 10건, 실행된 셸 명령으로 본 원인과 안전한 형태</title>
@@ -210,11 +210,11 @@
       <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기</title>
-      <link>https://velog.io/@dev-hsl-960221/claude-code-codex-review</link>
-      <description>같은 AI에게 짜게 하고 리뷰까지 맡기면 맹점도 같이 넘어간다. OpenAI 공식 플러그인으로 Claude Code 안에서 Codex 리뷰를 받는 법을 정리했다. 설치와 두 가지 리뷰 명령의 차이와 리뷰 게이트와 켜기 전에 확인할 것까지 담았다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/claude-code-codex-review</guid>
-      <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
+      <title>Strata - LLM 설치 및 실행하기</title>
+      <link>https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</link>
+      <description>GitHub: https://github.com/Niko1221/StrataStrata는 GPU 메모리(VRAM)가 부족한 환경에서도 초대형 MoE 모델을 실행할 수 있도록 설계된 오픈소스 LLM 추론 엔진이다.일반적인 LLM 추론에서는 모델 가중치를 GPU ...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
