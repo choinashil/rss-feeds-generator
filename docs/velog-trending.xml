@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 22 Nov 2026 22:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:08:38 +0000</lastBuildDate>
     <item>
       <title>서류 100개 광탈하고 인스타툰 그리러 갑니다</title>
       <link>https://velog.io/@harudle/서류-100개-광탈하고-인스타툰-그리러-갑니다</link>
@@ -21,13 +21,6 @@
       <description>하이닉스 게섯거라 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 5시간 동안 진행되었고, 우수자에게는 시상과 무려 하이닉스 면접 직행(..!) 기회가 주어졌습니다.</description>
       <guid isPermaLink="false">https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</guid>
       <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 가 쓴 글에 대한 거부감</title>
-      <link>https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</link>
-      <description>요즘 AI로 생성된 누군가의 글을 읽는 데는 뭔가 큰 거부감이 있다. 우리는 AI를 글쓰기에 어떻게 활용하는 것이 좋을까요.</description>
-      <guid isPermaLink="false">https://velog.io/@jinriro/AI-가-쓴-글에-대한-거부감</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
     </item>
     <item>
       <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
@@ -44,11 +37,25 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
+      <title>Velog, 나만의 프로필 카드 생성기</title>
+      <link>https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</link>
+      <description>hello? no vello card~</description>
+      <guid isPermaLink="false">https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
       <title>당신이 프로필을 "애니 프사"로 바꿔야 하는 이유</title>
       <link>https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</link>
       <description>이 글로 당신의 프사를 바꿔보겠습니다.</description>
       <guid isPermaLink="false">https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</guid>
       <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>대기업 게임회사 면접관님께 취준생이 여쭤본 질문: AI 시대, 고민할까 맡길까</title>
+      <link>https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</link>
+      <description>땡스투 면접관님들!!</description>
+      <guid isPermaLink="false">https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</guid>
+      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
     <item>
       <title>GitHub도 못 쓰던 내가 Techeer of the Year를 받기까지 - 테커에서의 1년 회고</title>
@@ -72,13 +79,6 @@
       <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
     </item>
     <item>
-      <title>학교와 회사가 다른 것</title>
-      <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
-      <description>돈 많은 백수 시켜주실 분</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
       <title>시니어 개발자에게 AI 잘 쓰는 법을 묻다</title>
       <link>https://velog.io/@bobokde22/Interview1</link>
       <description>나는 AI를 잘 쓰고 있는 걸까? AI를 어떻게 써야 잘 쓰는 걸까?</description>
@@ -86,11 +86,18 @@
       <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
-      <title>이른 2026 회고록</title>
-      <link>https://velog.io/@ng99/이른-2026-회고록</link>
-      <description>퇴사 이야기를 곁들인 이른 2026 회고록</description>
-      <guid isPermaLink="false">https://velog.io/@ng99/이른-2026-회고록</guid>
-      <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
+      <title>학교와 회사가 다른 것</title>
+      <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
+      <description>돈 많은 백수 시켜주실 분</description>
+      <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
+      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI랑 공부할 수 있는 건 뭐든 하루 15분 루틴으로, DailyPack 개발기</title>
+      <link>https://velog.io/@hoohoo0889/AI랑-공부할-수-있는-건-뭐든-하루-15분-루틴으로-DailyPack-개발기</link>
+      <description>요즘 AI로 공부하시는분들을 위해서 준비했습니다! 배우고 싶은 걸 AI에게 말하면 교재가 되는 앱!</description>
+      <guid isPermaLink="false">https://velog.io/@hoohoo0889/AI랑-공부할-수-있는-건-뭐든-하루-15분-루틴으로-DailyPack-개발기</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
       <title>AI 에이전트 12개를 풀어놨더니 서버가 죽었습니다</title>
@@ -100,11 +107,11 @@
       <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
-      <title>Velog, 나만의 프로필 카드 생성기</title>
-      <link>https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</link>
-      <description>hello? nope, vello!</description>
-      <guid isPermaLink="false">https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</guid>
-      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+      <title>배포 후에도 이전 화면이 보이는 이유</title>
+      <link>https://velog.io/@jujini31/배포-후에도-이전-화면이-보이는-이유</link>
+      <description>배포했는데 그대로? HTTP 캐시 이해하기</description>
+      <guid isPermaLink="false">https://velog.io/@jujini31/배포-후에도-이전-화면이-보이는-이유</guid>
+      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
     </item>
     <item>
       <title>체크인 시간이 9시간 빠르게 저장된 이유</title>
@@ -114,31 +121,11 @@
       <pubDate>Wed, 11 Nov 2026 23:16:45 +0000</pubDate>
     </item>
     <item>
-      <title>배포 후에도 이전 화면이 보이는 이유</title>
-      <link>https://velog.io/@jujini31/배포-후에도-이전-화면이-보이는-이유</link>
-      <description>배포했는데 그대로? HTTP 캐시 이해하기</description>
-      <guid isPermaLink="false">https://velog.io/@jujini31/배포-후에도-이전-화면이-보이는-이유</guid>
-      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>출근길 지하철에서 마주한 메인페이지 로딩 성능 개선기 [3]</title>
-      <link>https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</link>
-      <description>이번에는 번들 최적화에 도전해본 경험에 대해 말해보도록 하겠습니다! 초기 로딩 시점에 다운받는 JS파일의 양을 최대한 줄여, 느린 네트워크 환경에서도 비교적 빠른 로딩이 될 수 있도록 하는게 목적이였어요.</description>
-      <guid isPermaLink="false">https://velog.io/@yereong/출근길-지하철에서-마주한-메인페이지-로딩-성능-개선기-3</guid>
-      <pubDate>Tue, 10 Nov 2026 00:32:06 +0000</pubDate>
-    </item>
-    <item>
       <title>[모여락 ①] DND 14기 프론트엔드 회고</title>
       <link>https://velog.io/@meteorqz6/모여락-DND-14기-회고</link>
       <description>DND 14기에서 디자이너, 백엔드 개발자와 함께 8주 동안 모임 일정과 장소를 정하는 서비스 '모여락'을 만들었다. 지원 동기부터 기획, 개발, 데모데이까지의 과정과 아쉬움, 그리고 활동이 끝난 뒤에도 혼자 이어가는 이유를 정리했다.</description>
       <guid isPermaLink="false">https://velog.io/@meteorqz6/모여락-DND-14기-회고</guid>
       <pubDate>Sat, 21 Nov 2026 22:00:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
-      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
-      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>당근과 같은 고민을 하고 있었다: history로 방문 이력 관리하기</title>
@@ -148,11 +135,10 @@
       <pubDate>Wed, 18 Nov 2026 23:15:40 +0000</pubDate>
     </item>
     <item>
-      <title>와 이런 쓰레기 같은 GCP</title>
-      <link>https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</link>
-      <description>오 제발요.</description>
-      <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</guid>
-      <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
+      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
+      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
+      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
       <title>인덱스가 빠른 이유, B+트리로 설명할 수 있나요?</title>
@@ -160,6 +146,20 @@
       <description>인덱스를 사용하면 검색이 빨라진다. 그렇다면 인덱스는 어떤 정보를 저장하고, B+트리와 해시는 데이터를 어떻게 찾아갈까? 데이터의 저장 방식에서 출발해 정렬 인덱스, B+트리, 정적 해싱과 MySQL의 인덱스를 차례로 살펴보자.</description>
       <guid isPermaLink="false">https://velog.io/@jinhyoung9380/인덱스가-빠른-이유-B트리로-설명할-수-있나요</guid>
       <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>아무도 대신 치러줄 수 없는 시험</title>
+      <link>https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</link>
+      <description>그 정도면 됐어</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</guid>
+      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>와 이런 쓰레기 같은 GCP</title>
+      <link>https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</link>
+      <description>오 제발요.</description>
+      <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</guid>
+      <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
     </item>
     <item>
       <title>[Spring AI] RAG 개념과 Vector Store 기초</title>
@@ -176,11 +176,18 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
-      <title>대기업 게임회사 면접관님께 취준생이 여쭤본 질문: AI 시대, 고민할까 맡길까</title>
-      <link>https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</link>
-      <description>땡스투 면접관님들!!</description>
-      <guid isPermaLink="false">https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</guid>
+      <title>Strata - LLM 설치 및 실행하기</title>
+      <link>https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</link>
+      <description>GitHub: https://github.com/Niko1221/StrataStrata는 GPU 메모리(VRAM)가 부족한 환경에서도 초대형 MoE 모델을 실행할 수 있도록 설계된 오픈소스 LLM 추론 엔진이다.일반적인 LLM 추론에서는 모델 가중치를 GPU ...</description>
+      <guid isPermaLink="false">https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</guid>
       <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>와 망했네. 맨날 취약점만 터져.</title>
+      <link>https://velog.io/@0verfl0w767/와-망했네.-맨날-취약점만-터져</link>
+      <description>언제 다 패치해.</description>
+      <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-망했네.-맨날-취약점만-터져</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
       <title>랭킹 조회 MySQL → Redis 전환, p99 4.96초 → 11.24ms</title>
@@ -190,31 +197,24 @@
       <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
     <item>
-      <title>처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유</title>
-      <link>https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</link>
-      <description>Google Workspace용 MCP 서버 taylorwilsdon/google_workspace_mcp (⭐3.5k)에서 파일 경로 검사의 빈틈 두 개를 찾아 비공개로 제보했어요.Windows에서 차단 목록이 동작하지 않음: ~/.kube, ~/.gnupg, ~/....</description>
-      <guid isPermaLink="false">https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</guid>
-      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+      <title>놀고있는 내 GPU, 팀원에게 안전하게 빌려줄 수 없을까?</title>
+      <link>https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</link>
+      <description>내 GPU를 계산기처럼 수학 능력만 빌려줄 수 있는 프레임워크</description>
+      <guid isPermaLink="false">https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>아무도 대신 치러줄 수 없는 시험</title>
-      <link>https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</link>
-      <description>그 정도면 됐어</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</guid>
-      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
+      <title>🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기</title>
+      <link>https://velog.io/@dev-hsl-960221/claude-code-codex-review</link>
+      <description>같은 AI에게 짜게 하고 리뷰까지 맡기면 맹점도 같이 넘어간다. OpenAI 공식 플러그인으로 Claude Code 안에서 Codex 리뷰를 받는 법을 정리했다. 설치와 두 가지 리뷰 명령의 차이와 리뷰 게이트와 켜기 전에 확인할 것까지 담았다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/claude-code-codex-review</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
       <title>코딩 에이전트 삭제 사고 10건, 실행된 셸 명령으로 본 원인과 안전한 형태</title>
       <link>https://velog.io/@doolyk/coding-agent-deletion-incidents-shell-analysis</link>
       <guid isPermaLink="false">https://velog.io/@doolyk/coding-agent-deletion-incidents-shell-analysis</guid>
       <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strata - LLM 설치 및 실행하기</title>
-      <link>https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</link>
-      <description>GitHub: https://github.com/Niko1221/StrataStrata는 GPU 메모리(VRAM)가 부족한 환경에서도 초대형 MoE 모델을 실행할 수 있도록 설계된 오픈소스 LLM 추론 엔진이다.일반적인 LLM 추론에서는 모델 가중치를 GPU ...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</guid>
-      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
