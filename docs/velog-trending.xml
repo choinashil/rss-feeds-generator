@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:49:03 +0000</lastBuildDate>
-    <item>
-      <title>[SK하이닉스 AI 해커톤] 본선 후기</title>
-      <link>https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</link>
-      <description>하이닉스 게섯거라 예선을 거쳐 선발된 200명을 대상으로 코엑스에서 본선이 진행되었습니다. 5시간 동안 진행되었고, 우수자에게는 시상과 무려 하이닉스 면접 직행(..!) 기회가 주어졌습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@spencer0124/SK하이닉스-AI-해커톤-본선-후기</guid>
-      <pubDate>Fri, 13 Nov 2026 22:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>대기업 게임회사 면접관님께 취준생이 여쭤본 질문: AI 시대, 고민할까 맡길까</title>
-      <link>https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</link>
-      <description>땡스투 면접관님들!!</description>
-      <guid isPermaLink="false">https://velog.io/@jizzvibe/대기업-게임회사-면접관님께-취준생이-여쭤본-질문-AI-시대-고민할까-맡길까</guid>
-      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Nov 2026 00:55:52 +0000</lastBuildDate>
     <item>
       <title>Velog, 나만의 프로필 카드 생성기</title>
       <link>https://velog.io/@0verfl0w767/velog-프로필게시글-SVG-카드-생성기</link>
@@ -37,39 +23,25 @@
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
     </item>
     <item>
-      <title>매분 1,000만 건 조회되는 스케줄러 고3이 직접 최적화 한 썰</title>
-      <link>https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</link>
-      <description>이번 글에서는 포켓타임을 개발하고 운영하며 겪은 Push 스케줄러의 병목 현상을 DB 쿼리 개선, Redis, HTTP/2 최적화를 통해 해결한 과정을 블로그에 기록해보았습니당</description>
-      <guid isPermaLink="false">https://velog.io/@sungjucho/매분-1000만-건-조회되는-스케줄러-고3이-직접-최적화-한-썰</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+      <title>2년차 주니어 프론트엔드 개발자의 눈물나는 이직 회고</title>
+      <link>https://velog.io/@osohyun0224/sohyun-move-to</link>
+      <description>최근에 이직하고 나서 수습에 통과해 회사와 정식으로 연애를 시작하게 되었습니다 🎉 제 소중한 이직 이야기를 회고로 남겨보려고 글을 씁니다 (연차 내고 쓰는 이직 회고라니)</description>
+      <guid isPermaLink="false">https://velog.io/@osohyun0224/sohyun-move-to</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
     </item>
     <item>
-      <title>당신이 프로필을 "애니 프사"로 바꿔야 하는 이유</title>
-      <link>https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</link>
-      <description>이 글로 당신의 프사를 바꿔보겠습니다.</description>
-      <guid isPermaLink="false">https://velog.io/@qtaghdi/당신이-프로필을-애니-프사로-바꿔야-하는-이유-ft3y0jor</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+      <title>아무도 대신 치러줄 수 없는 시험</title>
+      <link>https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</link>
+      <description>그 정도면 됐어</description>
+      <guid isPermaLink="false">https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</guid>
+      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
     </item>
     <item>
-      <title>GitHub도 못 쓰던 내가 Techeer of the Year를 받기까지 - 테커에서의 1년 회고</title>
-      <link>https://velog.io/@dlwjd8023/깃도-못-쓰던-내가-Techeer-of-the-Year를-받기까지-테커에서의-1년-회고</link>
-      <description>2026 테커 파티, Techeer of the Year2025년 12월 29일에 시작해서 Techeer of the Year까지, 1년간의 여정을 정리해 본다.처음 시작할 때는 깃허브도 못 썼다. 깃 푸시가 뭐지? 커밋은 뭐지? 충돌 났는데 어떻게 하지? 그때 내 해...</description>
-      <guid isPermaLink="false">https://velog.io/@dlwjd8023/깃도-못-쓰던-내가-Techeer-of-the-Year를-받기까지-테커에서의-1년-회고</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>포트폴리오 좀 꾸며 달라고 Fable5.2한테 해봤는데</title>
-      <link>https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</link>
-      <description>오늘 갑자기 포트폴리오 사이트를 새로 단장하고 싶어서, Fable 5.2에게 이렇게 부탁했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dbwls/포트폴리오-좀-꾸며-달라고-Fable5.2한테-해봤는데</guid>
-      <pubDate>Sat, 14 Nov 2026 21:03:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>학교와 회사가 다른 것</title>
-      <link>https://velog.io/@lgwk0642/학교와-회사가-다른-것</link>
-      <description>돈 많은 백수 시켜주실 분</description>
-      <guid isPermaLink="false">https://velog.io/@lgwk0642/학교와-회사가-다른-것</guid>
-      <pubDate>Thu, 12 Nov 2026 22:33:10 +0000</pubDate>
+      <title>놀고있는 내 GPU, 팀원에게 안전하게 빌려줄 수 없을까?</title>
+      <link>https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</link>
+      <description>내 GPU를 계산기처럼 수학 능력만 빌려줄 수 있는 프레임워크</description>
+      <guid isPermaLink="false">https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
       <title>배포 후에도 이전 화면이 보이는 이유</title>
@@ -86,20 +58,6 @@
       <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
     </item>
     <item>
-      <title>놀고있는 내 GPU, 팀원에게 안전하게 빌려줄 수 없을까?</title>
-      <link>https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</link>
-      <description>내 GPU를 계산기처럼 수학 능력만 빌려줄 수 있는 프레임워크</description>
-      <guid isPermaLink="false">https://velog.io/@cktmdwns604/놀고있는-내-GPU-팀원에게-안전하게-빌려줄-수-없을까-sdte2pqo</guid>
-      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>아무도 대신 치러줄 수 없는 시험</title>
-      <link>https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</link>
-      <description>그 정도면 됐어</description>
-      <guid isPermaLink="false">https://velog.io/@vlmbuyd/아무도-대신-치러줄-수-없는-시험</guid>
-      <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
-    </item>
-    <item>
       <title>[모여락 ①] DND 14기 프론트엔드 회고</title>
       <link>https://velog.io/@meteorqz6/모여락-DND-14기-회고</link>
       <description>DND 14기에서 디자이너, 백엔드 개발자와 함께 8주 동안 모임 일정과 장소를 정하는 서비스 '모여락'을 만들었다. 지원 동기부터 기획, 개발, 데모데이까지의 과정과 아쉬움, 그리고 활동이 끝난 뒤에도 혼자 이어가는 이유를 정리했다.</description>
@@ -114,17 +72,11 @@
       <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
-      <title>와 이런 쓰레기 같은 GCP</title>
-      <link>https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</link>
-      <description>오 제발요.</description>
-      <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</guid>
-      <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
-      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
-      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
-      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
+      <title>🌱 규칙이 없는 팀에서는 규칙을 만드는 사람이 된다</title>
+      <link>https://velog.io/@dev-hsl-960221/ajd-early-stage-backend-retrospective</link>
+      <description>아정당 초창기에 백엔드로 합류해 상담원이 쓰는 CRM을 처음부터 다시 만들었다. AI도 없이 개발했고 그 코드는 아직 돌아가고 이제는 레거시가 됐다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/ajd-early-stage-backend-retrospective</guid>
+      <pubDate>Thu, 26 Nov 2026 00:49:03 +0000</pubDate>
     </item>
     <item>
       <title>랭킹 조회 MySQL → Redis 전환, p99 4.96초 → 11.24ms</title>
@@ -134,10 +86,37 @@
       <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
     </item>
     <item>
+      <title>와 이런 쓰레기 같은 GCP</title>
+      <link>https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</link>
+      <description>오 제발요.</description>
+      <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-이런-쓰레기-같은-GCP</guid>
+      <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
+    </item>
+    <item>
       <title>와 망했네. 맨날 취약점만 터져.</title>
       <link>https://velog.io/@0verfl0w767/와-망했네.-맨날-취약점만-터져</link>
       <description>언제 다 패치해.</description>
       <guid isPermaLink="false">https://velog.io/@0verfl0w767/와-망했네.-맨날-취약점만-터져</guid>
+      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧾 [Daum] 메일 백엔드 경력 채용 후기 서류부터 라이브 코딩까지</title>
+      <link>https://velog.io/@dev-hsl-960221/daum-mail-backend-hiring-review</link>
+      <description>Daum 메일 백엔드 경력 채용에 지원해 서류를 통과하고 1차 직무 인터뷰에서 떨어졌다. 라이브 코딩 45분과 직무 인터뷰 50분이 이어지는 당일 흐름과 5문제 중 2문제에서 멈춘 이유와 다시 본다면 바꿀 것을 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/daum-mail-backend-hiring-review</guid>
+      <pubDate>Wed, 25 Nov 2026 01:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI 부정행위 적발과 암기형 시험의 종말</title>
+      <link>https://velog.io/@sdm77/기타-2026-11-16</link>
+      <guid isPermaLink="false">https://velog.io/@sdm77/기타-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 00:38:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기</title>
+      <link>https://velog.io/@dev-hsl-960221/claude-code-codex-review</link>
+      <description>같은 AI에게 짜게 하고 리뷰까지 맡기면 맹점도 같이 넘어간다. OpenAI 공식 플러그인으로 Claude Code 안에서 Codex 리뷰를 받는 법을 정리했다. 설치와 두 가지 리뷰 명령의 차이와 리뷰 게이트와 켜기 전에 확인할 것까지 담았다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/claude-code-codex-review</guid>
       <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
     </item>
     <item>
@@ -148,11 +127,11 @@
       <pubDate>Thu, 19 Nov 2026 23:23:55 +0000</pubDate>
     </item>
     <item>
-      <title>Strata - LLM 설치 및 실행하기</title>
-      <link>https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</link>
-      <description>GitHub: https://github.com/Niko1221/StrataStrata는 GPU 메모리(VRAM)가 부족한 환경에서도 초대형 MoE 모델을 실행할 수 있도록 설계된 오픈소스 LLM 추론 엔진이다.일반적인 LLM 추론에서는 모델 가중치를 GPU ...</description>
-      <guid isPermaLink="false">https://velog.io/@jieun9851/Strata-VRAM-12GB로-초대형-MoE-모델-실행하기</guid>
-      <pubDate>Sun, 22 Nov 2026 22:17:10 +0000</pubDate>
+      <title>[백엔드 면접질문] 중복 결제는 어떻게 막을까?</title>
+      <link>https://velog.io/@cell_agent/백엔드-면접질문-중복-결제는-어떻게-막을까</link>
+      <description>백엔드 면접준비하시느라 힘드시죠? 오늘부터 면접관으로서 백엔드 면접질문 때에 자주 했던 질문들을 정리해서 하나씩 올려보려고 합니다. 백엔드, 프론트엔드, 문화면접, FDE 등등 다양한 질문들을 올려보려고 해요.</description>
+      <guid isPermaLink="false">https://velog.io/@cell_agent/백엔드-면접질문-중복-결제는-어떻게-막을까</guid>
+      <pubDate>Wed, 25 Nov 2026 01:14:46 +0000</pubDate>
     </item>
     <item>
       <title>[LG CNS 6기] 해커톤 후기 - CARDOC</title>
@@ -160,20 +139,6 @@
       <description>LG CNS 6기 해커톤 후기!</description>
       <guid isPermaLink="false">https://velog.io/@dfrake/LG-CNS-AM-6기-해커톤-후기-CARDOC</guid>
       <pubDate>Sun, 15 Nov 2026 21:27:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>🤖 Claude Code로 짠 코드 Codex에게 한 번 더 리뷰받기</title>
-      <link>https://velog.io/@dev-hsl-960221/claude-code-codex-review</link>
-      <description>같은 AI에게 짜게 하고 리뷰까지 맡기면 맹점도 같이 넘어간다. OpenAI 공식 플러그인으로 Claude Code 안에서 Codex 리뷰를 받는 법을 정리했다. 설치와 두 가지 리뷰 명령의 차이와 리뷰 게이트와 켜기 전에 확인할 것까지 담았다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/claude-code-codex-review</guid>
-      <pubDate>Tue, 24 Nov 2026 03:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>🧾 [Daum] 메일 백엔드 경력 채용 후기 서류부터 라이브 코딩까지</title>
-      <link>https://velog.io/@dev-hsl-960221/daum-mail-backend-hiring-review</link>
-      <description>Daum 메일 백엔드 경력 채용에 지원해 서류를 통과하고 1차 직무 인터뷰에서 떨어졌다. 라이브 코딩 45분과 직무 인터뷰 50분이 이어지는 당일 흐름과 5문제 중 2문제에서 멈춘 이유와 다시 본다면 바꿀 것을 정리했다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/daum-mail-backend-hiring-review</guid>
-      <pubDate>Wed, 25 Nov 2026 01:14:46 +0000</pubDate>
     </item>
     <item>
       <title>やっはろー</title>
@@ -189,6 +154,13 @@
       <pubDate>Fri, 20 Nov 2026 22:56:45 +0000</pubDate>
     </item>
     <item>
+      <title>(번역) 멀티스레드 자바스크립트</title>
+      <link>https://velog.io/@tap_kim/multithreaded-javascript</link>
+      <description>지난 몇 주 동안 멀티스레드 자바스크립트 생각을 멈출 수 없었습니다. 그래서 직접 만들었습니다. 사실 세 번이나 만들었는데, 지금 실행할 수 있는 것을 얻으려고 매번 이 모델을 조금씩 포기했습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@tap_kim/multithreaded-javascript</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
+    </item>
+    <item>
       <title>맥 바탕화면을 블루아카이브 메모리얼 로비로 바꾸는 앱을 만들었다</title>
       <link>https://velog.io/@pobi/맥-바탕화면을-블루아카이브-메모리얼-로비로-바꾸는-앱을-만들었다</link>
       <description>맥 바탕화면 아이콘 자리에 블루아카이브 메모리얼 로비가 움직이는 앱을 만들었습니다. 무료이고 코드는 MIT 로 공개합니다.영상: https://youtu.be/LGWPJWG9k7E메인 화면블루아카이브를 켜 두면 로비에서 학생이 움직이고, 쓰다듬으면 반응하고, ...</description>
@@ -196,18 +168,11 @@
       <pubDate>Wed, 25 Nov 2026 01:14:46 +0000</pubDate>
     </item>
     <item>
-      <title>🌱 규칙이 없는 팀에서는 규칙을 만드는 사람이 된다</title>
-      <link>https://velog.io/@dev-hsl-960221/ajd-early-stage-backend-retrospective</link>
-      <description>아정당 초창기에 백엔드로 합류해 상담원이 쓰는 CRM을 처음부터 다시 만들었다. AI도 없이 개발했고 그 코드는 아직 돌아가고 이제는 레거시가 됐다.</description>
-      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/ajd-early-stage-backend-retrospective</guid>
-      <pubDate>Thu, 26 Nov 2026 00:49:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[백엔드 면접질문] 중복 결제는 어떻게 막을까?</title>
-      <link>https://velog.io/@cell_agent/백엔드-면접질문-중복-결제는-어떻게-막을까</link>
-      <description>백엔드 면접준비하시느라 힘드시죠? 오늘부터 면접관으로서 백엔드 면접질문 때에 자주 했던 질문들을 정리해서 하나씩 올려보려고 합니다. 백엔드, 프론트엔드, 문화면접, FDE 등등 다양한 질문들을 올려보려고 해요.</description>
-      <guid isPermaLink="false">https://velog.io/@cell_agent/백엔드-면접질문-중복-결제는-어떻게-막을까</guid>
-      <pubDate>Wed, 25 Nov 2026 01:14:46 +0000</pubDate>
+      <title>나는 QA일까, 프로그래머일까</title>
+      <link>https://velog.io/@junkyn/나는-QA일까-프로그래머일까</link>
+      <description>대화형 LLM부터 백그라운드 에이전트까지, AI가 바뀔 때마다 제 개발 방식도 바뀌었습니다. 그러다 제가 짠 적 없는 코드를 리뷰조차 할 수 없게 된 날의 고민을 적었습니다.</description>
+      <guid isPermaLink="false">https://velog.io/@junkyn/나는-QA일까-프로그래머일까</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
     </item>
     <item>
       <title>AWS AI 개발자 프로 자격증 취득 후기 (AIP-C01)</title>
@@ -215,6 +180,41 @@
       <description>블로그 글을 쓴 지 시간이 조금 지났다. 사실 그동안 쓸만한 내용이 많았지만, 가깝고 먼 지인들이 내 블로그 글 주소를 알아내서 조금 사리고 있다. 시험을 본 이유 사실 큰 이유는 없다. 이미 AWS AI Practitioner, Solution Architect A...</description>
       <guid isPermaLink="false">https://velog.io/@highshore/AWS-AI-개발자-프로-자격증-취득-후기-AIP-C01</guid>
       <pubDate>Thu, 26 Nov 2026 00:49:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Part 01. Java4Shell, 내 Java 8 서버도 위험할까?</title>
+      <link>https://velog.io/@taetae-5/Java-보안-권고-Part-01-Java4Shell-내-Java-8-서버도-위험할까</link>
+      <description>Java4Shell 보안 권고를 Red Hat OpenJDK 8 환경 기준으로 다시 확인해 봤다. 해당되는 취약점과 버전 번호가 헷갈렸던 부분을 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@taetae-5/Java-보안-권고-Part-01-Java4Shell-내-Java-8-서버도-위험할까</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>주문하신 객체지향 나왔습니다. 근데 제가 시켰나요?</title>
+      <link>https://velog.io/@linkshimcat/주문하신-객체지향-나왔습니다.-근데-제가-시켰나요</link>
+      <description>What is 객체지향?...</description>
+      <guid isPermaLink="false">https://velog.io/@linkshimcat/주문하신-객체지향-나왔습니다.-근데-제가-시켰나요</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유</title>
+      <link>https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</link>
+      <description>Google Workspace용 MCP 서버 taylorwilsdon/google_workspace_mcp (⭐3.5k)에서 파일 경로 검사의 빈틈 두 개를 찾아 비공개로 제보했어요.Windows에서 차단 목록이 동작하지 않음: ~/.kube, ~/.gnupg, ~/....</description>
+      <guid isPermaLink="false">https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎒 남은 연차로 가장 오래 쉬는 법을 배낭 문제로 풀었다</title>
+      <link>https://velog.io/@dev-hsl-960221/leave-knapsack-dp</link>
+      <description>남은 연차를 어느 연휴에 붙여야 1년 동안 가장 오래 쉴까. 여행 앱 뇌빼고에서 이 문제를 그룹 배낭 문제로 풀었다. 늘릴 곳부터 찾으면 놓치는 연휴와 이웃한 연휴가 같은 날을 나눠 가질 때 두 번 세던 버그를 고친 과정까지 정리했다.</description>
+      <guid isPermaLink="false">https://velog.io/@dev-hsl-960221/leave-knapsack-dp</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>소프트웨어 팩토리로 구현부터 merge까지 자동화하자, 제가 일하는 시간이 절반 넘게 줄었어요</title>
+      <link>https://velog.io/@makedream/구현부터-merge까지-자동화하자-제가-일하는-시간이-절반-넘게-줄었어요</link>
+      <description>GitHub Actions와 코딩 에이전트로 소프트웨어 팩토리(Software Factory)를 구성해 구현·리뷰·merge를 자동화했어요. 블로그 기능 1개를 두 방식으로 각각 1회 측정했을 때, 제가 일한 시간은 47.0분에서 19.6분으로 줄었어요.</description>
+      <guid isPermaLink="false">https://velog.io/@makedream/구현부터-merge까지-자동화하자-제가-일하는-시간이-절반-넘게-줄었어요</guid>
+      <pubDate>Fri, 27 Nov 2026 00:55:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
